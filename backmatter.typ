@@ -1,3 +1,4 @@
+#set heading(numbering: none)
 = Referencias
 
 #set par(hanging-indent: 1em, first-line-indent: 0em)

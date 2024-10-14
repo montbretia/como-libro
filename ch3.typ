@@ -198,9 +198,13 @@ que muchos epistemólogos desean mantener sobre el conocimiento, el de
 #emph[cierre];:
 
 / Cierre : Si s (1) sabe que p, (2) sabe que si p, entonces q, (3) y cree que q
-  porque es s es suficientemente competente para inferir de acuerdo a la
-  consecuencia lógica de (1) y (2), entonces sabe que q.
-
+  porque s es suficientemente competente para inferir de acuerdo a la
+  consecuencia lógica de (1) y (2), entonces sabe que q. Esquemáticamente:
+  $ \Kp and \K(p -> q) and \B_#sub($i(p -> q)$) q -> \Kq #footnote[Es más habitual
+  omitir la tercera condición (el principio de cierre en ese caso es
+  $\Kp and \K(p -> q) -> \Kq$), pero aquí la dejo explícito para expresar
+  que el sujeto tiene que haber hecho la inferencia.]
+$
 El principio de cierre parece reflejar la idea de que podemos extender
 nuestro conocimiento si reconocemos las consecuencias lógicas de
 nuestras creencias. Sin embargo, Cierre y Sensibilidad son
@@ -912,7 +916,6 @@ en las formas simplificadas que hemos esbozado en este capítulo. En el
 próximo capítulo revisaremos una serie de argumentos clásicos contra el
 intelectualismo, y en el subsiguiente evaluaremos versiones más
 sofisticadas del intelectualismo y del anti-intelectualismo.
-]
 
 #context[
 #set heading(numbering: none, outlined: false)

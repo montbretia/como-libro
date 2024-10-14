@@ -216,26 +216,56 @@ palabras, buscando su definición.
 El así llamado _método de casos_ consiste en identificar casos paradigmáticos
 de la aplicación de un concepto (casos que pre-teoréticamente aceptamos como
 ejemplos de cómo usar el concepto), y examinar qué se requiere para que podamos
-vindicar nuestros juicios acerca de esos casos.
+vindicar nuestros juicios acerca de esos casos. Proveer de las condiciones en
+que esos juicios son verdaderos es proveer un análisis de estos conceptos.
 
-#aside[
-  _Esquemáticamente_: 
-‘Si X, entonces Y’ se formaliza como X → Y. 
+La justificaión de esta metodología es lógica. Esquemáticamente, ‘si X,
+entonces Y’ se formaliza como $X → Y$. 
 
-X es una condición _suficiente_ para
-Y (la intuición es que es suficiente que X se dé para que Y se dé), y Y es una
-condición _necesaria_ para X (la intuición es que dado que es suficiente que X se
-dé para que Y se dé, si Y no se diera, entonces X no se daría – por tanto, Y es
-necesario para X). 
+Si $X -> Y$ es verdadero, decimos que X es una condición _suficiente_ para Y (la intuición es que es suficiente que X
+se dé para que Y se dé), y Y es una condición _necesaria_ para X (la intuición
+es que dado que es suficiente que X se dé para que Y se dé, si Y no se diera,
+entonces X no se daría – por tanto, Y es necesario para X). 
 
-Si además Y → X (es decir, si además Y es una condición suficiente para X y
-X es una condición necesaria para Y), se satisface el bicondicional X ↔ Y, que
+Si además Y → X (es decir, si además Y es una condición suficiente para X y X
+es una condición necesaria para Y), se satisface el bicondicional X ↔ Y, que
 permite que substituyamos X e Y entre sí (la intuición es que X e Y representan
-las mismas condiciones). 
+las mismas condiciones). En este caso decimos que Y es una condición _necesaria
+y suficiente_ para X.
 
 Cuando Y es más fácilmente comprensible o más básico
-que X, decimos que X queda _definido_ en términos de Y, y
-viceversa.]
+que X, decimos que X queda _definido_ en términos de Y.
+
+En general, en vez de definir una condición para la aplicación de un concepto
+en términos de la aplicación de un otro concepto, lo haremos en términos de un
+conjunto de condiciones ($A, B, C, ..$). Cada una de estas condiciones serán
+_separadamente necesarias pero en conjunto suficientes_ para la satisfacción de
+la condición que estamos analizando.
+
+El método de casos opera mediante el testeo de posibles contraejemplos. Un análisis
+de la forma $X -> A, B, C$ es falso en dos condiciones:
+
+- $X$ es verdadero, pero $A, B, C...$ no son verdaderos,
+- $X$ es falso, pero $A, B, C...$ son verdaderos
+
+En el primer caso decimos que $A, B, C...$ no son necesarios para la satisfacción de $X$,
+y en el segundo caso, que $A, B, C...$ no son suficientes.
+
+A menudo, además, se asume que la verdad de un análisis es necesario. En esos casos, para
+dar un contraejemplo no es necesario que demos un contraejemplo real, sino que basta con
+que mostremos que es _posible_ que el análisis sea falso.
+
+#question[En el diálogo _El Político_, Platón emplea el método de división y
+sugiere que el ser humano es un animal bípedo sin plumas: "... debimos haber
+comenzado por dividir los animales terreetres entre bípedos y cuadrúpedos; y ya
+que aquellos con alas, y solamente ellos, caen bajo la misma clase que la del
+ser humano, deberiamos dividir a los bípedos entre los que tienen plumas y
+aquellos que no las tienen". Diógenes Laertio cuenta la historia de cómo
+Diógenes visitó a Platón, llevándole un pollo desplumado, y que le dijo que ahí
+tenía al ser humano. Diógenes dice que como resultado se añadió a la definición
+que el ser humano tenía uñas anchas. ¿Son estas buenas definciones? ¿Aparte de
+ser correcta, hay otros requisitos que una definición debiera cumplir
+idealmente?]
 
 Tomemos por ejemplo el concepto de conocimiento. ¿Qué es el conocimiento? ¿Cómo
 usamos el concepto? El caso paradigmático de uso del concepto de conocimiento
@@ -243,35 +273,67 @@ es aquel en que atribuimos conocimiento a alguien—el caso en que decimos ‘el
 lo sabe’, ‘él sabe la respuesta’, etc. ¿En qué condiciones es verdadero un
 enunciado de este tipo? Ha habido muchos intentos filosóficos de dar una
 respuesta a esta pregunta. La propuesta más famosa es la de la teoría JTB (por
-‘Justified True Belief’, creencia verdadera justificada). Según esta propuesta,
+_Justified True Belief_, creencia verdadera justificada). Según esta propuesta,
 alguien sabe algo si y solo si lo cree, lo que cree es verdadero, y tiene
-justificación para creerlo. En muchos casos, esto parece ser satisfactorio:
-miro por mi ventana y veo el atardecer rojo. Sé que lo que veo es rojo: creo
-que lo es, es verdadero que lo es y tengo una justificación para creerlo (puedo
-en general tomar mi experiencia perceptual como una fuente confiable de
-conocimiento y estoy en una situación normal donde puedo descontar que esté
-alucinando o que me equivoque). 
+justificación para creerlo:
+
+#set enum(numbering: "1)")
+/ JTB: un sujeto S sabe que p si y solo si:
+  + p es verdadero,
+  + S cree que p,
+  + S está justificado en creer que p
+
+En muchos casos, esto parece ser satisfactorio: miro por mi ventana y veo el
+atardecer rojo. Sé que lo que veo es rojo: creo que lo es, es verdadero que lo
+es y tengo una justificación para creerlo (puedo en general tomar mi
+experiencia perceptual como una fuente confiable de conocimiento y estoy en una
+situación normal donde puedo descontar que esté alucinando o que me equivoque). 
 
 Como Edmund Gettier observó en un ensayo en 1963, el análisis tiene
-contraejemplos. Imagina que Smith cree, basado en buen evidencia, que su
-compañero de trabajo Jones recibirá una promoción, y que Jones tiene tiene diez
-monedas en su bolsillo. Por tanto, razona (válidamente) que la persona que
-recibirá la promoción tiene diez monedas en su bolsillo. Ahora bien, resulta
-que no es Jones quien recibirá la promoción, sino Smith mismo. Y resulta que
-Smith también tiene diez monedas en su bolsillo. Entonces, Smith cree que la
-persona que recibirá la promoción tiene diez monedas en su bolsillo, es verdad
-que la persona que recibirá la promoción tiene diez monedas en su bolsillo, y
-Smith tiene justificación para creerlo. Sin embargo, parece ser que algo está
-mal con decir que Smith sabe que la persona que recibirá la promoción tiene
-diez monedas en su bolsillo. Que alguien tenga una creencia verdadera
-justificada no es suficiente para que tenga conocimiento—o al menos, esa es la
-lección que la mayoría de los filósofos ha extraído del problema presentado por
-Gettier.
+contraejemplos. Una manera de presentar estos contraejemplos es en la forma de
+lo que podemos llamar _experimentos mentales_, casos imaginarios que nos
+fuerzan a considerar ciertas posibilidades. Imaginen el siguiente caso, que es
+uno de los ejemplos originales de Gettier:
+
+/ Smith: Smith cree, basado en buen evidencia, que su
+  compañero de trabajo Jones recibirá una promoción, y que Jones tiene tiene diez
+  monedas en su bolsillo. Por tanto, razona (válidamente) que la persona que
+  recibirá la promoción tiene diez monedas en su bolsillo. Ahora bien, resulta
+  que no es Jones quien recibirá la promoción, sino Smith mismo. Y resulta que
+  Smith también tiene diez monedas en su bolsillo. Entonces, Smith cree que la
+  persona que recibirá la promoción tiene diez monedas en su bolsillo, es verdad
+  que la persona que recibirá la promoción tiene diez monedas en su bolsillo, y
+  Smith tiene justificación para creerlo. 
+
+Parece ser que algo está mal con decir que Smith sabe que la persona que
+recibirá la promoción tiene diez monedas en su bolsillo. Smith satisface las
+condiciones del anális JTB (tiene una creencia verdadera y justificada), pero
+esto no basta para que tenga conocimiento.
 
 #question[¿Qué piensan del contraejemplo de Gettier? ¿Se les ocurren otros contraejemplos?]
 
+Consideremos un caso similar, quizás un poco más sencillo. Imaginen que un
+miembro de su familia está en el hospital, y que tienen el plan de ir a
+visitarlo al día siguiente. Normalmente eso basta para que puedan decir con
+cierto grado de seguridad que sucederá lo que planean, de modo que creen que
+van a estar en el hospital el día siguiente. Sin embargo, resulta que cuando
+salgan a la calle, tendrán un accidente que los va a dejar hospitalizados y que
+va a impedir que visiten a su familiar. Su creencia de que van a estar en el
+hospital al día siguiente es verdadera y está justificada. Sin embargo, pareciera
+que no saben que van a estar en el hospital al día siguiente. Y si nos preguntaran,
+al día siguiente, si sabiamos que íbamos a estar en el hospital, es probable que
+digamos que no, sino que meramente pensábamos o creíamos que ibamos a estar en 
+el hospital. 
+
+Si aceptamos los juicios de Gettier sobre casos como esos, tenemos que aceptar que
+que alguien tenga una creencia verdadera justificada no es suficiente para que
+tenga conocimiento—o al menos, esa es la lección que la mayoría de los
+filósofos ha extraído del problema presentado por Gettier.
+
 La observación de Gettier dio pie a una verdadera industria de producir
-análisis revisados y nuevos contraejemplos. En el caso del concepto de
+análisis revisados y nuevos contraejemplos.#footnote[Shope (1983) da una
+vista panorámica a las propuestas de análisis del concepto de conocimiento
+desde el paper de Gettier hasta el inicio de los años 1980.] En el caso del concepto de
 conocimiento, se ha llegado a proponer que el concepto de conocimiento es
 inanalizable y básico/primitivo. Por ejemplo, Linda Zagzebski (1994) argumenta
 en contra de la definibilidad del concepto de conocimiento, y Williamson (2000)
@@ -315,7 +377,11 @@ textura abierta (es posible decir que ciertos objetos que nada determina ni si
 caen bajo el concepto ni que no caen bajo él). Por tanto, no es posible decidir
 en base al uso previo del concepto si sigue aplicando en usos nuevos, y en
 consecuencia, ningún análisis puede capturar todo lo que podríamos querer decir
-de un concepto.
+de un concepto. Un problema relacionado es el que presentan los conceptos _vagos_, 
+que no tienen límites precisos. ¿Cuando es _verdoso_ un tono? ¿Existe un límite
+preciso entre lo que es verdoso y lo que no es verdoso? En casos como estos no
+parece que podamos identificar un conjunto de condiciones necesarias y suficientes
+para que algo caiga bajo el concepto.
 
 A pesar de las dificultades con el análisis clásico, esto no significa que el
 tipo de elucidación que entrega no tenga ningún valor. Un modelo alternativo de
@@ -368,7 +434,8 @@ y determinar cuál es el fenómeno. Si abandonamos todas las ideas preconcebidas
 acerca del saber como, por ejemplo, ¿cómo podríamos apresar el fenómeno? En
 efecto, podríamos tener que recomponer esas mismas ideas preconcebidas.
 
-#question[¿Deberíamos realmente tomar la postura conservadora acerca de las ideas preconcebidas como la postura por defecto?]
+#question[¿Deberíamos realmente tomar la postura conservadora acerca de las
+ideas preconcebidas como la postura por defecto?]
 
 Aun así, existe la posibilidad de revisar las ideas preconcebidas que tengamos
 acerca del fenómeno de interés, y volver a sopesar la importancia de estas en
@@ -387,6 +454,131 @@ cómo: ¿puede alguien saber cómo hacer algo sin tener consciencia de que lo
 sabe? ¿Qué veredicto dan nuestras ideas preconcebidas, y qué veredicto debería
 dar una teoría robusta acerca del saber cómo? Por ahora, lo importante es
 observar que estos veredictos puede diferir.
+
+== Sobre la construcción y uso de modelos filosóficos
+
+Antes dije que si bien las metodologías de análisis conceptual pueden tener
+limitaciones, no obstante son útiles para la construcción de lo que llamé
+_modelos filosóficos_. Pero, ¿en qué consisten estos modelos?
+
+Para comenzar a dar una respuesta, observemos el caso de un modelo científico
+concreto. A finales de los años 1940, el actor y productor de teatro John Reber
+propuso un plan para transformar la embocadura del río Sacramento en la Bahía
+de San Francisco, construyendo varias represas y canales. Para evaluar el plan,
+la U.S. Army Corps of Engineers construyó un modelo a escala de la bahía y sus
+alrededores, con un sistema hidraulico para simular las mareas, la corriente
+del río y la barrera de salinidad que hay entre el agua dulce del río y el agua
+salada que proviene del Océano Pacífico. El uso de este modelo permitió
+predecir que el plan de Reber no era viable.#footnote[Weisberg (2013) examina
+este caso más en detalle.] El modelo no es una representación exacta de la
+bahía de San Francisco, pero sí representa una serie de aspectos de ella, que
+son relevantes para la evaluación de un plan como el de Reber. Si no tuviera
+una manera de simular las mareas, por ejemplo, no sería adecuado. Lo importante
+es que el modelo tiene una _estructura_ común con la bahía, y es eso lo que
+permite que el modelo funcione. Si bien esa estructura es algo que los
+diseñadores del modelo insertaron en este, los resultados que se pudo obtener
+de su aplicación pueden ser sorprendentes. Es decir, si bien sabemos ciertas
+verdades acerca del modelo, no sabemos de qué manera se va a comportar cuando
+alteramos ciertos elementos de este (por ejemplo, si se construye una barrera
+en el cauce del río). El modelo nos permite ver cómo se comportaría la
+estructura del fenómeno que nos interesa sin tener que intervenir el fenómeno.
+
+Del mismo modo, un modelo filosófico debe al menos representar ciertos aspectos
+importantes acerca de los fenómenos que simulan. Como el modelo de la bahía, a
+menudo simplifican una serie de aspectos de los fenómenos, mediante una serie
+de idealizaciones. Lo importante es que lo hacen de una manera predecible. Por lo
+general, cuando notamos que un modelo omite un aspecto relevante de los fenómenos
+que estamos investigando, podemos ajustarlo. 
+
+Por ejemplo, en epistemología formal a menudo se hace la asunción de que los
+conceptos como el de conocimiento funcionan como lo que se llama _operadores
+intensionales_. Esta asunción permite que el concepto de conocimiento se pueda
+modelar de varias maneras.
+
+Un operador intensional representa una función que (1) toma como argumento una
+proposición y forma otra proposición (como lo hacen operadores como el de
+negación, que toma una proposición ($p$) y genera una proposición nueva ($not
+p$)), tal que (2) el valor de verdad de la proposición final no depende tan
+solo del valor de la proposición en el mundo actual (a diferencia del caso de
+la negación). Un ejemplo de un operador de este tipo es el de 'es posible que'
+($diamond.medium$). Supongamos que tenemos la proposición $p$ de que los seres
+humanos tienen alas. Esta proposición es falsa en el mundo actual, porque los
+seres humanos de hecho no tienen alas. Sin embargo, quizás es posible que los
+seres humanos tengan alas, si es que hay una manera en que pudieran tenerlas
+(por así decirlo, si hay un mundo posible en que hay seres humanos con alas).
+$diamond.medium p$ es verdadero porque es posible que p sea verdadero en un
+mundo que no es el actual. Conversamente, que algo sea necesario ($square$)
+también es una condición intensional. Algo puede ser verdadero en el mundo
+actual sin ser necesario. Yo tengo solo un tío, pero podría no haberlo tenido,
+o podría haber tenido más tíos.
+
+Una manera en que podrí̇amos decir que el concepto de conocimiento es
+intensional es que para que conozcamos una proposición $p$ no basta con que la
+creamos en el mundo actual. Tenemos que creerla en todos los mundos posibles
+que son compatibles con nuestra evidencia (la idea es que esto está explicado
+porque nuestra creencia satisface las condiciones necesarias para que cuente
+como conocimiento).#footnote[Otro criterio para clasifica a un operador como
+intensional es que cree un contexto donde no se pueda sustituir ciertas
+expresiones extensionalmente equivalentes (i.e., que refieran a lo mismo). El
+conocimiento es intensional en este sentido también: puedo saber que Clark Kent
+trabaja en el _Daily Planet_, sin saber que Superman trabaja en el _Daily
+Planet_, aunque 'Clark Kent' y 'Superman' refieran a la misma persona.]
+Haciendo esta asunción, podemos construir modelos de situaciones que validen o
+refuten ciertas asunciones sobre el conocimiento. Por ejemplo, podríamos creer
+que hay proposiciones verdaderas que ignoramos, pero que todas las
+proposiciones verdaderas son cognocibles (es decir, que pueden conocerse). Un
+argumento famoso muestra que estas asunciones son incompatibles con otras
+asunciones con el conocimiento (a saber, que conocer una proposición implica
+que es verdadera, y que conocer una conjunción implica conocer los conjuntos de
+esa conjunción): se puede mostrar que dadas esas asunciones, no solamente todas
+las proposiciones son cognocibles, sino que todas son de hecho conocidas. Esto
+se lo conoce como la _paradoja de la cognocibilidad de Fitch_. Este argumento
+muestra que ciertas maneras de modelas el conocimiento no funcionan, y una
+respuesta a esta dificultad es que deben construirse mejores modelos o teorías
+sobre el conocimiento.
+
+#aside[
+  El argumento que lleva a la paradoja de Fitch es el siguiente. Primero, 
+  hay una serie de asunciones sobre el conocimiento, que describen el modelo:
+
+  #set enum(numbering: "A)")
+  + $forall p (p -> diamond.medium K p)$ 
+  + $exists p (p and not K p)$ 
+  + $K p tack.r p$
+  + $K (p and q) tack.r K p and K q$
+
+  Es obvio que esto no es una teoría completa sobre el conocimiento; la idea es simplemente
+  examinar como esas asunciones interactuan entre sí.
+
+  Además necesitamos un par de principios lógicos usualmente aceptados:
+  #set enum(numbering: "I)")
+  + $"Si" tack.r p, "entonces" tack.r square p$
+  + $square not p tack.r not diamond.medium p$
+
+  Primero, mostramos que no es posible conocer que se ignora algo:
+  
+  #set enum(numbering: "1)")
+  + $K (p and not K p)$ (suposición)
+  + $K p$ (1, D)
+  + $K not K p$ (1, D)
+  + $not K p$ (3, C)
+  + $bot$ (2, 4)
+  + $not K (p and not K p)$ (1, 5, _reductio_)
+  + $square not K (p and not K p)$ (6, I)
+  + $not diamond.medium K (p and not K p)$ (7, II)
+
+  Pero esto está en conflicto con nuestras asunciones:
+  #set enum(start: 9)
+  + $(p and not K p)$ (instancia de B)
+  + $(p and not K p) -> diamond.medium K (p and not K p)$ (instancia de A)
+  + $diamond.medium K (p and not K p)$ (9, 10, _modus ponens_)
+  + $bot$ (11, 8)
+  + $not exists (p and not K p)$ (B, 12, _reductio_)
+
+  Lo que es equivalente a que todas las proposiciones sean conocidas: $ forall p (p -> K p) $ ¡Esto es paradójico!
+
+  #question[¿Cómo creen que podemos evitar la paradoja?]
+]
 
 == ¿Los conceptos de quién?
 
@@ -487,10 +679,10 @@ _The Philosophy of Philosophy_, de Timothy Williamson (2007, 2a ed. 2021) es un
 importante punto de referencia para los debates contemporáneos acerca de la
 metodología filosófica. Williamson defiende la posibilidad (aunque no la
 necesidad) de que se pueda hacer buena filosofía desde el sillón que trate de
-asuntos que no son puramente conceptuales o lingüísticos. Williamson también ha
-escrito un libro más accesible, _Doing Philosophy: From Common Curiosity to
-Logical Reasoning_ (2018), que esboza su manera de ver cómo funciona la
-filosofía.
+asuntos que no son puramente conceptuales o lingüísticosi, y defiende el uso de
+modelos filosóficos. Williamson también ha escrito un libro más accesible,
+_Doing Philosophy: From Common Curiosity to Logical Reasoning_ (2018), que
+esboza su manera de ver cómo funciona la filosofía.
 
 Un libro sobre metodología filosófica más reciente es _Philosophical
 Methodology: From Data to Theory_ (2022), de John Bengson, Terence Cuneo y Russ

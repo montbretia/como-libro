@@ -1,20 +1,24 @@
 // vim: spell spelllang=es
 
-#import "utils.typ": question, aside
+#import "utils.typ": question, aside, color-key
 #set text(lang: "es")
 
 = La disputa de las cien escuelas
 
-#quote(block: true)[
-\[…\] todo el mundo confunde con la realidad la manera en que se afecta
+#align(right)[
+#block(width: 70%)[
+  #v(5em)
+  #quote(block: true, attribution: [Spinoza, _Ética_, parte 1, apéndice])[
+    #align(left)[\[…\] todo el mundo confunde con la realidad la manera en que se afecta
 su imaginación. De ahí que no sea sorpresa \[…\] que encontremos tantas
 controversias entre las personas, que finalmente llevan al escepticismo.
 Pues aunque los cuerpos humanos concuerdan de muchas maneras, hay
 también muchas diferencias, y, por lo tanto, una persona puede pensar
 que es bueno lo que otro cree que es malo; lo que para uno está bien
 ordenado, para otro es confuso; lo que para uno es placentero, molesta a
-otro; etc. (Spinoza, #emph[Ética];, parte 1, apéndice)
-]
+otro; etc.]]
+#v(2em)
+]]
 
 En los capítulos anteriores, hemos examinado de manera preliminar el
 problema central acerca del saber cómo, a saber, si este puede
@@ -38,9 +42,7 @@ hemos visto hasta aquí.
 
 El capítulo no pretende ser exhaustivo, pero sí trata de tocar los
 argumentos en la literatura más reciente que han sido más influyentes o
-que han ampliado el rango de opciones teóricas. Tampoco sigue un curso
-lineal. Cada sección trata de abordar el problema desde una perspectiva
-distinta.
+que han ampliado el rango de opciones teóricas.
 
 == El regreso del intelectualismo
 
@@ -143,19 +145,17 @@ acción—en este caso, destapar cañerías), y ‘saber que’ (que serían
 relativas a algún hecho—en este caso, el hecho de que Ignacia tiene que
 visitar al médico).
 
-Sin embargo, esta primera impresión no es teóricamente confiable. A
-menudo hay razones para distinguir entre la forma #emph[superficial] y
-la forma #emph[profunda] de las expresiones lingüísticas. Solo la
-profunda nos dice algo acerca de lo que las expresiones significan. Y
-esto deja abierta la posibilidad de que expresiones (a) y (b), a pesar
-de las apariencias, sí tengan una forma profunda en común. El
-intelectualista se puede servir de esta idea para proponer que las
-atribuciones de saber cómo no son, al nivel profundo, más que
-atribuciones de conocimiento proposicional. En efecto, esto es
-precisamente lo que Stanley y Williamson quieren
-mostrar.#footnote[Hetherington (2011) aplica una estrategia similar, pero en el sentido
-contrario: él trata de mostrar que el conocimiento proposicional es un
-tipo de saber cómo.]
+Sin embargo, esta primera impresión no es teóricamente confiable. A menudo hay
+razones para distinguir entre la forma #emph[superficial] y la forma
+#emph[profunda] de las expresiones lingüísticas. Solo la profunda nos dice algo
+acerca de lo que las expresiones significan. Y esto deja abierta la posibilidad
+de que expresiones (a) y (b), a pesar de las apariencias, sí tengan una forma
+profunda en común. El intelectualista se puede servir de esta idea para
+proponer que las atribuciones de saber cómo no son, al nivel profundo, más que
+atribuciones de conocimiento proposicional. En efecto, esto es precisamente lo
+que Stanley y Williamson quieren mostrar.#footnote[Hetherington (2011) aplica
+una estrategia similar, pero en el sentido contrario: él trata de mostrar que
+el conocimiento proposicional es un tipo de saber cómo.]
 
 Para apreciar la estrategia, quizás valga la pena examinar primero otro
 ejemplo de un tipo de expresión que plausiblemente tiene una estructura
@@ -266,6 +266,7 @@ La estructura argumental puede hacerse más clara con la siguiente glosa
 (la adapto de Carter & Poston (2018)):
 ]
 
+#[
 #set enum(numbering: "A)", start: 1)
 + Las ascripciones de saber-cómo (enunciados de la forma ‘S sabe como
   …’, donde S es el sujeto de la adscripción) incluyen preguntas
@@ -278,6 +279,7 @@ La estructura argumental puede hacerse más clara con la siguiente glosa
 + Si una adscripción de saber cómo es verdadera, el sujeto de la
   adscripción sabe que p, donde p es una respuesta correcta a la
   pregunta incrustada en la adscripción (encadenando A, B y C).
+]
 
 A y B se basan en los patrones que hemos observado acerca de las
 atribuciones de saber-\?. C, por el contrario, depende de que se de una
@@ -487,16 +489,17 @@ aquí?-recuerden nuestra discusión en el capítulo 3).
 
 En resumen, el análisis de Stanley & Williamson (2001) es que
 
-/ Saber cómo intelectualista (Stanley y Williamson; ISW): Un sujeto S sabe cómo hacer φ si y solo si hay una manera w
-  contextualmente relevante tal que S tiene conocimiento proposicional de
-  que w es una manera en que S puede hacer φ \[#emph[w is a way for S to
-  φ];\], y S considera esta proposición bajo un modo práctico de
-  presentación.#footnote[Stanley (2011, p. 122) ofrece el siguiente análisis, que pone más
-énfasis en el aspecto modal de las adscripciones de saber cómo, y cómo
-eso está influido por el contexto (volveremos al problema del contexto
-en la sección 5.7):
+/ Saber cómo intelectualista (Stanley y Williamson; ISW): Un sujeto S sabe
+  cómo hacer φ si y solo si hay una manera w contextualmente relevante tal
+  que S tiene conocimiento proposicional de que w es una manera en que S
+  puede hacer φ \[#emph[w is a way for S to φ];\], y S considera esta
+  proposición bajo un modo práctico de presentación.#footnote[Stanley 
+  (2011, p. 122) ofrece el siguiente análisis, que pone más énfasis en el aspecto
+  modal de las adscripciones de saber cómo, y cómo eso está influido por el
+  contexto (volveremos al problema del contexto en la sección 5.7):
 
-/ Saber cómo intelectualista (Stanley; IS): Relativo a un contexto en que el dominio es el conjunto de maneras
+/ Saber cómo intelectualista (Stanley; IS): Relativo a un contexto en que
+  el dominio es el conjunto de maneras
   normales de hacer cosas con las que S tiene familiaridad, una oración
   como ‘S sabe cómo …’ es verdadera en un mundo w si y solo si S conoce en
   w una proposición que es verdadera en un mundo w’ si y solo si hay una
@@ -545,7 +548,14 @@ comprensión de proposiciones. Una alternativa es que consista en la capacidad
 de aplicar el concepto exitosamente. Nöe da el ejemplo de comprender el
 concepto _rojo_. Es plausible que nuestra comprensión del concepto esté fundado
 en nuestra capacidad de aplicarlo cuando reconocemos ciertas cualidades en
-nuestra experiencia.
+nuestra experiencia. De este modo, la supuesta explicación intelectualista
+del saber-cómo en términos de saber-que simplemente debe redundar en una
+explicación del saber-que en términos de saber-cómo.#footnote[Ya vimos que
+Ryle (1946) sugiere esto mismo, pero no insiste en la idea.]
+
+#question[¿Cómo se vería rechazar el argumento rechazando la premisa de que
+para comprender una proposición es necesario entender los conceptos que la
+proposición emplea?]
 
 == El saber cómo y la suerte epistémica
 
@@ -747,6 +757,7 @@ condiciones de evaluar si es plausible distinguir entre el saber cómo y
 el proposicional en términos de si el saber cómo resiste o es compatible
 con condiciones de suerte epistémica. El argumento es
 
+#[
 #set enum(numbering: "A)", start: 1)
 + Si el saber cómo es un tipo de conocimiento proposicional, debe tener
   las mismas propiedades que el conocimiento proposicional,
@@ -754,6 +765,7 @@ con condiciones de suerte epistémica. El argumento es
   verítica,
 + Si el saber cómo es un tipo de conocimiento proposicional, debería ser
   incompatible con la suerte epistémica verítica.
+]
 
 Si el saber cómo no es incompatible con la suerte epistémica verítica,
 el saber cómo no puede ser un tipo de conocimiento proposicional. El
@@ -802,6 +814,7 @@ de las limitaciones de esta metodología, por lo que sugiere un argumento
 más sistemático a favor de la idea que no puede haber casos del tipo de
 Gettier en el caso del saber-cómo:
 
+#context[
 #set enum(numbering: "A)", start: 1)
 + Si hubiese un caso del tipo de Gettier sobre el saber cómo de un
   sujeto respecto a cómo realizar una acción, en él el sujeto realizaría
@@ -822,6 +835,7 @@ Gettier en el caso del saber-cómo:
   + $bot$ (contradicción)
   + $not G(s,a)$ (D, F, _reductio_)
   ]
+]
 
 La primera premisa parte de la observación de que en casos tradicionales
 de Gettier, ciertas condiciones para la posesión de conocimiento
@@ -906,7 +920,8 @@ lo tenga.#footnote[Cf. Cath (2011), Carter & Czarncki (2017), Levy (2017), Löwe
 habilidad relevante para realizar el #emph[Salchow];. Por ejemplo,
 Pritchard (2010) distinguen entre habilidades #emph[genuinas] de otras
 disposiciones en términos de si las disposiciones al caso están
-propiamente integradas psicológicamente.#footnote[Pritchard distingue entre procesos de formación de creencias que se
+propiamente integradas psicológicamente.#footnote[Pritchard distingue entre
+procesos de formación de creencias que se
 basan en habilidades cognitivas genuinas y procesos de formación de
 creencias que son meramente confiables.
 ] En el caso de Irina, uno podría decir que el proceso que hace que
@@ -996,10 +1011,9 @@ interesa es solamente la verdad o falsedad de ciertos hechos, no
 prestamos atención al método que empleamos para justificar nuestras
 creencias.
 
-#question[Antes de avanzar: ¿Qué tipo de suerte epistémica está en juego en el caso de la
-#emph[ampolleta afortunada];? ¿Es importante qué tipo de suerte
-epistémica esté en juego para la importancia del caso?
-]
+#question[Antes de avanzar: ¿Qué tipo de suerte epistémica está en juego en el
+caso de la #emph[ampolleta afortunada];? ¿Es importante qué tipo de suerte
+epistémica esté en juego para la importancia del caso? ]
 
 Hay otra clase de ejemplos que defienden la compatibilidad del saber
 cómo y la suerte epistémica. Consideren la siguiente variación del caso
@@ -1079,26 +1093,28 @@ no-proposicional de Bengson & Moffett (2011), y el interrogativismo de
 Habgood-Coote (2020).
 
 Vale la pena examinar brevemente varias maneras en que se ha hecho la
-distinción entre intelectualismo y anti-intelectualismo. La manera más común de
-distinguir entre intelectualismo y anti-intelectualismo es que según el
-primero, el saber cómo es un tipo de conocimiento proposicional, mientras que
-según el segundo, el saber cómo no es un tipo de conocimiento proposicional.
-Ryle, que introdujo la distinción, estaba pensando en algo distinto: para él,
-cualquier posición que asume que un estado mental en el que se consideran
-ciertos contenidos mentales cumple un rol explicativo respecto a la acción
-intencional es intelectualista #box[#rect(width: 0.6em, height:0.6em,
-fill:orange.transparentize(80%))], y, por tanto, clasifica cualquier posición
-que no asume esto como anti-intelectualista #box[#rect(width: 0.6em,
-height:0.6em, fill:purple.transparentize(80%))] (véase Tabla 1).
+distinción entre intelectualismo y anti-intelectualismo. Como ya vimos, según
+Ryle, quien introdujo la distinción, cualquier posición que asume que un estado
+mental en el que se consideran ciertos contenidos mentales cumple un rol
+explicativo respecto a la acción intencional es intelectualista
+#color-key(orange, lighten: 60%), y, por tanto, clasifica cualquier posición
+que no asume esto como anti-intelectualista #color-key(purple, lighten: 80%). A
+pesar de esto, una manera común de distinguir entre intelectualismo y
+anti-intelectualismo es que según el primero, el saber cómo es un tipo de
+conocimiento proposicional, mientras que según el segundo, el saber cómo no es
+un tipo de conocimiento proposicional. Según este esquema, habría posturas
+"anti-intelectualistas" #color-key(orange.lighten(85%).mix(purple.lighten(80%)), lighten: 0%) (porque rechazan la idea de que el saber-cómo es un
+tipo de actitud proposicional, que es el intelectualismo clásico #color-key(orange, lighten: 70%)) que según el esquema Ryleano serían
+intelectualistas (porque aún así aceptan que el saber cómo es algún tipo de
+estado mental con cierto contenido) (véase Tabla 1).
 
 #figure(placement: top, caption: [_Clasificación de posturas según criterios Ryleanos_])[
-#set table.vline(stroke: 0.5pt + black.transparentize(40%))
-#set table(stroke: none)
+#set table(stroke: 0.5pt + black.lighten(60%))
 #table(columns: (1fr, 1fr, 2fr),
 table.cell(colspan:2)[*es un estado\ con contenido antedecente*], table.vline(), [*no es un estado\ con contenido antedecente*], 
-table.cell(colspan:2, fill:orange.transparentize(80%))[intelectualismo], table.cell(rowspan: 3, align: horizon, fill:purple.transparentize(80%))[anti-intelectualismo],
-table.cell(fill:orange.transparentize(70%))[_proposicional_], table.vline(), table.cell(fill:orange.transparentize(85%))[_no proposicional_], 
-table.cell(fill:orange.transparentize(70%))[intelectualismo\ clásico], table.cell(align: horizon, fill: orange.transparentize(85%))[intelectualismo\ no clásico],
+table.cell(colspan:2, fill:orange.lighten(60%))[intelectualismo], table.cell(rowspan: 3, align: horizon, fill:purple.lighten(80%))[anti-intelectualismo],
+table.cell(fill:orange.lighten(70%))[_proposicional_], table.vline(), table.cell(fill:orange.lighten(85%).mix(purple.lighten(80%)))[_no proposicional_], 
+table.cell(fill:orange.lighten(70%))[intelectualismo\ clásico], table.cell(align: horizon, fill: orange.lighten(85%).mix(purple.lighten(80%)))[intelectualismo\ no clásico],
 )
 ]
 
@@ -1107,23 +1123,21 @@ como intelectualistas o anti-intelectualistas en términos de cómo conciben
 el objeto del saber cómo y el tipo de relación con ese objeto (véase Tabla 2). Así, distinguen
 entre:
 
-- _Intelectualismo fuerte_ #box[#rect(width: 0.6em, height:0.6em, fill:red.transparentize(40%))]: el objeto del saber-cómo es proposicional y la relación
+- _Intelectualismo fuerte_ #color-key(red, lighten: 40%): el objeto del saber-cómo es proposicional y la relación
   que se tiene con este objeto es la misma que en el caso del saber-que (i.e., es 
   la relación de _conocer teóricamente_).
-- _Intelectualismo débil_ #box[#rect(width: 0.6em, height:0.6em, fill:red.transparentize(80%))]: el objeto del saber-cómo es proposicional.
-- _Anti-intelectualismo fuerte_ #box[#rect(width: 0.6em, height:0.6em, fill:blue.transparentize(40%))]: el objeto del saber cómo no es proposicional, y la
+- _Intelectualismo débil_ #color-key(red, lighten: 80%): el objeto del saber-cómo es proposicional.
+- _Anti-intelectualismo fuerte_ #color-key(blue, lighten: 40%): el objeto del saber cómo no es proposicional, y la
    relación que se tiene con ese objeto no es la misma que en el caso del saber-que.
-- _Anti-intelectualismo débil_ #box[#rect(width: 0.6em, height:0.6em, fill:blue.transparentize(80%))]: la relación con el objeto del saber-cómo no es la
+- _Anti-intelectualismo débil_ #color-key(blue, lighten: 80%): la relación con el objeto del saber-cómo no es la
   misma que en el caso del saber-que.
 
 #figure(placement: auto, caption: [_Clasificación de posturas según la distinción objeto/relación_])[
-#set table.hline(stroke: 0.5pt + black.transparentize(40%))
-#set table.vline(stroke: 0.5pt + black.transparentize(40%))
-#set table(stroke:none)
+#set table(stroke:0.5pt + black.lighten(50%))
 #set table.cell(align: horizon)
 #table(columns: 4, rows: (1.5em, 1.5em, 3em, 3em),
-[],  table.cell(colspan: 3)[*objeto*],
-[], [], table.cell(fill: red.transparentize(80%))[_proposicional_], table.vline(), [_no-proposicional_],
+table.cell(colspan: 2, rowspan: 2)[],  table.cell(colspan: 2)[*objeto*],
+table.cell(fill: red.transparentize(80%))[_proposicional_], table.vline(), [_no-proposicional_],
 table.cell(rowspan: 2, align: center+horizon)[#rotate(270deg, reflow:true, [*relación*])], [_conocer\ teóricamente_], table.cell(fill: red.transparentize(40%))[intelectualismo fuerte], [?],
 table.hline(), table.cell(fill: blue.transparentize(80%))[_otra relación_], table.cell(fill:red.transparentize(80%).mix(blue.transparentize(80%)).saturate(90%))[intelectualismo débil +\ anti-intelectualismo débil], table.cell(fill:blue.transparentize(40%))[anti-intelectualismo fuerte],
 )
@@ -1232,30 +1246,131 @@ una postura como esta ayudaría a resolver la tensión?]
 
 === Intelectualismo no-proposicional
 
+Bengson & Moffett (2011) presentan un tipo de intelectualismo distinto. En este
+caso, ellos abandonan la idea de que el objeto de la relación del saber-cómo es
+proposicional, al menos en un cierto. Sin embargo, mantienen la idea
+intelectualista de que la relación _es_ un tipo de conocimiento.
 
+Recordemos que uno de los argumentos de Stanley & Williamson a favor de su forma
+de intelectualismo era que su análisis ofrece una manera de unificar la explicación
+semántica de las atribuciones de saber-\?. Bengson & Moffett argumentan que para
+lograr eso no es necesario asumir que el objeto del saber-\? es proposicional--es
+posible hacerlo adoptando lo que llaman _objetualismo_:
+
+/ Objetualismo: La relación entre el sujeto que saber cómo y el objeto de su
+  saber-cómo es una relación de actitud objetual no-proposicional, no-conductual-disposicional,
+  y el objeto de esta relación es un item no-proposicional.
+
+Las razones por la que Bengson & Moffett adoptan una solución intelectualista
+en vez de una postura anti-intelectualista, a pesar de rechazar el
+proposicionalismo, tiene que ver con un par de problemas que perciben con el
+anti-intelectualismo. El primero es una generalización del problema que Stanley
+y Williamson presentan con el caso del instructor de ski. Tener la habilidad de
+hacer algo, digamos X, no puede ser necesario para saber cómo hacer X. El problema
+radica en cómo se explique que el sujeto tiene o no la habilidad de hacer X. Una
+idea rudimentaria es que baste que sea posible que el sujeto realice las acciones
+requeridas, pero obviamente esto no es viable porque las condiciones en las que
+estas acciones son posibles podrían ser demasiado distintas a las condiciones
+actuales como para que podamos decir que realmente dan sustento a que el sujeto
+de hecho sepa como. Otra idea es que hubiera alguna esfera delimitada de las 
+posibilidades que son relevantes para que sepa cómo. Por ejemplo, Hawley (2003)
+sugiere que el saber-cómo requiere que el sujeto sea exitoso en hacer X al menos
+contrafácticamente (i.e., si es que si trataran de hacerlo en los mundos posibles
+relevantes más cercanos al actual, tendrían éxito). Sin embargo, hay casos en que
+parece que estaríamos dispuestos a decir que un sujeto tiene saber cómo acerca de
+cómo hacer algo sin que sea contrafácticamente posible que tengan éxito en hacerlo.
+Bengson & Moffett ilustran el problema con el siguiente caso:
+
+/ Pi: Luis, un matemático competente, sabe cómo calcular el enésimmo numeral en la
+  expansión decimal de $pi$. Sabe el algoritmo y sabe cómo aplicarlo. Sin embargo, 
+  dadas limitaciones computacionales, Luis (al igual que todos los seres humanos)
+  es incapaz de calcular el numeral $10^46$-ésimo en la expansión decimal de $pi$.
+
+#question[¿Se les ocurre alguna solución a este problema? ¿Podría ser una
+cuestión contextual--por ejemplo, que el contexto defina qué rango de mundos
+sean relevantes para la adscripción de las habilidades? (Volveremos a esto en
+la sección 5.6.)]
+
+El problema es más grave que la dificultad de acomodar estos casos. El verdadero
+problema es que la dificultad interactua con el problema adicional que presentan
+casos como el del Salchow, que parecen mostrar que la mera habilidad es
+insuficiente para el saber-cómo. Supongamos que adoptamos un criterio más estricto
+que el mero éxito regular en los intentos de aquellos a quienes atribuimos saber-cómo.
+Esto parece ir en la dirección opuesta a lo que parece que tenemos que hacer para
+acomodar casos como Pi: al mismo tiempo parecemos tener que exigir algo menos que el
+éxito regular y algo más que el éxito regular. Bengson y Moffett sugieren que esto
+es un problema estructural para el anti-intelectualismo. Sin embargo, que el
+anti-intelectualismo se vea enfrentado a este problema no es por sí mismo un argumento
+a favor del intelectualismo tradicional, y Bengson & Moffett también lo rechazan.
+
+¿En qué consiste la propuesta positiva de Bengson & Moffett? Su idea es que saber
+cómo hacer algo es tener una manera de aprehender (_grasp_) adecuadamente la actividad
+relevante. En el caso del instructor de ski, el sujeto posee tal aprehensión, mientras
+que en el caso de la patinadora, esta no la tiene. La aprehensión de la que hablamos
+aquí es una forma de conocer ciertos objetos, a saber, las _maneras_ de realizar
+acciones. El saber-cómo no consiste en conocer proposiciones acerca de esas maneras
+(como en el modelo de Stanley & Williamson (2001)), sino en tener una relación cognitiva
+con esas maneras. Es importante que este conocimiento de maneras sea capaz de guiar
+la conducta del sujeto; no basta tener cierta familiaridad con una manera de hacer
+X para saber cómo hacer X. Esto es importante para tratar casos como el de Hannah, 
+quien se hace familiar con la manera en que otra persona podría hacer algo, sin que
+esta familiaridad sea suficiente para que sepa cómo hacerlo.
+
+Para clarificar el modelo, es necesario elaborar la idea de que se tiene conocimiento
+de maneras de actuar.
 
 === Interrogativismo
+
+Más recientemente, Joshua Habgood-Coote ha desarrollado una nueva teoría del saber-cómo
+que puede clasificarse como intelectualista, pero que difiere de varias maneras
+significativas del modelo intelectualista tradicional.
 
 === Revisando la distinción intelectualismo/anti-intelectualismo
 
 Me gustaría proponer una manera distinta de clasificar las posturas posibles
-sobre el saber-cómo.
+sobre el saber-cómo. 
 
-#figure(placement: auto, caption: [_Clasificación de posturas revisada_])[
-#set table.hline(stroke: 0.5pt + black.transparentize(40%))
-#set table.vline(stroke: 0.5pt + black.transparentize(40%))
-#set table(stroke:none)
+#figure(placement: auto, caption: [_Clasificación de posturas, revisada_])[
+#set table.hline(stroke: 0.5pt + black.lighten(60%))
+#set table.vline(stroke: 0.5pt + black.lighten(60%))
+#set table(stroke: 0.5pt + black.lighten(60%))
 #set table.cell(align: horizon)
-#table(columns: 5, rows: (1.5em, 2.5em, 1.5em, 5em, 5em),
-table.cell(rowspan: 2)[],[], table.cell(colspan: 3)[*relata*],
-[], table.cell(colspan: 2, )[_atitudinal\ (con contenido)_], table.vline(stroke: 1pt), table.cell(rowspan: 2)[_no atitudinal_],
-[], [], [_proposicional_], table.vline(), [_no-proposicional_],
-table.cell(rowspan: 2)[#rotate(270deg, reflow:true, [*relación*])], [_teórica_], [teoricismo\ (intelectualismo\ clásico)], [teoricismo\ no-proposicional], [teoricismo\ anti-intelectualista], 
-[_no teórica_], [anti-teoricismo intelectualista proposicional], [anti-teoricismo intelectualista no-proposicional], [anti-teoricismo anti-intelectualista]
+#table(columns: (2.5em, 0.7fr, 1fr, 1fr, 1fr), rows: (2.5em, 2.5em, 2.5em, 5em, 5em),
+table.cell(rowspan: 3, colspan: 2)[], table.cell(colspan: 3)[*relata*],
+table.cell(colspan: 2)[_*atitudinal*_], [_*no-atitudinal*_],
+[_proposicional_], [_no-proposicional_], [],
+table.cell(rowspan: 2)[#rotate(270deg, reflow: true)[*relación*]], [_teórica_], [intelectualismo\ teoricista\ proposicional], [intelectualismo\ teoricista\ no-proposicional], [anti-intelectualismo\ teoricista],
+[_no-teórica_], [intelectualismo\ anti-teoricista\ proposicional], [intelectualismo\ anti-teoricista\ no-proposicional], [anti-intelectualismo\ anti-teoricista]
 )
 ]
 
-== El saber cómo como logro cognitivo
+Bengson & Moffett (2011) introducen una idea que es interesante,
+que es que 
+
+#context[
+#set page(flipped: true, numbering: none)
+#figure(caption: [_Clasificación de posturas, revisada, distinguiendo entre fundamento y constituyentes. $t_x$ significa que $x = $conocimiento proposicional. Las líneas cortadas indican lugares donde se omiten posibles teorías híbridas._])[
+  #set table(stroke: 0.5pt + black.lighten(60%))
+  #set table.cell(align: horizon)
+  #table(
+    columns: (1fr, 1fr, 3fr, 2fr, 2fr, 2fr, 2fr, 3fr, 3fr),
+    rows: (1fr, 1fr, 1fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr, 1.3fr, 1.3fr),
+    table.cell(colspan: 2, rowspan: 2)[], table.cell(colspan: 7)[*constituyentes*],
+    table.cell(colspan: 5)[_*atitudinales*_], table.vline(stroke: (paint: black, dash: "dashed")), table.cell(colspan: 2)[_*no-atitudinales*_],
+    table.cell(rowspan: 7)[#rotate(270deg, reflow: true)[*fundamento*]], table.cell(rowspan: 5)[#rotate(270deg, reflow: true)[_*atitudinal*_]], [], table.cell(colspan: 2)[_proposicional_], table.vline(stroke: (paint: black, dash: "dashed")), table.cell(colspan: 2)[_no-proposicional_], table.cell(colspan: 2)[], 
+    table.cell(rowspan: 2)[_proposicional_], [$t_g  and t_c$], [$t_g and not t_c$], [$t_g  and t_c$], [$ t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$],
+                                             [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$],
+    table.hline(stroke: (paint: black, dash: "loosely-dashed")),
+    table.cell(rowspan: 2)[_no-proposicional_], [$t_g  and t_c$], [$t_g and not t_c$], [$t_g  and t_c$], [$t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$],
+                                             [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$],
+    table.hline(stroke: (paint: black, dash: "loosely-dashed")),
+    table.cell(rowspan: 2)[#rotate(270deg, reflow: true)[_*no-atitudinal*_]], table.cell(rowspan: 2)[], [$t_g and t_c$], [$t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$],
+                                              [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$]
+  )
+]
+]
+
+== El saber-cómo como logro cognitivo
 
 
 
@@ -1265,13 +1380,641 @@ table.cell(rowspan: 2)[#rotate(270deg, reflow:true, [*relación*])], [_teórica_
 
 == El contexto y las atribuciones de saber-cómo
 
+Ya hemos visto que una de las estrategias para decidir entre distintas teorías
+sobre el saber-cómo, en particular con respecto a la distinción entre
+intelectualismo y anti-intelectualismo, consiste en seguir un razonamiento como el siguiente:
 
-== Saber-cómo y skill
++ La teoría que mejor capture las intuiciones y los datos sobre las
+  atribuciones de saber cómo es _ceteris paribus_ la más adecuada.#footnote[Incluyo
+  una clausula _ceteris paribus_ porque podría haber otros factores para decidir
+  qué teoría es la más adecuada.]
++ Debemos comprometernos con la teoría más adecuada, _ceteris paribus_.
++ Una de las opciones teóricas, o bien el intelectualismo o el anti-intelectualismo, captura
+  de mejor manera las intuiciones y los datos sobre las atribuciones del saber
+  cómo.
++ T (ya sea el intelectualismo o el anti-intelectualismo) es la teoría más adecuada,
+  _ceteris paribus_. (3, 1, MP) 
++ Debemos comprometernos con T, _ceteris paribus_. (4, 2)
+
+Hemos visto una aplicación de esta estrategia en la manera en que se discuten
+los casos de suerte epistémica: en ese caso, se decide por el intelectualismo o
+el anti-intelectualismo dependiendo de cómo den cuenta de los patrones de
+atribución de saber-cómo en distintas condiciones de suerte epistémica.
+
+Ahora, nos va a interesar otra aplicación de este esquema. Las atribuciones de
+saber-cómo parecen ser sensibles al contexto, en un sentido que vamos a
+clarificar en breve. ¿Cómo explicar este fenómeno? Algunas discusiones
+recientes han explorado esta pregunta.
+
+=== Contextualismo
+
+Primero, clarifiquemos qué significa decir que las atribuciones del saber cómo
+son _sensibles al contexto_. Para ello necesitamos dar un breve repaso a
+algunas nociones de filosofía del lenguaje.
+
+Una idea fundacional de la filosofía del lenguaje contemporánea es que las
+expresiones de un lenguaje tienen significado en un contexto.#footnote[Frege
+(1884) establece lo que ha llegado a denominarse como _principio del contexto_:
+"nunca buscar el significado de una palabra aisladamente, sino solo en el
+contexto de una proposición". Russell y Wittgenstein aceptan ciertas variedades
+de la misma idea.] Toma el caso de una palabra--digamos, 'libro'. La palabra
+por sí misma no tiene sentido. Cobra sentido en tanto que la usamos en alguna
+situación. Por ejemplo, cobra sentido cuando la usamos en una oración, Como
+
++ El libro está sobre la mesa.
+
+La expresión 'el libro' contribuye al significado de la oración porque
+_refiere_ a un objeto particular del cual se dice que está sobre la mesa (es
+decir, al que se le asigna una propiedad). Imaginen que alguien que escucha
+esta oración responde:
+
+#set enum(start: 2)
++ No, el libro está en el estante.
+
+Ahora nos enfrentamos a dos posibilidades: o bien ambos interlocutores se
+refieren al mismo objeto, o tienen una distinta idea de a qué se refiere la
+expresión 'el libro'. Para saber a qué se refiere la expresión tenemos que
+considerar más aspectos de la situación comunicacional.
+
+Con ciertas expresiones, la situación siempre es importante. Por ejemplo, la
+palabra 'yo' siempre refiere al hablante, y para saber a quién se refiere,
+siempre tenemos que examinar el contexto en que se lo dice. Si yo digo 
+
+#set enum(start: 3)
++ Yo nací en Recoleta, en Santiago
+
+digo algo verdadero, pero si tú lo dices, podría ser falso (a menos que
+coincidentalmente ambos hayamos nacido en Recoleta).
+
+Estas expresiones son _sensibles al contexto_. Otros ejemplos son 'aquí',
+'ahora', etc. Otras expresiones son sensibles al contexto de distintas maneras.
+Por ejemplo, la palabra 'alto', cuando se aplica a la altura de una persona, es
+sutilmente sensible al contexto. Alguien puede ser alto en el contexto de que
+sus pares tengan una altura promedio dada tal que la altura de esta persona es
+suficientemente superior a ese promedio, y no serlo en un contexto en que la
+altura promedio es distinta.
+
+Ahora bien, la misma idea puede aplicarse a términos epistémicos, como el de
+"conocimiento". En un paper de 1996, David Lewis presentó esto como, entre
+otras cosas, una solución al problema del escepticismo. El trasfondo de la
+teoría de Lewis es la idea de que el conocimiento consiste en haber descartado
+razones para dudar en algo; por ejemplo, para poder decir que sabemos que
+estamos despiertos, tenemos que haber descartado la posibilidad de que estemos
+soñando (este es el núcleo de lo que se ha denominado teorías del conocimiento
+de _alternativas relevantes_). Si es así, ¿por qué creemos tener conocimiento
+incluso si sabemos que podría haber razones para pensar que podríamos estar
+sistemáticamente equivocados (por ejemplo, por las razones que aducen los
+argumentos clásicos a favor del escepticismo)? Lewis apela a una forma de
+contextualismo. Su idea es que el contexto determina qué posibilidades son
+relevantes y cuáles no lo son. En contextos cotidianos, no es relevante que
+dudemos de si estamos siendo sujetos a una alucinación sistemática. En otros,
+como cuando estudiamos el alcance del conocimiento en una clase de filosofía,
+esas posibilidades se vuelven relevantes. De acuerdo al contextualismo de
+Lewis, el conjunto de posibilidades relevantes se expande o contrae cuando
+cambia el contexto--y lo mismo hace, al parecer, el alcance de lo que cuente como
+conocimiento o no.
+
+#question[Una misma oración que atribuye conocimiento a un sujeto puede
+evaluarse desde distintas perspectivas; por ejemplo, desde la perspectiva del
+contexto de a quien se atribuye conocimiento, o desde la perspectiva de quien
+atribuye conocimiento. ¿Cree que esto hace alguna diferencia?]
+
+Lo que nos interesa aquí es saber si algo similar puede decirse en el caso del
+saber-cómo.
+
+=== Intelectualismo contextualista
+
+Wallbridge (2021) ofrece el siguiente argumento a favor del intelectualismo:
+
++ Las atribuciones de saber-cómo son sensibles al contexto
++ Una forma de intelectualismo contextualista es la mejor explicación de los patrones de
+  sensibilidad al contexto de las atribuciones de saber-cómo
++ Una forma de intelectualismo es la teoría correcta acerca de la naturaleza
+  del saber cómo.
+
+Wallbridge parte de la observación de que las
+intuiciones a las que apelan distintas teorías del saber cómo no son
+uniformes. En particular, la literatura contiene una serie de casos en
+los que se posee conocimiento proposicional acerca de cómo hacer algo
+sin que aparentemente se tenga la habilidad de hacerlo. Estos casos son
+usados como contraejemplos a la tesis anti-intelectualista, porque se
+aduce que en ellos los sujetos conservan su saber cómo. Por ejemplo
+
+/ Instructor de ski: Hannes es un instructor de ski. Tiene éxito en enseñar a
+  sus alumnos cómo realizar varios trucos que él mismo no puede realizar.
+
+Stanley & Williamson (2001) afirmarían que en este caso Hannes sabe cómo
+realizar esos trucos, a pesar de carecer de la habilidad para
+realizarlos. Otro ejemplo:
+
+/ Atrapada en un accidente: Luisa pierde el control de su auto, que se
+  vuelca sobre un canal junto al camino. Su pierna queda atascada entre
+  el asiento y la puerta. Si pudiera mover la pierna, piensa, podría 
+  escapar por la ventana.
+
+En este caso, la intuición es que Luisa sabe cómo escapar de su auto,
+pero ha perdido la habilidad de hacerlo temporalmente.#footnote[Uno
+podría decir que conserva la habilidad, pero que esta ha sido
+#emph[enmascarada \[masked\]];. Cf. Fara (2008).] Ginet (1975) presenta
+el caso de un violinista que se ha dañado los dedos, Ziff (1984) el de
+una pianista que ha perdido ambas manos en un trágico accidente, y
+Snowdon (2003) el de un chef que ha perdido sus brazos. En todos estos
+casos, existe la intuición de que los sujetos saben cómo hacer algo
+(tocar el violín, tocar el piano, cocinar, etc.) a pesar de que (de
+momento) carecen de la habilidad para hacerlo.
+
+Sin embargo, existen casos en que dadas las mismas condiciones, las
+intuiciones cambian. Glick (2012) ofrece los siguientes ejemplos, que
+son variaciones de los anteriores:
+
+#quote(block: true)[
+Supón que después del accidente de la pianista \[…\] te la presento
+diciendo “¡Ella sabe tocar muy bien el piano!”. Quedarías desconcertado,
+o interpretarías mi comentario como un tipo de broma cruel, no como un
+testimonio sensato de su experticia. (130)
+
+Tras ver al instructor realizar un truco impresionante, un estudiante le
+pregunta si sabe realizar otro: ‘¿Sabe cómo hacer un McTwist?’. La
+respuesta ‘No’ sería correcta si el instructor nunca hubiese aprendido a
+realizar un McTwist, incluso si pudiera ayudar a otra persona a
+aprenderlo. (130-131)
+]
+
+Wallbridge acepta las intuiciones de Glick, así como los resultados de
+ciertos sondeos experimentales acerca de las intuiciones #emph[folk] en
+casos similares (Bengson et al (2009), Harmon & Horne (2016) y Gonnerman
+et al (2018)).#footnote[Gonnerman et al. (2021) ofrece información
+adicional. Por razones de espacio no me referiré a este estudio, pero
+creo que la propuesta que haré aplica igualmente a los casos nuevos que
+se discuten allí. Los autores argumentan que el concepto #emph[folk] de
+saber cómo es filosóficamente híbrido, ni intelectualista ni
+anti-intelectualista. Hay cierto atractivo en esta idea. Carter et al.
+(2019) también ofrecen información relevante. Ellos consideran si las
+intuiciones folk se corresponden con la implicación intelectualista de
+que ciertas atribuciones de saber podrían verse Gettierizadas (en casos
+de mala suerte ambiental, así como el conocimiento proposicional se
+pierde, según el intelectualismo debería perderse el saber cómo
+también).] 
+
+#question[¿Deberíamos aceptar estas intuiciones sobe estos casos?]
+
+Esto genera un problema: ni el intelectualismo ni el anti-intelectualismo en
+sus formulaciones típicas son compatibles con ambas reacciones a estos casos.
+Si en algunos casos la falta de alguna habilidad (por ejemplo, la de tocar el
+piano) no impide que adscribamos saber cómo a un sujeto, parece que el
+anti-intelectualismo es insostenible. Pero si en otros casos no tener esas
+mismas habilidades sí parece impedirlo, a pesar de que podemos adscribir el
+conocimiento proposicional relevante, parece que el intelectualismo es
+insostenible. ¿Qué hacer?
+
+La solución de Wallbridge al problema es simple, y consiste en decir que
+las atribuciones de saber cómo son sensibles al contexto: en ciertos
+contextos, hay atribuciones de saber cómo a sujetos que carecen de las
+habilidades relevantes que son adecuadas, mientras que en otros
+contextos estas atribuciones son inadecuadas.
+
+Wallbridge parte de la observación de que el esquema intelectualista de
+Stanley y Williamson, a saber
+
+/ Intelectualismo: S sabe cómo x si y solo si hay una manera w tal que
+  S sabe de w que es una manera en que S podría hacer x
+
+es un caso especial de un esquema más general
+
+/ Intelectualismo sensible a sujetos (ISS): S sabe cómo x si y solo si hay
+  una manera w tal que S sabe de w que es una manera en que P podría hacer x
+
+donde P es una clase de personas. En el modelo de Stanley y Williamson,
+ la clase de personas relevante siempre es la que está integrada
+únicamente por el sujeto de atribución. Lo que importa es que w sea una
+manera #emph[para ella] de hacer x. Por eso es que Stanley (2011) asocia
+al saber cómo con un tipo de auto-conocimiento: sé cómo hacer x solo si
+sé cómo #emph[yo] puedo hacerlo.#footnote[Es natural pensar que el
+modelo es al menos compatible con la postura ‘invariantista sensible al
+sujeto’ que Stanley (2005) ha defendido en el caso de las adscripciones
+de conocimiento. Según esta posición, los estándares del soporte
+epistémico requeridos para que sea correcto adscribir conocimiento a un
+sujeto depende de qué posibilidades puede descartar el sujeto, así como
+sus intereses—en el caso del saber cómo, interesa que el sujeto evalúe
+las posibilidades de acción que tiene. Un dato a favor de un modelo como
+este es la posibilidad de casos en que en una circunstancia C#sub[1] un
+sujeto S#sub[1] rechaza auto-adscribirse saber cómo hacer algo (por
+ejemplo, diría que no sabe cómo cocinar borscht) porque existe un riesgo
+significativo de que no tenga éxito, mientras que en otra circunstancia
+C#sub[2] el mismo sujeto acepta auto-adscribirse ese saber cómo porque
+el riesgo no está presente (en ese caso diría que sí sabe cocinar
+borscht). Hay que tener cuidado con casos como estos: en C#sub[1];,
+podría ser correcto para otro sujeto S#sub[2] decir que S#sub[1] sabe
+cómo cocinar borscht (no es extraño que alguien sobrestime el riesgo).
+En este caso nos movemos a un modelo contextualista (donde las
+posibilidad e intereses que importan son los de quien adscribe) o bien a
+uno relativista (donde el contexto que importa es el de evaluación).]
+
+En el modelo de Wallbridge, en cambio, P está definida
+contextualmente—por eso lo llama #emph[contextualísmo específico a
+sujetos] (#emph[subject-specific contextualism];). Esto le permite
+explicar las intuiciones en casos como los de la pianista y del
+instructor de la siguiente manera. Consideremos primero el caso de la
+pianista. En el contexto del escenario original, la pianista sabe cómo
+tocar piano porque la clase de personas relevantes es la de individuos
+que tengan su conocimiento y sus habilidades intactas (si la pianista
+tuviera sus manos, podría tocar el piano de la manera que sabe). En el
+contexto que propone Glick, en cambio, la clase de las personas
+relevantes está compuesta únicamente por la pianista misma—cuando
+presentamos a alguien, lo hacemos describiendo sus cualidades. En el
+caso del instructor, en el escenario original, P es la clase de sus
+alumnos: él sabe cómo #emph[ellos] podrían hacer el truco, a pesar de no
+tener él mismo la habilidad. En el escenario de Glick, en cambio, P está
+compuesto por el instructor—quien rechaza auto-adscribirse con el saber
+cómo porque sabe que no conoce una manera en que él podría realizar el
+truco.
+
+El modelo parece capturar las intuiciones filosóficas acerca de las
+condiciones de atribución de saber cómo en una serie de casos.
+Wallbridge resume:
+
+#quote(block: true)[
+El contexto determina de quien se debe conocer una manera tal que ellos
+puedan hacer phi \[de esa manera\]. Cuando el quien relevante te
+incluye, el saber cómo requiere la habilidad para hacer phi. Pero cuando
+el quien relevante no te incluye, no es necesario que tengas una
+habilidad para hacer phi (aunque por supuesto podrías tenerla de todos
+modos). (1630)
+]
+
+El modelo es sorprendentemente robusto frente a los datos empíricos de
+los estudios de Bengson et al (2009), Harmon & Horne (2016) y Gonnerman
+et al (2018) (por razones de espacio, voy a deferir una descripción de
+algunos de estos casos hasta la próxima sección, donde propongo un
+modelo alternativo.) Wallbridge afirma, en efecto, que el modelo es
+capaz de explicar todos los puntos de datos existentes en la literatura.
+
+=== Anti-intelectualismo contextualista
+
+El modelo de Wallbridge parece dar los veredictos esperados en un amplio
+rango de casos que son difíciles de manejar para las versiones
+tradicionales de intelectualismo y anti-intelectualismo. Por tanto,
+parece darnos buenas razones para creer que deberíamos favorecer al
+intelectualismo--dado que el modelo está formulado en términos
+intelectualistas.
+
+Sin embargo, Wallbridge no ha considerado si existen modelos
+alternativos anti-intelectualistas que, utilizando recursos similares,
+puedan o no dar cuenta de los datos. Por lo tanto, a lo más puede
+concluir que #emph[si] no hay tal alternativa, el intelectualismo es
+preferible. Pero no sabemos si no puede haber tal alternativa. En lo que
+sigue voy a argumentar que sí puede haberla--en efecto, voy a mostrar que
+la hay.#footnote[Esto es una versión de Morales Carbonell (2023).]
+
+Una manera de construir una alternativa anti-intelectualista es emplear
+los mismos recursos a los que Wallbridge apela en la construcción de su
+modelo.#footnote[Wallbridge ofrece una defensa más general de la
+estrategia contextualista (por ejemplo, él discute el problema de si los
+datos de variación contextual deberían resolverse al nivel de la
+semántica o la pragmática). Aquí voy a asumir todo esto sin discusión.
+Mi objetivo es examinar #emph[cómo] debería implementarse la estrategia
+contextualista, no #emph[si] debería hacerse.] Procedemos de manera
+similar, considerando primero el esquema típico del
+anti-intelectualismo:
+
+/ Habilidad: S sabe cómo hacer x si y solo si S tiene la habilidad de hacer x.
+
+Esto es un caso especial del esquema más general
+
+/ Habilidad (generalizado): S sabe cómo hacer x si y solo si P tienen la
+  habilidad de hacer x.
+
+donde P es una clase de personas. Esto es demasiado general, ya que S
+desaparece en el lado derecho del bicondicional, y por lo tanto permite
+que P no lo incluya.#footnote[Nótese que en el ISS de Wallbridge P
+tampoco necesita incluir al sujeto que sabe cómo hacer x, pero en ese
+caso hay un vínculo porque el sujeto al menos #emph[sabe] que los
+miembros de P tienen tal o cual manera de hacer x.] Esto es indeseable,
+porque no queremos decir cosas como que alguien sabe cómo hacer algo
+porque otra persona o individuo que no tiene nada que ver con la primera
+(o quizás muy poco) tiene ciertas habilidades—por ejemplo, que un
+murciélago pueda navegar mediante el uso de ecolocación no ayuda a que
+yo sepa cómo navegar el espacio que ocupo de esa manera.
+
+Menos general, pero más viable para nuestros propósitos, tenemos el
+esquema
+
+/ Anti-Intelectualismo sensible a sujetos (AISS): S sabe cómo x si y sólo
+  si S es un miembro de una clase de personas P que es capaz de hacer x.
+
+Para acomodar los efectos de sensibilidad al contexto, podemos hacer que
+P varíe con este. El efecto de esto es que en ciertos contextos, no será
+necesario que S tenga ella misma la habilidad de hacer x, sino que basta
+con que, por ejemplo, sea miembro de una clase de sujetos que en general
+tienen la capacidad de hacer x. Por ejemplo, en el caso de la pianista,
+habrá contextos en que no importa que ella carezca de la habilidad, sino
+que basta que gente como ella en ciertos respectos (por ejemplo, que
+tenga su educación musical) tenga normalmente la habilidad de tocar el
+piano. En otros contextos, tomamos a la pianista como ejemplo de una
+clase más específica (por ejemplo, la clase de las personas que tienen
+una educación musical comparable pero que han sufrido accidentes graves
+en sus manos), y no le adscribimos saber cómo porque los miembros de esa
+clase no tienen la habilidad de tocar el piano.
+
+El modelo se aprovecha del hecho bien conocido de la sensibilidad al
+contexto de ciertas expresiones modales como ‘ser capaz’, ‘tener la
+habilidad de’, ‘poder’, etc.#footnote[Cf. Kratzer (2012). Jaster (2021)
+ofrece una amplia discusión acerca de la semántica del concepto de
+habilidad. Aquí voy a asumir una visión estándar, de acuerdo con la cual
+tener una habilidad implica cierto tipo de posibilidad metafísica.]
+Lewis (1976) ofrece esto como una manera de resolver la famosa paradoja
+del abuelo, donde parece ser cierto que al mismo tiempo tenemos lo que
+hace falta para matar a nuestro abuelo y aún así no podemos matarlo. La
+siguiente cita clarifica el punto:
+
+#quote(block: true)[
+Decir que algo puede suceder significa que su ocurrencia es composible
+con cierto hechos. ¿#emph[Cuáles];? Eso queda determinado, aunque a
+veces no lo suficientemente bien, por el contexto. Un mono no puede
+hablar un idioma humano—por ejemplo, el finlandés—pero yo sí. Los hechos
+sobre la anatomía y operación de la laringe y el sistema nervioso del
+mono no son composibles con que hable finlandés. Pero no me lleven a
+Helsinki como su intérprete: no puedo hablar finlandés. Que hable
+Finlandés es composible con los hechos que hemos considerado hasta
+ahora, pero no con hechos adicionales sobre mi falta de educación. Lo
+que puedo hacer, relativo a un conjunto de hechos, no lo puedo hacer,
+relativo a otro conjunto que incluya más cosas. \[…\] Del mismo modo es
+posible ser equívoco acerca de si es posible que yo hable finlandés, o
+si soy capaz, o si tengo la habilidad o capacidad o el poder o la
+potencialidad de hacerlo. (77)
+]
+
+Si creemos que la contribución de los términos modales es sensible al
+contexto, se vuelve tremendamente natural que una formulación adecuada
+de las condiciones de verdad de las atribuciones de saber
+anti-intelectualistas sigan un esquema contextualista.
+
+En efecto, la manera de plantear el problema de Lewis sugiere que
+podríamos formular una teoría anti-intelectualista contextualista usando
+un esquema más abstracto, como el siguiente
+
+/ Anti-intelectualismo contextualista relativo a hechos (AICH): S sabe 
+  cómo x en un contexto c si y sólo si s es capaz#sub[H] de hacer x
+
+donde ‘capaz#sub[H];’ es un concepto de habilidad relativo a un conjunto
+de hechos H que es definido por el contexto.#footnote[Más precisamente,
+H es una función que toma al contexto como c argumento implícitamente y
+selecciona un conjunto de hechos, que a su vez sirven como argumento
+para una función que finalmente entrega la intensión de ‘ser capaz’ dado
+ese conjunto de hechos en ese contexto. También podríamos haber
+formulado AICH en términos de una función capaz#sub[c];, que resolviera
+la intensión de ‘ser capaz’ dado el contexto c directamente, pero es
+preferible sugerir que solo cierta parte de los hechos disponibles en el
+contexto son relevantes.] Por ejemplo, ser miembro de una clase de
+individuos que es capaz de hablar finlandés con la competencia de un
+intérprete es una forma de ser capaz de hablar finlandés como miembro de
+tal clase de individuos. En el caso de la pianista diríamos, para volver
+a nuestro ejemplo, que es capaz de tocar el piano en abstracción de la
+condición de sus manos, dada su instrucción y su éxito pasado en tocar
+el piano—lo que es extensionalmente equivalente a decir que es capaz
+como miembro de la clase de personas que han recibido instrucción en
+cómo tocar el piano y que han demostrado tener cierta competencia para
+tocar el piano. Sin embargo, ambas concepciones de la habilidad de la
+pianista son intensionalmente distintas: se puede pensar en la habilidad
+de la pianista en vistas a esas condiciones sin pensar en la pianista
+como miembro de ningún grupo de individuos, y vice versa.
+
+Para evitar ciertas complicaciones cuando formulemos las condiciones en
+que \[capaz#sub[H];\] se satisface, podríamos hacer a los sujetos que
+tienen las capacidades relevantes variar con el contexto también. Así,
+tendríamos algo así como
+
+/ Anti-intelectualismo contextualista relativo a sujetos y hechos (AICSH): 
+  s sabe cómo x en un contexto c si y sólo si P#sub[C];(s) es capaz#sub[H]
+  de hacer x
+
+donde P#sub[C];(s) define una clase de sujetos determinada por el
+contexto (técnicamente, P#sub[C] es una función que toma un sujeto como
+argumento y entrega una clase como resultado – el contexto es un
+argumento implícito de la función P). En este caso diríamos que la
+atribución de saber cómo a la pianista tiene la condición de que cierta
+clase de individuos relativa a la pianista (la clase de personas que han
+recibido instrucción y que han demostrado su competencia en tocar el
+piano) tiene la capacidad en cierto sentido de tocar el piano. La
+diferencia es sólo notacional.
+
+Una ventaja teórica de estos modelos es que la idea de hacer el concepto
+de habilidad relevante al análisis de saber cómo sensible al contexto
+tiene apoyo independiente. En contraste, la propuesta intelectualista de
+Wallbridge introduce un elemento de sensibilidad al contexto sólo como
+respuesta al problema de las atribuciones divergentes de saber cómo. Por
+supuesto, esto no significa que la estrategia contextualista de
+Wallbridge no esté bien motivada; en efecto, es plausible que cualquier
+teoría plausible acerca de las atribuciones de saber cómo deba dar
+cuenta de los efectos del contexto en las atribuciones.
+
+Es más importante ver si los modelos anti-intelectualistas propuestos
+hacen las mismas predicciones que el modelo de Wallbridge. Arriba esbocé
+cómo podrían aplicarse al caso de la pianista, pero es necesario
+examinar los otros casos también, ya que hay sutiles diferencias que es
+importante tener en cuenta.
+
+El caso del instructor de ski funciona de manera similar al de la
+pianista. En el contexto original, se destaca que a pesar de no estar en
+las condiciones que permitirían que él mismo realizara los trucos, tiene
+la habilidad de imaginar cómo alguien debería hacerlo y por tanto la
+capacidad de enseñar a otros cómo debería hacerse. Aunque está a cierta
+distancia de poder realizar el truco, está más cerca que sus
+estudiantes, por una razón que importa en el contexto en que estamos
+evaluando si sabe cómo realizar el truco. En el contexto que considera
+Glick, el instructor está tan lejos de ser capaz de realizar el truco
+como sus estudiantes (y quizás esté más lejos); por lo tanto, no es un
+candidato viable para que le adscribamos que sepa cómo realizar el
+truco. Y en efecto, esto es cierto incluso si es capaz en el sentido más
+amplio (que no es seleccionado como relevante en este contexto).
+
+En el estudio de Bengson et al. (2009), se consideran tres casos, además
+del caso del instructor de ski. En el primero de estos, se pide que
+consideremos a Jane, una patinadora que quiere realizar un
+#emph[Salchow] quintuple. En este caso, Jane tiene conocimiento
+proposicional acerca de cómo hacerlo, pero no tiene la habilidad de
+realizar el truco exitosamente. En líneas con una interpretación
+intelectualista y el análisis de Wallbridge, 87% de los encuestados en
+el estudio atribuyeron saber cómo a Jane. Sin embargo, podemos esperar
+el mismo veredicto del contextualismo anti-intelectualista. La habilidad
+de Jane es evaluada en este contexto en relación con su capacidad de
+adquirir la habilidad de realizar el truco exitosamente una vez que
+entrene lo suficiente—en este caso su falta de entrenamiento y
+confiabilidad no son relevantes, de modo que el caso no es decisivo
+contra el anti-intelectualismo.
+
+En el segundo caso, Sally es una excursionista que se ve atrapada en una
+avalancha, que ella confunde con el rebalse de una represa cercana, por
+lo que trata de escapar realizando movimientos de nado. Aunque realizar
+estas acciones son una manera válida de escapar, Sally no lo sabe.
+Nuevamente, aparentemente de acuerdo con una interpretación
+intelectualista, 88% de los encuestados rechazaron la atribución de
+saber cómo a Sally. En este caso, Sally manifiesta una habilidad—pero no
+parece ser la habilidad relevante al contexto. Un anti-intelectualista
+podría decir que el problema en este caso es que su habilidad no
+manifiesta el tipo de control que uno podría requerir para atribuir
+saber cómo; en este sentido, este caso contrasta con los casos del
+instructor y de la patinadora.#footnote[Uno podría por tanto objetar que
+los juicios de los encuestados sobre este caso podrían haber sido
+afectados porque los sujetos podrían haber esperado un concepto de
+habilidad similarmente estricto al de esos otros casos. Sin embargo,
+aunque Bengson et al. (2009) no hacen esto suficientemente explícito (a
+mi parecer) en su trabajo, las encuestas sobre estos casos fueron
+realizadas independientemente (al menos los casos primero y segundo son
+independientes entre sí, e independientes de los casos tercero y cuarto,
+que parecen haber sido testeados en un mismo estudio).]
+
+Bengson y Moffett (2009, 396) conceden un punto similar (que la
+habilidad que Sally manifiesta no es suficientemente #emph[confiable];),
+y tratan de descartar el problema con un testeo del caso del _Salchow_. En
+este, Irina es una patinadora novata que trata de realizar el
+#emph[Salchow];. Sus creencias acerca de cómo realizar este movimiento
+están radicalmente equivocadas, pero debido a una grave anormalidad
+neurológica, Irina en efecto ejecuta los movimientos correctos (su
+anormalidad hace que sus acciones sean dramáticamente distintas a las
+que cree que está realizando). En este caso, Irina parece tener una
+habilidad confiable para realizar el #emph[Salchow];, pero carecer de
+conocimiento proposicional. Según la interpretación intelectualista,
+Irina no es atribuible con saber cómo, y esto se ve reflejado en los
+resultados de las encuestas, según las cuales el 87% de las respuestas
+dicen que Irina no sabe cómo realizar el #emph[Salchow];. La respuesta
+anti-intelectualista del caso es similar a la anterior: Irina no
+manifiesta el tipo de habilidad que es relevante al contexto (que
+plausiblemente requiere algo más que la mera confiabilidad), y por lo
+tanto no satisface las condiciones anti-intelectualistas de atribución
+de saber cómo que son apropiadas a este contexto.#footnote[Si no
+supiéramos que Irina tiene creencias erróneas y es anormal
+neurológicamente—es decir, en un caso en que sólo detectáramos el éxito
+de Irina en realizar el #emph[Salchow—];no sería inapropiado decir que
+Irina sabe realizarlo. Si luego aprendiéramos que Irina tiene estas
+creencias erróneas y anormalidad neurológica, sería natural decir que no
+lo sabe. Esto no es más que el efecto del contexto en la propiedad de
+las atribuciones de habilidad correspondientes.]
+
+En el estudio de Gonnerman et al. (2018), se consideraron dos tipos de
+variaciones del caso de la patinadora, y un caso adicional. Respecto a
+los primeros, Wallbridge sugiere que el contexto hace relevantes dos
+posibilidades: o bien que los sujetos han aprendido una manera de
+realizar el #emph[Salchow];, o que una ya tienen una habilidad para
+realizarlo que implica que conozcan tal manera de realizarlo. Según el
+análisis anti-intelectualista, estos mismos casos corresponden a casos
+en que los sujetos han adquirido la habilidad relevante, algunos de los
+cuales implican tener cierto conocimiento proposicional. En el caso
+adicional, que Wallbridge discute sólo en una nota (1633, n. 30), parece
+requerirse del sujeto a quien se le atribuye saber cómo que tenga tanto
+habilidad como conocimiento proposicional. Pero eso no es extraño en el
+modelo anti-intelectualista, porque es claro que puede pasar que un
+sujeto puede poseer una habilidad en parte por tener cierto
+conocimiento.#footnote[Esto es neutral respecto a la pregunta de si el
+conocimiento proposicional es en si mismo un tipo de saber cómo, que
+Hetherington (2011) responde positivamente.]
+
+El intelectualista en efecto podría objetar que lo que estos casos
+muestran es que efectivamente no se pueden eliminar los componentes
+proposicionales del saber cómo. Por ejemplo, el caso del instructor de
+ski sugiere que las habilidades relevantes tienen que ver con que el
+instructor pueda imaginar ciertas cosas, y comunicarlas a sus pupilos.
+En este caso, parece que es ineludible referir a ciertas creencias u
+otras actitudes proposicionales. La respuesta anti-intelectualista es
+precisamente que lo que importa es que tenga la habilidad, no solamente
+el conocimiento proposicional. El argumento es en esencia el mismo que
+Ryle (1949) propone contra la idea de que tener cierto conocimiento
+proposicional es suficiente para que se sepa cómo hacer algo: es posible
+que alguien posea, por ejemplo, conocimiento acerca de todo lo que
+conviene de hecho para poder imaginar correctamente cómo realizar el
+#emph[Salchow];, y sin embargo carecer de la habilidad de imaginarlo, y
+por tanto ser incapaz de realizar las tareas cuyo ejercicio sería
+indicio de que sabe cómo realizar el #emph[Salchow] (tareas que no
+tienen que incluir la realización de un #emph[Salchow] misma). Un
+anti-intelectualista moderado puede aceptar que en algunos casos sea
+necesario tener cierto conocimiento proposicional para poder tener una
+habilidad (y nótese que esto no significa que cierto conocimiento
+proposicional sea necesario en todos los casos); lo que no puede aceptar
+como anti-intelectualista es que sea suficiente.#footnote[Otra opción
+más radical sería dar una explicación alternativa de los mecanismos
+involucrados en las habilidades correspondientes. Por ejemplo, podría
+apelarse a una teoría anti-representacionalista de la imaginación.]
+
+=== ¿Un _impasse_?
+
+En vistas a lo anterior, podemos concluir que la capacidad de una teoría
+intelectualista o anti-intelectualista para capturar la sensibilidad al
+contexto de las atribuciones de saber cómo no es necesariamente un factor
+crucial para decidir entre estas—en efecto, sino que debería verse más bien
+como una condición mínima que cualquier teoría razonable sobre el saber cómo
+debiera satisfacer. En este sentido, hemos visto que el intelectualismo y el
+anti-intelectualismo están a la par.
+
+Sin embargo, con esto quedamos en una suerte de #emph[impasse];. Ya he
+indicado que la posición anti-intelectualista tiene la ventaja de ser
+más natural en el sentido de que se sigue de la sensibilidad al contexto
+sistemática que exhiben los conceptos modales en general y los de
+habilidad en específico. Sin embargo, esta ventaja no es decisiva en
+contra del intelectualismo—quizás pueda construirse una teoría de las
+atribuciones de saber cómo intelectualista que también se siga de la
+sensibilidad al contexto del conocimiento proposicional (o de cualquier
+otra actitud proposicional que sea relevante).#footnote[Wallbridge
+explícitamente trata de evitar que su teoría se siga directamente de
+algunas teorías contextualistas acerca de las atribuciones de
+conocimiento proposicional, como la de De Rose, para evitar algunas de
+las críticas que estas han recibido. Sin embargo, esto da a pie al
+problema que apunto aquí acerca de la falta de sistematicidad de su
+propuesta contextualista. Sobre qué otras actitudes proposicionales
+podrían ser relevantes, véase Cath (2015).]
+
+Para romper el #emph[impasse];, el anti-intelectualista podría intentar
+proponer una clase de casos que el anti-intelectualista no pueda
+acomodar incluso empleando los recursos del contextualismo. Estos casos
+tendrían una estructura familiar: en ellos, se mostraría que en tal o
+cual contexto la posesión de conocimiento proposicional es
+innecesaria.#footnote[La condición de suficiencia no es interesante
+porque la mayoría de los modelos intelectualistas más plausibles no
+pretenden una reducción completa, así que el énfasis está en la
+condición de necesidad.] ¿En qué contextos diríamos que es innecesario
+que alguien posea el conocimiento proposicional acerca de, por ejemplo,
+las maneras de hacer algo, para que digamos que sabe cómo hacer algo?
+Aquí no voy a tratar de esbozar casos como estos (por tanto, no voy a
+mostrar que el intelectualismo es inadecuado en términos del rango de
+casos que puede explicar), pero vale la pena hacer algunas observaciones
+generales acerca de la situación dialéctica del debate.
+
+#question[¿Se les ocurre algún caso en que el contexto muestre claramente que
+el conocimiento proposicional es innecesario para tener saber-cómo?]
+
+La dificultad para el anti-intelectualista está en que si bien es
+plausible que para cada caso de este tipo será posible encontrar un
+concepto de habilidad relativizado al contexto, no es claro que este
+concepto vaya a ser lexicalizado y usado para describir estos casos,
+incluso por usuarios competentes del lenguaje. Es decir: si bien
+#emph[en] #emph[principio] sería posible decir que en cierto sentido
+relativo al contexto, tal o cual sujeto sabe cómo hacer tal o cual cosa
+incluso si no posee conocimiento proposicional relevante, de esto no se
+sigue que #emph[de] #emph[hecho] los patrones de atribución expresados
+en el lenguaje realicen esas posibilidades. ¿Y no son los patrones
+actuales de atribución lo que debería explicar la teoría?
+
+Es importante observar que la teoría sí logra capturar esos patrones—el
+problema desde la perspectiva intelectualista es que parece capturar
+algo más que no debería capturar. Pero esto no es necesariamente una
+desventaja para la teoría. Podríamos decir que una teoría
+anti-intelectualista del saber cómo debe tener dos capas: en una capa
+básica, define una clase de habilidades que podrían en cierto sentido
+ser tomadas como formas de saber cómo, y luego, en una capa superior,
+define las condiciones en las que algunas de esas habilidades son en
+efecto tomadas como tales. La segunda capa de la teoría refleja las
+necesidades prácticas de los usuarios del lenguaje, y estas están
+definidas por el contexto.#footnote[Véanse las reflexiones de Craig
+(1990) sobre la función del concepto de saber cómo.] Lo que hace falta,
+entonces, es precisar en qué contextos se vuelve imperioso rastrear
+ciertas habilidades.
+
+== Saber-cómo y _skill_
+
 
 
 
 #context[
-  #set heading(numbering: none, outlined: false)
+#set heading(numbering: none, outlined: false)
 
 == Lecturas recomendadas
 
@@ -1286,5 +2029,12 @@ el comic ‘Lambda calculus for /lɪŋgwɪsts/’:
 #emph[Meaning: A Slim Guide to Semantics];, ofrece una concisa
 introducción a la semántica, manteniendo los aspectos formales a un
 mínimo.
+
+Sobre el contextualismo, el artículo de la SEP sobre contextualismo epistémico
+es recomendable:
+#link("https://plato.stanford.edu/entries/contextualism-epistemology/"). Un
+libro reciente que da una exposición de los avances más recientes respecto a la
+semántica de las atribuciones del conocimiento es _The Semantics of Knowledge
+Attributions_, de Michael Blome-Tillmann.
 
 ]

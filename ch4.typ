@@ -1077,7 +1077,7 @@ distinto al intelectualista; solamente diferiría en qué propiedades
 juegan ciertos roles explicativos. Sin embargo, es importante observar
 que Ryle advierte que al decir que alguien tiene una habilidad, no lo
 describimos como el sujeto de algún estado oculto subyacente. Ryle
-presenta esta idea como un ejemplo de una más general, que es que los
+presenta esta idea como un ejemplo de otra, que más general, y que es que los
 enunciados indicativos no son verdaderos solamente cuando describen un
 estado de cosas. Por ejemplo, según Ryle, los enunciados que tienen la
 forma de una ley (por ejemplo, un enunciado como ‘si un sujeto tiene los

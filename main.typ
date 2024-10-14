@@ -19,11 +19,11 @@
       #v(1em)
     ] else if it.level == 2 [
       #v(1em)
-      #text(size: 13pt)[#it]
+      #text(size: 13pt, weight: "medium")[#it]
       #v(0.5em)
     ] else if it.level == 3 [
       #v(0.8em)
-      #text(size: 12pt)[#it]
+      #text(size: 12pt, weight: "medium")[#it]
       #v(0.5em)
     ] else [
       #emph(it)
@@ -38,6 +38,16 @@
 #show outline.entry.where(level: 2): it => {
   emph(it)
 }
+
+#import "@preview/wordometer:0.1.3": word-count, total-words
+
+#show: word-count
+
+#align(center + horizon)[
+Palabras: #total-words / 80000 (#calc.round(43109*100/80000, digits: 1)%)
+]
+
+#pagebreak()
 
 #set page(numbering: "i")
 #include "frontmatter.typ"
@@ -58,5 +68,5 @@
 #include "ch8.typ"
 #include "ch9.typ"
 #include "ch10.typ"
-#include "respuestas.typ"
+// #include "respuestas.typ"
 #include "backmatter.typ"

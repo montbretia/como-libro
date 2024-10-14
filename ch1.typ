@@ -87,8 +87,9 @@ _knowing-how_.
 
   Compare:
 
-  #figure[
+  #figure(kind: "unnumbered-table", supplement: [])[
   #table(
+    fill: rgb("#ebb5c3").desaturate(50%),
     columns: 3,
     stroke: none,
     [*inglés*], [*español*], [*españól (alt.)*],
