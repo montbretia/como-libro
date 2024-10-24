@@ -1,14 +1,23 @@
 #let question(body) = {
-  block(fill: rgb("#f4c9c3"), inset: 5pt, outset: 5pt, radius: 5pt)[
+  block(fill: rgb("#f4c9c3"), spacing: 0.64em, inset: 5pt, outset: 2pt, radius: 5pt, above: 1.5em, below: 1.5em)[
     #grid(columns: (25pt, 1fr),
-      block[#align(right+horizon)[#text(size: 1.6em, fill: black.lighten(20%))[*¿?*]]],
-      grid.cell(align: horizon, breakable: false)[#body]
+      block[#align(right+horizon)[#text(size: 1.2em, fill: black.lighten(20%))[*¿?*]]],
+      grid.cell(align: horizon, breakable: false)[
+      #body
+      ]
     )
   ]
 }
 
 #let aside(breakable: false, body) = {
-  block(fill: rgb("#ebb5c3"), breakable: breakable, inset: 4pt, outset: 4pt, radius: 5pt)[#body]
+  block(fill: rgb("#ebb5c3"), spacing: 0.64em, breakable: breakable, inset: 4pt, outset: 4pt, radius: 5pt, above: 1.5em, below: 1.5em)[
+  #body
+  ]
+}
+
+#let fitch-r(body) = {
+  h(1fr)
+  text(size: 9pt)[(#body)]
 }
 
 #let color-key(color, lighten: 100%) = {
