@@ -1,4 +1,4 @@
-#import "utils.typ": aside
+#import "utils.typ": aside, question
 
 = El problema
 
@@ -16,10 +16,16 @@ estar satisfechos con la forma en que tuvimos éxito: fue solo causalidad, no
 estuvimos en control, fue suerte, etc. Pero cuando tenemos que repetir una
 acción, no podemos contar solamente con la suerte. Para estar en control de
 nuestras acciones, parece ser que tenemos que saber _qué_ hacer. Parece que
-tenemos que saber _cómo_ actuar.
+  tenemos que saber _cómo_ actuar, en un sentido amplio de 'actuar'.
 
 ¿Y qué es eso de ‘saber qué hacer’ y ‘saber cómo actuar’? ¿Y por qué son tan
 importantes para tener control de nuestras acciones?
+
+#aside[_Una clarificación inicial_: la expresión 'saber como actuar' puede sugerir
+la idea de saber cómo actuar bien, que tiene que ver con cuestiones morales; es
+decir, la idea de _conocimiento moral_. Si bien aquí nos van a preocupar algunas
+cuestiones normativas, nuestra preocupación no va a ser este tipo de conocimiento,
+sino lo que podríamos llamar conocimiento práctico en un sentido amplio.]
 
 Las respuestas a estas preguntas no son obvias, aunque quizás tengamos de
 antemano alguna idea acerca de ellas. Ciertamente, algo entendemos ya acerca de
@@ -81,9 +87,9 @@ tanto artificial del inglés, donde se utilizan los términos _know-how_ y
 _knowing-how_. 
 
 #aside[
-  _Una nota termninológica_. Mientras que en inglés usamos el mismo verbo raiz
-  "to know" para referirnos al conocimiento en todas sus formas, en español
-  empleamos de manera diferencial los términos "saber" y "conocer". 
+  _Una nota terminológica_. Mientras que en inglés usamos el mismo verbo raíz
+  'to know' para referirnos al conocimiento en todas sus formas, en español
+  empleamos de manera diferencial los términos 'saber' y 'conocer'. 
 
   Compare:
 
@@ -102,10 +108,10 @@ _knowing-how_.
   )
   ]
 
-  Las entradas bajo la columna *español (alt.)* suenan incorrectas.
+  Las entradas bajo la columna *español (alt.)* suenan incorrectas, o al menos peores que las de la columna *español*.
 
   En otros idiomas también se hacen distinciones similares. Por ejemplo,
-  comparen "connaitre" y "savoir" en francés, y "wissen" y "kennen" en alemán.
+  comparen 'connaitre' y 'savoir' en francés, y 'wissen' y 'kennen' en alemán.
 ]
 
 En tanto esta es una forma de conocimiento del algún tipo (y ya
@@ -196,7 +202,9 @@ concepción mapuche del conocimiento práctico (capítulo 10).
 Durante el transcurso de cada capítulo presentaré una serie de preguntas que
 pueden servir para pensar más en detalle los problemas tratados, y al final del
 libro hay un capítulo con esbozos de respuestas para algunas de estas
-preguntas.
+preguntas. 
+
+#question[Las preguntas van a aparecer en este formato.]
 
 Como es usual, el libro termina con una lista de referencias. Aparte de las
 referidas explícitamente en el texto, he añadido algunas entradas adicionales
