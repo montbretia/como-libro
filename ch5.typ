@@ -20,29 +20,27 @@ otro; etc.]]
 #v(2em)
 ]]
 
-En los capítulos anteriores, hemos examinado de manera preliminar el
-problema central acerca del saber cómo, a saber, si este puede
-explicarse en términos del conocimiento proposicional o no—la disputa
-entre intelectualistas, quienes dicen que se puede, y
-anti-intelectualistas, que dicen que no se puede. En el capítulo 3
-esbozamos una teoría intelectualista del saber cómo, y en el capítulo 4
-vimos cómo Ryle argumentó contra el intelectualismo con una serie de
-argumentos, proponiendo además la idea de que el saber cómo es un tipo
-de habilidad. La influencia de Ryle en la manera de pensar acerca del
-saber cómo ha sido notable, y la distinción entre conocimiento
-proposicional y saber cómo pasó a ser parte habitual del repertorio
-conceptual filosófico. Sin embargo, su ataque al intelectualismo no fue
-una respuesta definitiva al problema del saber cómo. Eventualmente, los
-argumentos de Ryle fueron examinados nuevamente, y distintas presiones
-teóricas sugirieron que quizás era tiempo de retomar la discusión. En
-este capítulo veremos una serie de argumentos que se han desarrollado a
-favor y en contra del intelectualismo y el anti-intelectualismo, los
-cuales han llegado a tomar formas bastante más sofisticadas que lo que
+En los capítulos anteriores, hemos examinado de manera preliminar el problema
+central acerca del saber cómo, a saber, si este puede explicarse en términos
+del conocimiento proposicional o no—la disputa entre intelectualistas, quienes
+dicen que se puede, y anti-intelectualistas, que dicen que no se puede. En el
+capítulo 3 esbozamos una teoría intelectualista del saber cómo, y en el
+capítulo 4 vimos cómo Ryle argumentó contra el intelectualismo con una serie de
+argumentos, proponiendo además la idea de que el saber cómo es un tipo de
+habilidad. La influencia de Ryle en la manera de pensar acerca del saber cómo
+ha sido notable, y la distinción entre conocimiento proposicional y saber cómo
+pasó a ser parte habitual del repertorio conceptual filosófico. Sin embargo, su
+ataque al intelectualismo no fue una respuesta definitiva al problema del saber
+cómo. Eventualmente, los argumentos de Ryle fueron examinados nuevamente, y
+distintas presiones teóricas sugirieron que quizás era tiempo de retomar la
+discusión. En este capítulo veremos una serie de argumentos que se han
+desarrollado a favor y en contra del intelectualismo y el anti-intelectualismo,
+los cuales han llegado a tomar formas bastante más sofisticadas que lo que
 hemos visto hasta aquí.
 
-El capítulo no pretende ser exhaustivo, pero sí trata de tocar los
-argumentos en la literatura más reciente que han sido más influyentes o
-que han ampliado el rango de opciones teóricas.
+El capítulo no pretende ser exhaustivo, pero sí trata de tocar los argumentos
+en la literatura más reciente que han sido más influyentes o que han ampliado
+el rango de opciones teóricas.
 
 == El regreso del intelectualismo
 
@@ -57,29 +55,27 @@ epistemología del conocimiento-primero (#emph[knowledge-first];, cf. Williamson
 
 === Stanley & Williamson contra Ryle 
 
-Lo primero que hacen Stanley y Williamson (2011) y Stanley (2011) es
-criticar los argumentos de Ryle. En primer lugar, atacan la suposición
-que hace del argumento contra la necesidad, de que el intelectualista
-debería comprometerse con la idea de que todo ejercicio de una acción
-intencional debe verse precedido por la contemplación de alguna
-proposición acerca de cómo realizarla. Según Stanley (2001, 14), esta
-suposición hace un mono de paja del intelectualismo; simplemente es un
-dato fenomenoógico que podemos actuar inteligentemente sin tener que
-contemplar proposiciones. Según Stanley y Williamson (2001), el problema
-fundamental con este aspecto del argumento de Ryle es que asume que el
-conocimiento proposicional #emph[solo] puede manifestarse mediante la
-contemplación de proposiciones. Recordemos el caso que vimos en el
-capítulo anterior del conocimiento proposicional que ejercitamos cuando
-abrimos una puerta. 
+Lo primero que hacen Stanley y Williamson (2011) y Stanley (2011) es criticar
+los argumentos de Ryle. En primer lugar, atacan la suposición que hace del
+argumento contra la necesidad, de que el intelectualista debería comprometerse
+con la idea de que todo ejercicio de una acción intencional debe verse
+precedido por la contemplación de alguna proposición acerca de cómo realizarla.
+Según Stanley (2001, 14), esta suposición hace un mono de paja del
+intelectualismo; simplemente es un dato fenomenoógico que podemos actuar
+inteligentemente sin tener que contemplar proposiciones. Según Stanley y
+Williamson (2001), el problema fundamental con este aspecto del argumento de
+Ryle es que asume que el conocimiento proposicional #emph[solo] puede
+manifestarse mediante la contemplación de proposiciones. Recordemos el caso que
+vimos en el capítulo anterior del conocimiento proposicional que ejercitamos
+cuando abrimos una puerta. 
 
-Por supuesto, podríamos tomar la expresión ‘contemplar una proposición’
-en un sentido en que incluso en casos como el de Ginet si podríamos
-decir que contemplamos proposiciones. Stanley considera la opción de
-decir que en vez de contemplar proposiciones, ciertas proposiciones se
-“gatillen” o activen. El problema en este caso es que una proposición
-parece no poder activarse inteligente o tontamente; eso es un error de
-categoría, porque no hay un sujeto en control de la activación de
-proposiciones.
+Por supuesto, podríamos tomar la expresión ‘contemplar una proposición’ en un
+sentido en que incluso en casos como el de Ginet si podríamos decir que
+contemplamos proposiciones. Stanley considera la opción de decir que en vez de
+contemplar proposiciones, ciertas proposiciones se “gatillen” o activen. El
+problema en este caso es que una proposición parece no poder activarse
+inteligente o tontamente; eso es un error de categoría, porque no hay un sujeto
+en control de la activación de proposiciones.
 
 Contra el argumento en contra de la suficiencia del conocimiento
 proposicional para el saber cómo, Stanley (2001) critica la aparente
@@ -225,7 +221,7 @@ puede reemplazar a ‘…’ no es la descripción de una acción. Por ejemplo:
 
 En este caso la pregunta es ‘¿cómo funciona el aparato de Golgi?’. Es
 claro, creo, que en este caso lo que adscribimos a Helen no es saber
-cómo en el sentido que nos interesa aquí, sino conocimiento acerca de
+cómo en el sentido que nosinteresa aquí, sino conocimiento acerca de
 las maneras en las que puede suceder algo.
 
 Supongamos, entonces, que el saber cómo es una instancia de un fenómeno
@@ -1103,10 +1099,12 @@ pesar de esto, una manera común de distinguir entre intelectualismo y
 anti-intelectualismo es que según el primero, el saber cómo es un tipo de
 conocimiento proposicional, mientras que según el segundo, el saber cómo no es
 un tipo de conocimiento proposicional. Según este esquema, habría posturas
-"anti-intelectualistas" #color-key(orange.lighten(85%).mix(purple.lighten(80%)), lighten: 0%) (porque rechazan la idea de que el saber-cómo es un
-tipo de actitud proposicional, que es el intelectualismo clásico #color-key(orange, lighten: 70%)) que según el esquema Ryleano serían
-intelectualistas (porque aún así aceptan que el saber cómo es algún tipo de
-estado mental con cierto contenido) (véase Tabla 1).
+"anti-intelectualistas"
+#color-key(orange.lighten(85%).mix(purple.lighten(80%)), lighten: 0%) (porque
+rechazan la idea de que el saber-cómo es un tipo de actitud proposicional, que
+es el intelectualismo clásico #color-key(orange, lighten: 70%)) que según el
+esquema Ryleano serían intelectualistas (porque aún así aceptan que el saber
+cómo es algún tipo de estado mental con cierto contenido) (véase Tabla 1).
 
 #figure(placement: top, caption: [_Clasificación de posturas según criterios Ryleanos_])[
 #set table(stroke: 0.5pt + black.lighten(60%))
@@ -1317,7 +1315,9 @@ quien se hace familiar con la manera en que otra persona podría hacer algo, sin
 esta familiaridad sea suficiente para que sepa cómo hacerlo.
 
 Para clarificar el modelo, es necesario elaborar la idea de que se tiene conocimiento
-de maneras de actuar.
+de maneras de actuar. Primero, es preciso entender a qué nos referimos cuando decimos
+que algo es una _manera de actuar_. Bengson & Moffett proponen que las maneras de actuar
+son tipos de acciones.
 
 === Interrogativismo
 
