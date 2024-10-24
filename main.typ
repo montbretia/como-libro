@@ -3,10 +3,12 @@
 
 #include "cover.typ"
 
-#show par: set block(spacing: 0.55em)
-#set par(justify: true, leading: 0.5em, first-line-indent: 1em)
+#set par(spacing: 0.64em, justify: true, leading: 0.5em, first-line-indent: 1em)
 
 #show quote: set pad(top: -1.6em, bottom: -0.8em, x: 2em)
+
+#show terms: set block(above: 1.2em, below: 1.2em)
+#show figure: set block(above: 1.2em, below: 1.2em)
 
 #show heading: it => [
     #set text(
