@@ -1,4 +1,4 @@
-#import "utils.typ": question, aside
+#import "utils.typ": question, aside, fitch-r
 #set text(lang: "es")
 
 = Enfrentando la imagen manifiesta
@@ -21,15 +21,14 @@ entender el mundo. Ambas imágenes del mundo coexisten y pretenden ser
 completas, y es menester de la filosofía unificarlas en una visión armoniosa,
 lo que llama una visión estereoscópica.
 
-#question[¿Es posible formar una imagen estereoscópica en el sentido de Sellars?
-Y si es posible, ¿es necesario que exista una única imagen estereoscópica?]
-]
-Estas ideas sirven como datos para la
-elaboración de teorías más robustas, y daremos un breve repaso de los
-principales problemas que esto conlleva, las principales maneras en que podemos
-lidiar con ellos, y las limitaciones inherentes a estas metodologías. En el
-resto de este libro veremos como lidiar con esto más concretamente; por ahora
-nos limitaremos a la generalidad.
+#question[¿Es posible formar una imagen estereoscópica en el sentido de
+Sellars? Y si es posible, ¿es necesario que exista una única imagen
+estereoscópica?] ] Estas ideas sirven como datos para la elaboración de teorías
+más robustas, y daremos un breve repaso de los principales problemas que esto
+conlleva, las principales maneras en que podemos lidiar con ellos, y las
+limitaciones inherentes a estas metodologías. En el resto de este libro veremos
+como lidiar con esto más concretamente; por ahora nos limitaremos a la
+generalidad.
 
 == Un montón de perogrulladas
 
@@ -102,7 +101,7 @@ En todo caso, si hacemos la asunción de que esta ‘imagen manifiesta’ funcio
 como una teoría, la siguiente pregunta que debemos hacernos es si puede
 construirse una teoría más robusta sobre esa base. El ejemplo que acabamos de
 considerar muestra que es fácil entrar en problemas: una vez que empezamos a
-tratar de ser más precisos respecto a nuestras creencias ordinarias, se vuelve
+tratar de ser más precisos respecto a nuestras opiniones ordinarias, se vuelve
 claro que además tenemos que tener claridad acerca de los conceptos auxiliares
 a los que acudimos (en nuestro ejemplo, tendríamos que clarificar que tipos de
 control podemos tener sobre nuestras acciones, entre otras cosas).
@@ -219,7 +218,7 @@ ejemplos de cómo usar el concepto), y examinar qué se requiere para que podamo
 vindicar nuestros juicios acerca de esos casos. Proveer de las condiciones en
 que esos juicios son verdaderos es proveer un análisis de estos conceptos.
 
-La justificaión de esta metodología es lógica. Esquemáticamente, ‘si X,
+La justificación de esta metodología es lógica. Esquemáticamente, ‘si X,
 entonces Y’ se formaliza como $X → Y$. 
 
 Si $X -> Y$ es verdadero, decimos que X es una condición _suficiente_ para Y (la intuición es que es suficiente que X
@@ -234,7 +233,18 @@ las mismas condiciones). En este caso decimos que Y es una condición _necesaria
 y suficiente_ para X.
 
 Cuando Y es más fácilmente comprensible o más básico
-que X, decimos que X queda _definido_ en términos de Y.
+que X, decimos que X queda _definido_ en términos de Y. 
+
+#aside[Si al aceptar un análisis como una definición reconocemos que dos
+condiciones son equivalentes, ¿cómo es posible que esto sea informativo? A esto
+se lo llama la _paradoja del análisis_: pareciera que un análisis no puede
+ser al mismo tiempo informativo y correcto. Supongamos que estamos analizando el
+concepto de ser bueno, y proponemos que ser bueno es ser F, donde F vale por
+la condición propuesta como análisis. Si preguntamos '¿es ser F ser bueno?', y 'ser F'
+significa lo mismo que 'ser bueno', ¿no es lo mismo que preguntar si ser F es ser F?.
+Una posible respuesta es que el paso inferencial entre el concepto de ser bueno
+y el concepto de ser F puede ser desconocido incluso si los conceptos representan
+las mismas condiciones.]
 
 En general, en vez de definir una condición para la aplicación de un concepto
 en términos de la aplicación de un otro concepto, lo haremos en términos de un
@@ -251,9 +261,15 @@ de la forma $X -> A, B, C$ es falso en dos condiciones:
 En el primer caso decimos que $A, B, C...$ no son necesarios para la satisfacción de $X$,
 y en el segundo caso, que $A, B, C...$ no son suficientes.
 
-A menudo, además, se asume que la verdad de un análisis es necesario. En esos casos, para
-dar un contraejemplo no es necesario que demos un contraejemplo real, sino que basta con
-que mostremos que es _posible_ que el análisis sea falso.
+A menudo, además, se asume que la verdad de un análisis es necesario. En esos
+casos, para dar un contraejemplo no es necesario que demos un contraejemplo
+real, sino que basta con que mostremos que es _posible_ que el análisis sea
+falso.#footnote[Si el análisis no se presenta como una condición nnecesaria,
+mostrar que tiene un ccontraejemplo contrafactico (i.e., meramente posible) es
+inefectivo. Si alguien defiende que la justicia de hecho consiste en A, B, y C,
+decir que si las cosas fueran muy distintas a como en realidad son, podría haber
+justicia sin C no mostraría que la justicia no consiste de hecho en A, B, y C,
+sólo que el hecho de que consista en A, B y C es contingente.]  
 
 #question[En el diálogo _El Político_, Platón emplea el método de división y
 sugiere que el ser humano es un animal bípedo sin plumas: "... debimos haber
@@ -288,6 +304,11 @@ atardecer rojo. Sé que lo que veo es rojo: creo que lo es, es verdadero que lo
 es y tengo una justificación para creerlo (puedo en general tomar mi
 experiencia perceptual como una fuente confiable de conocimiento y estoy en una
 situación normal donde puedo descontar que esté alucinando o que me equivoque). 
+
+#aside[_Una clarificación terminológica_: La noción de 'creencia' que usamos aquí
+no tiene la connotación de 'convicción religiosa' que la palabra tiene a veces
+en su uso en el español. Cuando decimos que alguien cree algo, simplemente decimos
+que lo acepta o asiente a ello de alguna manera, con alguna convicción.]
 
 Como Edmund Gettier observó en un ensayo en 1963, el análisis tiene
 contraejemplos. Una manera de presentar estos contraejemplos es en la forma de
@@ -527,30 +548,31 @@ Haciendo esta asunción, podemos construir modelos de situaciones que validen o
 refuten ciertas asunciones sobre el conocimiento. Por ejemplo, podríamos creer
 que hay proposiciones verdaderas que ignoramos, pero que todas las
 proposiciones verdaderas son cognocibles (es decir, que pueden conocerse). Un
-argumento famoso muestra que estas asunciones son incompatibles con otras
-asunciones con el conocimiento (a saber, que conocer una proposición implica
-que es verdadera, y que conocer una conjunción implica conocer los conjuntos de
-esa conjunción): se puede mostrar que dadas esas asunciones, no solamente todas
-las proposiciones son cognocibles, sino que todas son de hecho conocidas. Esto
-se lo conoce como la _paradoja de la cognocibilidad de Fitch_. Este argumento
-muestra que ciertas maneras de modelas el conocimiento no funcionan, y una
-respuesta a esta dificultad es que deben construirse mejores modelos o teorías
-sobre el conocimiento.
+argumento famoso muestra que está asunción es incompatible con otras asunciones
+sobre el conocimiento (a saber, que conocer una proposición implica que es
+verdadera, y que conocer una conjunción implica conocer los conjuntos de esa
+conjunción): se puede mostrar que dadas todas esas asunciones en conjunto, no
+solamente todas las proposiciones son cognocibles, sino que todas son de hecho
+conocidas. Esto se lo conoce como la _paradoja de la cognocibilidad de Fitch_.
+Este argumento muestra que ciertas maneras de modelas el conocimiento no
+funcionan, y una respuesta a esta dificultad es que deben construirse mejores
+modelos o teorías sobre el conocimiento.
 
-#aside[
+#aside(breakable: true)[
   El argumento que lleva a la paradoja de Fitch es el siguiente. Primero, 
   hay una serie de asunciones sobre el conocimiento, que describen el modelo:
 
   #set enum(numbering: "A)")
-  + $forall p (p -> diamond.medium K p)$ 
-  + $exists p (p and not K p)$ 
-  + $K p tack.r p$
-  + $K (p and q) tack.r K p and K q$
+  + $forall p (p -> diamond.medium K p)$  #fitch-r[_toda proposición es cognocible_]
+  + $exists p (p and not K p)$            #fitch-r[_hay proposiciones que son desconocidas_]
+  + $K p tack.r p$                        #fitch-r[_el conocimiento es factivo--implica la verdad de lo conocido_]
+  + $K (p and q) tack.r K p and K q$      #fitch-r[_si se conoce una conjunción, se conocen sus conyuntos_]
 
   Es obvio que esto no es una teoría completa sobre el conocimiento; la idea es simplemente
   examinar como esas asunciones interactuan entre sí.
 
   Además necesitamos un par de principios lógicos usualmente aceptados:
+
   #set enum(numbering: "I)")
   + $"Si" tack.r p, "entonces" tack.r square p$
   + $square not p tack.r not diamond.medium p$
@@ -558,26 +580,26 @@ sobre el conocimiento.
   Primero, mostramos que no es posible conocer que se ignora algo:
   
   #set enum(numbering: "1)")
-  + $K (p and not K p)$ (suposición)
-  + $K p$ (1, D)
-  + $K not K p$ (1, D)
-  + $not K p$ (3, C)
-  + $bot$ (2, 4)
-  + $not K (p and not K p)$ (1, 5, _reductio_)
-  + $square not K (p and not K p)$ (6, I)
-  + $not diamond.medium K (p and not K p)$ (7, II)
+  + $K (p and not K p)$       #fitch-r[suposición: _se sabe que se desconoce algo_]
+  + $K p$                     #fitch-r[1, D]
+  + $K not K p$               #fitch-r[1, D]
+  + $not K p$                 #fitch-r[3, C]
+  + $bot$                     #fitch-r[2, 4]
+  + $not K (p and not K p)$   #fitch-r[1, 5, _reductio_]
+  + $square not K (p and not K p)$ #fitch-r[6, I]
+  + $not diamond.medium K (p and not K p)$ #fitch-r[7, II]
 
-  Pero esto está en conflicto con nuestras asunciones:
+  Pero esto está en conflicto con nuestras asunciones, pues estas implican que es posible saber que se ignora algo:
   #set enum(start: 9)
-  + $(p and not K p)$ (instancia de B)
-  + $(p and not K p) -> diamond.medium K (p and not K p)$ (instancia de A)
-  + $diamond.medium K (p and not K p)$ (9, 10, _modus ponens_)
-  + $bot$ (11, 8)
-  + $not exists (p and not K p)$ (B, 12, _reductio_)
+  + $(p and not K p)$             #fitch-r[instancia de B: _hay algo desconocido_]
+  + $(p and not K p) -> diamond.medium K (p and not K p)$ #fitch-r[instancia de A]
+  + $diamond.medium K (p and not K p)$ #fitch-r[9, 10, _modus ponens_]
+  + $bot$                         #fitch-r[11, 8]
+  + $not exists (p and not K p)$  #fitch-r[B, 12, _reductio_]
 
-  Lo que es equivalente a que todas las proposiciones sean conocidas: $ forall p (p -> K p) $ ¡Esto es paradójico!
+  Lo que es equivalente a que todas las proposiciones verdaderas sean conocidas: $ forall p (p -> K p) $
 
-  #question[¿Cómo creen que podemos evitar la paradoja?]
+  #block(inset: 3pt)[#question[¿Cómo creen que podemos evitar la paradoja?]]
 ]
 
 == ¿Los conceptos de quién?
