@@ -19,11 +19,7 @@ resuelva la tensión que existe entre las maneras ordinarias, cotidianas, de
 entender al mundo (la ‘imagen manifiesta’) y las maneras científicas de
 entender el mundo. Ambas imágenes del mundo coexisten y pretenden ser
 completas, y es menester de la filosofía unificarlas en una visión armoniosa,
-lo que llama una visión estereoscópica.
-
-#question[¿Es posible formar una imagen estereoscópica en el sentido de
-Sellars? Y si es posible, ¿es necesario que exista una única imagen
-estereoscópica?] ] Estas ideas sirven como datos para la elaboración de teorías
+lo que llama una visión estereoscópica.] Estas ideas sirven como datos para la elaboración de teorías
 más robustas, y daremos un breve repaso de los principales problemas que esto
 conlleva, las principales maneras en que podemos lidiar con ellos, y las
 limitaciones inherentes a estas metodologías. En el resto de este libro veremos
@@ -221,10 +217,11 @@ que esos juicios son verdaderos es proveer un análisis de estos conceptos.
 La justificación de esta metodología es lógica. Esquemáticamente, ‘si X,
 entonces Y’ se formaliza como $X → Y$. 
 
-Si $X -> Y$ es verdadero, decimos que X es una condición _suficiente_ para Y (la intuición es que es suficiente que X
-se dé para que Y se dé), y Y es una condición _necesaria_ para X (la intuición
-es que dado que es suficiente que X se dé para que Y se dé, si Y no se diera,
-entonces X no se daría – por tanto, Y es necesario para X). 
+Si $X -> Y$ es verdadero, decimos que X es una condición _suficiente_ para Y
+(la intuición es que es suficiente que X se dé para que Y se dé), y Y es una
+condición _necesaria_ para X (la intuición es que dado que es suficiente que X
+se dé para que Y se dé, si Y no se diera, entonces X no se daría – por tanto, Y
+es necesario para X). 
 
 Si además Y → X (es decir, si además Y es una condición suficiente para X y X
 es una condición necesaria para Y), se satisface el bicondicional X ↔ Y, que
