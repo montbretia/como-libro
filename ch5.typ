@@ -1842,6 +1842,11 @@ llegar a saber cómo hacer algo inmediatamente al recibir testimonio acerca de
 cómo hacerlo. ¿Decimos que aprendemos cómo hacer algo simplemente _cuando_ alguien
 nos explica cómo se hace?
 
+#question[¿Es generalmente el caso que _al momento_ de recibir testimonio en las
+condiciones adecuadas obtenemos justificación o conocimiento? ¿Se le ocurren
+contraejemplos? ¿Cree que esto afectaría la manera en que podamos explicar la
+(posible) adquisición de saber-cómo mediante el testimonio?]
+
 Si tenemos tendencias anti-intelectualistas, es plausible que la intuición que
 tengamos sobre casos como estos es que no basta con que se nos informa acerca de
 cómo hacer algo; es necesario, además, que adquiramos control sobre las maneras
