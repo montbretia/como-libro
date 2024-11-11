@@ -1,5 +1,5 @@
 #set page(paper: "a5")
-#set text(font:"Adobe Caslon Pro", size: 10pt, lang: "es")
+#set text(font:"Adobe Caslon Pro", size: 10.5pt, lang: "es")
 
 #include "cover.typ"
 
@@ -10,6 +10,10 @@
 #show terms: set block(above: 1.2em, below: 1.2em)
 #show figure: set block(above: 1.2em, below: 1.2em)
 
+#show enum: set block(above: 1em, below: 1em)
+#show list: set block(above: 1em, below: 1em)
+#show math.equation.where(block: true): set block(above: 1em, below: 1em)
+
 #show heading: it => [
     #set text(
       font: "Jost*",
@@ -18,7 +22,7 @@
       #if it.outlined == true [#pagebreak()]
       #v(5em)
       #text(size: 16pt)[#it]
-      #v(1em)
+      #v(3em)
     ] else if it.level == 2 [
       #v(1em)
       #text(size: 13pt, weight: "medium")[#it]
@@ -41,7 +45,7 @@
   emph(it)
 }
 
-#import "@preview/wordometer:0.1.3": word-count, total-words
+#import "@preview/wordometer:0.1.4": word-count, total-words
 
 #show: word-count
 
