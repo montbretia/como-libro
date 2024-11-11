@@ -95,7 +95,7 @@ _knowing-how_.
 
   #figure(kind: "unnumbered-table", supplement: [])[
   #table(
-    fill: rgb("#ebb5c3").desaturate(50%),
+    fill: rgb("#ebb5c3").lighten(40%),
     columns: 3,
     stroke: none,
     [*inglés*], [*español*], [*españól (alt.)*],
@@ -150,6 +150,7 @@ intentar responderlas uno mismo. Las preguntas acerca del saber cómo son
 fascinantes (espero convencerte de ello durante el libro), y ofrecen una
 excelente oportunidad para ello.
 
+#v(2em)
 #block[]
 
 El libro procede en cuatro etapas.
@@ -197,6 +198,7 @@ que la naturaleza del saber cómo es indiferente a la cultura en la que lo
 evaluemos.  Para examinar críticamente esa presuposición, exploraremos la
 concepción mapuche del conocimiento práctico (capítulo 10).
 
+#v(2em)
 #block[]
 
 Durante el transcurso de cada capítulo presentaré una serie de preguntas que
