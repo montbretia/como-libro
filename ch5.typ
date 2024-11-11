@@ -3,22 +3,33 @@
 #import "utils.typ": question, aside, color-key
 #set text(lang: "es")
 
+#pagebreak()
+
+#set page(numbering: none)
+#align(center+horizon)[
+#figure[
+  #image("meme1.jpeg", width: 70%)
+]
+]
+
+#set page(numbering: "1")
+
 = La disputa de las cien escuelas
 
 #align(right)[
-#block(width: 70%)[
-  #v(5em)
-  #quote(block: true, attribution: [Spinoza, _Ética_, parte 1, apéndice])[
-    #align(left)[\[…\] todo el mundo confunde con la realidad la manera en que se afecta
-su imaginación. De ahí que no sea sorpresa \[…\] que encontremos tantas
-controversias entre las personas, que finalmente llevan al escepticismo.
-Pues aunque los cuerpos humanos concuerdan de muchas maneras, hay
-también muchas diferencias, y, por lo tanto, una persona puede pensar
-que es bueno lo que otro cree que es malo; lo que para uno está bien
-ordenado, para otro es confuso; lo que para uno es placentero, molesta a
-otro; etc.]]
-#v(2em)
-]]
+  #block(width: 70%)[
+    #v(5em)
+    #quote(block: true, attribution: [Spinoza, _Ética_, parte 1, apéndice])[
+      #align(left)[\[…\] todo el mundo confunde con la realidad la manera en que
+      se afecta su imaginación. De ahí que no sea sorpresa \[…\] que encontremos
+      tantas controversias entre las personas, que finalmente llevan al
+      escepticismo. Pues aunque los cuerpos humanos concuerdan de muchas
+      maneras, hay también muchas diferencias, y, por lo tanto, una persona
+      puede pensar que es bueno lo que otro cree que es malo; lo que para uno
+      está bien ordenado, para otro es confuso; lo que para uno es placentero,
+      molesta a otro; etc.]]
+      #v(2em)
+    ]]
 
 En los capítulos anteriores, hemos examinado de manera preliminar el problema
 central acerca del saber cómo, a saber, si este puede explicarse en términos
@@ -179,17 +190,15 @@ el caso de (a) se leería:
   (b) para todo #emph[y];, si #emph[y] es la reina de la Araucanía,
   #emph[y] es idéntico a #emph[x];, y (c) #emph[x] es gallarda.
 
-La idea es que la oración dice que hay un alguien que es la única reina
-de la Araucanía, y que tal persona es gallarda. Como en efecto no hay
-tal persona, la oración es falsa. Pero en esta reconstrucción del
-significado de la oración, no hay necesidad de pensar que la expresión
-refiere a un objeto particular, posiblemente inexistente. El problema
-metafísico que presentaba la primera interpretación de (c)
-desaparece.#footnote[Wittgenstein (1922) reconoce esto como la gran contribución de Russell a
-la filosofía: ‘El mérito de Russell fue haber mostrado que la forma
-lógica aparente de una proposición no tiene que ser su forma real’ (TLP,
-4.0031).
-]
+La idea es que la oración dice que hay un alguien que es la única reina de la
+Araucanía, y que tal persona es gallarda. Como en efecto no hay tal persona, la
+oración es falsa. Pero en esta reconstrucción del significado de la oración, no
+hay necesidad de pensar que la expresión refiere a un objeto particular,
+posiblemente inexistente. El problema metafísico que presentaba la primera
+interpretación de (c) desaparece.#footnote[Wittgenstein (1922) reconoce esto
+como la gran contribución de Russell a la filosofía: ‘El mérito de Russell fue
+haber mostrado que la forma lógica aparente de una proposición no tiene que ser
+su forma real’ (TLP, 4.0031). ]
 
 === Saber-\? y la semántica del saber cómo
 
@@ -239,7 +248,7 @@ que podemos tener acerca de los otros casos de saber-\? es que pueden
 quiere decir es que las condiciones en las que las adscripciones de esos
 tipos de saber-\? son verdaderas coinciden con las condiciones ciertas
 adscripciones de conocimiento proposicional; por ejemplo, que ‘Joaquín
-sabe quién tiene la revista’ es verdadero si y solo si una adscripción
+sabe quién tiene la revista’ es verdadero si y solo si una ascripción
 de cierto conocimiento proposicional (por ejemplo, que alguien en
 específico tenga la revista) es verdadera.
 
@@ -265,16 +274,16 @@ La estructura argumental puede hacerse más clara con la siguiente glosa
 #[
 #set enum(numbering: "A)", start: 1)
 + Las ascripciones de saber-cómo (enunciados de la forma ‘S sabe como
-  …’, donde S es el sujeto de la adscripción) incluyen preguntas
+  …’, donde S es el sujeto de la ascripción) incluyen preguntas
   incrustadas (por tanto son inscripciones de saber-\?) (suposición),
 + Las ascripciones de saber-cómo son verdaderas solo si
   sus sujetos saben la respuesta a la pregunta incrustada
   correspondiente (suposición),
 + Se sabe la respuesta a una pregunta Q solo si se sabe que p, donde p
   es una proposición que es una respuesta correcta a Q (suposición),
-+ Si una adscripción de saber cómo es verdadera, el sujeto de la
-  adscripción sabe que p, donde p es una respuesta correcta a la
-  pregunta incrustada en la adscripción (encadenando A, B y C).
++ Si una ascripción de saber cómo es verdadera, el sujeto de la
+  ascripción sabe que p, donde p es una respuesta correcta a la
+  pregunta incrustada en la ascripción (encadenando A, B y C).
 ]
 
 A y B se basan en los patrones que hemos observado acerca de las
@@ -335,28 +344,25 @@ Esto involucra la posesión de conocimiento proposicional, al menos en
 una de sus interpretaciones plausibles.
 
 Un problema con esta versión de la idea, no obstante, es que saber qué
-respuestas podría tener la pregunta “¿cómo preparar un curry?” puede
-querer decir algo más o menos estricto dependiendo de cómo concibamos
-las posibilidades que tomemos como opciones. Quizás sea posible preparar
-curry de maneras muy distintas a las que tenemos disponibles. ¿Saber
-cómo hacer curry requiere que conozcamos que es posible hacer curry de
-#emph[todas] esas maneras? También queremos distinguir entre respuestas
-posibles y respuestas verdaderas. Supongamos que el mundo puede ser
-distinto, y que en distintos mundos es posible o no actuar de cierta
-manera. Entonces, en algunos mundos puede ser falso que se pueda hacer
-algo de una cierta manera. Hay maneras de preparar curry que son
-imposibles en este mundo, pero que sí son posibles en otros mundos. En
-el modelo de Hamblin, apelar a una de esas maneras relativamente
-imposibles de preparar curry es una manera de dar una respuesta posible
-a la pregunta de cómo preparar curry. Pero saber que esa es una
-posibilidad no parece ser suficiente para decir que sepamos cómo
-preparar curry, a menos que además sepamos formas de preparar curry que
-verdaderamente son formas de preparar curry en este
-mundo.#footnote[Karttunen hace la observación de que si decimos ‘Isabel le dijo a María
-que podía preparar curry de \[tal o cual manera\]’, es posible que lo
-que Isabel le dijo a María sea falso, pero que si decimos ‘Isabel le
-dijo a María cómo preparar curry’, queda supuesto que lo que le dijo es
-verdadero.
+respuestas podría tener la pregunta “¿cómo preparar un curry?” puede querer
+decir algo más o menos estricto dependiendo de cómo concibamos las posibilidades
+que tomemos como opciones. Quizás sea posible preparar curry de maneras muy
+distintas a las que tenemos disponibles. ¿Saber cómo hacer curry requiere que
+conozcamos que es posible hacer curry de #emph[todas] esas maneras? También
+queremos distinguir entre respuestas posibles y respuestas verdaderas.
+Supongamos que el mundo puede ser distinto, y que en distintos mundos es posible
+o no actuar de cierta manera. Entonces, en algunos mundos puede ser falso que se
+pueda hacer algo de una cierta manera. Hay maneras de preparar curry que son
+imposibles en este mundo, pero que sí son posibles en otros mundos. En el modelo
+de Hamblin, apelar a una de esas maneras relativamente imposibles de preparar
+curry es una manera de dar una respuesta posible a la pregunta de cómo preparar
+curry. Pero saber que esa es una posibilidad no parece ser suficiente para decir
+que sepamos cómo preparar curry, a menos que además sepamos formas de preparar
+curry que verdaderamente son formas de preparar curry en este
+mundo.#footnote[Karttunen hace la observación de que si decimos ‘Isabel le dijo
+a María que podía preparar curry de \[tal o cual manera\]’, es posible que lo
+que Isabel le dijo a María sea falso, pero que si decimos ‘Isabel le dijo a
+María cómo preparar curry’, queda supuesto que lo que le dijo es verdadero.
 
 #question[Karttunen distingue entre decir que
 se puede hacer algo de cierta manera y decir cómo hacer algo. ¿Qué
@@ -371,22 +377,20 @@ conjunto de posibles respuestas a la pregunta de quién escribió Hamlet,
 sino el conjunto de respuestas verdaderas a la pregunta de quién
 escribió Hamlet.
 
-La diferencia es más obvia si hacemos uso de la siguiente notación
-lógica. Estamos familiarizados con expresiones cuantificadas como ∃xPx,
-lo que leemos como ‘hay un x tal que Px’. En este caso, P es un
-predicado que acepta una variable x; si se le asigna a la variable un
-valor determinado, la expresión Px es verdadera o falsa (supongamos que
-P refiera a la propiedad de #emph[ser portugués];; si reemplazamos a x
-por Fernando Pessoa, el resultado es verdadero, pero si reemplazamos a x
-por Pablo Neruda el resultado es falso). Supongamos que tenemos una
-expresión más compleja: $exists x \Px and \Rx$ (supongamos que R refiere a la propiedad
-de #emph[ser un radioaficionado];). Ahora bien, quizás quisiéramos
-considerar la propiedad de #emph[ser un radioaficionado portugués];. Una
-herramienta que podemos usar es la de lo que se llama el #emph[operador]
-#emph[lambda ];(λ), que construye predicados a partir de una variable y
-una formula donde puede o no ocurrir la variable. Usando lambda, podemos
-construir la propiedad de ser un radioaficionado portugués de la
-siguiente manera:
+La diferencia es más obvia si hacemos uso de la siguiente notación lógica.
+Estamos familiarizados con expresiones cuantificadas como ∃xPx, lo que leemos
+como ‘hay un x tal que Px’. En este caso, P es un predicado que acepta una
+variable x; si se le asigna a la variable un valor determinado, la expresión Px
+es verdadera o falsa (supongamos que P refiera a la propiedad de #emph[ser
+portugués];; si reemplazamos a x por Fernando Pessoa, el resultado es verdadero,
+pero si reemplazamos a x por Pablo Neruda el resultado es falso). Supongamos que
+tenemos una expresión más compleja: $exists x \Px and \Rx$ (supongamos que R
+refiere a la propiedad de #emph[ser un radioaficionado];). Ahora bien, quizás
+quisiéramos considerar la propiedad de #emph[ser un radioaficionado portugués];.
+Una herramienta que podemos usar es la de lo que se llama el #emph[operador]
+#emph[lambda ];(λ), que construye predicados a partir de una variable y una
+formula donde puede o no ocurrir la variable. Usando lambda, podemos construir
+la propiedad de ser un radioaficionado portugués de la siguiente manera:
 
 $ lambda x [\Px and \Rx ] $
 
@@ -439,7 +443,7 @@ el conjunto de proposiciones que dicen cómo baila María.
 En el caso del saber cómo, lo que nos interesa son las maneras en que
 alguien puede realizar una acción intencional. Esto añade ciertas
 complicaciones, como por ejemplo, quién debe ser el sujeto de la acción
-intencional. En general, este va a ser el sujeto de la adscripción
+intencional. En general, este va a ser el sujeto de la ascripción
 (después veremos más sobre esto). Pero en general, la idea va a ser que,
 por ejemplo,
 
@@ -699,10 +703,11 @@ casos.
 En el caso de la suerte verítica epistémica, la aplicación de esta idea
 resulta en lo siguiente:
 
-/ Suerte epistémica verítica modal: La verdad de la creencia de S en p es veríticamente afortunada si y solo
-  si la creencia de S en p es verdadera en el mundo actual pero es falsa
-  en casi todos los mundos posibles más cercanos en los que S forma su
-  creencia en p de la misma manera en que los forma en el mundo actual.
+/ Suerte epistémica verítica modal: La verdad de la creencia de S en p es
+ veríticamente afortunada si y solo si la creencia de S en p es verdadera en el
+ mundo actual pero es falsa en casi todos los mundos posibles más cercanos en
+ los que S forma su creencia en p de la misma manera en que los forma en el
+ mundo actual.
 
 Aquí vemos que en cierto sentido lo que hace la diferencia es la manera
 en que se forma la creencia. Algunos procedimientos van a ser confiables
@@ -1118,7 +1123,8 @@ table.cell(fill:orange.lighten(70%))[intelectualismo\ clásico], table.cell(alig
 
 Algunos autores, como Glick (2011) y Habgood-Coote (2019), clasifican posturas
 como intelectualistas o anti-intelectualistas en términos de cómo conciben
-el objeto del saber cómo y el tipo de relación con ese objeto (véase Tabla 2). Así, distinguen
+el objeto del saber cómo y el tipo de relación con ese objeto (véase la
+@table:clas-obj-relata). Así, distinguen
 entre:
 
 - _Intelectualismo fuerte_ #color-key(red, lighten: 40%): el objeto del saber-cómo es proposicional y la relación
@@ -1139,7 +1145,7 @@ table.cell(fill: red.transparentize(80%))[_proposicional_], table.vline(), [_no-
 table.cell(rowspan: 2, align: center+horizon)[#rotate(270deg, reflow:true, [*relación*])], [_conocer\ teóricamente_], table.cell(fill: red.transparentize(40%))[intelectualismo fuerte], [?],
 table.hline(), table.cell(fill: blue.transparentize(80%))[_otra relación_], table.cell(fill:red.transparentize(80%).mix(blue.transparentize(80%)).saturate(90%))[intelectualismo débil +\ anti-intelectualismo débil], table.cell(fill:blue.transparentize(40%))[anti-intelectualismo fuerte],
 )
-]
+]<table:clas-obj-relata>
 
 Una consecuencia de esta manera de clasificar estas posiciones es que el
 intelectualismo débil y el anti-intelectualismo débil resultan ser compatibles.
@@ -1286,7 +1292,7 @@ Bengson & Moffett ilustran el problema con el siguiente caso:
 
 #question[¿Se les ocurre alguna solución a este problema? ¿Podría ser una
 cuestión contextual--por ejemplo, que el contexto defina qué rango de mundos
-sean relevantes para la adscripción de las habilidades? (Volveremos a esto en
+sean relevantes para la ascripción de las habilidades? (Volveremos a esto en
 la sección 5.6.)]
 
 El problema es más grave que la dificultad de acomodar estos casos. El verdadero
@@ -1314,69 +1320,564 @@ X para saber cómo hacer X. Esto es importante para tratar casos como el de Hann
 quien se hace familiar con la manera en que otra persona podría hacer algo, sin que
 esta familiaridad sea suficiente para que sepa cómo hacerlo.
 
-Para clarificar el modelo, es necesario elaborar la idea de que se tiene conocimiento
-de maneras de actuar. Primero, es preciso entender a qué nos referimos cuando decimos
-que algo es una _manera de actuar_. Bengson & Moffett proponen que las maneras de actuar
-son tipos de acciones.
+Para clarificar el modelo, es necesario elaborar la idea de que se tiene
+conocimiento de maneras de actuar. Primero, es preciso entender a qué nos
+referimos cuando decimos que algo es una _manera de actuar_. Bengson & Moffett
+proponen que al menos algunas maneras de actuar (lo que ellos llama _métodos_) son
+secuencias de tipos de acciones cuya realización es un acto.#footnote[Stanley &
+Williamson (2001) dicen que las maneras son tipos de acciones; más
+precisamente, dicen que son propiedades que instancias de eventos pueden tener
+(la idea es que una acción es un evento, y que el que se haga de una u otra
+manera es una propiedad de ese evento). La diferencia es sutil, pero
+importante: contar un chiste _lentamente_ es hacer una cosa de una manera (a
+saber, con gracia), y puede consistir en hacer una acción siguiendo una
+secuencia de acciones. Pero la propiedad de que la acción se haga lentamente
+podría no ser idéntica a que pueda descomponer la acción en esa secuencia de
+acciones (aunque podríamos decir que la secuencia es distinta en uno y otro
+caso si incluimos alguna acción como esperar antes de seguir con el siguiente
+paso de la secuencia). Para apreciar la diferencia, consideren el ejemplo de
+Ryle de la diferencia que hay entre el tropiezo de una persona torpe y el
+tropiezo de un payaso: la secuencia de acciones es en cierto sentido la misma,
+pero tienen distintas propiedades (por ejemplo, solo la acción del payaso puede
+evaluarse como bien hecha).] Si bien el siguiente principio parece plausible
+
+/ Maneras a proposiciones: Para toda manera $M$ de hacer una acción posible $A$,
+ hay una proposición $p$ verdadera de la forma '$A$ puede hacerse de manera $M$',
+
+las maneras no son ellas mismas proposiciones (o proposiciones verdaderas).
+
+Hay varias ideas plausibles sobre las maneras de actuar:
+
+/ Diversidad: Puede haber más de una manera de hacer $x$.
+
+/ Publicidad: Dos sujetos, $x$ e $y$, pueden hacer la misma acción de la misma
+ manera incluso si no son idénticos.
+
+/ No-exclusividad: Un sujeto puede realizar al mismo tiempo más de una manera de
+ hacer $x$.
+
+/ Factividad: $M$ es una manera de hacer $x$ solo si es posible que algún
+ sujeto haga $x$ de esa manera.
+
+/ Exhaustividad: $M$ es una manera de hacer $x$ solo si al actuar de esa manera,
+ uno hace todo lo que hace falta para hacer $x$.
+
+/ Grano-grueso: Maneras necesariamente equivalentes de hacer $x$ son idénticas.
+
+Imaginen que nuestro objetivo es llegar a nuestro trabajo desde nuestra casa.
+Es plausible que hay distintas rutas que podríamos tomar para llegar; tomar
+alguna de ellas es actuar de distintas maneras que son todas maneras de llegar
+a nuestro trabajo. Alguien más podría seguir las mismas rutas que seguimos
+nosotros--en este sentido las maneras no son cuestiones privadas (puede ser que
+a nadie más se le ocurra actuar como nosotros, pero esto no hacer que sea
+imposible en principio que otra persona actúe de esta manera). Si quiero darle
+un mensaje urgente a alguien, podría tratar de hacerle llegar este mensaje de
+distintas maneras, a modo de minimizar el riesgo de que alguno de esos medios
+falle. Si imaginase una manera de enviarle un mensaje a alguien que no puede
+realizarse, no imaginaría en realidad una manera de enviarle ese mensaje; no
+podría tampoco decir que una idea incompleta de hacer algo corresponda a una
+manera de hacer algo (si me salto pasos, simplemente no obtengo lo que busco). Y
+finalmente, si necesariamente realizar algo de una manera es equivalente a
+realizar algo de otra manera, tendríamos que decir que esas maneras son
+idénticas.
+
+Ahora bien, nuestra relación con las maneras no es directa. Nos formamos planes,
+ideas acerca de cómo hacer las cosas, etc. Estas son _concepciones_ de cómo
+hacer algo. Las concepciones son la forma en que pensamos las maneras. A
+diferencia de las maneras mismas, las concepciones no tienen que satisfacer las
+condiciones de Factividad o Exhaustividad: una concepción puede estar errada, o
+puede ser incompleta. Tampoco satisfacen Grano-grueso: concepciones
+necesariamente equivalente pueden no ser idénticas (alguien podría concebir que
+distintas acciones se hacen de la misma manera, y en ese caso sus concepciones
+son distintas aunque tienen son necesariamente equivalentes.)
+
+Para ilustrar la diferencia, consideren el siguiente caso:
+
+/ Nadadora: Mover los brazos como si uno nadara es una manera de escapar una
+ avalancha. Una nadadora que sabe que esa es una manera de nadar tendría una
+ concepción de esa manera de actuar como una manera de nadar, pero podría no
+ tener una concepción de esa manera de actuar como una manera de escapar de
+ una avalancha, aunque son necesariamente equivalentes.
+
+La idea de Bengson & Moffett es que saber-cómo hacer algo es tener un relación
+cognitiva con alguna manera de hacerlo que consista en tener conocimiento
+objetual de esa manera y en tener una concepción correcta de cómo hacerlo. La
+Nadadora no sabe necesariamente cómo escapar de la avalancha porque no tiene una
+concepción correcta de cómo actuar para escapar de la avalancha, aunque
+plausiblemente tiene una concepción correcta de cómo nadar que es necesariamente
+equivalente. En otras palabras, la Nadadora no _entiende_ cómo escapar la
+avalancha. En el caso de Pi, el matemático sí tiene una concepción correcta y
+completa de una manera de calcular el enésimo dígito de $pi$, aunque carece de
+las capacidades para hacerlo. Lo que es clave en los casos en que sujetos tienen
+saber-cómo es que la concepción de estos sujetos de las maneras relevantes de
+actuar guía su acción, porque si intentaran realizar estas acciones, tratarían
+de hacer que su comportamiento se ajustara a su concepción de cómo realizar esas
+acciones. Su concepción sería correcta y completa si fuera posible para estos
+sujetos que realizaran estas acciones guiándose por esa concepción.
+
+#question[¿Cómo maneja la teoría casos como el del _Salchow_, Simulador de vuelo,
+etc.?]
+
+En resumen:
+
+/ Intelectualismo objectualista (B & M): Saber cómo hacer $x$ es tener
+ conocimiento objetual de una manera $w$ de hacer $x$ al mismo tiempo que se
+ comprende una concepción correcta y completa de $w$
+
+La postura es intelectualista en el sentido de que asume que hay un estado
+con contenido intelectual (el de tener una concepción) que antecede al ejercicio
+del saber-cómo. Sin embargo, en esta teoría el conocimiento proposicional no es
+ni necesario ni suficiente para el saber-cómo.
+
+#question[Si es así, ¿realmente vale la pena clasificar la postura como
+intelectualista? ¿No podría reformularse en términos de, por ejemplo, que los
+sujetos tengan ciertas capacidades que pueden especificarse en términos de las
+concepciones que tengan de las maneras de actuar?]
 
 === Interrogativismo
 
-Más recientemente, Joshua Habgood-Coote ha desarrollado una nueva teoría del saber-cómo
-que puede clasificarse como intelectualista, pero que difiere de varias maneras
-significativas del modelo intelectualista tradicional.
+Más recientemente, Joshua Habgood-Coote (2018) ha desarrollado una nueva teoría del
+saber-cómo que puede clasificarse como intelectualista, pero que difiere de
+varias maneras significativas del modelo intelectualista tradicional.
+
+En resumen, la postura de Habgood-Coote es que el saber-cómo es lo que él llama
+una capacidad interrogativa, a saber, la capacidad de responder preguntas _al
+vuelo_ (_on the fly_) sobre cómo hacer $X$. Habgood-Coote propone que esto tiene
+las ventajas del anti-intelectualismo clásico, al enfatizar la importancia de
+ciertas habilidades, pero también del intelectualismo, al enfatizar la
+importancia de tener cierta relación con ciertas proposiciones, a saber, las
+proposiciones que responden a ciertas preguntas sobre cómo.
+
+Antes vimos cómo podemos modelar a las proposiciones como posibles respuestas a
+preguntas, y como ciertas formas de intelectualismo (como la propuesta de
+Stanley Y Williamson) pueden reconstruirse en términos de que los sujetos que
+saben cómo hacer algo lo hacen porque saben la respuestas a preguntas sobre cómo
+hacerlo. Hay que tener cuidado con que en la propuesta interrogativa de
+Habgood-Coote el punto no es que _sepan_ la respuesta, sino que sean capaces de
+responder a la pregunta. La distinción es sutil, pero crucial. Saber una
+respuesta puede implicar ser capaces de responder a una pregunta, pero esto no
+significa que lo contrario sea verdad. De hecho, Habgood-Coote sugiere que
+tenemos que entender la capacidad de ser capaz de responder a una pregunta
+acerca de cómo hacer algo en un sentido bien amplio. 
+
+Primero, según Habgood-Coote, tener la capacidad de responder una pregunta no
+requiere que uno sea capaz de comunicar la respuesta a la pregunta. A menudo nos
+encontramos con expertos en cómo hacer algo que no son capaces de expresar cómo
+lo hacen, o que sólo pueden hacerlo de maneras limitadas (por ejemplo, diciendo
+que 'así es cómo se hace' y apuntando a cierta acción que realizan). Sin
+embargo, estos sujetos tienen la capacidad de _activar_ cierto conocimiento
+sobre cómo hacer esas cosas--esto es lo que importa en este modelo.
+
+#question[Habgood-Coote dice que la habilidad de responder a una pregunta es una
+habilidad de activar cierto conocimiento, en el sentido de que es o bien una
+habilidad de aprender una proposición, o de ejercitar cierto conocimiento que se
+tiene. Por ejemplo, uno tiene la habilidad de responder la pregunta '¿cuál es la
+raiz cúbica de 16?', tanto si tiene la capacidad de calcularla, como si uno sabe
+la respuesta y es capaz de darla en condiciones apropiadas. ¿Creen que es
+correcto decir que uno puede tener la habilidad de responder a una pregunta si
+meramente tenemos la habilidad de llegar a saber su respuesta? Por ejemplo, si
+preguntáramos de alguien que nunca ha sido bueno realizando cálculos pero que en
+principio tiene la _capacidad_ de realizarlos si tiene la capacidad de responder
+preguntas acerca del resultado de una serie de operaciones matemáticas,
+¿diríamos que tiene la habilidad de responder a esas preguntas? ¿En qué sentido?]
+
+Segundo, Habgood-Coote propone que es posible responder una pregunta acerca de
+cómo hacer algo en el proceso de hacerlo (es decir, al intentar hacerlo). Una
+manera de llegar a saber cuál es la manera de hacer algo es tratar de hacerlo de
+distintas maneras; cuando logramos hacer lo que buscamos hacer, llegamos a saber
+cómo hacerlo--esto es, llegamos a saber la respuesta a una pregunta sobre cómo
+hacerlo. Lo crucial en estos casos es que al intentar hacer algo, aprendemos
+cómo hacerlo, en el sentido de que llegamos a tener el conocimiento relevante
+acerca de cómo se hace. Sabemos cómo hacer algo en tanto que podemos responder
+ese tipo de preguntas.
+
+En resumen:
+
+/ Saber-cómo como capacidad interrogativa: En un contexto determinado $c$, $S$
+ sabe cómo hacer $x$ si y solo si, dadas las situaciones prácticas $F_1...F_n$
+ asociadas al contexto, $S$ tiene la capacidad de activar su conocimiento de una
+ respuesta detallada a todas (o la mayoría) las preguntas de la forma '¿Cómo
+ hacer $x$ en $F_i$', al intentar hacer $x$.
+
+La referencia al contexto trata de capturar la siguiente idea: dado un contexto
+determinado, ciertas maneras de entender la tarea de hacer $x$ tienen sentido
+(estas son lo que Habgood-Coote llama _situaciones prácticas_), y dada esta
+situación, en ese contexto basta con que seamos capaces de activar respuestas a
+esas maneras de entender la tarea. Por ejemplo, si me preguntas si sé cómo cocinar
+arroz ordinariamente, te puedo responder que sí porque soy capaz de activar
+ciertas respuestas correctas acerca de cómo cocinar arroz, dadas ciertas
+presuposiciones. Pero si me preguntas si sé cómo cocinar arroz si la tarea
+involucra cocinarlo de cierta manera específica, podría ser que no pueda decir
+que sé como hacerlo, aunque en otro contexto, donde otras maneras de cocinar
+arroz sean permitidas, sí podría decir que sé como hacerlo (volveremos a estas
+sutilezas acerca de cómo el contexto afecta las atribuciones del saber cómo
+después, en la sección 5.5.)
 
 === Revisando la distinción intelectualismo/anti-intelectualismo
 
 Me gustaría proponer una manera distinta de clasificar las posturas posibles
-sobre el saber-cómo. 
+sobre el saber-cómo. Primero, al esquema de Glick me gustaría añadir una
+distinción entre relata atitudinales y relata no-atitudinales. En el esquema de
+Glick no podemos distinguir entre teorías de acuerdo a las cuales los relata del
+saber cómo son no-proposiciones pero atitudinales y teorías de acuerdo a las
+cuales los relata del saber-cómo son no-atitudinales. Desde la perspectiva del
+esquema clásico, esto es crucial porque solo las últimas cuentan como
+propiamente anti-intelectualistas. Si incorporamos estas distinciones, obtenemos
+la clasificación de la @table:revised-glick. Una de las ventajas de esta
+clasificación es que nos deshacemos del problema de que no es claro en qué
+consistirían las posturas del cuadrante de relación teórica + objeto
+no-proposicional. Otra ventaja es que en este esquema el intelectualismo y el
+anti-intelectualismo son categorías excluyentes, pues quedan definidos de la
+siguiente manera:
+
+/ (Anti-#color-key(purple, lighten: 80%))Intelectualismo #color-key(yellow,
+ lighten: 80%) (revisado): Los relata del saber-cómo (no) son atitudinales.
+
+y podemos distinguirlos de lo que podríamos llamar _(anti-)teoricismo_:
+
+/ (Anti-#color-key(green, lighten: 80%))Teoricismo #color-key(blue, lighten: 80%): La relación del saber cómo (no) es la misma que la del
+ conocimiento proposicional.
+
+(la distinción proposicional/no-proposicional queda limitada a una subdivisión
+del espacio de posturas intelectualistas.)
 
 #figure(placement: auto, caption: [_Clasificación de posturas, revisada_])[
+#set table(fill: (x, y) => 
+  if x == 4 and y < 3 { purple.lighten(80%) }
+  else if x > 0 and x < 4 and y != 0 and y < 3 {yellow.lighten(80%)}
+  else if (y == 3) and x == 1 {blue.lighten(80%)}
+  else if (y == 4) and x == 1 {green.lighten(80%)}
+  else if x > 1 and x < 4 and y == 3 {blue.lighten(80%).mix(yellow.lighten(80%))}
+  else if x > 1 and x < 4 and y == 4 {green.lighten(80%).mix(yellow.lighten(80%))}
+  else if x == 4 and y == 3 {blue.lighten(80%).mix(purple.lighten(80%))}
+  else if x == 4 and y == 4 {green.lighten(80%).mix(purple.lighten(80%))}
+)
 #set table.hline(stroke: 0.5pt + black.lighten(60%))
 #set table.vline(stroke: 0.5pt + black.lighten(60%))
 #set table(stroke: 0.5pt + black.lighten(60%))
-#set table.cell(align: horizon)
+#set table.cell(
+  align: horizon,
+)
 #table(columns: (2.5em, 0.7fr, 1fr, 1fr, 1fr), rows: (2.5em, 2.5em, 2.5em, 5em, 5em),
 table.cell(rowspan: 3, colspan: 2)[], table.cell(colspan: 3)[*relata*],
 table.cell(colspan: 2)[_*atitudinal*_], [_*no-atitudinal*_],
-[_proposicional_], [_no-proposicional_], [],
+            [_proposicional_], [_no-proposicional_], [],
 table.cell(rowspan: 2)[#rotate(270deg, reflow: true)[*relación*]], [_teórica_], [intelectualismo\ teoricista\ proposicional], [intelectualismo\ teoricista\ no-proposicional], [anti-intelectualismo\ teoricista],
-[_no-teórica_], [intelectualismo\ anti-teoricista\ proposicional], [intelectualismo\ anti-teoricista\ no-proposicional], [anti-intelectualismo\ anti-teoricista]
+            [_no-teórica_], [intelectualismo\ anti-teoricista\ proposicional], [intelectualismo\ anti-teoricista\ no-proposicional], [anti-intelectualismo\ anti-teoricista]
 )
-]
+]<table:revised-glick>
 
-Bengson & Moffett (2011) introducen una idea que es interesante,
-que es que 
+Bengson & Moffett (2011) introducen una idea interesante: deberíamos,
+argumentan, distinguir entre el fundamento de estados cognitivos como el
+saber-cómo y los constituyentes de esos estados cognitivos. Por ejemplo, en
+algunos casos podríamos querer considerar estados que están fundados en que
+tengamos cierto conocimiento proposicional, pero que se constituyen en que
+poseamos una serie de habilidades; en otros casos podríamos querer considerar
+estados cuya estructura es la opuesta. Si sobreponemos esta distinción a la
+distinción que examinamos antes entre relación y relata, obtenemos una
+descripción más detallada de las posibilidades que hay. En la 
+@table:revised-pos vemos una representación de este campo más complejo de
+posibilidades.
 
-#context[
-#set page(flipped: true, numbering: none)
-#figure(caption: [_Clasificación de posturas, revisada, distinguiendo entre fundamento y constituyentes. $t_x$ significa que $x = $conocimiento proposicional. Las líneas cortadas indican lugares donde se omiten posibles teorías híbridas._])[
+#figure(
+  placement: auto,
+  caption: [_Clasificación de posturas, revisada, distinguiendo entre fundamento
+  y constituyentes. $t_x$ significa que $x = $conocimiento proposicional. Las
+  líneas cortadas indican lugares donde se omiten posibles teorías híbridas._]
+)[
+  #block(height: 80%, width: 120%)[
   #set table(stroke: 0.5pt + black.lighten(60%))
   #set table.cell(align: horizon)
+  #show table.cell: it => {
+    align(center+horizon)[
+      #rotate(90deg, reflow: true)[#it]
+    ]
+  }
+  #show math.equation: set text(size: 8pt)
+  #rotate(270deg, reflow: true)[
   #table(
-    columns: (1fr, 1fr, 3fr, 2fr, 2fr, 2fr, 2fr, 3fr, 3fr),
-    rows: (1fr, 1fr, 1fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr, 1.3fr, 1.3fr),
-    table.cell(colspan: 2, rowspan: 2)[], table.cell(colspan: 7)[*constituyentes*],
-    table.cell(colspan: 5)[_*atitudinales*_], table.vline(stroke: (paint: black, dash: "dashed")), table.cell(colspan: 2)[_*no-atitudinales*_],
-    table.cell(rowspan: 7)[#rotate(270deg, reflow: true)[*fundamento*]], table.cell(rowspan: 5)[#rotate(270deg, reflow: true)[_*atitudinal*_]], [], table.cell(colspan: 2)[_proposicional_], table.vline(stroke: (paint: black, dash: "dashed")), table.cell(colspan: 2)[_no-proposicional_], table.cell(colspan: 2)[], 
+    columns: (0.4fr, 0.4fr, 0.7fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr),
+    rows: (0.5fr, 0.5fr, 0.5fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr, 1.3fr, 1.3fr),
+    table.cell(colspan: 2, rowspan: 2)[], table.cell(colspan: 7)[#rotate(270deg,
+    reflow: true)[#box(width: 100%)[*constituyentes*]]], 
+    table.cell(colspan: 5)[#rotate(270deg, reflow: true)[_*atitudinales*_]],
+    table.vline(stroke: (paint: black, dash: "dashed")), table.cell(colspan:
+    2)[#rotate(270deg, reflow: true)[#box(width: 100%)[_*no-atitudinales*_]]],
+
+    table.cell(rowspan: 7)[*fundamento*], table.cell(rowspan:
+    5)[_*atitudinal*_], [], table.cell(colspan: 2)[#rotate(270deg, reflow:
+    true)[_proposicional_]], table.vline(stroke: (paint: black, dash:
+    "dashed")), table.cell(colspan: 2)[#rotate(270deg, reflow: true)[_no-proposicional_]], table.cell(colspan: 2)[], 
+
     table.cell(rowspan: 2)[_proposicional_], [$t_g  and t_c$], [$t_g and not t_c$], [$t_g  and t_c$], [$ t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$],
-                                             [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$],
+                                             [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$],
     table.hline(stroke: (paint: black, dash: "loosely-dashed")),
     table.cell(rowspan: 2)[_no-proposicional_], [$t_g  and t_c$], [$t_g and not t_c$], [$t_g  and t_c$], [$t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$],
-                                             [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$],
+                                             [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$],
     table.hline(stroke: (paint: black, dash: "loosely-dashed")),
-    table.cell(rowspan: 2)[#rotate(270deg, reflow: true)[_*no-atitudinal*_]], table.cell(rowspan: 2)[], [$t_g and t_c$], [$t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$],
+    table.cell(rowspan: 2)[_*no-atitudinal*_], table.cell(rowspan: 2)[], [$t_g and t_c$], [$t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$],
                                               [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$]
-  )
-]
-]
+  )]
+]]<table:revised-pos>
+// #v(4em)
 
-== El saber-cómo como logro cognitivo
+En este esquema revisado, las categorías de intelectualismo/anti-intelectualismo
+se vuelven difusas, porque un mismo estado podría estar constituido por
+componentes atitudinales y no-atitudinales. Sin embargo, hay espacio para
+distinguir entre dos tipos de teoría de acuerdo a si los fundamentos de los
+estados en cuestión son atitudinales. Así, tenemos
 
+/ (Anti-)Intelectualismo (rev. 2): El fundamento del estado (no) es atitudinal.
 
+Esto está en líneas con las precisiones que Bengson & Moffett mismos hacen
+acerca de cómo caracterizar la distinción intelectualismo/anti-intelectualismo.
+
+#question[¿Como clasificaríamos las posturas que hemos examinado hasta ahora
+según este esquema?]
 
 == El problema del testimonio
 
+Volviendo a la pregunta de cómo se diferencian el saber-cómo y el conocimiento
+proposicional, podríamos preguntarnos si podemos adquirir saber-cómo de las
+mismas maneras que en general se puede adquirir el conocimiento proposicional
+(ya habíamos avanzado un poco de esto en el capítulo 3). Un caso que ha sido
+particularmente contencioso ha sido el del testimonio. Es claro que en muchos
+casos pareciera que podemos adquirir conocimiento proposicional mediante el
+testimonio: cuando alguien me dice la hora, el que me lo digan sirve como fuente
+para mi conocimiento acerca de qué hora es. Al leer un libro o un artículo (si
+es que esto cuenta como una forma de testimonio), a menudo me informo de cosas
+que no puedo llegar a conocer de otras formas. ¿Puedo adquirir saber cómo de
+esta manera?
 
+=== La epistemología del testimonio
+
+Primero, algunas ideas generales sobre el testimonio como fuente del
+conocimiento. Es claro que en nuestra vida cotidiana dependemos del testimonio
+de otros constantemente para formar nuestras opiniones. Las situaciones en las
+que dependemos del testimonio de otros son innumerables. Leo un artículo que
+dice que los esquincos de árbol esmeralda son curiosos y no temen interactuar
+con las personas que los cuidan cuando están en cautiverio, una vez que se
+acostumbran a ellas. Nunca he interactuado con un esquinco de árbol esmeralda,
+pero creo lo que dice el artículo. Mi hermana me dice que no va a estar en casa
+este fin de semana (va a ir de paseo), y como le creo (y no me está mintiendo),
+formo una creencia que tiene el estatus de conocimiento. Ahora mismo, están
+leyendo este libro, y si no contiene errores, ustedes pueden llegar a saber algo
+acerca de lo que el libro se trata.
+
+Una primera pregunta que tenemos que hacernos acerca del testimonio es si es, en
+efecto, una fuente independiente de conocimiento o justificación. Hay quienes
+dicen que no (esta postura es llamada _reduccionismo_ sobre el testimonio): por
+ejemplo, podríamos ver los casos del testimonio como casos en los que
+_inferimos_ que algo es verdadero en base a las experiencias que tenemos de oír
+a alguien afirmar algo, junto con la presuposición de que esa persona es
+confiable. Para poder hacer el juicio de que alguien es confiable, tenemos que
+razonar inductivamente sobre la base de nuestras experiencias pasadas sobre esa
+persona u otras personas que son similares de maneras relevantes a ella: no hay
+una manera de _ver_ "de a una", por así decirlo, que una persona es confiable
+(recuerden las observaciones de Ryle sobre las atribuciones de saber-cómo). Por
+ejemplo, Hume (en su ensayo "Sobre Los Milagros") dice lo siguiente sobre el
+testimonio:
+
+#quote(block: true)[
+[...] podemos observar que no hay tipo de razonamiento más común, más útil, e
+incluso necesario para la vida humana, que el que deriva del testimonio de las
+personas, y de los reportes de testigos y espectadores. [...] nuestra seguridad
+en un argumento de este tipo no se deriva de otro principio sino el de nuestra
+observación de la veracidad del testimonio humano, y de la conformidad usual de
+los hechos con los reportes de los testigos. [...] Si la memoria no tuviese
+cierto grado de tenacidad; si las personas no tuvieran una inclinación a la
+verdad y un principio de probidad; si no sintieran vergüenza, cuando se detecta
+que están errados; sí estas no fueran, digo, cosas que la _experiencia_ descubre
+como cualidades inherentes a la naturaleza humana, nunca podríamos descansar la
+menor confianza en el testimonio humano. Una persona delirante, o famosa por su
+falsedad y villanía, no tiene ninguna autoridad sobre nosotros.
+]
+
+En la propuesta reduccionista de Hume, recibimos el testimonio de alguien, y en
+base a nuestra experiencia previa, inferimos (inductivamente) si podemos tratar
+lo que se nos ha dicho como justificado. No obtenemos ni justificación ni
+conocimiento directamente al recibir el testimonio de otra persona.
+
+Hay que distinguir entre dos posibilidades:
+
+- La justificación de que podamos formar creencias en base al testimonio depende
+ de la justificación que tenemos para recurrir a otras fuentes de justificación
+ más básicas, como la memoria, el razonamiento y la experiencia,
+- La justificación de las creencias que formamos en base al testimonio depende
+ en cada caso de la operación de estas fuentes de conocimiento más básicas.
+
+En el primer caso, nos interesa que el testimonio sea confiable de una manera
+general; en el segundo, nos interesa que una situación específica de testimonio
+esté fundada en operaciones más básicas.
+
+Otros epistemólogos proponen que el testimonio es una fuente _sui generis_ de
+conocimiento (esta postura es llamada _anti-reduccionismo_ sobre el testimonio),
+y sugieren que el hecho de que recibamos el testimonio de alguien constituye por
+sí solo soporte para que creamos lo que se nos dice. En general, las posturas
+anti-reduccionistas sobre el testimonio requieren, para que el testimonio pueda
+ser una fuente de conocimiento para un oyente, que además no haya lo que se
+llaman _derrotadores_ (_defeaters_) para quien recibe el testimonio. Lo quieren
+decir con esto es que no haya razones que impidan que el testimonio provea de
+justificación o conocimiento. Por ejemplo, si quien recibe el testimonio tiene
+creencias que implican la falsedad de lo que se le comunica, podría no aceptar
+el testimonio, bajo el riesgo de volverse inconsistente.
+
+A diferencia de lo que sucede en el modelo reduccionista, en el modelo
+anti-reduccionista recibir el testimonio que alguien nos da es suficiente para
+tener justificación en nuestras creencias acerca de lo que se nos dice; no es
+necesario apelar a nuestra experiencia ni hacer inferencias adicionales. Para
+ponerlo en términos de una analogía: si bien en el modelo reduccionista el
+contenido del testimonio es sospechoso hasta que no se pruebe su inocencia (es
+decir, su razonabilidad en vistas a la experiencia o conocimiento previo), en el
+modelo anti-reduccionista se puede presumir que el testimonio es inocente a
+menos que se pruebe lo contrario (es decir, que haya un derrotador).
+
+#question[Esta última analogía sugiere los siguientes problemas para el
+reduccionismo y el anti-reduccionismo: el reduccionismo puede llevar a algunas
+formas de escepticismo acerca del testimonio, mientras que el anti-reduccionismo
+podría llevar a cierta forma de credulidad. ¿Qué tan serios son estos problemas?
+¿Qué respuestas creen que pueden dar los reduccionistas y anti-reduccionistas?]
+
+Una segunda pregunta acerca del testimonio es si es necesario que quienes
+ofrecen el testimonio deben tener justificación o conocimiento ellos mismos para
+que quienes reciben el testimonio puedan obtener justificación o conocimiento.
+Podemos ver al proceso del testimonio como una proceso de transmisión de
+propiedades epistémicas entre un hablante y un oyente. La idea es que el oyente
+puede tomar el testimonio de alguien como una fuente de conocimiento o
+justificación en tanto que el hablante mismo tiene justificación o conocimiento.
+Supongamos que aprendo que la capital de Mozambique es Maputo; en este caso,
+tengo conocimiento de cuál es la capital de Mozambique. Si alguien me pregunta
+acerca de eso, y le respondo diciendo que la capital de Mozambique es Maputo, la
+creencia que forman quienes me preguntaron en base a mi respuesta también tiene
+el estatus de justificación o conocimiento que mi creencia tiene, en parte
+porque yo tengo justificación o conocimiento. Supongan que creo que la capital
+de Mozambique no es Maputo, sino Lichinga. Si me preguntan y les respondo
+diciendo que la capital de Mozambique es Lichinga, parecería que quienes reciben
+mi respuesta no podrían llegar a conocer cuál es la capital de Mozambique, en
+parte porque yo no lo sé.
+
+Esta manera de entender lo que sucede durante el proceso testimonial sugiere que
+el testimonio difiere de una manera importante de otras fuentes de
+conocimiento y justificación como la percepción y la inferencia, a saber, que
+mientras esas fuentes pueden generar nuevo conocimiento, el testimonio no es
+capaz de genera nuevo conocimiento, solo transmitirlo de un sujeto a otro (en
+este sentido, el testimonio sería similar a la memoria, que parece no ser capaz
+de generar conocimiento tampoco: para que uno pueda decir que sabe algo porque
+lo recuerda, debe haberlo llegado a saber de otra manera antes).
+
+Si bien la idea de que el testimonio meramente transfiere justificación o
+conocimiento es plausible, recientemente ha habido bastante discusión respecto a
+ella. Por ejemplo, Lackey (2007) presenta el siguiente caso:
+
+/ Profesora creacionista: Una profesora de escuela básica cree que la vida en la
+ Tierra es producto de la creación divina. Esta creencia es incompatible con la
+ creencia en ciertas teorías evolucionistas, y como no cree en ellas, no puede
+ saber que son verdaderas. Como parte del currículo escolar, debe enseñar estas
+ teorías, y dado su sentido de responsabilidad, en efecto cuando hace clases
+ acerca del origen de la vida en la Tierra, les enseña a sus alumnos que las
+ teorías evolucionistas son verdaderas.
+
+¿Qué muestra este caso? Es plausible que los alumnos de esta profesora
+adquieran conocimiento acerca del origen de la vida en la Tierra, aunque la
+persona que da testimonio acerca de ello no sabe ella misma cómo se originó la
+vida en la Tierra. Si es así, entonces parecería que no es necesario que quienes
+testifiquen tengan las propiedades epistémicas que adquieren quienes reciben su
+testimonio.
+
+#question[¿Creen que hay alguna manera de compatibilizar este caso con la idea
+de que el proceso de testimonio transmite propiedades epistémicas? Por ejemplo,
+¿por qué no podríamos decir que la profesora, a pesar de no creer en las teorías
+evolucionistas, las entiende, y por lo tanto puede transmitir su entendimiento a
+sus alumnos?]
+
+=== ¿Puede el testimonio ser una fuente de saber cómo?
+
+Es posible transmitir conocimiento proposicional a través del testimonio. Si el
+saber-cómo es un tipo de conocimiento proposicional, debería ser posible
+transmitirlo mediante el testimonio también. ¿Es esto cierto?
+
+Una distinción importante que debemos hacer es entre dos tipos, por así decirlo,
+de saber-cómo. Por un lado, tenemos el tipo de conocimiento que atribuimos a
+alguien cuando decimos cosas como:
+
++ José sabe cómo opera la máquina
+
+Por otro, tenemos el tipo de conocimiento que atribuimos a alguien cuando
+decimos algo como:
+
+#[
+#set enum(start: 2)
++ José sabe cómo operar la máquina.
+]
+
+Al segundo tipo se le llama conocimiento _infinitivo_ (el complemento del verbo
+_saber cómo_ es una expresión verbal infinitiva, a saber, "operar"), mientras
+que al primero se le llama conocimiento _no-infinitivo_ (el verbo en el
+complemento, "opera", no es infinitivo). La diferencia es importante porque en
+el caso no-infinitivo parece que podemos razonar, asumiendo (1), de la siguiente manera:
+
+#[
+#set enum(start: 3)
++ José le dice a Pedro cómo opera la máquina
++ Pedro llega a saber, mediante el testimonio de Pedro, cómo opera la máquina.
+]
+
+Sin embargo, parece que el siguiente razonamiento (que asume (2)) es problemático:
+
+#[
+#set enum(start: 6)
++ José le dice a Pedro cómo operar la máquina
++ Pedro llega a saber, mediante el testimonio de Pedro, cómo operar la máquina.
+]
+
+En ambos casos suponemos que José es confiable, que puede expresar de manera
+correcta una respuesta a la pregunta relevante (¿cómo opera la maquina? o ¿cómo
+operar la máquina?) y asumimos que Pedro tiene la capacidad de entender el
+testimonio de José. En el primer caso, no hay nada extraño en que alguien pueda
+llegar a saber cómo opera una máquina en base al testimonio que recibe, del
+mismo modo en que no es problemático que pueda llegar a saber cómo sucedió algo
+en el pasado, o que pueda llegar a saber cómo algo predecible va a suceder en el
+futuro. Pero en el segundo caso, no parece plausible pensar que alguien pueda
+llegar a saber cómo hacer algo inmediatamente al recibir testimonio acerca de
+cómo hacerlo. ¿Decimos que aprendemos cómo hacer algo simplemente _cuando_ alguien
+nos explica cómo se hace?
+
+Si tenemos tendencias anti-intelectualistas, es plausible que la intuición que
+tengamos sobre casos como estos es que no basta con que se nos informa acerca de
+cómo hacer algo; es necesario, además, que adquiramos control sobre las maneras
+de hacerlo. A menudo aprendemos cómo hacer algo, no solamente en base al
+testimonio y las explicaciones que algún tutor podría darnos, sino mediante
+nuestro ejercicio, nuestros intentos de hacerlo de tal o cual manera. Las
+instrucciones que otros nos dan nos proveen de información acerca de qué tratar
+de hacer; pero no son el final de la historia. De hecho, el testimonio de otros
+podría darnos conocimiento acerca de cómo deberíamos hacer algo. Pero entre el
+deber y el hacer hay una brecha, y saber-cómo requiere que tengamos la capacidad
+de guiar nuestra conducta de ciertas maneras. Que nos informen de nuestras
+obligaciones no hace que adquiramos la disposición de actuar de acuerdo a esas
+obligaciones.#footnote[Esto asume que nuestro conocimiento de lo que debemos
+hacer permite que seamos agentes _acráticos_ en un sentido débil. Podemos saber
+que se debe hacer X y sin embargo no hacer X. En un sentido más fuerte,
+podríamos rechazar que si sabemos que se debe hacer X y además _aceptamos_ que
+se debe hacer X es aún así posible no hacer X. Platón introdujo el problema de
+la posibilidad de la _akrasia_ en un famoso argumento que aparece en el
+_Protágoras_. Ahí Sócrates argumenta que el conocimiento tiene un poder tal que
+es imposible actuar de manera contraria a lo que uno sabe que es bueno. El
+problema es que parece ser posible saber qué es lo bueno y aun así actuar de
+otra manera (i.e., ser acrático). Platón retoma el problema en la _República_,
+libro IV, donde parece rechazar el modelo del Protágoras y explica la
+posibilidad de la _akrasia_ en términos de la división del alma en una parte
+racional y una parte apetitiva. Aristóteles lidia con el problema de la akrasia
+en el libro VII de la _Ética Nicomaquea_.] Que nos informen de lo que se nos
+permite no hace que adquiramos la disposición de actuar de ninguna de las
+maneras en que se nos permite actuar (por ejemplo, se nos puede decir que está
+permitido beber alcohol, y sin embargo no beberlo).
+
+¿No es posible, sin embargo, que en algunos casos sí adquiramos saber-cómo
+mediante el testimonio de alguien? Alguien podría querer decir, por ejemplo, que
+en el caso de saber cómo operar una máquina, el testimonio no es suficiente
+porque la tarea en cuestión es muy compleja. Si considerásemos casos más
+simples, quizás podríamos decir que el testimonio de alguien basta para que
+adquiramos saber-cómo. Por ejemplo, alguien podría decir que 
 
 == El contexto y las atribuciones de saber-cómo
 
@@ -2008,10 +2509,9 @@ definidas por el contexto.#footnote[Véanse las reflexiones de Craig
 entonces, es precisar en qué contextos se vuelve imperioso rastrear
 ciertas habilidades.
 
+== El saber-cómo como logro cognitivo
+
 == Saber-cómo y _skill_
-
-
-
 
 #context[
 #set heading(numbering: none, outlined: false)
@@ -2029,6 +2529,9 @@ el comic ‘Lambda calculus for /lɪŋgwɪsts/’:
 #emph[Meaning: A Slim Guide to Semantics];, ofrece una concisa
 introducción a la semántica, manteniendo los aspectos formales a un
 mínimo.
+
+Sobre la epistemología del testimonio, el libro _Learning from Words: Testimony
+as a Source of Knowledge_ (2008) de Jennifer Lackey, es excelente.
 
 Sobre el contextualismo, el artículo de la SEP sobre contextualismo epistémico
 es recomendable:
