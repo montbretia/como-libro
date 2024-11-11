@@ -1,8 +1,13 @@
 #let question(body) = {
-  block(fill: rgb("#f4c9c3"), spacing: 0.64em, inset: 5pt, outset: 2pt, radius: 5pt, above: 1.5em, below: 1.5em)[
-    #grid(columns: (25pt, 1fr),
-      block[#align(right+horizon)[#text(size: 1.2em, fill: black.lighten(20%))[*¿?*]]],
-      grid.cell(align: horizon, breakable: false)[
+  block(fill: rgb("#f4c9c3"), stroke: 0.1pt + rgb("#f4c9c3").darken(20%),
+  spacing: 0.64em, inset: 0pt, outset: 0pt, radius: 4pt, above: 1.5em, below: 1.5em)[
+    #grid(columns: (0.9fr, 10fr),
+      block(
+        inset: 9pt, 
+        fill: red.transparentize(15%), 
+        radius: (top-left: 4pt, bottom-right: 4pt, rest: 0pt)
+      )[#align(right+horizon)[#text(size: 1.2em, fill: white)[*¿?*]]],
+      grid.cell(align: horizon, breakable: false, inset: 9pt)[
       #body
       ]
     )
@@ -10,7 +15,8 @@
 }
 
 #let aside(breakable: false, body) = {
-  block(fill: rgb("#ebb5c3"), spacing: 0.64em, breakable: breakable, inset: 4pt, outset: 4pt, radius: 5pt, above: 1.5em, below: 1.5em)[
+  block(fill: rgb("#ebb5c3").lighten(30%), stroke: rgb("#ebb5c3").darken(5%), spacing:
+  0.64em, breakable: breakable, inset: 4pt, outset: 4pt, radius: 4pt, above: 1.5em, below: 1.5em)[
   #body
   ]
 }
