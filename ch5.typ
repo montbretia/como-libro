@@ -1,18 +1,20 @@
 // vim: spell spelllang=es
 
+
 #import "utils.typ": question, aside, color-key
 #set text(lang: "es")
 
 #pagebreak()
 
+#[
 #set page(numbering: none)
 #align(center+horizon)[
 #figure[
   #image("meme1.jpeg", width: 70%)
 ]
 ]
+]
 
-#set page(numbering: "1")
 
 = La disputa de las cien escuelas
 
@@ -1738,23 +1740,58 @@ formas de escepticismo acerca del testimonio, mientras que el anti-reduccionismo
 podría llevar a cierta forma de credulidad. ¿Qué tan serios son estos problemas?
 ¿Qué respuestas creen que pueden dar los reduccionistas y anti-reduccionistas?]
 
-Una segunda pregunta acerca del testimonio es si es necesario que quienes
-ofrecen el testimonio deben tener justificación o conocimiento ellos mismos para
-que quienes reciben el testimonio puedan obtener justificación o conocimiento.
-Podemos ver al proceso del testimonio como una proceso de transmisión de
-propiedades epistémicas entre un hablante y un oyente. La idea es que el oyente
-puede tomar el testimonio de alguien como una fuente de conocimiento o
-justificación en tanto que el hablante mismo tiene justificación o conocimiento.
-Supongamos que aprendo que la capital de Mozambique es Maputo; en este caso,
-tengo conocimiento de cuál es la capital de Mozambique. Si alguien me pregunta
-acerca de eso, y le respondo diciendo que la capital de Mozambique es Maputo, la
-creencia que forman quienes me preguntaron en base a mi respuesta también tiene
-el estatus de justificación o conocimiento que mi creencia tiene, en parte
-porque yo tengo justificación o conocimiento. Supongan que creo que la capital
-de Mozambique no es Maputo, sino Lichinga. Si me preguntan y les respondo
-diciendo que la capital de Mozambique es Lichinga, parecería que quienes reciben
-mi respuesta no podrían llegar a conocer cuál es la capital de Mozambique, en
-parte porque yo no lo sé.
+La literatura acerca del rol del testimonio en las maneras en las que aprendemos
+cómo actuar ha mantenido cierta neutralidad respecto al debate entre
+reduccionistas y anti-reduccionistas. Para ello han acudido a una
+caracterización neutral del conocimiento testimonial, que es la de Goldberg
+(2006): 
+
+/ Conocimiento testimonial: $S$ tiene conocimiento testimonial de que $p$ si y
+ solo si:
+ #set enum(numbering: "A)")
+ + $S$ sabe que $p$
+ + Hay un hablante $T$, a quien $S$ ha observado dar testimonio en una ocasión
+   $O$ tal que $S$ entendió que $T$ presentó a $p$ como verdadera en su
+   testimonio en esa ocasión.
+ + El status del conocimiento de $S$ de que $p$ depende de (i) la confiabilidad
+   del testimonio de $T$ en $O$, y (ii) el derecho de $A$ para confiar en ese
+   testimonio.
+
+Esta definición es neutral porque caracteriza al conocimiento testimonial en
+términos de las condiciones en las que se obtiene y el perfil normativo del
+conocimiento obtenido mediante el testimonio. Es importante también notar que
+distingue entre la confiabilidad de quien provee el testimonio y la
+confiabilidad de quien recibe el testimonio. Para que un intercambio testimonial
+sea exitoso pareciera que se requiere que ambos sean confiables. Lackey (2008)
+propone que en vez de adoptar una postura reduccionista (que concede más
+importancia al hablante) o anti-reduccionista (que concede más importante al
+escucha), es mejor adoptar una postura híbrida (lo ilustra con el símil de que
+"hacen falta dos para bailar el tango").
+
+#question[Consideren el caso de la dependencia de los niños en el testimonio de
+sus padres y otras personas. Si bien podemos pensar que quienes les proveen de
+testimonios son confiables, ¿en qué sentido son los niños epistémicamente
+confiables como receptores del testimonio, si (como parece ser cierto a menudo)
+no son capaces de detectar derrotadores porque carecen de ciertos tipos de
+conocimiento? ¿Cómo resolver esta tensión?]
+
+Una segunda pregunta acerca del testimonio, conectada a esta última observación,
+es si es necesario que quienes ofrecen el testimonio deben tener justificación o
+conocimiento ellos mismos para que quienes reciben el testimonio puedan obtener
+justificación o conocimiento. Podemos ver al proceso del testimonio como una
+proceso de transmisión de propiedades epistémicas entre un hablante y un oyente.
+La idea es que el oyente puede tomar el testimonio de alguien como una fuente de
+conocimiento o justificación en tanto que el hablante mismo tiene justificación
+o conocimiento. Supongamos que aprendo que la capital de Mozambique es Maputo;
+en este caso, tengo conocimiento de cuál es la capital de Mozambique. Si alguien
+me pregunta acerca de eso, y le respondo diciendo que la capital de Mozambique
+es Maputo, la creencia que forman quienes me preguntaron en base a mi respuesta
+también tiene el estatus de justificación o conocimiento que mi creencia tiene,
+en parte porque yo tengo justificación o conocimiento. Supongan que creo que la
+capital de Mozambique no es Maputo, sino Lichinga. Si me preguntan y les
+respondo diciendo que la capital de Mozambique es Lichinga, parecería que
+quienes reciben mi respuesta no podrían llegar a conocer cuál es la capital de
+Mozambique, en parte porque yo no lo sé.
 
 Esta manera de entender lo que sucede durante el proceso testimonial sugiere que
 el testimonio difiere de una manera importante de otras fuentes de
@@ -1790,13 +1827,17 @@ de que el proceso de testimonio transmite propiedades epistémicas? Por ejemplo,
 evolucionistas, las entiende, y por lo tanto puede transmitir su entendimiento a
 sus alumnos?]
 
+#question[¿Puede una LLM como ChatGPT ofrecer testimonio? _(Volveremos a esta
+pregunta en el capítulo 6)_]
+
 === ¿Puede el testimonio ser una fuente de saber cómo?
 
 Es posible transmitir conocimiento proposicional a través del testimonio. Si el
 saber-cómo es un tipo de conocimiento proposicional, debería ser posible
 transmitirlo mediante el testimonio también. ¿Es esto cierto?
 
-Una distinción importante que debemos hacer es entre dos tipos, por así decirlo,
+He aquí una línea argumental inicial.#footnote[La tomo de Poston (2016).] Una
+distinción importante que podríamos hacer es entre dos tipos, por así decirlo,
 de saber-cómo. Por un lado, tenemos el tipo de conocimiento que atribuimos a
 alguien cuando decimos cosas como:
 
@@ -1850,15 +1891,19 @@ contraejemplos? ¿Cree que esto afectaría la manera en que podamos explicar la
 Si tenemos tendencias anti-intelectualistas, es plausible que la intuición que
 tengamos sobre casos como estos es que no basta con que se nos informa acerca de
 cómo hacer algo; es necesario, además, que adquiramos control sobre las maneras
-de hacerlo. A menudo aprendemos cómo hacer algo, no solamente en base al
-testimonio y las explicaciones que algún tutor podría darnos, sino mediante
-nuestro ejercicio, nuestros intentos de hacerlo de tal o cual manera. Las
-instrucciones que otros nos dan nos proveen de información acerca de qué tratar
-de hacer; pero no son el final de la historia. De hecho, el testimonio de otros
-podría darnos conocimiento acerca de cómo deberíamos hacer algo. Pero entre el
-deber y el hacer hay una brecha, y saber-cómo requiere que tengamos la capacidad
-de guiar nuestra conducta de ciertas maneras. Que nos informen de nuestras
-obligaciones no hace que adquiramos la disposición de actuar de acuerdo a esas
+de hacerlo.#footnote[Poston (2016) justifica las intuiciones
+anti-intelectualistas en términos de que el saber-cómo es un tipo de logro
+cognitivo mientras que el conocimiento proposicional no lo es. Tocaremos estas
+ideas en la sección 5.6. El argumento que doy aquí es mío.] A menudo aprendemos
+cómo hacer algo, no solamente en base al testimonio y las explicaciones que
+algún tutor podría darnos, sino mediante nuestro ejercicio, nuestros intentos de
+hacerlo de tal o cual manera. Las instrucciones que otros nos dan nos proveen de
+información acerca de qué tratar de hacer; pero no son el final de la historia.
+De hecho, el testimonio de otros podría darnos conocimiento acerca de cómo
+deberíamos hacer algo. Pero entre el deber y el hacer hay una brecha, y
+saber-cómo requiere que tengamos la capacidad de guiar nuestra conducta de
+ciertas maneras. Que nos informen de nuestras obligaciones no hace que
+adquiramos la disposición de actuar de acuerdo a esas
 obligaciones.#footnote[Esto asume que nuestro conocimiento de lo que debemos
 hacer permite que seamos agentes _acráticos_ en un sentido débil. Podemos saber
 que se debe hacer X y sin embargo no hacer X. En un sentido más fuerte,
@@ -1880,9 +1925,160 @@ permitido beber alcohol, y sin embargo no beberlo).
 ¿No es posible, sin embargo, que en algunos casos sí adquiramos saber-cómo
 mediante el testimonio de alguien? Alguien podría querer decir, por ejemplo, que
 en el caso de saber cómo operar una máquina, el testimonio no es suficiente
-porque la tarea en cuestión es muy compleja. Si considerásemos casos más
+porque la tarea en cuestión es muy compleja, pero si considerásemos casos más
 simples, quizás podríamos decir que el testimonio de alguien basta para que
-adquiramos saber-cómo. Por ejemplo, alguien podría decir que 
+adquiramos saber-cómo. Por ejemplo, alguien podría decir que para aprender cómo
+emplear un sobre de cartas basta con que alguien nos diga una serie breve de
+cosas: que podemos abrir el sobre de cierta manera, que podemos colocar una
+carta en su interior de ciertas maneras (por ejemplo, doblándola en tres), y que
+podemos cerrar el sobre de cierta manera. En un caso como este, no parece
+inapropiado pensar que podemos adquirir saber cómo directamente por el
+testimonio de quien nos da estas instrucciones. Grimm (2019) da el siguiente
+ejemplo:
+
+#quote(block: true)[
+  Consideren el siguiente anuncio que oí no hace mucho tiempo en la plataforma
+  de la estación Paddington en Londres, mientras esperaba que el subterráneo me
+  llevara a King's Cross. Mientras la creciente multitud esperaba en la
+  plataforma, preguntándose cuándo llegaría el tren, una voz dijo por el
+  intercom:
+
+  #quote(block: true)[
+    "El tren a King's Cross se ha retrasado debida a un problema médico con un
+    pasajero. Para llegar a King's Cross, por favor suban un piso por las
+    escaleras y salgan a la izquierda, donde un bus 205 estará esperando
+    para llevar a la estación a los pasajeros que tengan un ticket."
+  ]
+  Con esas dos oraciones, propongo, me transmitieron entendimiento y saber cómo.
+  Entendí por qué estaba atrasado el tren, y supe cómo llegar a King's Cross en
+  esas circunstancias. Y diría que también fue así para todos los demás que
+  estaban en la plataforma, porque todos nos encaminamos a las escaleras y
+  salimos por la izquierda, para encontrar el bus que nos estaba esperando.
+]
+
+¿Es realmente la complejidad lo que causa la dificultad--y es realmente la
+simplicidad lo que la evita? Contra lo primero, podemos considerar casos como el
+siguiente:
+
+/ Receta compleja: Estoy aprendiendo a preparar platos de comida hindú, con la
+ asistencia de mi amigo Krishna, quien es un excelente cocinero y maestro. Hoy
+ va a enseñarme a cocinar _dum biryani_,un plato de arroz especiado con carne de
+ cordero cuya preparación requiere varios pasos y el empleo de muchos
+ ingredientes. Krishna me da las instrucciones paso a paso, y me da una copia
+ escrita de la receta. Sigo sus instrucciones a la letra y logro cocinar una
+ versión pasable del plato.
+
+En este caso, es plausible decir que aprendí cómo hacer el plato en base al
+testimonio de Krishna. Si es así, la complejidad de las tareas no es un
+impedimento para que se pueda transmitir saber-cómo mediante el testimonio.
+¿Cómo explicar esta intuición y la intuición anterior sobre el esquema
+argumental de 2)-6) y 7)? Una posibilidad es que si bien el esquema generalmente
+no funciona, en casos como este sí. ¿Qué hace posible que la transmisión
+testimonial funcione en este caso?
+
+Poston sugiere que en los casos en que la transmisión testimonial da pie a que
+aprendamos cómo hacer algo, lo que sucede es que obtenemos información acerca de
+cómo aplicar una habilidad general que ya tenemos a un caso específico. Por
+ejemplo, en el caso del _biryani_, es plausible que sólo pude seguir las
+instrucciones porque ya tengo cierto conocimiento acerca de cómo cocinar o la
+habilidad de cocinar, o incluso, porque ya tengo conocimiento acerca de cómo
+cocinar o la habilidad de cocinar platos similares (por ejemplo, un _pulau_,
+otro plato en base al arroz). Lo que Krishna me instruye es algo que me permite
+aplicar esas habilidades en un contexto específico. Si hubiésemos dicho que este
+es uno de los primeros platos que haya tratado de aprender a cocinar, la
+intuición de que la transmisión testimonial pudo haber sido exitosa se vuelve
+más débil. De modo que lo que explica el éxito o fracaso de la transmisión
+testimonial no es la complejidad o simplicidad de las tareas en cuestión, sino
+la posesión previa de saber-cómo más general.
+
+Grimm (2018) rechaza esta sugerencia por dos razones:
+
++ Si el éxito de la transmisión testimonial requiriera de la posesión previa de
+ cierto saber-cómo mas general, no podríamos explicar la posibilidad de adquirir
+ saber-cómo nuevo a partid del testimonio de otros. Si yo fuera un cocinero
+ novato, quizás no pueda decir que sé cocinar (en un sentido genérico), y aún
+ así podría haber aprendido cómo cocinar el _biryani_. Poston dice que no es
+ posible obtener una habilidad nueva directamente a través del testimonio de
+ alguien.
++ Incluso si aceptamos hipotéticamente que este es un requisito para el éxito
+ testimonial, ¿a qué habilidad general tenemos que acudir para explicar el éxito
+ testimonial? En el caso del _biryani_, suponiendo que seamos cocineros novatos,
+ hay razones para negar que la habilidad en cuestión sea nuestra habilidad para
+ cocinar, porque podríamos no tenerla aún. Algo más genérico, como la habilidad
+ de seguir instrucciones, es poco informativo (la habilidad de ir a King's Cross
+ en las condiciones del caso de Grimm y la habilidad de cocinar un _biryani_ son
+ habilidades distintas, y no instancias de una habilidad más genérica de seguir
+ instrucciones--lo que podemos ver también en que podemos manifestar esas
+ habilidades sin seguir instrucciones).
+
+#question[¿Creen que estas respuestas son sólidas?]
+
+Si Grimm tiene la razón en esto, la explicación de Poston del fallo de la
+transmisión testimonial del saber-cómo es inválida, y no favorece al
+anti-intelectualismo, como Poston sugiere. Grimm sugiere, en efecto, que la
+asimetría supuesta por el argumento, que asume que el conocimiento proposicional
+es fácilmente transmisible, es incorrecta también porque el conocimiento
+proposicional tampoco es siempre fácil de transmitir mediante el testimonio.
+Para aceptar el testimonio de alguien es necesario estar preparado de cierta
+manera para recibirlo. En muchos casos la transmisión de información requiere
+que el sujeto que recibe la información haga algo adicional para entender lo que
+quien le ofrece el testimonio quiere decir o comunicar. Todos hemos estado en
+situaciones en las que hemos aceptado en cierto sentido el testimonio de un
+experto sin entender plenamente las ideas involucradas. Para obtener maestría en
+lo que se nos comunica tenemos que 'poner de nuestra parte', por así decirlo.
+Pero esto es verdad tanto en el caso del saber-cómo como en el caso del
+conocimiento proposicional.
+
+Otra manera de explicar el fallo de la transmisión testimonial es apelar, como
+hacen Stanley & Williamson (2001), a la idea de que el saber-cómo requiere que
+se consideren las proposiciones relevantes bajo un cierto modo práctico de
+presentación. Recuerden el caso de Hannah, que ve como un amigo anda en
+bicicleta. Hannah sabe que hay una manera de andar en bicicleta, pero no lo sabe
+bajo un modo práctico de presentación, de modo que no sabe cómo andar en
+bicicleta. En el caso del testimonio, la idea es que sucede lo mismo: supongan
+que Hannah recibe ciertas explicaciones de parte de su amigo acerca de cómo
+andar en bicicleta. Sabe que hay una manera de andar en bicicleta, y sabe cuál
+es esa manera, pero no lo sabe bajo un modo práctico de presentación, así que el
+saber-cómo de su amigo no ha sido transferido testimonialmente de manera
+exitosa.
+
+Parte de la historia que Stanley (2011) ofrece acerca del saber-cómo es que es
+un tipo de conocimiento, no solo proposicional, sino también _de se_. Una
+actitud _de se_ es acerca del sujeto que la tiene. Cuando creo que me siento
+mal, mi creencia es _de se_, se trata de mí mismo. 'Susana se siente mal'
+atribuye una actitud _de se_ a Susana. Ciertas actitudes _de se_ se expresan con
+infinitivos. Por ejemplo, cuando espero mejorar, lo que espero es que _yo_
+mejore. La idea de Stanley es que lo mismo pasa en el caso del saber-cómo.
+Cuando sé como amarrar una cuerda, lo que sé es como _yo_ podría amarrar una
+cuerda (estrictamente, se, de una manera de amarrar una cuerda, que es una
+manera en que yo podría amarrar una cuerda). Si es así, entonces hay una razón
+adicional para pensar que el saber-cómo no es fácilmente transmisible: en
+general, el testimonio _de se_ de alguien no se transmite a otra persona, porque
+las expresiones que se usan para expresar pensamientos _de se_ significan algo
+sobre la persona que las expresa, no sobre las personas que reciben esas
+expresiones. Si le digo a alguien que 'voy a casarme con Lucía', no espero que
+la persona a la que le digo eso forme la creencia de que ellos se van a casar
+con Lucía. Del mismo modo, si expreso que hay una manera en que yo podría hacer
+algo, no espero que quienes me escuchan aprendan que hay una manera en que
+_ellos_ podrían hacer algo.
+
+#question[¿Es esa la manera en que alguien realmente le dice a otra persona cómo
+hacer algo?]
+
+De esta manera de pensar el contenido del saber-cómo se sigue que el testimonio
+nunca puede transmitirse mediante el testimonio.#footnote[Poston plantea que hay
+tres problemas con la propuesta de Stanley. Este es el segundo de estos
+problemas. El primer problema es que no todo conocimiento _de se_ posee un
+perfil disposicional relacionado con las maneras en que uno podría tratarse a sí
+mismo. Por último, si el saber-cómo fuera conocimiento _de se_, no es claro cómo
+podría ser posible que un grupo tuviera saber-cómo. Vamos a volver a ese
+problema en el capítulo 7.] Pero esto está en conflicto
+con la observación básica, que podemos constatar constantemente, de que las
+personas sí poseen la capacidad de influir en la manera en que otros aprenden a
+hacer distintas cosas. ¿Cómo podría educarse a alguien si esto no fuera posible?
+Quizás sea posible que haya una manera distinta de dar cuenta de esto, sin tener
+que apelar a la noción de testimonio; pero cómo podría hacerse eso es una
+pregunta abierta.
 
 == El contexto y las atribuciones de saber-cómo
 
@@ -2536,7 +2732,9 @@ introducción a la semántica, manteniendo los aspectos formales a un
 mínimo.
 
 Sobre la epistemología del testimonio, el libro _Learning from Words: Testimony
-as a Source of Knowledge_ (2008) de Jennifer Lackey, es excelente.
+as a Source of Knowledge_ (2008) de Jennifer Lackey, es excelente. Una vista más
+breve a los problemas sobre el testimonio puede encontrarse en el artículo
+"Recent Work on Testimony" (2012), de John Greco.
 
 Sobre el contextualismo, el artículo de la SEP sobre contextualismo epistémico
 es recomendable:
@@ -2544,5 +2742,12 @@ es recomendable:
 libro reciente que da una exposición de los avances más recientes respecto a la
 semántica de las atribuciones del conocimiento es _The Semantics of Knowledge
 Attributions_, de Michael Blome-Tillmann.
+
+
+== Una pregunta final...
+
+#question[¿Cómo poner todas las consideraciones que hemos visto en este capítulo
+acerca del saber-cómo en orden? Es decir: ¿cómo creen que se ve la mejor manera
+de entender el saber-cómo?]
 
 ]
