@@ -360,15 +360,15 @@ van a ser útiles. Por ejemplo, en este caso necesitamos comparar el
 conocimiento de distintos sujetos; ¿qué significa que alguien sepa más o
 lo mismo que otra persona? Digamos que si tenemos un sujeto s y una
 tarea t, el conocimiento proposicional de s sobre la tarea t es un
-conjunto de proposiciones, Prop(s, t). Digamos que alguien s#sub[1] sabe
-estrictamente más que otra persona s#sub[2] sobre una tarea t
-(Prop(s#sub[1];, t) \> Prop(s#sub[2];, t)) si para toda proposición p en
-Prop(s#sub[2];, t), p está contenida en Prop(s#sub[1];, t), y si hay
-proposiciones en Prop(s#sub[1];, t) que no están contenidas en
-Prop(s#sub[2];, t). Digamos que alguien s#sub[1] sabe lo mismo que otra
-persona sobre una tarea T (Prop(s#sub[1];, t) = Prop(s#sub[2];, t) si
-todo el conocimiento de s#sub[1] está contenido (en el sentido que
-clarificamos antes) en el conocimiento de s#sub[2] y
+conjunto de proposiciones, $"Prop"(s, t)$. Digamos que alguien $s_1$ sabe
+estrictamente más que otra persona $s_2$ sobre una tarea $t$
+($"Prop"(s_1, t) > "Prop"(s_2, t)$) si para toda proposición $p$ en
+$"Prop"(s_2, t)$, $p$ está contenida en $"Prop"(s_1, t)$, y si hay
+proposiciones en $"Prop"(s_1, t)$ que no están contenidas en
+$"Prop"(s_2, t)$. Digamos que alguien $s_1$ sabe lo mismo que otra
+persona sobre una tarea $t$ ($"Prop"(s_1, t) = "Prop"(s_2, t)$) si
+todo el conocimiento de $s_1$ está contenido (en el sentido que
+clarificamos antes) en el conocimiento de $s_2$ y
 viceversa.#footnote[
 Otra manera de pensar en la equivalencia entre el conocimiento de dos
 personas es que el conocimiento de estas personas sea lógicamente
@@ -394,25 +394,31 @@ las mismas características intelectuales (si uno es astuto, el otro es
 astuto, si una es inteligente, la otra es inteligente, si uno sabe
 cómo…, la otra también, etc). Es decir:
 
-(1) Si el intelectualismo es verdadero, entonces necesariamente para
+#[#set enum(numbering: "1)")
++ Si el intelectualismo es verdadero, entonces necesariamente para
   cada tarea t, concepto intelectual F (relativo a esa tarea) y sujetos
-  s#sub[1] y s#sub[2];, si Prop(s#sub[1];, t) = Prop(s#sub[2];, t),
-  entonces si Fs#sub[1];, Fs#sub[2];.
+  $s_1$ y $s_2$, si $"Prop"(s_1, t) = "Prop"(s_2, t)$,
+  entonces si $F s_1$, $F s_2$.
+]
 
 Entonces, la situación que describimos antes es una instancia de este
 principio:
 
-(1’) Si el intelectualismo es verdadero, entonces necesariamente si
-respecto a la tarea t de jugar ajedrez, Prop(Camila, t) = Prop(Pedro,
-t), y si Camila sabe jugar ajedrez, entonces Pedro sabe jugar ajedrez.
+#[
+#set enum(numbering: "1')")
++ Si el intelectualismo es verdadero, entonces necesariamente si respecto a la
+ tarea $t$ de jugar ajedrez, $"Prop"("Camila", t) = "Prop"("Pedro", t)$, y si
+ Camila sabe jugar ajedrez, entonces Pedro sabe jugar ajedrez.
+]
 
 En esencia, con su argumento del tonto, Ryle muestra que este principio
 intelectualista tiene contraejemplos.#footnote[
 Carter & Poston (2018) reconstuyen el argumento de Ryle usando un
 principio aparentemente distinto:
 
-(A) Si el intelectualismo es verdadero, s sabe cómo hacer φ si existe un
-conjunto de proposiciones P tal que para cada p en P, s sabe que p.
+#set enum(numbering: "(A)")
++ Si el intelectualismo es verdadero, s sabe cómo hacer φ si existe un
+  conjunto de proposiciones P tal que para cada p en P, s sabe que p.
 
 Esta es una formulación de la tesis de suficiencia. Sin embargo, (A) se
 sigue de (1). En este caso, reemplazamos F en (1) por saber cómo hacer
@@ -429,15 +435,19 @@ esa condición es posible que Pedro no sepa jugar ajedrez, aunque Camila
 sí sepa. La diferencia no puede explicarse en términos de cuanto
 conocimiento tenga Pedro. Es decir, estos casos muestran que
 
-(2) Es posible que haya dos sujetos s#sub[1] y s#sub[2] tales que
-respecto a una tarea t, Prop(s#sub[1];, t) = Prop(s#sub[2];, t), y sin
-embargo haya un concepto intelectual F tal que Fs#sub[1] es verdad, pero
-no Fs#sub[2];.
+#[#set enum(numbering:"1)", start: 2)
++ Es posible que haya dos sujetos $s_1$ y $s_2$ tales que
+  respecto a una tarea $t$, $"Prop"(s_1, t) = "Prop"(s_2, t)$, y sin
+  embargo haya un concepto intelectual $F$ tal que $F s_1$ es verdad, pero
+  no $F s_2$.
+]
 
 Si eso es posible, el consecuente de (1) es falso, y por contraposición,
 el antecedente es falso también. Es decir:
 
-(3) El intelectualismo es falso.
+#[#set enum(numbering: "1)", start: 3)
++ El intelectualismo es falso.
+]
 
 #aside(breakable: true)[Mi formalización toma inspiración de ciertas ideas de Häggqvist (2017).
 Häggqvist sugiere que en una formalización de un experimento mental, cada
