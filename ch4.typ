@@ -1,4 +1,5 @@
 #import "utils.typ": question, aside
+#import "logic.typ": would
 
 = Contra el fantasma en la máquina
 
@@ -462,7 +463,7 @@ $diamond$):
 La segunda muestra las consecuencias de esa posibilidad,
 
 #set enum(start: 2)
-+ $A gt B$
++ $A would B$
 
 (ojo, que aquí el condicional es #emph[subjuntivo];: lo leemos ‘si A
 #emph[fuera] el caso, B #emph[sería] el caso’), y la tercera muestra que esas
@@ -470,9 +471,9 @@ consecuencias están en conflicto con alguna tesis T que el experimento mental
 pone a prueba:
 
 #set enum(start: 3)
-+ $T → (A gt not B)$
++ $T → (A would not B)$
 
-Supon que la tesis $T$ es verdadera. Entonces, por (3), se sigue que $A gt not
+Supon que la tesis $T$ es verdadera. Entonces, por (3), se sigue que $A would not
 B$. Pero eso está en conflicto con (2). Por tanto, podemos concluir que la
 tesis $T$ es falsa:
 

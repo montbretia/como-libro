@@ -7,12 +7,12 @@
 #pagebreak()
 
 #[
-#set page(numbering: none)
-#align(center+horizon)[
-#figure[
-  #image("meme1.jpeg", width: 70%)
-]
-]
+  #set page(numbering: none)
+  #align(center+horizon)[
+    #figure[
+      #image("meme1.jpeg", width: 70%)
+    ]
+  ]
 ]
 
 
@@ -1651,6 +1651,9 @@ es que esto cuenta como una forma de testimonio), a menudo me informo de cosas
 que no puedo llegar a conocer de otras formas. ¿Puedo adquirir saber cómo de
 esta manera?
 
+#question[Recuerden el anti-intelectualismo de Ryle. ¿Diría Ryle que el
+saber-cómo puede adquirirse mediante el testimonio?]
+
 === La epistemología del testimonio
 
 Primero, algunas ideas generales sobre el testimonio como fuente del
@@ -2130,8 +2133,10 @@ _refiere_ a un objeto particular del cual se dice que está sobre la mesa (es
 decir, al que se le asigna una propiedad). Imaginen que alguien que escucha
 esta oración responde:
 
+#[
 #set enum(start: 2)
 + No, el libro está en el estante.
+]
 
 Ahora nos enfrentamos a dos posibilidades: o bien ambos interlocutores se
 refieren al mismo objeto, o tienen una distinta idea de a qué se refiere la
@@ -2142,8 +2147,10 @@ Con ciertas expresiones, la situación siempre es importante. Por ejemplo, la
 palabra 'yo' siempre refiere al hablante, y para saber a quién se refiere,
 siempre tenemos que examinar el contexto en que se lo dice. Si yo digo 
 
+#[
 #set enum(start: 3)
 + Yo nací en Recoleta, en Santiago
+]
 
 digo algo verdadero, pero si tú lo dices, podría ser falso (a menos que
 coincidentalmente ambos hayamos nacido en Recoleta).
@@ -2694,7 +2701,6 @@ incluso si no posee conocimiento proposicional relevante, de esto no se
 sigue que #emph[de] #emph[hecho] los patrones de atribución expresados
 en el lenguaje realicen esas posibilidades. ¿Y no son los patrones
 actuales de atribución lo que debería explicar la teoría?
-
 Es importante observar que la teoría sí logra capturar esos patrones—el
 problema desde la perspectiva intelectualista es que parece capturar
 algo más que no debería capturar. Pero esto no es necesariamente una
@@ -2712,8 +2718,275 @@ ciertas habilidades.
 
 == El saber-cómo como logro cognitivo
 
-== Saber-cómo y _skill_
+Una idea que algunos autores defienden sobre el saber-cómo es que este es un
+tipo de _logro epistémico_, y que esto explica el valor del saber-cómo. Algunos
+de estos autores han empleado esta idea para distinguir al saber-cómo del
+conocimiento proposicional. Por ejemplo, Carter & Pritchard (2015) proponen que
+mientras que el saber-cómo es siempre un logro epistémico, el conocimiento
+proposicional no siempre lo es. Si este tipo de argumento funciona, habría otra
+manera de defender el anti-intelectualismo.
 
+=== Valor epistémico
+
+Hasta ahora hemos hablado poco de ciertas preguntas epistemológicamente
+importantes acerca del saber-cómo; en particular, no hemos discutido la
+importancia que tiene el saber-cómo y la manera en que valoramos tener
+saber-cómo en comparación con la manera en que valoramos tener otros estados
+epistémicos similares. Consideraciones acerca del valor de aparentemente
+distintos estados epistémicos dan pie a varios argumentos potentes para
+distinguir de manera robusta entre ellos. Por ejemplo, es prácticamente un lugar
+común que tener conocimiento es más valioso que tener meramente una creencia
+verdadera, y que una creencia verdadera es más valiosa que una creencia falsa.
+En el dialogó platónico _Menón_, Sócrates defiende una versión clásica de esta
+idea. Primero, cuestiona la diferencia entre el valor del conocimiento y la mera
+creencia verdadera:
+
+#quote(block:true)[
+  #set list(marker: [--])
+  - [...] #smallcaps[Sócrates:] Si alguien que conociera el camino a Larissa, o
+    donde fuera que quieras, caminara hacia allá y guiara a otros, ¿no los 
+    guiaría correctamente y bien?
+  - #smallcaps[Menón:] Ciertamente.
+  - Y si alguien tuviera una creencia correcta sobre cuál es la ruta, aunque
+    nunca hubiera ido ahí y no conociera la ruta, ¿no los guiaría
+    correctamente también?
+  - Ciertamente.
+  - Y supongo que en tanto que tenga una creencia correcta sobre lo que el otro
+    tiene conocimiento, no será un peor guía que el que tiene conocimiento, aunque
+    tiene solamente una creencia verdadera, no conocimiento.
+  - No, no sería peor.
+  - De modo que la creencia verdadera no es una peor guía para que nuestras
+    acciones sean correctas que el conocimiento. [...] la creencia
+    correcta no es menos beneficiosa que el conocimiento. #h(1fr) (97a--97c)
+]
+
+Menón pregunta por qué, entonces, es que el conocimiento es valorado mucho más
+que la creencia correcta, y qué es lo que hace que una cosa difiera de la otra
+(97d). Sócrates dice que si no sabe la respuesta a su pregunta, es porque no
+recuerda las estatuas de Dédalo, un escultor del que se decía que era tan hábil
+que sus esculturas se movían solas, igual que las personas que representaban.
+Si no se las ataba al suelo, estas estatuas escapaban:
+
+#quote(block:true)[
+  No tiene mucho valor adquirir una de las estatuas que no están atadas, porque
+  no se quedan en su sitio, igual que los esclavos que escapan. Sin embargo, una
+  de estas estatuas que esté atada vale mucho, porque sus obras son muy
+  hermosas. ¿A qué me refiero? A las creencias verdaderas. Estas, pues, mientras
+  se quedan en su sitio, son bellas también, y todo lo que traen es bueno. Sin
+  embargo, no están dispuestas a quedarse en un mismo sitio por mucho tiempo, y
+  escapan del alma de las personas. De modo que no valen mucho hasta que alguien
+  las ata cuando razona lo que las explica. [...] Cuando quedan atadas, se
+  vuelven parte de nuestro conocimiento, y se quedan en su sitio. Es por eso que
+  el conocimiento es más valioso que la creencia verdadera, y es el que esté
+  atado lo que hace que el conocimiento sea distinto a la creencia verdadera.
+  #h(1fr) (97e-98a)
+]
+
+Algo que debería llamarnos la atención de la manera en que Sócrates y Menón
+evalúan el valor del conocimiento y la creencia verdadera es la importancia que
+asignan a las consecuencias prácticas de tener uno o otro de estos estados
+epistémicos. Quien sabe cómo llegar a Larissa puede guiar allí a otros. Nos
+veríamos tentados a decir que parte del valor de su conocimiento es que le
+permite saber cómo hacer ciertas cosas (llegar a Larissa, guiar a otros, etc.).
+Y si el saber-cómo es una forma de conocimiento, entonces estas intuiciones
+socráticas sugieren que es distinto a la creencia verdadera. Ya vimos, en la
+sección 5.3.1, como Cath (2011) propone que esta diferencia es ilusoria,
+precisamente porque tener una creencia verdadera es suficiente para poder guiar
+nuestra conducta de manera intencional.
+
+En cualquier caso, estas ideas sugieren que nuestros estados epistémicos pueden
+ser valiosos de distintas maneras. La creencia verdadera es valiosa porque es
+verdadera. El conocimiento es valioso porque es una manera de tener creencias
+verdaderas, pero además es más valioso que la mera creencia verdadera. Sócrates
+sugiere que lo que lo hace más valioso es que 'esté atado'. En el modelo JTB del
+conocimiento, el conocimiento es más valioso que la mera creencia verdadera
+porque además se tiene justificación para tener (y mantener) la creencia. Decir
+esto no es más que decir que la verdad y la justificación contribuyen o al menos
+parecen contribuir al valor de nuestros estados epistémicos de distintas
+maneras.
+
+Una distinción que puede ser útil sobre este punto es la siguiente. Por un lado,
+valoramos ciertas propiedades que nuestro estado epistémico puede llegar a
+tener: un ejemplo de esto es la manera en que valoramos la verdad en nuestras
+creencias. Por otro, valoramos ciertas propiedades de las maneras en las que
+llegamos a tener ciertos estados epistémicos: por ejemplo, valoramos que cuando
+llegamos a tener creencias verdaderas, lo hagamos mediante un proceso que además
+nos provea de justificación para tener esas creencias.#footnote[Barceló Aspeitia
+(2019) examina, entre otras cosas, la distinción entre estas dos maneras de
+evaluar nuestras condiciones epistémicas y morales, llamando al primer tipo de
+evaluación _consecuencialista_, y al segundo _deontologista_.]
+
+En el caso del saber-cómo, ciertamente parte de lo que valoramos es que podamos
+realizar ciertas acciones en base a nuestro estado epistémico. Pero además
+valoramos que estas capacidades sean robustas: valoramos que podamos realizar
+estas acciones en un rango amplio de situaciones por sobre el mero hecho de que
+seamos capaces de realizarlas en un número limitado de situaciones. Por
+supuesto, a esto debe sumarse el grado de dificultad y frecuencia de las tareas:
+esperamos que el éxito en tareas extraordinariamente difíciles sea en cierto
+sentido menos frecuente que el éxito en tareas ordinarias, y valoramos la
+capacidad de quienes las realizan sin importar (o al menos, sin que siempre
+importe) el que no sean capaces de repetir esos éxitos.
+
+Una manera de contrastar el conocimiento proposicional y el saber-cómo es
+directamente en términos del valor que asignamos a cada cual. Supongamos, con
+ciertos intelectualistas, que el saber cómo es un tipo de conocimiento
+proposicional, a saber, conocimiento proposicional acerca de cómo realizar
+ciertas acciones. Una intuición que podríamos tener es que tener ese
+conocimiento es mejor, en cierto sentido, que simplemente tener una creencia
+verdadera acerca de cómo realizar esas acciones. Alguien (por ejemplo, un
+anti-intelectualista) podría hacer una pregunta similar: ¿es saber cómo hacer
+algo más o menos valioso que tener conocimiento proposicional acerca de cómo
+hacerlo? Hay que tener cuidado con la situación dialéctica aquí. Las intuiciones
+intelectualistas y anti-intelectualistas son incompatibles: el intelectualista
+debe responder que no, justamente porque cree que el saber cómo consiste en ese
+conocimiento proposicional, mientras que el anti-intelectualista puede responder
+que sí, porque cree que el saber cómo puede disociarse de ese conocimiento
+proposicional. Por lo mismo, apelar a estas intuiciones no basta; es necesario
+tener un criterio que justifique tomar una posición u otra.
+
+#question[¿Es posible tener una postura anti-intelectualista en la que el saber
+cómo es _menos_ valioso que tener conocimiento proposicional acerca de saber cómo
+hacer algo?]
+
+Una manera de abordar ese problema es apelar a la cuestión de si el conocimiento
+proposicional o el saber-cómo son logros o no. Lograr un éxito es valioso, y por
+tanto es valioso llegar a tener la capacidad de lograrlo. El valor del
+saber-cómo y el conocimiento proposicional podrían derivar de los logros que
+fueran relevantes. ¿Pero en qué consiste, en general, el logro de llegar a tener
+una capacidad?
+
+Volvamos al caso del conocimiento proposicional. Como mencionamos en el capítulo 3,
+una manera de resolver las dificultades que presenta el problema de Gettier es
+adoptar un modelo como el de la epistemología de las virtudes, donde el
+conocimiento se entiende como un tipo de logro especial, que consiste en tener
+creencias verdaderas de manera que la posesión de esas creencias sea atribuible
+al ejercicio de las capacidades epistémicas del sujeto. La manera estándar de
+entender esta propuesta enfatiza que la creencia es algo que puede ser evaluado
+en los mismos términos que una acción que apunta a un objetivo:
+
++ Respecto a si alcanza su objetivo; en el caso de la creencia, si es
+ verdadera.
++ Respecto a si las habilidades del sujeto se ejercitaron; en el caso de la
+ creencia, si el sujeto ejercitó sus habilidades al llegar a creer,
++ Respecto a si su éxito se debe al ejercicio de esas habilidades; en el caso de
+ la creencia, si la creencia es verdadera debido a la manera en que el sujeto
+ ejercitó sus habilidades.
+
+Cuando se satisfacen estas tres condiciones la creencia de los sujetos no es
+meramente accidental, sino un logro epistémico que alcanzaron mediante el
+ejercicio de sus habilidades. Como consecuencia, vemos que una mera creencia
+verdadera es menos valiosa que una creencia verdadera que es un logro
+epistémico. A su vez, formar estas creencias de esta manera es un logro que
+permite que a su vez sea posible tener otros logros (por ejemplo, llegar a saber
+que el sistema inmune funciona de tal o cual manera permite que, al aplicar ese
+conocimiento, podamos evitar enfermedades, por ejemplo, mediante el uso de
+medicinas y vacunas).
+
+#question[Un sujeto puede ejercitar habilidades irrelevantes para la formación
+de una creencia al momento de formarla. Por ejemplo, cuando voy andando en
+bicicleta por la calle y miro el semáforo, ejercito las habilidades que tengo
+para andar en bicicleta, mis capacidades sensoriales, etc. ¿Cuáles de esas son
+relevantes para la formación de mi creencia? ¿Cómo establecer un criterio para
+definir eso?]
+
+Esta última observación es importante para el caso del saber-cómo, porque hay
+que distinguir entre el logro de llegar a tener saber-cómo (y por tanto el
+saber-cómo mismo como un logro), y los logros que podemos tener gracias a tener
+saber-cómo. Esto es importante para entender la pregunta que debemos hacernos
+cuando examinamos si el saber-cómo es o no un logro, como el conocimiento
+proposicional parecer ser.
+
+=== El saber-que vs el saber-qué como logros epistémicos
+
+En vistas a lo que hemos dicho hasta aquí, tenemos que preguntar si el
+saber-cómo y el conocimiento proposicional son logros epistémicos, y de serlo,
+si son el mismo tipo de logro epistémico.
+
+Hay cinco posibilidades:
+
+#[
+#set enum(numbering: "a)")
++ El saber cómo y el conocimiento proposicional son _ambos_ logros epistémicos,
+ y en efecto, el mismo logro epistémico,
++ El saber cómo y el conocimiento son _ambos_ logros epistémicos, pero no el
+ mismo.
++ El saber cómo es un logro epistémico, pero el conocimiento proposicional no lo
+ es.
++ El conocimiento proposicional es un logro epistémico, pero el saber-cómo no lo es.
++ Ni el saber cómo ni el conocimiento proposicional son logros epistémicos.
+]
+
+#figure[
+  #table(
+    align: horizon+center,
+    columns: 3,
+    rows: 3,
+    stroke: 0.5pt+black.lighten(50%),
+    [], table.cell(colspan: 2)[*conocimiento proposicional*],
+    table.cell(rowspan:2)[*saber-cómo*],[logro + logro], [logro + no-logro],
+    [no-logro + logro],[no-logro + no-logro]
+  )
+]
+
+Para tener un argumento a favor del intelectualismo, necesitamos un argumento a
+favor de la paridad del saber-cómo y el conocimiento proposicional. Es decir,
+debemos defender (a) o (e). Para defender el anti-intelectualismo, necesitamos
+un argumento en contra de la paridad. Es decir, a favor de (b), (c) o (d).
+
+Ahora bien, algunas de estas posibilidades son relativamente implausibles. En
+particular, si ni el saber-cómo ni el conocimiento proposicional fueran logros
+epistémicos, no es claro que el concepto de logro epistémico tendría ninguna
+aplicación.#footnote[Ojo, porque una posibilidad es que hubiera otros estados
+epistémicos distintos al saber-cómo y el conocimiento proposicional que sí
+fueran logros epistémicos. Un ejemplo podría ser el _entendimiento_. Sin
+embargo, sobre el entendimiento también hay una disputa respecto a si es
+reducible a una forma de conocimiento proposicional o no, o si es un tipo de
+saber-cómo.] La idea de que uno u otro de estos estados epistémicos
+sea un tipo de logro epistémico es más plausible que ninguno lo sea. Otra
+posibilidad dudosa es el caso en que el conocimiento proposicional es un logro
+epistémico, pero el saber-cómo sí lo es. Lo que hace dudosa esta posibilidad es
+que los argumentos que pueden aducirse a favor de que el conocimiento
+proposicional es un tipo de logro epistémico también parecen sugerir que un
+estado epistémico como el saber-cómo podría ser un tipo de logro epistémico.
+Esto no significa que la postura sea incoherente, sino solamente que para
+defenderla sería necesario tener un concepto de logro epistémico que restrinja
+de manera más estricta su rango de aplicabilidad en base al tipo de
+consideraciones que hacen que el conocimiento proposicional sea un candidato a
+ser un tipo de logro epistémico.
+
+Descartando estas posibilidades, el intelectualista parece tener solo una
+posibilidad para defender su postura en base a si el saber-cómo y el
+conocimiento proposicional son ambos un tipo de logro: mostrar que en ambos
+casos el tipo de logro es el mismo. En cambio, el anti-intelectualista tiene dos
+posibilidades: o bien mostrar que el saber-cómo es un logro epistémico mientras
+que el conocimiento proposicional no es un logro epistémico, o mostrar que si
+bien ambos son logros epistémicos, no son el mismo tipo de logro epistémico.
+
+#aside[Es importante tener en mente que en el modelo intelectualista, lo que
+interesa es la paridad entre saber cómo hacer algo y tener cierto conocimiento
+específico acerca de cómo hacerlo. Podría ser que _en general_ tener conocimiento
+proposicional sea un tipo de logro epistémico L, mientras que saber cómo hacer
+algo sea un tipo de logro epistémico L' que es una forma especial de L, de modo
+que ser un logro de ese tipo L' no es necesariamente idéntico a ser un logro del
+tipo de L (no todo lo que es un logro del tipo de L es un logro del tipo de
+L'). Cuando discutimos el caso en que el saber-cómo y el conocimiento
+proposicional no son el mismo tipo de logro no hablamos de casos en que la
+relación entre los tipos de logro relevantes sea como esto; asumimos que ninguno
+de los tipos de logro relevantes son una instancia de los otros.]
+
+Carter & Pritchard (2015) argumentan a favor de una posición
+anti-intelectualista siguiendo la primera de esas posibilidades. Primero,
+argumentan que el conocimiento proposicional no es un tipo de logro epistémico,
+y luego, argumentan que el saber-cómo sí es un tipo de logro epistémico.
+
+
+
+=== Autonomía
+
+// == Saber-cómo y _skill_
+//
+// Una cosa es saber cómo hacer algo. Otra es tener cierto talento.
+//
 #context[
 #set heading(numbering: none, outlined: false)
 

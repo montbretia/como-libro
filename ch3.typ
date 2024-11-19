@@ -1,4 +1,5 @@
 #import "utils.typ": question, aside
+#import "logic.typ": would
 
 = Un modelo tentador
 
@@ -160,13 +161,13 @@ discriminar los casos que son falsos.
 
 #aside[ La condición de Sensitividad está formulada como un condicional
 contrafáctico: 'si p no fuera verdadero, s no creería que p'. Esquemáticamente:
-$ not p gt not C(s, p) $ La manera tradicional (aunque no la única) de entender
+$ not p would not C(s, p) $ La manera tradicional (aunque no la única) de entender
 estos condicionales es en términos de la semántica de mundos posibles. Un mundo
 posible es una manera en que el mundo podría ser. El mundo actual ($m_0$) es el mundo
 posible que de hecho es el caso. Los mundos posibles son más o menos
 cercanos/lejanos al mundo actual dependiendo de qué tan distintos sean al mundo
 actual (e.g., un mundo en que tengo un pelo más en la cabeza es más cercano que
-uno en el que tengo tentáculos en vez de pelo). $p gt q$ es verdadero si en
+uno en el que tengo tentáculos en vez de pelo). $p would q$ es verdadero si en
 todos los mundos posibles más cercanos al mundo actual en que $p$ es verdadero,
 $q$ es verdadero. Qué tan lejanos puedan ser los mundos posibles que vayan a
 considerarse como los más cercanos depende del contexto.

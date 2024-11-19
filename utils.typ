@@ -1,6 +1,12 @@
 #let question(body) = {
-  block(fill: rgb("#f4c9c3"), stroke: 0.1pt + rgb("#f4c9c3").darken(20%),
-  spacing: 0.64em, inset: 0pt, outset: 0pt, radius: 4pt, above: 1.5em, below: 1.5em)[
+  block(fill: rgb("#f4c9c3"), 
+        stroke: 0.1pt + rgb("#f4c9c3").darken(20%),
+        spacing: 0.64em, 
+        inset: 0pt,
+        outset: 0pt,
+        radius: 4pt,
+        above: 1.5em,
+        below: 1.5em)[
     #grid(columns: (0.9fr, 10fr),
       block(
         inset: 9pt, 
@@ -15,9 +21,17 @@
 }
 
 #let aside(breakable: false, body) = {
-  block(fill: rgb("#ebb5c3").lighten(30%), stroke: rgb("#ebb5c3").darken(5%), spacing:
-  0.64em, breakable: breakable, inset: 4pt, outset: 4pt, radius: 4pt, above: 1.5em, below: 1.5em)[
-  #body
+  place(auto, float: true)[
+    #block(fill: rgb("#ebb5c3").lighten(30%), 
+          stroke: rgb("#ebb5c3").darken(5%), 
+          spacing: 0.64em, 
+          breakable: breakable,
+          inset: 4pt,
+          outset: 4pt,
+          radius: 4pt,
+          above: 1.5em, below: 1.5em)[
+            #align(start)[#body]
+    ]
   ]
 }
 

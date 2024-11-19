@@ -148,7 +148,9 @@ puede ser empleado además como una introducción a la metodología filosófica.
 hay manera de aprender a filosofar sino mediante hacerse preguntas concretas e
 intentar responderlas uno mismo. Las preguntas acerca del saber cómo son
 fascinantes (espero convencerte de ello durante el libro), y ofrecen una
-excelente oportunidad para ello.
+excelente oportunidad para ello.#footnote[Esto hace que el libro difiera de
+otros trabajos similares, como el excelente _A Critical Introduction to
+Knowledge-How_ (2018) de J.A. Cartes y T. Poston.]
 
 #v(2em)
 #block[]
@@ -213,3 +215,4 @@ referidas explícitamente en el texto, he añadido algunas entradas adicionales
 como suplemento. Estas están marcadas con un asterisco. Cuando cito textos en
 inglés, he ofrecido mis propias traducciones, pero en la lista de referencias
 he añadido información sobre traducciones al español cuando hay disponibles. 
+

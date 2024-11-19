@@ -264,13 +264,13 @@ real, sino que basta con que mostremos que es _posible_ que el análisis sea
 falso.#footnote[Si el análisis no se presenta como una condición nnecesaria,
 mostrar que tiene un ccontraejemplo contrafactico (i.e., meramente posible) es
 inefectivo. Si alguien defiende que la justicia de hecho consiste en A, B, y C,
-decir que si las cosas fueran muy distintas a como en realidad son, podría haber
-justicia sin C no mostraría que la justicia no consiste de hecho en A, B, y C,
-sólo que el hecho de que consista en A, B y C es contingente.]  
+decir que, si las cosas fueran muy distintas a como en realidad son podría haber
+justicia sin C, no mostraría que la justicia no consiste de hecho en A, B, y C,
+sólo que el hecho de que consista en A, B y C es contingente.]
 
 #question[En el diálogo _El Político_, Platón emplea el método de división y
 sugiere que el ser humano es un animal bípedo sin plumas: "... debimos haber
-comenzado por dividir los animales terreetres entre bípedos y cuadrúpedos; y ya
+comenzado por dividir los animales terrestres entre bípedos y cuadrúpedos; y ya
 que aquellos con alas, y solamente ellos, caen bajo la misma clase que la del
 ser humano, deberiamos dividir a los bípedos entre los que tienen plumas y
 aquellos que no las tienen". Diógenes Laertio cuenta la historia de cómo
@@ -530,32 +530,32 @@ también es una condición intensional. Algo puede ser verdadero en el mundo
 actual sin ser necesario. Yo tengo solo un tío, pero podría no haberlo tenido,
 o podría haber tenido más tíos.
 
-Una manera en que podrí̇amos decir que el concepto de conocimiento es
-intensional es que para que conozcamos una proposición $p$ no basta con que la
-creamos en el mundo actual. Tenemos que creerla en todos los mundos posibles
-que son compatibles con nuestra evidencia (la idea es que esto está explicado
-porque nuestra creencia satisface las condiciones necesarias para que cuente
-como conocimiento).#footnote[Otro criterio para clasifica a un operador como
+Una manera en que podrí̇amos decir que el concepto de conocimiento es intensional
+es que para que conozcamos una proposición $p$ no basta con que la creamos en el
+mundo actual. Tenemos que creerla en todos los mundos posibles que son
+compatibles con nuestra evidencia (la idea es que esto está explicado porque
+nuestra creencia satisface las condiciones necesarias para que cuente como
+conocimiento).#footnote[Otro criterio para clasifica a un operador como
 intensional es que cree un contexto donde no se pueda sustituir ciertas
 expresiones extensionalmente equivalentes (i.e., que refieran a lo mismo). El
 conocimiento es intensional en este sentido también: puedo saber que Clark Kent
 trabaja en el _Daily Planet_, sin saber que Superman trabaja en el _Daily
-Planet_, aunque 'Clark Kent' y 'Superman' refieran a la misma persona.]
-Haciendo esta asunción, podemos construir modelos de situaciones que validen o
-refuten ciertas asunciones sobre el conocimiento. Por ejemplo, podríamos creer
-que hay proposiciones verdaderas que ignoramos, pero que todas las
-proposiciones verdaderas son cognocibles (es decir, que pueden conocerse). Un
-argumento famoso muestra que está asunción es incompatible con otras asunciones
-sobre el conocimiento (a saber, que conocer una proposición implica que es
-verdadera, y que conocer una conjunción implica conocer los conjuntos de esa
-conjunción): se puede mostrar que dadas todas esas asunciones en conjunto, no
-solamente todas las proposiciones son cognocibles, sino que todas son de hecho
-conocidas. Esto se lo conoce como la _paradoja de la cognocibilidad de Fitch_.
-Este argumento muestra que ciertas maneras de modelas el conocimiento no
-funcionan, y una respuesta a esta dificultad es que deben construirse mejores
+Planet_, aunque 'Clark Kent' y 'Superman' refieran a la misma persona.] Haciendo
+esta asunción, podemos construir modelos de situaciones que validen o refuten
+ciertas asunciones sobre el conocimiento. Por ejemplo, podríamos creer que hay
+proposiciones verdaderas que ignoramos, pero que todas las proposiciones
+verdaderas son cognocibles (es decir, que pueden conocerse). Un argumento famoso
+muestra que está asunción es incompatible con otras asunciones sobre el
+conocimiento (a saber, que conocer una proposición implica que es verdadera, y
+que conocer una conjunción implica conocer los conjuntos de esa conjunción): se
+puede mostrar que dadas todas esas asunciones en conjunto, no solamente todas
+las proposiciones son cognocibles, sino que todas son de hecho conocidas. Esto
+se lo conoce como la _paradoja de la cognocibilidad de Fitch_ (véase el
+apartado). Este argumento muestra que ciertas maneras de modelas el conocimiento
+no funcionan, y una respuesta a esta dificultad es que deben construirse mejores
 modelos o teorías sobre el conocimiento.
 
-#aside(breakable: true)[
+#aside[
   El argumento que lleva a la paradoja de Fitch es el siguiente. Primero, 
   hay una serie de asunciones sobre el conocimiento, que describen el modelo:
 

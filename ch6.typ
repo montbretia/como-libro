@@ -22,11 +22,14 @@ perspectiva representacionalista? Por supuesto, esto asume que el modelo
 representacionalista de la mente es correcto. A partir de esta misma
 suposición, podríamos inferir que podría haber cierta clase de agentes
 artificiales que poseyesen saber cómo—robots con conocimiento práctico.
-¿Es plausible esto? En la segunda mitad de este capítulo examinaremos
-una línea argumental que rechaza esta posibilidad.
+¿Es plausible esto? 
+
+== Representación mental
 
 Para abordar el primer problema, tenemos que dar un repaso breve a las
 ideas tradicionales acerca de la representación mental.
+
+== El formato representacional del saber-cómo
 
 == ¿Pueden los robots saber cómo?
 
