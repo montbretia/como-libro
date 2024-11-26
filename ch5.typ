@@ -2981,6 +2981,68 @@ anti-intelectualista siguiendo la primera de esas posibilidades. Primero,
 argumentan que el conocimiento proposicional no es un tipo de logro epistémico,
 y luego, argumentan que el saber-cómo sí es un tipo de logro epistémico.
 
+En la sección anterior vimos cómo algunos autores sugieren que el conocimiento
+proposicional es una forma de logro epistémico, y que eso es al menos parte de
+lo que lo hace valioso. Sin embargo, se han propuesto argumentos que muestran
+que el concepto de conocimiento es separable del concepto de logro (que haya un
+logro no es necesario ni suficiente para que haya conocimiento).
+
+Un argumento contra la necesidad del logro para el conocimiento proposicional es
+que hay casos como el siguiente (adaptado de Lackey (2007)):
+
+/ Estación de trenes: Tras llegar a la estación de trenes de Köln, Isabel tiene
+ que hacer un cambio de andenes. No tiene tiempo para buscar los carteles con
+ el horario de los trenes, así que le pregunta a una persona en el andén, quien
+ sabe que el tren de Isabel se detendrá en el andén 10. Isabel adquiere el
+ conocimiento que necesitaba.
+
+¿Por qué es problemático este caso para la necesidad del logro para el
+conocimiento? La idea es que el conocimiento de Isabel no parece ser un logro
+genuino, aunque sí parece ser conocimiento genuino. Decir que Isabel no adquiere
+conocimiento mediante este intercambio testimonial tendría consecuencias
+nefastas: gran parte del conocimiento testimonial ordinario se adquiere en
+condiciones similares a las de Isabel. Si no podemos decir que Isabel adquiere
+conocimiento en ese caso, no podemos decir que nadie en situaciones similares
+adquiere conocimiento mediante el testimonio. Esta forma de escepticismo es
+simplemente implausible.
+
+Estas intuiciones pueden contrarestarse un poco si examinamos qué habilidades
+ejercita Isabel al adquirir su creencia. Es cierto que para llegar a saber que
+su tren parará en el andén 10 ella no ejercita ni su percepción, ni su
+razonamiento, etc.#footnote[Omitiendo el problema de si el testimonio es
+reducible a estas otras fuentes de conocimiento o no.] En ese sentido, el que su
+creencia sea verdadera no se explica porque haya ejercitado sus habilidades.
+Plausiblemente, la verdad de su creencia se explica en términos de lo que hace
+que la persona que le ofrece el testimonio tenga conocimiento. Pero por otro
+lado, Isabel sí ejercita ciertas habilidades que tienen importancia epistémica.
+Por ejemplo, busca una manera de responder la pregunta que la motiva (a saber,
+¿dónde parará el tren que tiene que abordar?) de una manera que es
+razonablemente apropiada en su circunstancia. ¿Por qué no podría ser que su
+conocimiento es un logro epistémico porque es el resultado del ejercicio de una
+habilidad de este tipo? En respuesta a este problema, podría variarse el
+experimento mental; por ejemplo, podríamos hacer que Isabel simplemente oye al
+pasar que su tren va a detenerse en el andén 10 (suponiendo que la persona que
+lo dice sabe que va a detenerse ahí). En este caso adquiere conocimiento, pero
+no como el resultado de una habilidad acerca de cómo buscar información.
+
+#question[¿Por qué esto no es un problema en el caso de la percepción? Al tomar
+el tren hacia Essen, Isabel se da cuenta de que había una catedral junto a la
+estación. ¿En qué sentido es esto un logro epistémico de Isabel?]
+
+De todas maneras, los problemas persisten: si Isabel tuviera un logro epistémico
+al adquirir información de esta manera, parece que podría estar en un estado
+similar a menudo, simplemente por estar en una situación que es favorable a que
+forme creencias verdaderas. Pero eso es precisamente lo que los ejemplos de
+Gettier parecen mostrar como incompatible con el conocimiento. Así que aceptar
+eso lleva a tener que aceptar como conocimiento demasiadas cosas que
+intuitivamente no deberíamos aceptar como tal.#footnote[Por supuesto, estas
+intuiciones no son la última palabra sobre el punto. Habría que medir la
+importancia de esto contra otros factores.] En vez de conducirnos a una forma
+de escepticismo sobre el testimonio, como rechazar que Isabel adquiere
+conocimiento, parece que aceptar que tener un logro epistémico de este tipo
+conduce a tener conocimiento lleva a lo que podría llamarse una explosión de
+conocimiento.
+
 
 
 === Autonomía

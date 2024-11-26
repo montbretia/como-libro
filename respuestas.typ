@@ -4,25 +4,18 @@
 
 == La imagen manifiesta
 
-+ Hay buenos argumentos en ambos sentidos—Sellars sabiamente da por
-  sentado que #emph[no] poseemos una imagen estereoscópica, y esto es
-  compatible con ambas posibilidades. En todo caso, si uno cree que la
-  harmonización de las imágenes manifiesta y científica es posible, debe
-  considerar si #emph[además] existe la posibilidad de que puedan
-  harmonizarse de varias maneras igualmente legítimas.
-+ Un argumento en contra: la imagen manifiesta del saber cómo puede no
++ Un <q2_1>argumento en contra: la imagen manifiesta del saber cómo puede no
   estar cerrada bajo la implicación lógica (es decir, puede que no
   acepte todas las consecuencias lógicas de sus postulados, lo que es
   usualmente un requerimiento formal de las teorías científicas). Otro
   criterio importante tiene que ver con la capacidad explicativa de la
   imagen manifiesta.
-+ A menudo podemos emplear un modelo que sabemos que es falso para
-  examinar el comportamiento de un sistema o concepto. Del mismo modo,
-  podemos usar un análisis falso para examinar cómo serían las cosas si
-  fuera verdadero; al ver que un análisis falso entra en problemas,
-  podemos avanzar hipótesis acerca de cómo debería ser un análisis
-  verdadero o más adecuado.
-+ No creo que los contraejemplos de Gettier sean decisivos contra el
++ Estas<q2_2> propuestas platónicas no parecen ser buenas definiciones. El problema
+  principal es que no parecen tener un peso explicativo: que algo sea un bípedo
+  implume con uñas anchas no parece explicar que sea un ser humano; al
+  contrario, el que sea humano parece explicar que sea un bípedo implume con
+  uñas anchas.
++ No<q2_3> creo que los contraejemplos de Gettier sean decisivos contra el
   concepto clásico de conocimiento, pero sí sugieren que es posible
   concebir el conocimiento de manera que este se vea socavado por
   ciertos tipos de suerte epistémica. El problema está en que a menudo
@@ -30,9 +23,24 @@
   modo que siempre es posible una diferencia entre tener una creencia
   verdadera justificada y estar en un estado que garantice la verdad de
   la creencia.
-+ Una observación en contra: no hay razón para pensar que las ideas
++ A<q2_4> menudo podemos emplear un modelo que sabemos que es falso para
+  examinar el comportamiento de un sistema o concepto. Del mismo modo,
+  podemos usar un análisis falso para examinar cómo serían las cosas si
+  fuera verdadero; al ver que un análisis falso entra en problemas,
+  podemos avanzar hipótesis acerca de cómo debería ser un análisis
+  verdadero o más adecuado.
++ Una<q2_5> observación en contra: no hay razón para pensar que las ideas
   preconcebidas son adecuadas.
-+ Si bien tengo afinidades con el pluralismo metodológico, creo que la
++ El<q2_6> problema de la paradoja de Fitch ha generado una industria de propuestas
+  para evitar la paradoja sin tener que rechazar las asunciones. En principio
+  uno podría evitar la paradoja simplemente rechazando una de ellas; por
+  ejemplo, yo creo que la tesis de que toda proposición verdadera es cognoscible
+  es insostenible. Otra forma de evitar la paradoja es reformular la tesis de
+  cognoscibilidad, ya sea restringiéndola a una clase de verdades, o manteniendo
+  su generalidad pero formulandola en otros términos. Otras posibilidades son
+  revisar la lógica de trasfondo (por ejemplo, adoptar una lógica en la que no
+  se pueda razonar por _reductio_).
++ Si<q2_7> bien tengo afinidades con el pluralismo metodológico, creo que la
   postura tiene varias debilidades. Primero, es necesario racionalizar
   las maneras en que se coordinen las distintas metodologías
   filosóficas, así como las maneras en que evaluamos qué metodología

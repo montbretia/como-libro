@@ -93,11 +93,10 @@ naturaleza de su existencia, y responde:
 \[…\] entonces ¿qué soy? Una cosa que piensa. ¿Qué es una cosa que
 piensa? Es decir una cosa que duda, que concibe, que afirma, que niega,
 que quiere, que no quiere, que también imagina, y que siente (AT VII
-22)#footnote[#quote(block: true)[
-Cito a Descartes con el esquema AT + libro (AT VII son las
+22)#footnote[Cito a Descartes con el esquema AT + libro (AT VII son las
 #emph[Meditaciones] en la edición de Adam y Tannery) + página, usado por
 la mayoría de las ediciones de uso académico.
-]]
+]
 ]
 
 Pero una cosa que piensa no es una cosa que ocupa un lugar en el
@@ -450,7 +449,7 @@ el antecedente es falso también. Es decir:
 + El intelectualismo es falso.
 ]
 
-#aside(breakable: true)[Mi formalización toma inspiración de ciertas ideas de Häggqvist (2017).
+#aside(breakable: true, float: false)[Mi formalización toma inspiración de ciertas ideas de Häggqvist (2017).
 Häggqvist sugiere que en una formalización de un experimento mental, cada
 premisa debe corresponder con una manera en que alguien podría estar en
 desacuerdo con el argumento, e identifica tres premisas. La primera afirma la
@@ -510,10 +509,13 @@ preocupaciones sobre (1) no son graves.
   argumento contra la tesis de suficiencia por un principio acerca de un
   concepto intelectual específico. Por ejemplo, un podría adoptar:
 
-   (1\*) Si el intelectualismo es verdadero, entonces necesariamente para
-  cualesquiera sujetos s#sub[1] y s#sub[2];, si Prop(s#sub[1];, T) =
-  Prop(s#sub[2];, T), entonces si s#sub[1 ];es astuto, s#sub[2 ];es
-  astuto.
+  #[
+    #set enum(numbering: "1'')")
+  + Si el intelectualismo es verdadero, entonces necesariamente para
+    cualesquiera sujetos $s_1$ y $s_2$, si $"Prop"(s_1), T) =
+    "Prop"(s_2, T)$, entonces si $s_1$ es astuto, $s_2$ es
+    astuto.
+  ]
 
   Supón que el concepto de #emph[ser sagaz] satisfaga un principio
   similar. ¿Podría pasar que alguien fuese #emph[ambas] cosas, astuto
@@ -1185,7 +1187,10 @@ hipótesis de la habilidad de Lewis, entonces, saber como se siente una
 experiencia es tener una habilidad, no tener conocimiento de cierta
 información.
 
-#question[Arriba vimos que hay distintas posibles soluciones para el problema de cómo podemos saber que algo puede hacerse de cierta manera. ¿Cómo podemos saber que algo debe hacerse de cierta manera?]
+#question[¿Es esta realmente una respuesta plausible al problema que presenta el
+caso de Mary? ¿Por qué no podríamos decir que Mary no adquiere ninguna
+habilidad, sino que solamente gana la oportunidad de manifestar las habilidades
+que ya tiene?]
 
 #context[
 #set heading(numbering: none, outlined: false)

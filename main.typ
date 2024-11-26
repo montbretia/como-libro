@@ -1,5 +1,6 @@
 #set page(paper: "a5")
-#set text(font:"Adobe Caslon Pro", size: 10.5pt, lang: "es")
+#set text(font:"Minion Pro", size: 10.5pt, lang: "es")
+#show math.equation: set text(font: "Libertinus Math")
 
 #include "cover.typ"
 
@@ -21,15 +22,15 @@
     #if it.level == 1 [
       #if it.outlined == true [#pagebreak()]
       #v(5em)
-      #text(size: 16pt)[#it]
+      #text(size: 15pt)[#it]
       #v(3em)
     ] else if it.level == 2 [
       #v(1.5em)
-      #text(size: 13pt, weight: "medium")[#it]
+      #text(size: 12pt, weight: "medium")[#it]
       #v(0.5em)
     ] else if it.level == 3 [
       #v(0.8em)
-      #text(size: 12pt, weight: "medium")[#it]
+      #text(size: 11pt, weight: "medium")[#it]
       #v(0.5em)
     ] else [
       #emph(it)
@@ -50,7 +51,7 @@
 #show: word-count
 
 #align(center + horizon)[
-  Palabras: #total-words / 80000 (#calc.round(51913*100/80000, digits: 1)%)
+  Palabras: #total-words / 80000 (#calc.round(56266*100/80000, digits: 1)%)
 ]
 
 #pagebreak()
@@ -74,5 +75,6 @@
 #include "ch8.typ"
 #include "ch9.typ"
 #include "ch10.typ"
-// #include "respuestas.typ"
+#include "respuestas.typ"
+#include "apendice-logica.typ"
 #include "backmatter.typ"

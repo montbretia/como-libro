@@ -206,7 +206,8 @@ concepción mapuche del conocimiento práctico (capítulo 10).
 Durante el transcurso de cada capítulo presentaré una serie de preguntas que
 pueden servir para pensar más en detalle los problemas tratados, y al final del
 libro hay un capítulo con esbozos de respuestas para algunas de estas
-preguntas. 
+preguntas (cuando doy respuestas a esas preguntas, lo indico con el símbolo 
+#text(fill: red)[#sym.arrow.r.wave]). 
 
 #question[Las preguntas van a aparecer en este formato.]
 
@@ -216,3 +217,5 @@ como suplemento. Estas están marcadas con un asterisco. Cuando cito textos en
 inglés, he ofrecido mis propias traducciones, pero en la lista de referencias
 he añadido información sobre traducciones al español cuando hay disponibles. 
 
+Aunque asumo que el lector tiene alguna familiaridad con la lógica formal,
+incluyo como apéndice un resumen de lo mínimo de lógica que empleamos.

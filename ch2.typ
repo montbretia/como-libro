@@ -91,8 +91,8 @@ manejar. Puede ser que además de tener cierto tipo de control, algo más sea
 necesario. Quizás estas ideas todavía pertenezcan a la imagen ordinaria que
 tenemos acerca de saber cómo actuar y de control. 
 
-#question[¿Por qué no decimos que la imagen manifiesta del saber cómo _es_ una teoría?
-]
+#question(label: <q2_1>)[¿Por qué no decimos que la imagen manifiesta del saber cómo _es_ una
+teoría?]
 
 En todo caso, si hacemos la asunción de que esta ‘imagen manifiesta’ funciona
 como una teoría, la siguiente pregunta que debemos hacernos es si puede
@@ -215,8 +215,9 @@ ejemplos de cómo usar el concepto), y examinar qué se requiere para que podamo
 vindicar nuestros juicios acerca de esos casos. Proveer de las condiciones en
 que esos juicios son verdaderos es proveer un análisis de estos conceptos.
 
-La justificación de esta metodología es lógica. Esquemáticamente, ‘si X,
-entonces Y’ se formaliza como $X → Y$. 
+La justificación de esta metodología es lógica.#footnote[Para un repaso de
+lógica elemental, véase el Apéndice A.] Esquemáticamente, ‘si X, entonces Y’ se
+formaliza como $X → Y$. 
 
 Si $X -> Y$ es verdadero, decimos que X es una condición _suficiente_ para Y
 (la intuición es que es suficiente que X se dé para que Y se dé), y Y es una
@@ -269,7 +270,7 @@ decir que, si las cosas fueran muy distintas a como en realidad son podría habe
 justicia sin C, no mostraría que la justicia no consiste de hecho en A, B, y C,
 sólo que el hecho de que consista en A, B y C es contingente.]
 
-#question[En el diálogo _El Político_, Platón emplea el método de división y
+#question(label: <q2_2>)[En el diálogo _El Político_, Platón emplea el método de división y
 sugiere que el ser humano es un animal bípedo sin plumas: "... debimos haber
 comenzado por dividir los animales terrestres entre bípedos y cuadrúpedos; y ya
 que aquellos con alas, y solamente ellos, caen bajo la misma clase que la del
@@ -329,7 +330,8 @@ recibirá la promoción tiene diez monedas en su bolsillo. Smith satisface las
 condiciones del anális JTB (tiene una creencia verdadera y justificada), pero
 esto no basta para que tenga conocimiento.
 
-#question[¿Qué piensan del contraejemplo de Gettier? ¿Se les ocurren otros contraejemplos?]
+#question(label: <q2_3>)[¿Qué piensan del contraejemplo de Gettier? ¿Se les
+ocurren otros contraejemplos?]
 
 Consideremos un caso similar, quizás un poco más sencillo. Imaginen que un
 miembro de su familia está en el hospital, y que tienen el plan de ir a
@@ -420,7 +422,7 @@ construcción de un modelo de este tipo puede entregarnos una estimación
 arbitrariamente precisa de las condiciones en las que el concepto queda
 satisfecho.
 
-#question[¿Tenemos que creer en la verdad literal de un análisis para que sea útil?]
+#question(label: <q2_4>)[¿Tenemos que creer en la verdad literal de un análisis para que sea útil?]
 
 == ¿Conservar o revisar?
 
@@ -453,7 +455,7 @@ y determinar cuál es el fenómeno. Si abandonamos todas las ideas preconcebidas
 acerca del saber como, por ejemplo, ¿cómo podríamos apresar el fenómeno? En
 efecto, podríamos tener que recomponer esas mismas ideas preconcebidas.
 
-#question[¿Deberíamos realmente tomar la postura conservadora acerca de las
+#question(label: <q2_5>)[¿Deberíamos realmente tomar la postura conservadora acerca de las
 ideas preconcebidas como la postura por defecto?]
 
 Aun así, existe la posibilidad de revisar las ideas preconcebidas que tengamos
@@ -601,7 +603,7 @@ modelos o teorías sobre el conocimiento.
 
   Lo que es equivalente a que todas las proposiciones verdaderas sean conocidas: $ forall p (p -> K p) $
 
-  #block(inset: 3pt)[#question[¿Cómo creen que podemos evitar la paradoja?]]
+  #block(inset: 3pt)[#question(label: <q2_6>)[¿Cómo creen que podemos evitar la paradoja?]]
 ]
 
 == ¿Los conceptos de quién?
@@ -683,7 +685,7 @@ sido examinado también desde la perspectiva de la filosofía experimental. Para
 evaluar estas contribuciones debemos primero entrar en la tarea concreta de
 examinar cómo se construye una teoría sobre el saber cómo.
 
-#question[Este capítulo esboza una forma de pluralismo metodológico: hay una
+#question(label: <q2_7>)[Este capítulo esboza una forma de pluralismo metodológico: hay una
 multitud de métodos que son aplicables en distintas situaciones, y que en
 muchos casos son compatibles. ¿Qué tan razonable es esta postura? Por ejemplo,
 ¿son realmente compatibles la construcción de modelos y la filosofía
