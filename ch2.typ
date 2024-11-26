@@ -1,4 +1,5 @@
-#import "utils.typ": question, aside, fitch-r
+#import "utils.typ": question, aside
+#import "logic.typ": fitch
 #set text(lang: "es")
 
 = Enfrentando la imagen manifiesta
@@ -559,40 +560,44 @@ modelos o teorías sobre el conocimiento.
   El argumento que lleva a la paradoja de Fitch es el siguiente. Primero, 
   hay una serie de asunciones sobre el conocimiento, que describen el modelo:
 
-  #set enum(numbering: "A)")
-  + $forall p (p -> diamond.medium K p)$  #fitch-r[_toda proposición es cognocible_]
-  + $exists p (p and not K p)$            #fitch-r[_hay proposiciones que son desconocidas_]
-  + $K p tack.r p$                        #fitch-r[_el conocimiento es factivo--implica la verdad de lo conocido_]
-  + $K (p and q) tack.r K p and K q$      #fitch-r[_si se conoce una conjunción, se conocen sus conyuntos_]
+  #fitch(num: "A)", ratio: (3fr, 5.8fr))[
+  + $forall p (p -> diamond.medium K p)$  (toda proposición es cognocible)
+  + $exists p (p and not K p)$            (hay proposiciones que son desconocidas)
+  + $K p tack.r p$                        (el conocimiento es factivo)
+  + $K (p and q) tack.r K p and K q$      (si se conoce una conjunción, se conocen sus conyuntos)
+  ]
 
   Es obvio que esto no es una teoría completa sobre el conocimiento; la idea es simplemente
   examinar como esas asunciones interactuan entre sí.
 
   Además necesitamos un par de principios lógicos usualmente aceptados:
 
-  #set enum(numbering: "I)")
+  #fitch(num: "I)")[
   + $"Si" tack.r p, "entonces" tack.r square p$
   + $square not p tack.r not diamond.medium p$
+]
 
   Primero, mostramos que no es posible conocer que se ignora algo:
   
-  #set enum(numbering: "1)")
-  + $K (p and not K p)$       #fitch-r[suposición: _se sabe que se desconoce algo_]
-  + $K p$                     #fitch-r[1, D]
-  + $K not K p$               #fitch-r[1, D]
-  + $not K p$                 #fitch-r[3, C]
-  + $bot$                     #fitch-r[2, 4]
-  + $not K (p and not K p)$   #fitch-r[1, 5, _reductio_]
-  + $square not K (p and not K p)$ #fitch-r[6, I]
-  + $not diamond.medium K (p and not K p)$ #fitch-r[7, II]
+  #fitch(ratio: (3fr, 5fr))[
+  + $K (p and not K p)$       (suposición, se sabe que se desconoce algo)
+  + $K p$                     (1, D)
+  + $K not K p$               (1, D)
+  + $not K p$                 (3, C)
+  + $bot$                     (2, 4)
+  + $not K (p and not K p)$   (1, 5, reductio)
+  + $square not K (p and not K p)$ (6, I)
+  + $not diamond.medium K (p and not K p)$ (7, II)
+]
 
   Pero esto está en conflicto con nuestras asunciones, pues estas implican que es posible saber que se ignora algo:
-  #set enum(start: 9)
-  + $(p and not K p)$             #fitch-r[instancia de B: _hay algo desconocido_]
-  + $(p and not K p) -> diamond.medium K (p and not K p)$ #fitch-r[instancia de A]
-  + $diamond.medium K (p and not K p)$ #fitch-r[9, 10, _modus ponens_]
-  + $bot$                         #fitch-r[11, 8]
-  + $not exists (p and not K p)$  #fitch-r[B, 12, _reductio_]
+  #fitch(start: 9, ratio: (4fr, 4fr))[
+  + $(p and not K p)$             (instancia de B, hay algo desconocido)
+  + $(p and not K p) -> diamond.medium K (p and not K p)$ (instancia de A)
+  + $diamond.medium K (p and not K p)$ (9, 10, modus ponens)
+  + $bot$                         (11, 8)
+  + $not exists (p and not K p)$  (B, 12, reductio)
+]
 
   Lo que es equivalente a que todas las proposiciones verdaderas sean conocidas: $ forall p (p -> K p) $
 

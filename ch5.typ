@@ -1,7 +1,8 @@
 // vim: spell spelllang=es
 
-
 #import "utils.typ": question, aside, color-key
+#import "logic.typ": fitch
+
 #set text(lang: "es")
 
 #pagebreak()
@@ -14,7 +15,6 @@
     ]
   ]
 ]
-
 
 = La disputa de las cien escuelas
 
@@ -829,15 +829,17 @@ Gettier en el caso del saber-cómo:
   del tipo de Gettier sobre cómo realizar la acción a’, $I(s,a)$ por ‘s
   realiza a inteligentemente’ y $H(s,a)$ por ‘s sabe cómo realizar a’:
   
-  #set enum(numbering: "A)", start: 1)
+  #fitch(ratio: (3fr, 5fr))[
   + $G(s,a) -> not H(s,a)$ (premisa; Poston la omite)
   + $G(s,a) -> I(s,a)$  (premisa)
   + $I(s,a) -> H(s,a)$ (premisa)
   + $G(s,a)$ (asunción)
-  + $-H(s,a) and H(s,a)$ (D,A; D, C; _modus ponens_ y $and$-intro)
+  + $-H(s,a) and H(s,a)$ (D,A D,C modus ponens y conj.-intro)
   + $bot$ (contradicción)
-  + $not G(s,a)$ (D, F, _reductio_)
+  + $not G(s,a)$ (D, F, reductio)
   ]
+]
+
 ]
 
 La primera premisa parte de la observación de que en casos tradicionales
