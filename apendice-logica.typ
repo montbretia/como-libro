@@ -1,5 +1,5 @@
 #import "utils.typ": question
-#import "logic.typ": fitch
+#import "logic.typ": fitch, fitch-r
 
 #[
   #set heading(numbering: none)
@@ -99,11 +99,13 @@ and q$ es falsa.
 Podemos definir el resultado de aplicar una valuación a una estructura
 proposicional recursivamente:
 
-/ Semántica para $L_P$: 
-  - $v(not p) = v$ si y solo si $v(p) = v$ 
+/ Semántica para $L_P$:
+  - Para las proposiciones atómicas, la asignación de valores de verdad es
+    primitiva (pero se asigna un valor a cada proposición).
+  - $v(not p) = v$ si y solo si $v(p) = f$ 
   - $v(p and q) = v$ si y solo si $v(p) = v$ y $v(q) = v$ 
   - $v(p or q) = v$ si y solo si $v(p) = v$ o $v(q) = v$ 
-  - $v(p -> q) = v$ si y solo si $v(p) = f$ y $v(q) = v$ 
+  - $v(p -> q) = v$ si y solo si $v(p) = f$ o $v(q) = v$ 
   - $v(p <-> q) = v$ si y solo si $v(p) = v(q)$ 
 
 Dado un conjunto de valuaciones $V$, una fórmula puede ser _consistente_ si hay
@@ -242,6 +244,8 @@ premisas verdaderas y la conclusión falsa. El argumento es válido.
 
 #question[Chequee lo que pasa cuando aplica este método a un argumento inválido.]
 
+#v(1em)
+
 Hay otra manera de mostrar que un argumento es válido, que consiste en derivar
 la conclusión de las premisas mediante la aplicación de ciertas reglas. Esta es
 la concepción sintáctica de la validez. Para ello necesitamos un sistema de
@@ -294,6 +298,12 @@ podemos derivar lo que se sigue de los disjuntos:
     + $r$ (1/2/3 disj. elim)
   ]
 
+Este tipo de razonamiento puede llamarse _razonamiento por casos_, y es de gran
+importancia. Es importante notar que esta regla introduce dos sub-pruebas, una
+para cada disjunto. 
+
+#question[Trate de probar $p or q, p -> r, q -> s tack r or s$]
+
 Para el condicional, es más sencillo comenzar con la regla de eliminación, que
 es conocida también como _modus ponens_:
 
@@ -313,6 +323,11 @@ suposición:
     + $\ [p]\ dots.v \ q$
     + $(p -> q)$ (1 cond. intro)
   ]
+
+Este tipo de razonamiento es extremadamente importante en la argumentación
+filosófica. Recuerden que a menudo los modelos filosóficos son conjuntos de
+tesis (capítulo 2). Haciendo suposiciones, podemos examinar lo que se sigue de
+esas tesis bajo esas suposiciones.
 
 Para el bicondicional tenemos como regla de introducción que, si podemos derivar
 $q$ de $p$ y $p$ de $q$, podemos derivar $p <-> q$:
@@ -351,8 +366,9 @@ Para la negación, tenemos como regla de eliminación:
   ]
 
 Y para introducir negaciones, una regla que dice que si se de una proposición se
-puede derivar una contradicción, esa proposición es falsa. A esta forma
-argumental se le llama _reductio_:
+puede derivar una contradicción, esa proposición es falsa. La premisa que se
+niega puede ser descartada, de manera similar a lo que sucedía en la regla de
+introducción del condicional. A esta forma argumental se le llama _reductio_:
 
 / Negación (introducción):
   #fitch[
@@ -377,6 +393,8 @@ Como regla derivada de estas, tenemos:
 
 Vamos a permitir que si algo puede tomarse como verdadero, lo podemos _reiterar_
 en cualquier paso de la prueba posterior.
+
+#pagebreak()
 
 Con estas reglas podemos construir cualquier prueba para la lógica
 proposicional. Por ejemplo, podemos probar que $(p and q) and r$ se sigue de $p
@@ -433,8 +451,10 @@ Podemos probar que $p or not p$ es una tautología:
 Ya que las tautologías pueden probarse sin requerir ninguna premisa, cualquier
 tautología puede insertarse en cualquier momento durante cualquier prueba.
 
-De cualquier proposición se siguen todas las fórmulas que son lógicamente
-equivalentes. Por ejemplo, de $p -> q$ se puede derivar $not p or q$:
+Además, de cualquier proposición se siguen todas las fórmulas que son
+lógicamente equivalentes. 
+
+Por ejemplo, de $p -> q$ se puede derivar $not p or q$:
 
 #fitch[
   + $p -> q$
@@ -463,11 +483,10 @@ Y podemos probar la dirección contraria también:
 ]
 
 Así que, por la regla sobre el bicondicional, sabemos que $p -> q <-> not p or
-q$; es decir, sabemos que son equivalentes.
-
-Por lo tanto en cualquier caso en que tenemos $p -> q$ podemos derivar $not p or
-q$. Por ejemplo, al probar que de las premisas $p -> q$ y $not q$ se deriva $not
-p$, podemos hacer uso de esa equivalencia.
+q$; es decir, sabemos que son equivalentes. Por lo tanto en cualquier caso en
+que tenemos $p -> q$ podemos derivar $not p or q$. Por ejemplo, al probar que de
+las premisas $p -> q$ y $not q$ se deriva $not p$, podemos hacer uso de esa
+equivalencia, a modo de atajo:
 
 #fitch[
   + $p -> q$
@@ -477,32 +496,32 @@ p$, podemos hacer uso de esa equivalencia.
   + $not p$ (reit)
   + $[q]$
   + $bot$
-  + $not p$ (2,6 neg intro)
+  + $not p$#footnote[Este paso puede generar un poco de confusión ($p$ no estaba
+  supuesto, así que parece salir de la nada). Aquí me
+  aprovecho de la idea de que de una conclusión se puede seguir cualquier cosa
+  para probar $not p$.] (2,6 neg intro)
   + $not p$ (3/4,5/6,8 disj elim)
 ]
 
-A este argumento le llamamos _modus tollens_. Es una aplicación de un esquema de
-argumento que llamaos _silogismo disjuntivo_: $p or q, not p tack q$.
+A este argumento le llamamos _modus tollens_. Que podamos probarlo usando esta
+estrategia muestra que podemos tomarlo como un caso especial de un esquema de
+argumento que llamamos _silogismo disjuntivo_: $p or q, not p tack q$.
+
+#question[Pruebe que el silogismo disjuntivo es un esquema argumental válido.]
 
 Algunas equivalencias importantes: 
 
-/ Teoremas de De Morgan: 
-  - $not (p and q) equiv not p or not q$,
-  - $not (p or q) equiv not p and not q$
-/ Contraposición: 
-  - $p -> q equiv -q -> -p$
-/ Conmutatividad:
-  - $p and p equiv q and p$
-  - $p or q equiv q or p$
-/ Asociación:
-  - $p and (q and r) equiv (p and q) and r$
-  - $p or (q and r) equiv (p or q) or r$
-/ Distribución: 
-  - $p and (q or r) equiv ((p and q) or (p and r))$
-  - $p or (q and r) equiv ((p or q) and (p or r))$
-/ Bicondicional:
-  - $p <-> q equiv (p -> q) and (q -> p)$
-  - $p <-> q equiv (p and q) or (not p and not q)$
+- $not (p and q) equiv not p or not q$ #fitch-r[de Morgan conj]
+- $not (p or q) equiv not p and not q$ #fitch-r[de Morgan disj]
+- $p -> q equiv -q -> -p$ #fitch-r[contraposición]
+- $p and q equiv q and p$ #fitch-r[connmutatividad conj]
+- $p or q equiv q or p$ #fitch-r[connmutatividad disj]
+- $p and (q and r) equiv (p and q) and r$ #fitch-r[asociación]
+- $p or (q and r) equiv (p or q) or r$ #fitch-r[asociación]
+- $p and (q or r) equiv ((p and q) or (p and r))$ #fitch-r[distribución]
+- $p or (q and r) equiv ((p or q) and (p or r))$ #fitch-r[distribución]
+- $p <-> q equiv (p -> q) and (q -> p)$ #fitch-r[bicondicional]
+- $p <-> q equiv (p and q) or (not p and not q)$ #fitch-r[bicondicional]
 
 
 #question[Pruebe todas estas equivalencias, usando el método semántico y el
@@ -510,14 +529,11 @@ método sintáctico.]
 
 Además, hay algunas reglas derivadas de inferencia que pueden ser útiles:
 
-/ Silogismo hipotético:
-  - $p -> q, q -> r tack p -> r$
+- $p -> q, q -> r tack p -> r$ #fitch-r[silogismo hipotético]
 
-/ Dilema constructivo:
-  - $(p -> q), (r -> s), (p or r) tack (q or s)$
+- $(p -> q), (r -> s), (p or r) tack (q or s)$ #fitch-r[dilema constructivo]
 
-/ Absorción:
-  - $(p -> q) tack p -> (p and q)$
+- $(p -> q) tack p -> (p and q)$ #fitch-r[absorción]
 
 #question[Pruebe la validez de estos esquemas argumentales.]
 
@@ -568,7 +584,7 @@ _cuantificador existencial_, que se escribe $exists$.
 
 Desde el punto de vista sintáctico, los quantificadores nos permiten construir
 proposiciones a partir de lo que se llaman _proposiciones abiertas_. En una
-proposición abierta, como $F x$ un predicado aplica a una variable cuyo valor no
+proposición abierta como $F x$ un predicado aplica a una variable cuyo valor no
 ha sido determinado. Un cuantificador liga la variable y produce una proposición
 que puede ser verdadera o falsa. Por ejemplo, de la proposición abierta $F x$
 podemos construir $forall x (F x)$ ("todo x es F") y $exists x (F x)$ ("algún x
@@ -587,15 +603,16 @@ El argumento original es, entonces:
 
 Semánticamente, el argumento funciona porque las condiciones de verdad de una
 proposición existencialmente cuantificada son las siguientes. Considerando un
-dominio $D$:
+dominio $D$ y una asignación de valores $v$:
 
-- $D models exists x phi$ si y solo si hay un $x in D$ tal que $phi$ es
+- $D, v models exists x phi$ si y solo si hay un $x in D$ tal que $phi$ es
  verdadero de $x$.
 
 Por ejemplo, en el dominio $D = {s, m}$, tomando $phi$ como $A s m$, la verdad
-de $A s m$ implica que hay un $x in D$ (a saber, $s$), tal que $A x m$. A su
-vez, de $exists x A x m$ se sigue que $exists y exists x A x y$: en el dominio
-hay un $y$ tal que hay un $x$ tal que $A x y$ es verdadero.
+de $A s m$ (que depende de la asignación de valores $v$) implica que hay un $x
+in D$ (a saber, $s$), tal que $A x m$. A su vez, de $exists x A x m$ se sigue
+que $exists y exists x A x y$: en el dominio hay un $y$ tal que hay un $x$ tal
+que $A x y$ es verdadero.
 
 Desde un punto de vista sintáctico, esto equivale a la aplicación de lo que
 podríamos llamar una regla de introducción para el cuantificador existencial:
@@ -636,9 +653,9 @@ Formalmente:
 ]
 
 La regla se ajusta a las condiciones de verdad de las proposiciones
-universalmente cuantificadas. Dado un modelo $D$:
+universalmente cuantificadas. Dado un modelo $D$ y asignación de valores $v$:
 
-- $D models forall x phi$ si y solo si todo $x in D$ es tal que $phi$ es
+- $D, v models forall x phi$ si y solo si todo $x in D$ es tal que $phi$ es
  verdadero de $x$.
 
 La regla de introducción del cuantificador universal codifica la siguiente idea:
@@ -699,19 +716,31 @@ La regla es:
 
 Algunas equivalencias útiles que son probables con estas reglas son:
 
-/ Duales: 
-  + $forall x phi equiv not exists x not phi$
-  + $exists x phi equiv not forall x not phi$
-  + $forall x not phi equiv not exists x phi$
-  + $exists x not phi equiv not forall x phi$ 
-
-/ Distribución:
-  + $forall x(phi and psi) equiv forall x(phi) and forall x(psi)$
-  + $exists x(phi or psi) equiv exists x(phi) or exists x(psi)$
++ $forall x phi equiv not exists x not phi$
++ $exists x phi equiv not forall x not phi$
++ $forall x not phi equiv not exists x phi$
++ $exists x not phi equiv not forall x phi$ 
++ $forall x(phi and psi) equiv forall x(phi) and forall x(psi)$
++ $exists x(phi or psi) equiv exists x(phi) or exists x(psi)$
 
 #question[Pruebe estas equivalencias.]
 
-Es conveniente añadir al lenguaje de primer orden de la lógica de predicados un
+Un elemento adicional que es útil en los lenguajes de primer orden es el de las
+_funciones_. Una función tiene la función sintáctica de los nombres, pero en vez
+de ser constante, su valor depende de ciertos valores que se le dan como
+argumentos. Por ejemplo, podríamos tener una función $"sum"(x, y)$ cuyo valor
+sea la suma de $x$ e $y$. Para lidiar con funciones, tenemos que ajustar un poco
+las reglas de los cuantificadores, pero en efecto funcionan de la misma manera
+que los predicados--la diferencia está en que mientras un predicado "toma" como
+argumentos una serie de objetos y produce un valor de verdad, una función puede
+producir un valor de otro tipo.
+
+#fitch[
+  + $forall x forall y ("sum"(x, y) = "sum"(y, x))$
+  + $forall y ("sum"(1, y) = "sum"(y, 1))$ (univ elim)
+]
+
+También es conveniente añadir al lenguaje de primer orden de la lógica de predicados un
 elemento adicional, el signo de identidad. Esto nos permite decir cosas como que
 "Gabriela Mistral es Lucila Godoy" o "la estrella de la tarde es la estrella de
 la mañana", donde se expresa que distintos nombres refieren al mismo objeto. El
@@ -742,6 +771,18 @@ $c=c$. Esta suposición tiene que descargarse inmediatamente:
   + $forall x (x = x)$ (univ intro)
 ]
 
+#question[Considere el siguiente argumento:
+
+#fitch(ratio: (1fr, 0fr))[
+  + Louis Lane cree que Superman es fuerte
+  + Clark Kent es Superman
+  + Louis Lane cree que Clark Kent es fuerte
+]
+
+¿Intuitivamente, es válido o no este argumento? ¿Por qué?
+
+]
+
 #[
 
 #set heading(outlined: false)
@@ -753,7 +794,8 @@ Logic Manual_ (2010) de Volker Halbach. Una introducción similar, pero más
 detallada, es _How Logic Works: A User's Guide_ (2020), de Hans Halvorson.
 Otra introducción de mi gusto es _Formal Logic: Its Scope and Limits_, de
 Richard Jeffrey (una diferencia con las otras, es que este libro usa el método
-de los árboles analíticos como sistema de prueba). 
+de los árboles analíticos como sistema de prueba). En español, el libro _Lógica
+para Principiantes_ (2004) de María Manzano y Antonia Huertas es bueno.
 
 El uso filosófico de la lógica no se limita a lenguajes de primer order como los
 que describimos aquí. Una clase de lógicas importante filosóficamente es la
@@ -765,7 +807,7 @@ puede ser falso en el mundo actual, podría ser verdadero en un mundo posible qu
 represnta una manera en que el mundo actual podría haber sido. El libro _Modal
 Logics and Philosophy_ (2009) de Rod Girle es una introducción amigable.
 
-_An Introduction to Philosophical Logic_ (2021) de John McFarlane, es una buena
+_An Introduction to Philosophical Logic_ (2021) de John McFarlane es una buena
 presentación de varias lógicas de interés filosófico, así como de varios
 problemas filosóficos sobre la lógica. _An Introduction to Non-Classical Logic_
 (2008) de Graham Priest, es un recurso valiosísimo que cubre muchísimas de las
