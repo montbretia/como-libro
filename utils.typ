@@ -7,9 +7,9 @@
         radius: 3pt,
         above: 1.5em,
         below: 1.5em)[
-    #grid(columns: (0.9fr, 10fr),
+    #grid(columns: (0.85fr, 10fr),
       block(
-        inset: 9pt, 
+        inset: 8pt, 
         fill: red.transparentize(15%), 
         radius: (top-left: 4pt, bottom-right: 4pt, rest: 0pt)
       )[#align(right+horizon)[#text(size: 1.2em, fill: white)[*¿?*]]],
@@ -24,11 +24,12 @@
 }
 
 #let aside(breakable: false, float: true, body) = {
+  set text(size: 10.5pt)
   let inner =  block(fill: rgb("#ebb5c3").lighten(60%), 
-          stroke: 0.1pt + rgb("#ebb5c3").darken(5%), 
+          // stroke: 0.1pt + rgb("#ebb5c3").darken(5%), 
           spacing: 0.64em, 
           breakable: breakable,
-          inset: 3pt,
+          inset: 6pt,
           outset: 3pt,
           radius: 3pt,
           above: 1.5em, below: 1.5em)[
