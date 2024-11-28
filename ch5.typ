@@ -2983,9 +2983,9 @@ y luego, argumentan que el saber-cómo sí es un tipo de logro epistémico.
 
 En la sección anterior vimos cómo algunos autores sugieren que el conocimiento
 proposicional es una forma de logro epistémico, y que eso es al menos parte de
-lo que lo hace valioso. Sin embargo, se han propuesto argumentos que muestran
-que el concepto de conocimiento es separable del concepto de logro (que haya un
-logro no es necesario ni suficiente para que haya conocimiento).
+lo que lo hace valioso. En efecto, el argumento de Carter & Pritchard es que el
+concepto de conocimiento es separable del concepto de logro (que haya un logro
+no es necesario ni suficiente para que haya conocimiento).
 
 Un argumento contra la necesidad del logro para el conocimiento proposicional es
 que hay casos como el siguiente (adaptado de Lackey (2007)):
@@ -3006,7 +3006,7 @@ conocimiento en ese caso, no podemos decir que nadie en situaciones similares
 adquiere conocimiento mediante el testimonio. Esta forma de escepticismo es
 simplemente implausible.
 
-Estas intuiciones pueden contrarestarse un poco si examinamos qué habilidades
+Estas intuiciones pueden contrarrestarse un poco si examinamos qué habilidades
 ejercita Isabel al adquirir su creencia. Es cierto que para llegar a saber que
 su tren parará en el andén 10 ella no ejercita ni su percepción, ni su
 razonamiento, etc.#footnote[Omitiendo el problema de si el testimonio es
@@ -3041,9 +3041,69 @@ importancia de esto contra otros factores.] En vez de conducirnos a una forma
 de escepticismo sobre el testimonio, como rechazar que Isabel adquiere
 conocimiento, parece que aceptar que tener un logro epistémico de este tipo
 conduce a tener conocimiento lleva a lo que podría llamarse una explosión de
-conocimiento.
+conocimiento. El problema es que pareciera que la clase de logros atribuibles a
+Isabel no pasan la De modo que quienes defiendan la necesidad del logro para el
+conocimiento encaran un dilema.
 
+En la dirección contraria, autores como Kallestrup & Pritchard (2012, 2013,
+2014) han propuesto que el logro epistémico no es suficiente para la posesión
+del conocimiento proposicional tampoco. Para esto emplean un experimento mental
+inspirado en el experimento de la Tierra Gemela de Putnam (véase el cuadro
+explicativo). Su idea es la siguiente:
 
+/ Idénticos en sus logros: Dos sujetos pueden ser idénticos en términos de la
+ agencia que emplean para alcanzar un objetivo epistémico; por ejemplo, dos
+ sujetos pueden investigar el mismo asunto, de la misma manera, con el mismo
+ esfuerzo, y llegar al mismo resultado. Sin embargo, de todas maneras es posible
+ que uno de ellos, Kira, esté en una situación que hace que las creencias que
+ forma sean modalmente frágiles por razones que son enteramente externas a su
+ agencia, de modo tal que si bien tienen un logro epistémico, no puede decirse
+ que tengan conocimiento.
+
+#aside[El experimento mental de la tierra gemela original es el siguiente:
+
+/ Tierra Gemela: Aquí en la Tierra, llamamos "agua" a un líquido incoloro e
+ insípido cuya composición es $H_2O$. El concepto ordinario de agua consiste en
+ que algo es agua si tiene esas propiedades "superficiales". Seguramente, hay
+ personas que sólo tienen ese concepto del agua. Ahora, imagine un planeta
+ idéntico a la Tierra, una Tierra Gemela, donde cada cosa es idéntica a las que
+ hay en la Tierra, excepto porque en vez de $H_2O$, existe otra sustancia con
+ las mismas propiedades superficiales, pero con una composición distinta;
+ digamos, $X Y Z$. Supongamos que en la Tierra Gemela existe una contraparte a
+ quienes en la Tierra sólo conciben el agua en términos de sus propiedades
+ superficiales. Tanto ellos como sus contrapartes en la Tierra tienen los mismos
+ conceptos, pero la referencia de sus conceptos es distinta.
+
+Putnam presentó este caso como una ilustración de la tesis de que las
+propiedades semánticas como la referencia no estaban fijadas por las propiedades
+internas de los sujetos, sino por la manera en que es el mundo; a esta idea se
+le llama _externalismo_.]
+
+Parece, entonces, que este caso atribuir conocimiento a Kira entra en conflicto
+con las intuiciones estándar sobre la interacción entre el conocimiento
+proposicional y la suerte epistémica. ¿Sería más plausible rechazar que tiene un
+logro epistémico? Tampoco. Por una parte, ya que asumimos que su contraparte, a
+quien sí atribuimos conocimiento, ha ejercido el mismo nivel de agencia con los
+mismos resultados, tendríamos decir que ellos tampoco tienen un logro. Por otra
+parte, si contamos el hecho de que su entorno modal sea favorable o no como un
+factor relevante para que Kira tenga un logro (o no), tendríamos que decir que
+en muchos casos alguien podría no tener un logro por razones que escapan de su
+control, donde no pareciera que nada sale mal. Y esto es implausible también.
+
+#question[¿No podríamos distinguir entre el logro de alcanzar un resultado, el
+logro de alcanzar un resultado en un entorno favorable, y el logro de alcanzar
+un resultado en un entorno no-favorable?]
+
+Nuevamente, el intelectualismo implica que el saber-cómo herede las propiedades
+del conocimiento proposicional; si el logro epistémico no es ni necesario ni
+suficiente para el conocimiento proposicional, no debería serlo tampoco para el
+saber-cómo. Precisamente esto es lo que Carter & Pritchard rechazan.
+
+Su argumento consiste en presentar variaciones de los argumentos contra la
+necesidad y la suficiencia del logro para el conocimiento, mostrando que en esos
+casos el saber-cómo si se alinea con los logros.
+
+Primero, observan que en el caso del saber-cómo 
 
 === Autonomía
 
@@ -3051,6 +3111,7 @@ conocimiento.
 //
 // Una cosa es saber cómo hacer algo. Otra es tener cierto talento.
 //
+
 #context[
 #set heading(numbering: none, outlined: false)
 
