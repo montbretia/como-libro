@@ -5,30 +5,35 @@
 
 #set text(lang: "es")
 
-#pagebreak()
-
-#[
-  #set page(numbering: none)
-  #align(center+horizon)[
-    #figure[
-      #image("meme1.jpeg", width: 70%)
-    ]
-  ]
-]
+// #pagebreak()
+//
+// #[
+//   #set page(numbering: none)
+//   #align(center+horizon)[
+//     #figure[
+//       #image("meme1.jpeg", width: 70%)
+//     ]
+//   ]
+// ]
 
 = La disputa de las cien escuelas
 
+#figure[
+#image(width: 150%, "pavia_tapestry.jpg")
+]
+
 #align(right)[
+  #set text(size: 9pt, style: "italic")
   #block(width: 70%)[
-    #v(5em)
+    #v(1.5em)
     #quote(block: true, attribution: [Spinoza, _Ética_, parte 1, apéndice])[
-      #align(left)[\[…\] todo el mundo confunde con la realidad la manera en que
+      #align(left)[\[…\] todo el mundo confunde la realidad y la manera en que
       se afecta su imaginación. De ahí que no sea sorpresa \[…\] que encontremos
       tantas controversias entre las personas, que finalmente llevan al
-      escepticismo. Pues aunque los cuerpos humanos concuerdan de muchas
-      maneras, hay también muchas diferencias, y, por lo tanto, una persona
+      escepticismo. Pues, aunque los cuerpos humanos concuerdan de muchas
+      maneras, hay también muchas diferencias; por lo tanto, una persona
       puede pensar que es bueno lo que otro cree que es malo; lo que para uno
-      está bien ordenado, para otro es confuso; lo que para uno es placentero,
+      está en orden, para otro es confuso; lo que para uno es placentero,
       molesta a otro; etc.]]
       #v(2em)
     ]]
@@ -1589,36 +1594,76 @@ posibilidades.
   y constituyentes. $t_x$ significa que $x = $conocimiento proposicional. Las
   líneas cortadas indican lugares donde se omiten posibles teorías híbridas._]
 )[
+  #v(4em)
   #block(height: 80%, width: 120%)[
-  #set table(stroke: 0.5pt + black.lighten(60%))
+  #set table(
+    stroke: 0.5pt + black.lighten(50%),
+    fill: (x, y) => 
+      if x == 3 and y == 3 { rgb("#d86656").lighten(50%)}
+      else if (x == 4 and y == 3) or (x == 3 and y == 4) {rgb("#f66741").lighten(50%)}
+      else if (x == 4 and y ==4) {rgb("#ff7a27").lighten(50%)}
+
+      else if (x == 5 and y ==3) {rgb("#d87356").lighten(50%)}
+      else if (x == 6 and y == 3) or (x == 5 and y == 4) {rgb("#f67f41").lighten(50%)}
+      else if (x == 6 and y ==4) {rgb("#ff9527").lighten(50%)}
+      
+      else if (x == 3 and y ==5) {rgb("#d86b56").lighten(50%)}
+      else if (x == 4 and y == 5) or (x == 3 and y == 6) {rgb("#f67341").lighten(50%)}
+      else if (x == 4 and y ==6) {rgb("#f67f41").lighten(50%)}
+      
+      else if (x == 5 and y ==5) {rgb("#d87c56").lighten(50%)}
+      else if (x == 6 and y == 5) or (x == 5 and y == 6) {rgb("#f68c41").lighten(50%)}
+      else if (x == 6 and y ==6) {rgb("#ffa027").lighten(50%)}
+      
+      else if (x == 7 and y ==3) {rgb("#989a6b").lighten(50%)}
+      else if (x == 8 and y == 3) or (x == 7 and y == 4) {rgb("#a8a86d").lighten(50%)}
+      else if (x == 8 and y == 4) {rgb("#bcbb6c").lighten(50%)}
+      
+      else if (x == 7 and y ==5) {rgb("#95a16a").lighten(50%)}
+      else if (x == 8 and y == 5) or (x == 7 and y == 6) {rgb("#a5b16c").lighten(50%)}
+      else if (x == 8 and y ==6) {rgb("#bac86a").lighten(50%)}
+
+      else if (x == 3 and y ==7) {rgb("#b58d6d").lighten(50%)}
+      else if (x == 4 and y == 7) or (x == 3 and y == 8) {rgb("#cda06d").lighten(50%)}
+      else if (x == 4 and y == 8) {rgb("#e5b072").lighten(50%)}
+      
+      else if (x == 5 and y ==7) {rgb("#b5a56d").lighten(50%)}
+      else if (x == 6 and y == 7) or (x == 5 and y == 8) {rgb("#cdb56d").lighten(50%)}
+      else if (x == 6 and y == 8) {rgb("#e5cd72").lighten(50%)}
+
+      else if (x == 7 and y ==7) {rgb("#71bba9").lighten(50%)}
+      else if (x == 8 and y == 7) or (x == 7 and y == 8) {rgb("#74d2be").lighten(50%)}
+      else if (x == 8 and y == 8) {rgb("#7eead5").lighten(50%)}
+
+  )
   #set table.cell(align: horizon)
   #show table.cell: it => {
     align(center+horizon)[
-      #rotate(90deg, reflow: true)[#it]
+      #rotate(90deg, reflow: true)[#block(width: 100%)[#it]]
     ]
   }
-  #show math.equation: set text(size: 8pt)
+  #show math.equation: set text(size: 10pt, fill: black.lighten(10%))
   #rotate(270deg, reflow: true)[
   #table(
-    columns: (0.4fr, 0.4fr, 0.7fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr),
-    rows: (0.5fr, 0.5fr, 0.5fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr, 1.3fr, 1.3fr),
+    columns: (0.4fr, 0.4fr, 0.4fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr),
+    rows: (0.4fr, 0.4fr, 0.4fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr, 1.2fr),
     table.cell(colspan: 2, rowspan: 2)[], table.cell(colspan: 7)[#rotate(270deg,
     reflow: true)[#box(width: 100%)[*constituyentes*]]], 
     table.cell(colspan: 5)[#rotate(270deg, reflow: true)[_*atitudinales*_]],
-    table.vline(stroke: (paint: black, dash: "dashed")), table.cell(colspan:
+    table.vline(stroke: (paint: black.lighten(50%), dash: "loosely-dashed")), table.cell(colspan:
     2)[#rotate(270deg, reflow: true)[#box(width: 100%)[_*no-atitudinales*_]]],
 
     table.cell(rowspan: 7)[*fundamento*], table.cell(rowspan:
     5)[_*atitudinal*_], [], table.cell(colspan: 2)[#rotate(270deg, reflow:
-    true)[_proposicional_]], table.vline(stroke: (paint: black, dash:
-    "dashed")), table.cell(colspan: 2)[#rotate(270deg, reflow: true)[_no-proposicional_]], table.cell(colspan: 2)[], 
+    true)[_proposicional_]], table.vline(stroke: (paint: black.lighten(50%), dash:
+    "loosely-dashed")), table.cell(colspan: 2)[#rotate(270deg, reflow: true)[_no-proposicional_]], table.cell(colspan: 2)[], 
 
     table.cell(rowspan: 2)[_proposicional_], [$t_g  and t_c$], [$t_g and not t_c$], [$t_g  and t_c$], [$ t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$],
                                              [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$],
-    table.hline(stroke: (paint: black, dash: "loosely-dashed")),
+    table.hline(stroke: (paint: black.lighten(50%), dash: "loosely-dashed")),
     table.cell(rowspan: 2)[_no-proposicional_], [$t_g  and t_c$], [$t_g and not t_c$], [$t_g  and t_c$], [$t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$],
                                              [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$],
-    table.hline(stroke: (paint: black, dash: "loosely-dashed")),
+    table.hline(stroke: (paint: black.lighten(50%), dash: "loosely-dashed")),
     table.cell(rowspan: 2)[_*no-atitudinal*_], table.cell(rowspan: 2)[], [$t_g and t_c$], [$t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$], [$t_g and t_c$], [$t_g and not t_c$],
                                               [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$], [$not t_g and t_c$], [$not t_g and not t_c$]
   )]
@@ -2918,15 +2963,34 @@ Hay cinco posibilidades:
 + Ni el saber cómo ni el conocimiento proposicional son logros epistémicos.
 ]
 
-#figure[
+La tabla 5 representa estas combinaciones.
+
+#figure(
+  caption: [_¿Son el saber-cómo y el conocimiento proposicional logros epistémicos?_])[
+  #set line(stroke: 0.5pt + black.lighten(50%))
   #table(
     align: horizon+center,
     columns: 3,
     rows: 3,
     stroke: 0.5pt+black.lighten(50%),
-    [], table.cell(colspan: 2)[*conocimiento proposicional*],
-    table.cell(rowspan:2)[*saber-cómo*],[logro + logro], [logro + no-logro],
-    [no-logro + logro],[no-logro + no-logro]
+    [], table.cell(colspan: 2)[*conocimiento\ proposicional*],
+    table.cell(rowspan:2)[#rotate(270deg, reflow: true)[*saber-cómo*]],
+    table.cell(inset:0pt)[#block(width: 6em, height: 6em)[
+      #line(start: (0%, 0%), end: (100%, 100%))
+      #place(bottom+left, dx: 0.5em, dy: -0.5em)[logro]
+      #place(top+right, dx: -0.5em, dy: 0.5em)[logro]]],
+    table.cell(inset:0pt)[#block(width: 6em, height: 6em)[
+      #line(start: (0%, 0%), end: (100%, 100%))
+      #place(bottom+left, dx: 0.5em, dy: -0.5em)[no logro]
+      #place(top+right, dx: -0.5em, dy: 0.5em)[logro]]],
+    table.cell(inset:0pt)[#block(width: 6em, height: 6em)[
+      #line(start: (0%, 0%), end: (100%, 100%))
+      #place(bottom+left, dx: 0.5em, dy: -0.5em)[logro]
+      #place(top+right, dx: -0.5em, dy: 0.5em)[no logro]]],
+    table.cell(inset:0pt)[#block(width: 6em, height: 6em)[
+      #line(start: (0%, 0%), end: (100%, 100%))
+      #place(bottom+left, dx: 0.5em, dy: -0.5em)[no logro]
+      #place(top+right, dx: -0.5em, dy: 0.5em)[no logro]]],
   )
 ]
 
@@ -3097,20 +3161,278 @@ un resultado en un entorno no-favorable?]
 Nuevamente, el intelectualismo implica que el saber-cómo herede las propiedades
 del conocimiento proposicional; si el logro epistémico no es ni necesario ni
 suficiente para el conocimiento proposicional, no debería serlo tampoco para el
-saber-cómo. Precisamente esto es lo que Carter & Pritchard rechazan.
-
-Su argumento consiste en presentar variaciones de los argumentos contra la
+saber-cómo. Precisamente esto es lo que Carter & Pritchard rechazan. Su
+argumento consiste en presentar variaciones de los argumentos contra la
 necesidad y la suficiencia del logro para el conocimiento, mostrando que en esos
 casos el saber-cómo si se alinea con los logros.
 
-Primero, observan que en el caso del saber-cómo 
+Primero, como ya vimos en la sección 5.4, observan que en el caso del saber-cómo
+el testimonio no parece ser una fuente inmediata de conocimiento. No adquirimos
+saber-cómo meramente porque oímos que alguien dice cómo se puede hacer algo, por
+ejemplo. Esto cambia de manera significativa la respuesta que podríamos tener
+sobre situaciones de testimonio como las de la estación de tren: mientras que en
+el caso del conocimiento proposicional es plausible decir que en esas
+situaciones obtenemos conocimiento, en el caso del saber-cómo no es plausible
+decir que en estas situaciones obtenemos saber-cómo. Esto sugiere que el
+saber-cómo, y no el conocimiento proposicional, requiere de cierto tipo de logro
+epistémico. En los casos en los que el testimonio si da pie a la obtención de
+saber-cómo, lo que podría hacer la diferencia es que el sujeto ejercita su
+agencia epistémica de una manera apropiada; por ejemplo, aplica saber-cómo
+previo, más general, a la información que se le da sobre cómo hacer algo
+específico.
+
+#question[Construya un ejemplo de traspaso testimonio para el caso del
+saber-cómo, y examine si sus intuiciones sobre el caso coinciden con este
+veredicto.]
+
+Segundo, como vimos en la sección 5.2, el saber-cómo parece ser resistente a
+ciertos tipos de suerte epistémica; en particular, parece ser insensible a la
+suerte epistémica ambiental que está en juego en casos como el del par de
+contrapartes que tienen logros idénticos, pero que están en situaciones que son
+favorables de distinta manera.
+
+Supongamos que, como en el caso para el conocimiento proposicional, tenemos a
+dos contrapartes, Sally, y Sally\* que creen, como sugiere el intelectualismo,
+que cierta acción puede hacerse de cierta manera. Supongamos que la situación de
+Sally es modalmente estable, en el sentido de que si guiara su acción de acuerdo
+a su creencia, tendría éxito en los mundos posibles más cercanos (esto es,
+aquellos más similares a la situación en la que Sally se encuentra), mientras
+que la situación de Sally\* es inestable. En este caso, diríamos que la
+situación de Sally\* no es apta para que digamos que ella _sabe_ que podría
+realizar esa acción de esa manera (su situación es epistémicamente
+desafortunada, y asumimos que eso previene que alguien tenga conocimiento). Sin
+embargo, no parece que esto socave la posibilidad de que digamos que sepa cómo
+realizar la acción. Alguien podría saber cómo hacer algo, pero aún así fallar
+ocasionalmente, sin que esto nos obligue a decir que en realidad no sabe cómo
+realizar esa acción.#footnote[Por supuesto, el fallo _repetido_ si sugeriría que
+no sabe cómo realizar esa acción.] Noten que Sally sí es apta, desde un punto de
+vista admisible por el intelectualista, para que digamos que sabe cómo realizar
+esa acción. Si es plausible que ella pueda tener saber cómo, es plausible
+también que Sally\* lo tenga.
+
+En ambos casos, parece que el saber-cómo puede distinguirse del conocimiento
+proposicional al mismo tiempo que queda alineado con cierto tipo de logro
+epistémico; conjuntamente, esto provee de un argumento adicional en contra del
+intelectualismo y a favor del anti-intelectualismo.
+
+Por supuesto, hay maneras en que el intelectualista podría responder a estos
+argumentos. Por ejemplo, para aquellos intelectualistas que adoptan la noción de
+un modo práctico de presentación, la explicación del fallo de la transmisión
+testimonial se explica porque el testimonio no es suficiente por sí mismo para
+que alguien llegue a tener una representación de una manera de actuar bajo una
+manera práctica de presentación. La suposición de que tiene que ser posible que
+el conocimiento proposicional _bajo cualquier forma de presentación_ pueda
+transmitirse fácilmente podría ser falsa.
+
+Otro problema, esta vez con el segundo argumento, es que el argumento asume que
+debemos aceptar que a Sally\* se le puede atribuir un logro incluso si está en
+una circunstancia desfavorable de suerte epistémica ambiental. A primera vista
+nos parece que sí, porque Sally\* parece ser similar a alguien a quien sí se le
+puede atribuir un logro. Pero podría ser que la suerte ambiental haga la
+diferencia respecto a si tiene o no la habilidad de ejercitar su agencia
+epistémica, y en ese caso la suerte ambiental podría prevenir que alguien tenga
+un logro.
+
+Podemos poner esto de la siguiente manera. El argumento de Carter & Pritchard
+asume:
+
+/ Compatibilismo: El acierto de una acción en una situación de suerte epistémica
+ ambiental puede atribuirse a las habilidades del sujeto que la realiza.
+
+Como ya vimos, para que alguien tenga un logro epistémico, su acierto tiene que
+manifestar el ejercicio de sus habilidades, y su éxito tiene que deberse a ese
+ejercicio de esas habilidades. Sally\* ha formado una creencia correcta mediante
+el ejercicio de sus habilidades; hemos dicho que esto es un logro. ¿Pero qué nos
+dice que tiene que ser así?
+
+Podría ser que, en vez de la tesis del Compatibilismo, fuera verdadero que
+
+/ Incompatibilismo: El acierto de un acción en una situación de suerte epistémica
+ ambiental no es atribuible a las habilidades del sujeto que las realiza.
+
+En este caso, que Sally\* tenga cierto tipo de acierto podría no significar que
+su acierto se deba al ejercicio de sus habilidades, incluso si eso parece a
+primera vista.
+
+¿Por qué creer que Incompatibilismo es verdadero? Clayton Littlejohn propone que
+tiene que ser verdadero porque para que un éxito sea atribuible a la habilidad
+de un sujeto, el sujeto debe haber tenido una oportunidad del tipo adecuado para
+ejercitar las habilidades relevantes, y ese ejercicio debe haber llevado al
+éxito, y en casos de suerte epistémica ambiental, la primera de estas
+condiciones no se da: en casos de suerte ambiental, los sujetos simplemente no
+tienen una oportunidad del tipo adecuado para ejercitar las habilidades
+relevantes. ¿Qué quiere decir que el sujeto debe haber tenido una oportunidad
+del tipo adecuado? La habilidad de hacer algo y la oportunidad de hacerlo son
+cosas distintas. Uno puede tener la oportunidad de hacer algo sin tener la
+habilidad de hacerlo; uno puede tener la habilidad de hacer algo sin tener la
+oportunidad. En ciertos casos, entonces, es posible que algo ocurra porque la
+oportunidad es propicia (o que algo no ocurra porque la oportunidad es
+desfavorable) sin que se ejercite una habilidad (o, a pesar de que se ejercite
+una habilidad). En el caso de habilidades epistémicas, las oportunidades tienen
+que ser tales que, en general, permitan hacer cierto tipo de discriminaciones, y
+que en la base a esas discriminaciones, se logre a un estado epistémico
+determinado que sea exitoso. Como ejemplo de esto, Littlejohn propone el
+siguiente caso:
+
+/ Jane: Jane es una pariente lejana. Nos escribe para avisarnos que va a
+ visitarnos. Le decimos que la vamos a recoger en el aeropuerto. No sabes cómo
+ se ve, ni ella sabe cómo te ves. Escribes su nombre en una tarjeta y la esperas
+ en la puerta de los vuelos que llegan sosteniendo la tarjeta. Una mujer ve la
+ tarjeta, la lee, te dice que es Jane y la llevas a casa. No te diste cuenta,
+ pero había docenas de personas que tenían tarjetas que decían Jane. Sin
+ embargo, ella se fijó en tu tarjeta, la leyó, y juzgó (correctamente) que eras
+ su pariente.
+
+Littlejohn sugiere que en este caso Jane ejercitó ciertas habilidades y formó
+un juicio correcto, pero el que formara una creencia verdadera no se debe a esas
+habilidades. Para tener la habilidad de identificarte como su pariente, Jane
+debería haber tenido que distinguirte de las docenas de otras personas que
+estaban esperando en la puerta. Tú trataste de darle la oportunidad de
+distinguirte (para eso era la tarjeta), pero el entorno socavó esa oportunidad.
+Tu éxito fue una cuestión meramente de suerte.
+
+Si algo así es una manera correcta de describir los casos de saber-cómo en
+situaciones de suerte epistémica ambiental, pareciera que la asunción
+compatibilista del argumento de Carter & Pritchard no es válida. 
+
+#question[¿Qué tan decisivo creen que es este argumento?]
 
 === Autonomía
 
-// == Saber-cómo y _skill_
-//
-// Una cosa es saber cómo hacer algo. Otra es tener cierto talento.
-//
+Markie (2019) ofrece un tipo distinto de contraejemplo a la tesis de que el
+saber-cómo es un tipo de logro epistémico. Ya vimos que en casos como el del
+Salchow, es plausible que haya sujetos que no tienen saber-cómo porque la manera
+en que conciben la manera de realizar una acción es inadecuada, aunque pueden
+realizar las acciones correctas gracias a una anormalidad neurológica. Pongamos
+en suspenso la cuestión de cuál es la mejor manera de entender esos casos, y
+démosle el siguiente giro al caso:
+
+/ Intervención divina: Un ser omnipotente se apiada de Irina. Mientras ella
+ duerme, este ser cura su anormalidad neurológica, la provee de entendimiento
+ acerca de cómo realizar el Salchow, y le da las disposiciones conductuales
+ necesarias para que su entendimiento guíe correctamente su comportamiento.
+ Desde ahora en adelante, Irina realiza el Salchow de la misma manera que una
+ persona que sabe cómo hacerlo; tiene el mismo entendimiento, y las mismas
+ intenciones, disposiciones y mecanismos físicos.
+
+Nuestra intuición sobre esto, Markie sugiere, es que en este caso Irina sabe
+cómo realizar el Salchow, pero intuitivamente el que sepa cómo realizarlo no es
+algo que podamos atribuirle como logro epistémico. No es algo que ella logró,
+sino más bien algo que (afortunadamente) le acaeció. Sin embargo, su estado
+epistémico parece haber mejorado. ¿Cómo es que ha mejorado?
+
+#question[Antes de seguir, traten de responder la pregunta por su cuenta.]
+
+La respuesta de Markie a esta pregunta es la siguiente:
+
+/ Saber-cómo como una forma de autonomía: Saber cómo hacer $phi$ es una manera
+ de gobernarse a uno mismo con respecto a $phi$.
+
+Es decir, es una condición necesaria para saber cómo hacer algo que uno esté en
+control de la acción de una manera autónoma. Aunque no es un logro que posea
+esta autonomía tras la intervención divina, Irina es autónoma y su saber-cómo
+consiste en tener una manera de gobernarse respecto a cómo realizar el Salchow.
+En tanto la autonomía es valiosa, su estado ha mejorado.
+
+Carter (2022) adopta la noción de autonomía, pero la desarrolla de una manera
+distinta. Lo que diferencia la propuesta de Carter de la de Markie es que cree
+que en casos como el de Intervención divina no deberíamos pensar que el sujeto
+tiene saber-cómo. Carter comienza su discusión del caso del saber-cómo con el
+siguiente caso:
+
+/ Magnucomp: Mr. Magnucomp tiene implantado en su cabeza un chip de interfaz
+ cerebro-computador especial que regularmente causa que toque, con perfecta
+ confiabilidad, la defensa Siciliana en el ajedrez cuando hay una oportunidad de
+ usarla, pero cuando juega no tiene idea de por qué hace los movimientos que
+ hace.
+
+Sobre un caso como este, sería implausible decir que Mr. Magnucomp sabe cómo
+aplicar la defensa Siciliana. Por una parte, no es un logro epistémico; su
+capacidad depende de que tenga implantado el chip. Además, Mr. Magnucomp no
+parece tener autonomía: no está, en ningún sentido intuitivo, en control de lo
+que hace. Sin embargo, supongamos que se ajusta el dispositivo de manera que Mr.
+Magnucomp no solamente ejecuta la defensa Siciliana, sino que además es su
+estado mental es un duplicado interno y funcional del estado mental de alguien
+que sí sabe cómo aplicar la defensa Siciliana (del mismo modo que Irina en el
+escenario de intervención divina cuenta como un duplicado de alguien que sabe
+cómo realizar el Salchow). En este caso, Mr. Magnucomp sí tiene alguna idea
+acerca de por qué hace los movimientos que hace. Aún así, no es claro que la
+capacidad de aplicar la defensa Siciliana constituya un logro. Sin embargo, en
+este caso Mr. Magnucomp sí parece ser autónomo respecto a la manera en que
+gobierna la manera en que juega ajedrez; al menos, sí parece serlo en el sentido
+de Markie. Y aún así, no parece adecuado decir que Mr. Magnucomp sabe cómo
+aplicar la defensa Siciliana.
+
+Lo que esto parece sugerir es que, si queremos aplicar el concepto de autonomía
+al caso del saber-cómo, como una condición necesaria para este, necesitamos un
+concepto más sofisticado de autonomía.
+
+Una idea inicialmente atractiva es que haya algún tipo de restricción sobre el
+tipo de maneras en que es admisible adquirir autonomía. Una cosa es tener cierto
+control sobre cómo hacer algo; otra, tener ese control como resultado de un
+proceso sobre el cual a su vez tengamos control. Irina adquiere control sobre
+sus acciones, pero no tiene control sobre la manera en que adquiere ese control.
+Mr. Magnucomp no adquiere autonomía por sí mismo; se le ha implantado un
+dispositivo que lo convierte en una persona que tiene, al menos en cierto
+sentido, control sobre sus acciones.#footnote[Uno podría decir que Mr. Magnucomp
+tiene la ilusión de estar en control, pero en ese caso, al ser un duplicado
+interno y funcional de alquien que _ex hipotesi_ está en control, esta línea
+argumental lleva a una forma de escepticismo generalizado sobre el que se tenga
+control sobre cualquier acción.] 
+
+Sin embargo, no es plausible especificar en qué consiste tener el tipo autónomo de
+control simplemente en términos de qué tipo de procesos para adquirir son
+admisibles. Por ejemplo, alguien podría querer rechazar la intervención divina
+como una forma admisible de adquirir autonomía, o rechazar intervenciones
+técnicas como las del caso de Mr. Magnucomp, o incluso el uso de drogas o
+estimulantes. Sin embargo, pueden construirse casos, en los que alguien adquiere
+control sobre sus acciones mediante el uso de recursos como esos, en los que es
+plausible que el sujeto sí tenga saber cómo. Por ejemplo:
+
+/ Uso de Adderall: A Eddie no le interesa la lógica y no tiene la inclinación de
+ prestar atención sobre cómo emplear el método de las tablas de verdad. Sin
+ embargo, consume Adderall (sin necesariamente el objetivo de mejorar su foco
+ durante la clase), y resulta que su foco durante la clase aumenta, y
+ logra hacer todos los ejercicios, con el resultado de que gana la habilidad de
+ usar el método de las tablas de verdad.
+
+En este caso, es implausible pensar que Eddie no sabe cómo usar el método de las
+tablas de verdad, aunque la manera en que adquiere este saber cómo no está, en
+cierto sentido, bajo su control porque involucra uno de esos recursos
+aparentemente inadmisibles.
+
+La propuesta de Carter es distinta.#footnote[De cierta manera, uno podría pensar
+que la propuesta de Carter es otra manera de recuperar la intuición de que hay
+un tipo de logro epistémico que es relevante para tener saber-cómo. De modo que
+la adopción del concepto de autonomía no es una manera alternativa de explicar
+el concepto de saber-cómo, como Markie sugiere, sino una mera variante del
+modelo del saber-cómo como logro epistémico.] En resumen, consiste en la
+siguiente tesis:
+
+/ Condición de Control Manifiesto (CCM): que $s$ haga $phi$ manifiesta el
+ saber-cómo de $s$ solo si las acciones de $phi$ de $s$ exhiben control de guía,
+ y por tanto, solo si las acciones de $phi$ de $s$ son causadas por un mecanismo
+ (i) que responda a razones y (ii) que $s$ posea.
+
+La condición de que las acciones de $s$ exhiban control de guía es una glosa de
+la idea de que $s$ es responsable por esas acciones. La condición tiene dos
+partes: primero, las acciones de $s$ tienen que ser causadas por un mecanismo
+que responda a razones en el sentido de que el sujeto actuaría de distintas
+maneras si tuviera buenas razones para hacerlo. Esta condición descarta casos
+como el de Mr. Magnucomp, porque el mecanismo que hace que Mr. Magnucomp aplique
+la defensa Siciliana cuando se presenta la oportunidad es confiable, pero no
+inflexible: no responde a razones que el sujeto como tal pueda tener, opera
+automáticamente sin darle la opción al sujeto de actuar de una u otra manera. La
+segunda parte de la condición de control de guía es que el mecanismo que causa
+la acción debe ser poseído por el sujeto, en el sentido de que debe tomarse a sí
+mismo como la fuente de los resultados de la operación del mecanismo, y se toma
+a sí mismo como el objeto justo de ciertas actitudes reactivas que alguien
+pudiera tener sobre los resultados de la operación de esos mecanismos (si sería
+justo, por ejemplo, que alguien me responsabilizara por las consecuencias de las
+acciones relevantes).
+
+#question[Trate de ver cómo afecta esto el diagnóstico de los otros casos que
+hemos discutido en esta sección.]
 
 #context[
 #set heading(numbering: none, outlined: false)
