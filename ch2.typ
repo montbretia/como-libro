@@ -562,7 +562,7 @@ modelos o teorías sobre el conocimiento.
   El argumento que lleva a la paradoja de Fitch es el siguiente. Primero, 
   hay una serie de asunciones sobre el conocimiento, que describen el modelo:
 
-  #fitch(num: "A)", ratio: (3fr, 5.8fr))[
+  #fitch(num: "A)", ratio: (4fr, 7.5fr))[
   + $forall p (p -> diamond.medium K p)$  (toda proposición es cognocible)
   + $exists p (p and not K p)$            (hay proposiciones que son desconocidas)
   + $K p tack.r p$                        (el conocimiento es factivo)

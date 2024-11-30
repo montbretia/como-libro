@@ -87,7 +87,7 @@
             num-bg
           }
         },
-        column-gutter: 0.5em,
+        column-gutter: 0.2em,
         align: (right, left, bottom+right),
         ..cells,
       )
