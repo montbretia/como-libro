@@ -4,6 +4,11 @@
 
 = Enfrentando la imagen manifiesta
 
+#figure[
+#image("robert-bota-rainforest.jpg", width: 150%)
+#v(2em)
+]
+
 En este capítulo vamos a comenzar nuestra exploración del problema del saber
 cómo, esbozado en el capítulo anterior, desde la perspectiva de ciertas ideas
 preconcebidas que podríamos tener acerca del saber cómo—para emplear una
@@ -554,7 +559,7 @@ que conocer una conjunción implica conocer los conjuntos de esa conjunción): s
 puede mostrar que dadas todas esas asunciones en conjunto, no solamente todas
 las proposiciones son cognocibles, sino que todas son de hecho conocidas. Esto
 se lo conoce como la _paradoja de la cognocibilidad de Fitch_ (véase el
-apartado). Este argumento muestra que ciertas maneras de modelas el conocimiento
+apartado). Este argumento muestra que ciertas maneras de modelar el conocimiento
 no funcionan, y una respuesta a esta dificultad es que deben construirse mejores
 modelos o teorías sobre el conocimiento.
 
@@ -605,6 +610,34 @@ modelos o teorías sobre el conocimiento.
 
   #block(inset: 3pt)[#question(label: <q2_6>)[¿Cómo creen que podemos evitar la paradoja?]]
 ]
+
+Los experimentos mentales, como el que vimos antes de Gettier, constituyen otro
+tipo importante de modelo en filosofía. Un experimento mental es un modelo de un
+fenómeno en el sentido de que es una descripción simplificada de algo que podría
+pasar, que nos permite apreciar ciertos aspectos importantes acerca del
+fenómeno. Es importante apreciar que a menudo vale la pena ajustar ciertos
+parámetros en los experimentos mentales, para ver cómo cambian nuestros
+diagnósticos de los casos. Por ejemplo, en el experimento mental de Gettier,
+Smith tiene justificación para creer una serie de cosas sobre Jones. ¿Qué
+pasaría si no tuviera esa justificación? Podemos simplemente examinar qué
+consecuencias se siguen de ese ajuste al experimento mental. Un caso en que es
+más obvio qué podríamos obtener mediante los ajustes que podríamos hacer a un
+experimento son las innumerables variaciones al experimento mental del Trolley:
+
+/ Trolley: La línea del tren bifurca en dos ramas. En una, hay una persona
+ atada a los rieles, y en la otra hay 5 personas atadas a los rieles. Hay una
+ palanca que fija por qué rama de la línea seguira el tren. El tren está
+ llegando a la bifurcación. Si no mueves la palanca, el tren arrollará a las 5
+ personas, pero se salvará la persona en la otra rama. Si mueves la palanca, el
+ tren arrollará a esa persona, pero se salvarán las 5 personas. ¿Mueves la
+ palanca o no?
+
+Parece plausible que, en vistas a las consecuencias de hacer una u otra cosa, la
+opción de mover la palanca es preferible. ¿Qué pasaría si cambias la situación?
+Por ejemplo, qué pasa si en vez de las 5 personas uno de tus familiares está
+atado a la línea, y en la otra línea hay 10 personas? ¿Mueves o no la palanca?
+Si decides salvar a tu familiar, 10 personas morirán. ¿Es consistente ese
+resultado con el criterio que usaste para evaluar el caso original?
 
 == ¿Los conceptos de quién?
 
