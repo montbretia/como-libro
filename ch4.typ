@@ -1083,7 +1083,7 @@ Antes dije que la postura de Ryle era radical. Ciertamente, su oposición
 al intelectualismo es evidente, ¿pero qué tan radical es realmente Ryle?
 Uno podría pensar que lo que Ryle hace es identificar el saber cómo con
 un cierto tipo de estado de la persona, el de tener ciertas habilidades.
-Desde un punto e vista metafísico, quizás tener esas habilidades podría
+Desde un punto de vista metafísico, quizás tener esas habilidades podría
 consistir en tener otras propiedades mentales subyacentes. Si fuera así,
 el modelo anti-intelectualista de Ryle no sería tan radicalmente
 distinto al intelectualista; solamente diferiría en qué propiedades

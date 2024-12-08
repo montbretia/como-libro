@@ -26,10 +26,10 @@
   #set text(size: 9pt, style: "italic")
   #block(width: 70%)[
     #v(1.5em)
-    #quote(block: true, attribution: [Spinoza, _Ética_, parte 1, apéndice])[
-      #align(left)[\[…\] todo el mundo confunde la realidad y la manera en que
-      se afecta su imaginación. De ahí que no sea sorpresa \[…\] que encontremos
-      tantas controversias entre las personas, que finalmente llevan al
+    #quote(block: true, attribution: [_Spinoza_, Ética, _parte 1, apéndice_])[
+      #align(left)[\[…\] todo el mundo confunde la realidad con lo que ocurre en
+      su imaginación. De ahí que no sorprenda \[…\] que encontremos entre las
+      personas tantas controversias que finalmente lleven al
       escepticismo. Pues, aunque los cuerpos humanos concuerdan de muchas
       maneras, hay también muchas diferencias; por lo tanto, una persona
       puede pensar que es bueno lo que otro cree que es malo; lo que para uno
@@ -539,7 +539,7 @@ algo que en sí mismo requiere de cierto saber-cómo, este saber-cómo no puede
 explicarse solamente en términos de la comprensión de proposiciones; de otro
 modo caemos en un regreso vicioso. Consideren:
 
-#set enum(numbering: "1)")
+#set enum(numbering: "1)", start: 1)
 + Para comprender una proposición, es necesario entender los conceptos
   que la proposición emplea.
 + _Suponiendo_: Entender un concepto consiste en comprender proposiciones
