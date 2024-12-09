@@ -29,7 +29,7 @@ representadas estas tareas desde una perspectiva representacionalista? Por
 supuesto, esto asume que el modelo representacionalista de la mente es correcto.
 A partir de esta misma suposición, podríamos inferir que podría haber cierta
 clase de agentes artificiales que poseyesen saber cómo—robots con conocimiento
-práctico. ¿Es plausible esto? 
+práctico. ¿Es plausible esto?
 
 == Representación mental
 
