@@ -276,7 +276,6 @@ ofrecen.
 
 La estructura argumental puede hacerse más clara con la siguiente glosa
 (la adapto de Carter & Poston (2018)):
-]
 
 #[
 #set enum(numbering: "A)", start: 1)

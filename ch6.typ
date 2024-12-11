@@ -17,7 +17,7 @@ cognitivo. Muchos filósofos en la actualidad suscriben a lo que llamaríamos un
 _naturalismo mínimo_, que consiste en la idea que la teorización filosófica debe
 ser al menos compatible con los métodos y resultados de la ciencia. Una manera
 de satisfacer esta condición es requerir además que el trabajo filosófico esté
-informado científicamente—esta es una forma mas sustantiva de naturalismo. En el
+informado científicamente—esta es una forma más sustantiva de naturalismo. En el
 caso del saber cómo, desde una perspectiva naturalista como esta, va a ser
 importante examinar qué dicen las ciencias acerca de la naturaleza de los
 estados mentales asociados al saber cómo. En este capítulo vamos a examinar
@@ -37,7 +37,7 @@ No es una exageración decir que la ciencia cognitiva moderna tradicional está
 fundada sobre la noción de _representación mental_. En cierto sentido, la noción
 general de representación es cotidiana: una pintura puede representar algo, así
 como puede hacerlo una palabra, etc. La idea de representación mental es la idea
-de que existen ítemes mentales que tienen la propiedad de representar algo. Una
+de que existen itemes mentales que tienen la propiedad de representar algo. Una
 manera de poner la cuestión es que hay estados mentales que son acerca de algo.
 Cuando imagino a mi perra Ruby esperándome junto a la puerta, estoy en un estado
 mental que apunta a Ruby, es decir, que es acerca de ella. Cuando sumo los
@@ -102,7 +102,10 @@ computacional de la mente_.#footnote[Estrictamente hablando, la teoría
 computacional no requiere que tengamos que adoptar el concepto de representación
 mental (por ejemplo, ciertos modelos "conexionistas" rechazan la idea de
 representación mental--aunque es contencioso si en realidad escapan del modelo
-representacionalista), pero sus versiones más tradicionales sí combinan estas ideas.] 
+representacionalista), pero sus versiones más tradicionales sí combinan estas
+ideas.] De acuerdo a esta, las operaciones mentales consisten en procesos
+computacionales; la mente funciona de una manera equivalente a la de una
+computadora.
 
 == Anti-representacionalismo
 
@@ -116,7 +119,7 @@ supone que sean y hagan esas 'representaciones'? 2) ¿qué significa 'interno'?
 susurrando, d) meramente "en mi cabeza", ¿es solamente d) propiamente algo
 'interno'? De modo que cuando balbuceo o entono 'kappa' audiblemente, ¿no es
 este ruido una 'representación' de un elemento del alfabeto griego? ([...] Oímos
-de 'representaciones de reglas'. ¿Cómo espontaneas o ecos? ¿Rosadas, o roncas?)
+de 'representaciones de reglas'. ¿Cómo espontáneas o ecos? ¿Rosadas, o roncas?)
 O, si tras dictar una y otra vez una regla gramatical o del ajedrez, la
 formulación de la regla corre por mi cabeza por puro hábito (como una canción
 enloquecedoramente popular), ¿es esa formulación (o cualquier palabra en ella)
