@@ -73,7 +73,7 @@ epistemología del conocimiento-primero (#emph[knowledge-first];, cf. Williamson
 
 === Stanley & Williamson contra Ryle 
 
-Lo primero que hacen Stanley y Williamson (2011) y Stanley (2011) es criticar
+Lo primero que hacen Stanley y Williamson (2001) y Stanley (2011) es criticar
 los argumentos de Ryle. En primer lugar, atacan la suposición que hace del
 argumento contra la necesidad, de que el intelectualista debería comprometerse
 con la idea de que todo ejercicio de una acción intencional debe verse
@@ -1422,6 +1422,34 @@ actuar guía su acción, porque si intentaran realizar estas acciones, trataría
 de hacer que su comportamiento se ajustara a su concepción de cómo realizar esas
 acciones. Su concepción sería correcta y completa si fuera posible para estos
 sujetos que realizaran estas acciones guiándose por esa concepción.
+
+#aside[El entendimiento ha sido de especial interés en la epistemología
+contemporánea más reciente (al menos desde Zagzebski (2001)). Así como en el caso
+del saber-cómo, ha habido cierto debate respecto a si el entendimiento es un
+tipo de conocimiento o no. Un lugar común acerca del entendimiento es que en
+cierto sentido es más valioso que el simple conocimiento: saber que hay un
+conflicto en Medio Oriente es menos valioso que entender que haya tal conflicto.
+Esto podría explicarse porque el entendimiento es un tipo distinto de estado
+epistémico, más valioso que el mero conocimiento, o porque el entendimiento es
+un tipo especial de conocimiento--por ejemplo, conocimiento sistemático (cf.
+Kelp 2013).
+
+Un debate ortogonal al debate entre intelectualistas y anti-intelectualistas
+acerca del entendimiento trata de si el entendimiento es factivo o no, es decir,
+si es necesario que el contenido del entendimiento sea verdadero. Los
+intelectualistas defienden la importancia del contenido verdadero del
+entendimiento (después de todo, el conocimiento es factivo),#footnote[Aunque
+considere las objeciones de Hazzlett (2015).] mientras que algunos
+anti-intelectualistas enfatizan la importancia de formas de entendimiento cuyo
+contenido es literalmente falso, como el entendimiento que proveen las
+idealizaciones y ficciones (cf. Elgin 2017).
+
+Algo que tanto intelectualistas como anti-intelectualistas acerca
+del entendimiento aceptan es que el entendimiento no consiste en la posesión de
+ciertas actitudes proposicionales aisladas; más bien, parece consistir en una
+relación cognitiva con un conjunto estructurado de ítemes. Grimm (2016)
+defiende, por ejemplo, la idea de que el entendimiento en general consiste en
+apresar epistémicamente cierta estructura.]
 
 #question[¿Cómo maneja la teoría casos como el del _Salchow_, Simulador de vuelo,
 etc.?]
