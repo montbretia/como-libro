@@ -1208,7 +1208,7 @@ de ese mismo año de #emph[The Concept of Mind] también incluyen sendas
 introducciones escritas por Tanney, que coinciden con el artículo del
 SEP.
 
-El librito #emph[Infinite Regress Arguments] (2014) de Wieland es un
+El librito #emph[Infinite Regress Arguments] (2014) de Jan Willem Wieland es un
 conciso e iluminador estudio de cómo funcionan los argumentos de regreso
 infinitos.
 

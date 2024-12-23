@@ -620,9 +620,14 @@ parámetros en los experimentos mentales, para ver cómo cambian nuestros
 diagnósticos de los casos. Por ejemplo, en el experimento mental de Gettier,
 Smith tiene justificación para creer una serie de cosas sobre Jones. ¿Qué
 pasaría si no tuviera esa justificación? Podemos simplemente examinar qué
-consecuencias se siguen de ese ajuste al experimento mental. Un caso en que es
-más obvio qué podríamos obtener mediante los ajustes que podríamos hacer a un
-experimento son las innumerables variaciones al experimento mental del Trolley:
+consecuencias se siguen de ese ajuste al experimento mental.#footnote[En
+_Intuition Pumps and Other Tools for Thinking_ (2013), Daniel Dennett sugiere que lo
+más característico de los experimentos mentales (Dennett les llama "bombas de
+intuiciones") es que son ajustables en relación a distintos aspectos, lo que
+permite ver qué relaciones existen entre los componentes del experimento
+mental.] Un caso en que es más obvio qué podríamos obtener mediante los ajustes
+que podríamos hacer a un experimento son las innumerables variaciones al
+experimento mental del Trolley:
 
 / Trolley: La línea del tren bifurca en dos ramas. En una, hay una persona
  atada a los rieles, y en la otra hay 5 personas atadas a los rieles. Hay una
@@ -756,6 +761,10 @@ y expliquen los datos,  (ii) estén ellas mismas substanciadas e integradas, y
 Para una introducción al uso de modelos en general, un excelente punto de
 partida es el libro de Axel Gelfert (2016), _How to Do Science with Models: A
 Philosophical Primer_.
+
+Sobre los experimentos mentales, el libro _Experimentos Mentales y Filosofías de
+Sillón_ (2017), de Rodrigo González, reúne una colección importante de ensayos
+sobre su uso filosófico.
 
 El libro _Experimental Philosophy: An Introduction_ (2012), de Joshua
 Alexander, provee una introducción razonable a la metodología de la filosofía
