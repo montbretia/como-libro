@@ -925,9 +925,10 @@ sofisticadas del intelectualismo y del anti-intelectualismo.
 Una excelente introducción a la epistemología es el librito de Stephen
 Hetherington, #emph[What is Epistemology? ];(2019). Para quienes quieran
 más detalle, Clayton Littlejohn & Adam Carter tienen un libro llamado
-#emph[This is Epistemology: An Introduction ];(2021). En español, está
+#emph[This is Epistemology: An Introduction ];(2021). En español, están
 la #emph[Introducción a la Epistemología Contemporánea ];(1993)#emph[,
-];de Jonathan Dancy.
+];de Jonathan Dancy, y el libro _Teoría del Conocimiento_ (2004), de Josep Blasco y
+Tobies Grimaltos.
 
 Sobre la epistemología modal, una buena introducción es el artículo de
 la #emph[Stanford Encyclopedia of Philosophy];, ‘The Epistemology of
