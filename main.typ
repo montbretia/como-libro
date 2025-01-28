@@ -8,9 +8,12 @@
 
 #show quote: set pad(top: -1.6em, bottom: -0.8em, x: 2em)
 
+#set cite(form: "prose")
+
 #show terms: set block(above: 1.2em, below: 1.2em)
 #show figure: set block(above: 1.2em, below: 1.2em)
 
+#set list(indent: 1em)
 #show enum: set block(above: 1em, below: 1em)
 #show list: set block(above: 1em, below: 1em)
 #show math.equation.where(block: true): set block(above: 1em, below: 1em)
