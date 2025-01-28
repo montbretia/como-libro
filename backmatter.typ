@@ -215,3 +215,10 @@ Philosphicus, Investigaciones Filosóficas, Sobre la Certeza];. Madrid:
 Gredos.
 
 Zagzebski, Linda (1994).
+
+#bibliography(style:"american-psychological-association",
+(
+  "mapuche.bib",
+))
+
+
