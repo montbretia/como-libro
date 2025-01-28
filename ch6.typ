@@ -162,8 +162,8 @@ hacemos que el cabezal escriba "1", nos movemos a la derecha y pasamos al estado
 $sigma'$. En el estado $sigma'$, escribimos "0", nos movemos a la derecha, y
 pasamos al estado $sigma$ nuevamente.
 
-#figure(caption: [Algunas iteraciones del programa. La posición del cabezal está
-marcada en rojo.])[
+#figure(caption: [_Algunas iteraciones del programa. La posición del cabezal está
+marcada en rojo._])[
     #table(
         rows: 1.5em, 
         columns: (1.5em,) * 12, 
@@ -454,11 +454,11 @@ preguntas primero debemos considerar el problema general de si podemos
 adscribirles saber-cómo. En esta sección veremos algunos argumentos en contra y a
 favor de esta posibilidad.
 
-=== El caso en contra
+=== El argumento en contra
 
 
 
-=== El caso a favor
+=== El argumento a favor
 
 
 #set heading(numbering: none, outlined: false)
