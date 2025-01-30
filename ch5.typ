@@ -5,21 +5,10 @@
 
 #set text(lang: "es")
 
-// #pagebreak()
-//
-// #[
-//   #set page(numbering: none)
-//   #align(center+horizon)[
-//     #figure[
-//       #image("meme1.jpeg", width: 70%)
-//     ]
-//   ]
-// ]
-
 = La disputa de las cien escuelas
 
 #figure[
-#image(width: 150%, "pavia_tapestry.jpg")
+#image(width: 150%, "images/pavia_tapestry.jpg")
 ]
 
 #align(right)[

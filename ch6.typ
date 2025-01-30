@@ -229,7 +229,7 @@ observador, y finalmente se recompone la información de profundidad en las
 relaciones entre objetos, formando una representación de objetos tridimensional
 independiente de la perspectiva del sujeto.
 
-#image("marr.png")
+#image("images/marr.png")
 
 Una idea importante de Marr es que podemos analizar procesos como estos a tres
 niveles distintos:
