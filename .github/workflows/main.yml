@@ -1,4 +1,4 @@
-            - name: Typst Compiler
+- name: Typst Compiler
   # You may pin to the exact commit or the version.
   # uses: ammar-ahmed22/compile-typst-action@7e840aaaeacb7f3f4b6724776148f65a0d4aab04
   uses: ammar-ahmed22/compile-typst-action@v1.0.2
