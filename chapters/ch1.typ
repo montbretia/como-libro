@@ -208,7 +208,7 @@ Durante el transcurso de cada capítulo presentaré una serie de preguntas que
 pueden servir para pensar más en detalle los problemas tratados, y al final del
 libro hay un capítulo con esbozos de respuestas para algunas de estas
 preguntas (cuando doy respuestas a esas preguntas, lo indico con el símbolo 
-#text(fill: red)[#sym.arrow.r.wave]; en la versión en PDF estos son
+#text(fill: red)[#sym.arrow.r.wave]\; en la versión en PDF estos son
 hipervínculos en el documento, para tener fácil acceso a las respuestas). 
 
 #question[Las preguntas van a aparecer en este formato.]
