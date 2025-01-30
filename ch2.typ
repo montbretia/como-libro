@@ -5,7 +5,7 @@
 = Enfrentando la imagen manifiesta
 
 #figure[
-#image("robert-bota-rainforest.jpg", width: 150%)
+#image("images/robert-bota-rainforest.jpg", width: 150%)
 #v(2em)
 ]
 

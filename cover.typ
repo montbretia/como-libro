@@ -29,7 +29,7 @@
 
               
         #v(2em)
-        #image(width: 0.4in, "montbretia.png")
+        #image(width: 0.4in, "images/montbretia.png")
         #text(size: 8pt)[montbretia]
       ]
   ]
