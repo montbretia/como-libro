@@ -239,7 +239,7 @@ que el proceso de adquirir conocimiento debe entenderse como algo activo, por el
 que el sujeto es responsable. Un ejemplo de esto es que si bien es posible
 adquirir conocimiento mediante el testimonio o la tradición, es responsabilidad
 del sujeto evaluar la calidad del testimonio, cotejándolo con su propia
-experiencia.#footnote[
+experiencia.
     En @Mora2001[p. 224] se consigna el siguiente refrán, que ilustra el punto: 
 
     #quote(block: true)[
@@ -263,7 +263,7 @@ experiencia.#footnote[
     ]
 
 #v(1em)
-]
+
 
 @Mora2016 hace la importante observación de que la posesión del estado
 epistémico de ser _kimche_ no es una cuestión meramente interna al sujeto, sino

@@ -94,11 +94,12 @@ _knowing-how_.
   Compare:
 
   #figure(kind: "unnumbered-table", supplement: [])[
+    #set text(size: 10pt)
   #table(
     fill: rgb("#ebb5c3").lighten(40%),
     columns: 3,
     stroke: none,
-    [*inglés*], [*español*], [*españól (alt.)*],
+    [*inglés*], [*español*], [*español (alt.)*],
     [knows that it is raining], [sabe que llueve], [conoce que llueve],
     [knows where it is], [sabe dónde está], [conoce dónde está],
     [knows the answer], [sabe la respuesta], [conoce la respuesta],
@@ -207,7 +208,8 @@ Durante el transcurso de cada capítulo presentaré una serie de preguntas que
 pueden servir para pensar más en detalle los problemas tratados, y al final del
 libro hay un capítulo con esbozos de respuestas para algunas de estas
 preguntas (cuando doy respuestas a esas preguntas, lo indico con el símbolo 
-#text(fill: red)[#sym.arrow.r.wave]). 
+#text(fill: red)[#sym.arrow.r.wave]; en la versión en PDF estos son
+hipervínculos en el documento, para tener fácil acceso a las respuestas). 
 
 #question[Las preguntas van a aparecer en este formato.]
 

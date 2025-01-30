@@ -140,7 +140,7 @@ mencionar.
 Primero, uno podría requerir que las creencias satisfagan lo que a
 menudo se llama una condición #emph[modal ];(una condición definida en
 términos de ciertas posibilidades). Algunos
-epistemólogos#footnote[Cf. Nozick (1981).] han propuesto que se requiera que las creencias sean ‘sensitiva’
+epistemólogos#footnote[Cf. @Nozick1981.] han propuesto que se requiera que las creencias sean ‘sensitiva’
 (#emph[sensitive];):
 
 / Sensitividad: Una creencia c de un sujeto s es sensitiva si y solo si s no creería
@@ -211,7 +211,7 @@ nuestro conocimiento si reconocemos las consecuencias lógicas de
 nuestras creencias. Sin embargo, Cierre y Sensibilidad son
 incompatibles. Imaginemos la siguiente variación del caso de los
 graneros.#footnote[
-Esta versión la da Kripke (2011, 186).
+Esta versión la da @Kripke2011[p. 186].
 ] En este caso, las fachadas falsas están todas pintadas verdes. En el
 medio del campo, hay un granero verdadero pintado de rojo. Al mirar el
 campo, llegas a creer que lo que parece ser un granero rojo es en efecto
@@ -232,8 +232,8 @@ Otros han propuesto que las creencias deben ser ‘seguras’ (#emph[safe];):
 
 / Seguridad : Una creencia c de un sujeto es segura si y solo si la creencia en c de s
   no podría ser fácilmente falsa.#footnote[
-Esta es la formulación de Williamson (2000). Sosa (1999) ofrece una
-formulación diferente pero en el mismo espíritu: una creencia c de un
+Esta es la formulación de @Williamson2000. @Sosa1999 ofrece una
+formulación diferente, pero en el mismo espíritu: una creencia c de un
 sujeto s es (fuertemente) segura si y solo si si s creyera que c, c
 sería verdad.
 ]

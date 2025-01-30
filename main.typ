@@ -10,6 +10,8 @@
 
 #set cite(form: "prose")
 
+#show cite: set text(fill: blue.darken(50%))
+
 #show terms: set block(above: 1.2em, below: 1.2em)
 #show figure: set block(above: 1.2em, below: 1.2em)
 
