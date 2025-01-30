@@ -1,5 +1,5 @@
-#import "utils.typ": question
-#import "logic.typ": fitch, fitch-r
+#import "../utils.typ": question
+#import "../logic.typ": fitch, fitch-r
 
 #[
   #set heading(numbering: none)
