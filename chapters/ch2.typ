@@ -1,11 +1,11 @@
-#import "utils.typ": question, aside
-#import "logic.typ": fitch
+#import "../utils.typ": question, aside
+#import "../logic.typ": fitch
 #set text(lang: "es")
 
 = Enfrentando la imagen manifiesta
 
 #figure[
-#image("images/robert-bota-rainforest.jpg", width: 150%)
+#image("../images/robert-bota-rainforest.jpg", width: 150%)
 #v(2em)
 ]
 

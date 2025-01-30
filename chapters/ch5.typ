@@ -1,14 +1,14 @@
 // vim: spell spelllang=es
 
-#import "utils.typ": question, aside, color-key
-#import "logic.typ": fitch
+#import "../utils.typ": question, aside, color-key
+#import "../logic.typ": fitch
 
 #set text(lang: "es")
 
 = La disputa de las cien escuelas
 
 #figure[
-#image(width: 150%, "images/pavia_tapestry.jpg")
+#image(width: 150%, "../images/pavia_tapestry.jpg")
 ]
 
 #align(right)[

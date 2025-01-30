@@ -1,4 +1,4 @@
-#import "utils.typ": aside, question
+#import "../utils.typ": aside, question
 
 = El problema
 

@@ -1,5 +1,5 @@
-#import "utils.typ": question, aside
-#import "logic.typ": would
+#import "../utils.typ": question, aside
+#import "../logic.typ": would
 
 = Un modelo tentador
 

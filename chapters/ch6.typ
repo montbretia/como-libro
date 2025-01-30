@@ -1,5 +1,5 @@
 // vim: spell spelllang=es
-#import "utils.typ": question, aside
+#import "../utils.typ": question, aside
 #set enum(numbering: "1)")
 
 = Ciencia cognitiva y saber cómo
@@ -229,7 +229,7 @@ observador, y finalmente se recompone la información de profundidad en las
 relaciones entre objetos, formando una representación de objetos tridimensional
 independiente de la perspectiva del sujeto.
 
-#image("images/marr.png")
+#image("../images/marr.png")
 
 Una idea importante de Marr es que podemos analizar procesos como estos a tres
 niveles distintos:

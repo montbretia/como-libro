@@ -3,8 +3,8 @@
 #bibliography(style: "american-psychological-association",
 full: true,
 (
-  "general.bib",
-  "mapuche.bib",
+  "bib/general.bib",
+  "bib/mapuche.bib",
 ))
 
 
