@@ -151,7 +151,7 @@ intentar responderlas uno mismo. Las preguntas acerca del saber cómo son
 fascinantes (espero convencerte de ello durante el libro), y ofrecen una
 excelente oportunidad para ello.#footnote[Esto hace que el libro difiera de
 otros trabajos similares, como el excelente _A Critical Introduction to
-Knowledge-How_ (2018) de J.A. Cartes y T. Poston.]
+Knowledge-How_ (2018) de J.A. Carter y T. Poston.]
 
 #v(2em)
 #block[]

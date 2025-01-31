@@ -647,4 +647,46 @@ interesante perspectiva acerca del problema de la transmisión del saber-cómo,
 que parece validar el llamado de quienes buscan integrar el saber mapuche en
 la práctica pedagógica intercultural.
 
+#set heading(numbering: none, outlined: false)
+== Lecturas recomendadas
+
+Para una visión más comprensiva de la etnoepistemología, véáse el artículo de
+James Maffie en la _Internet Encyclopedia of Philosophy_ (https://iep.utm.edu/ethno-ep/).
+
+Hay muchos trabajos etnoepistemologicos de gran interés para el estudio del
+saber-cómo. Sin salir del contexto americano, vale la pena examinar la filosofía
+de los pueblos nativos norteamericanos, por ejemplo, el ensayo de Brian Yazzie
+Burkhart (cherokee), 'What Coyote and Thales can teach us' (2004), en el libro
+_American Indian Thought_. Otra obra interesante es el libro _How It Is: The
+Native American Philosophy of V.F. Cordova_ (2007), especialmente por su
+concepción de cómo hay que abordar el trabajo filosófico de recuperar la
+perspectiva nativa.
+
+Dada la conexión entre la epistemología del saber cómo y la filosofía de la
+acción, vale la pena analizar además las distintas maneras en que se concibe la
+acción en otras filosofías. Por ejemplo, en el taoísmo la acción intencional es
+mirada con esceptismo. En el capítulo 7 del libro de Chuang Tzu
+encontramos,#footnote[Traduzco de la versión inglesa de Martin Palmer (Penguin,
+2006).] por ejemplo:
+
+#quote(block: true)[
+  #set par(first-line-indent: 0em, spacing: 1em)
+  No busques la fama.\
+  Nos hagas planes.\
+  No trates de hacer nada.\
+  No intentes ser un maestro del conocimiento.\
+  Toma lo que existe, pero no lo tomes como signo de otra cosa.\
+  Trabaja con lo que viene del Cielo, pero no busques apresarlo.\
+  Se vacío.
+
+  El corazón (_xin_)#footnote[Tb. 'mente'.] del hombre perfecto es como un espejo.\
+  No va tras las cosas.\
+  No busca cosas.\
+  No persigue el conocimiento, sino que meramente responde.\
+  En consecuencia, puede lidiar con todo, y nada puede
+  dañarlo.
+]
+
+
+¿Es esta disposición del hombre perfecto, un actuar sin actuar (_wuwei_), una forma de saber-cómo?
 
