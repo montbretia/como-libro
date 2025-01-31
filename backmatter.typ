@@ -1,6 +1,6 @@
 #set heading(numbering: none)
 
-#bibliography(style: "american-psychological-association",
+#bibliography(style: "bib/apa-annotated-bibliography.csl",
 full: true,
 (
   "bib/general.bib",
