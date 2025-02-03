@@ -498,10 +498,69 @@ Considere el siguiente tipo de caso: un mismo plato puede cocinarse de distintas
 maneras en distintas cocinas locales, y dentro de cada cocina local, cada
 cocinero puede tener una forma propia de cocinar.]
 
+En su forma más simple, una receta es un esquema que puede emplearse para
+conseguir un objetivo; en esto una receta es similar a un _algoritmo_, que
+define un procedimiento efectivo para realizar un cálculo (en un sentido amplio
+de cálculo). Las recetas de cocina definen un conjunto o lista de ingredientes,
+que son elementos nombrados junto con las cantidades que deben usarse, y una
+lista de pasos, siguiendo los cuales se supone que obtendremos el resultado
+deseado. Por lo general, las recetas asumen que las personas que las usan
+entienden a qué cosas y acciones se refieren los términos emplea la receta (por
+ejemplo, qué significa 'cardamomo', 'cuchara', 'batir', etc.)
 
+Las representaciones externas de recetas, inscritas en papel y soportes
+electrónicos, tienen un formato convencional típico. Ahora bien, estas
+representaciones son artefactos, creados por seres humanos para transmitir
+información de manera eficiente. En consecuencia, podríamos pensar que el
+formato de las representaciones internas de recetas es análogo al formato de
+estas representaciones. Después de todo, alguien construyó esas
+representaciones, y debe haber tenido representaciones análogas en mente cuando
+lo hizo. ¿O no?
 
+#question[Deténganse un segundo y piensen si estas suposiciones son válidas.]
 
-== ¿Puede haber agentes artificiales que sepan cómo hacer algo?
+¡No tan rápido! La producción de representaciones externas produce
+representaciones en un formato determinado, pero esto no significa que comience
+con representaciones en el mismo formato. Si le pedimos a alguien que haga una
+pintura de un árbol en invierno, no es necesario que le demos una representación
+pictórica de lo que queremos; la descripción verbal es suficiente. Pero en ese
+caso hay una transformación de una representación verbal a una pictórica. ¿Por
+qué no podría ocurrir algo similar en el paso de la representación interna a la
+externa? Si es así, entonces las características del formato interno quedan
+sub-determinadas por las características del formato externo, excepto en
+términos de ciertos aspectos funcionales (por ejemplo, si el formato externo
+permite ciertas transformaciones, es plausible que el formato interno también
+las permita).#footnote[Este es el tipo de razonamiento que llevó a Fodor a
+postular la idea de que hay algo así como un lenguaje de la mente: dado que el
+lenguaje articulado externamente es composicional, Fodor infirió que la mente
+debía servirse de un medio que fuera composicional también, y esto fue parte del
+caso cumulativo a favor de su hipótesis.]
+
+Esto no significa que los modelos cognitivos de los sistemas representacionales
+que están involucrados en el aprendizaje y uso de recetas deban ser
+extremadamente distintos al modelo de los sistemas representacionales externos.
+Por ejemplo, de acuerdo a ciertas teorías del control motor, la ejecución de
+una tarea (como la tarea de seguir los pasos de una receta) requiere una serie
+de transformaciones que transforma la intención de los agentes junto con la
+información relevante que tengan disponible en órdenes motoras. 'Romper un
+huevo' queda representado por una descomposición de sub-tareas motrices y
+cognitivas (levantar la mano, acercarla a un huevo, apresar el huevo, levantarlo,
+buscar una superficie rígida, mover el huevo contra esa superficie con
+suficiente fuerza como para que se rompa la cáscara, alejarlo de esa superficie,
+etc.) Una receta, entonces, queda representada por una secuencia de tareas que a
+su vez se descomponen en otras secuencias de sub-tareas.#footnote[Cf. Pavese
+(2017, 2019).] Esto determina ciertas propiedades estructurales del formato de
+las representaciones de procedimientos como recetas, pero no define la manera en
+que los componentes de las sub-tareas (que en estos casos tienen que representar
+procesos motores) deben quedar representadas.
+
+#question[¿Creen que este modelo es plausible para todas las formas de
+saber-cómo? Consideren el caso de tareas no-secuenciales (preparar la cena no
+tiene una estructura serial, por ejemplo, ya que las sub-tareas que involucra
+pueden ejecutarse en paralelo), y el caso de acciones que no son explícitas
+(como tratar de encontrar una prueba para un teorema matemático).]
+
+== ¿Puede los agentes artificiales saber cómo?
 
 Ya vimos cómo es que ciertas formas de representacionalismo parecer tener la
 consecuencia de que algunos procesos mentales pueden reproducirse
@@ -515,7 +574,7 @@ problema se vuelve cada vez más serio.
 El caso del saber cómo es particularmente interesante, porque muchas
 aplicaciones de la _inteligencia_ artificial requieren que los agentes
 artificiales posean no solo la capacidad de recuperar información, sino en
-cierto sentido resolver problemas inteligentemente--manifiestando alguna clase
+cierto sentido resolver problemas inteligentemente--manifestando alguna clase
 de saber-cómo. La pregunta es importante porque en muchos casos, los sistemas
 actuales de inteligencia artificial (como ChatGPT o Gemini) sirven como fuentes
 de información para sus usuarios. Si, como vimos en el capítulo 5, puede ser
@@ -527,11 +586,72 @@ preguntas primero debemos considerar el problema general de si podemos
 adscribirles saber-cómo. En esta sección veremos algunos argumentos en contra y a
 favor de esta posibilidad.
 
-=== El argumento en contra
+Antes de proceder, hay que hacer algunas aclaraciones. Cuando se discute acerca
+de la posibilidad de la inteligencia artificial, hay que distinguir entre:
 
++ la reproducción artificial de la inteligencia humana
++ la producción de agentes inteligentes artificiales
 
+(Lo primero, obviamente, implica lo segundo). La diferencia radica en el rol que
+cumple el modelo de la inteligencia humana. Para quienes están interesados en el
+primer objetivo, es importante entender cómo es que los seres humanos poseen
+inteligencia, para entonces replicar los mecanismos que permiten que los seres
+humanos manifiesten inteligencia. Quienes están interesados meramente en lo
+segundo, no es necesario emplear la inteligencia humana como modelo. Lo
+importante en este caso es poder construir agentes que tengan ciertas
+capacidades y que posean cierto grado de autonomía (claro está, para la
+definición de que capacidades y grado de autonomía son relevantes, el mejor
+modelo es el de la inteligencia humana; sin embargo, hay que distinguir entre el
+modelo humano como definitorio de los estándares de inteligencia, y el modelo
+humano como definitorio de qué mecanismos han de implementarse en agentes
+artificiales), y no es importante (o al menos, es menos importante) que estos
+agentes implementen mecanismos análogos a los que los seres humanos emplean para
+manifestar su inteligencia. En la práctica, el desarrollo de agentes
+artificiales ha combinado ambas perspectivas de una manera pragmática.
 
-=== El argumento a favor
+=== El caso en contra
+
+Un argumento clásico en contra de la idea de que los agentes artificiales pueden
+tener inteligencia puede aplicarse directamente al caso del saber-cómo.
+Recordemos que Ryle distingue entre tener saber-cómo y meramente tener un hábito
+de actuar de cierta manera. Lo que distingue al saber-cómo es que es
+genuinamente sensible al contexto, no consiste en un mero reproducir un guión de
+manera ciega. Algunos defienden la siguiente tesis:
+
+/ Inflexibilidad: Los agentes artificiales solo pueden tener un comportamiento inflexible.
+
+Algunas variaciones de la idea es que los agentes artificiales no son creativos,
+carecen de comprensión, no pueden distinguir qué es relevante y qué es
+irrelevante de manera flexible en un rango amplio de situaciones,
+etc.#footnote[Turing adscribe una versión de este argumento a Lady Lovelace,
+quien en sus memorias escribió que 'No hay pretensión de que la Máquina
+Analítica _origine_ nada. Puede hacer [solo] lo que nosotros sabemos cómo
+ordenarle hacer [_whatever we know how to order it_ to perform]'.] Combinadas
+con la idea de que, precisamente, el saber-cómo requiere este tipo de
+flexibilidad, la conclusión obvia es que los agentes artificiales no pueden
+tener saber-cómo.
+
+Ahora bien, es importante notar que el argumento acepta la posibilidad de que
+agentes artificiales realicen ciertas tareas exitosamente. El punto del
+argumento es que, incluso si pueden hacer eso, eso no significa que posean
+inteligencia o saber-cómo. Recordemos que habitualmente la atribución de
+saber-cómo a un sujeto requiere del reconocimiento de que el sujeto posee la
+habilidad regular de realizar aquello que supuestamente sabe cómo hacer. Aquí
+queda por supuesto que eso es algo que una máquina podría satisfacer, de modo
+que el argumento presupone que para la correcta atribución de saber-cómo a un
+agente se necesita algo más que eso. Una respuesta al argumento es que esta
+suposición es problemática. Quizás, en ciertos contextos, solo basta con que
+podamos reconocer las habilidades de los agentes para poder atribuirles saber
+cómo. Si empleásemos la heurística del éxito regular para atribuir saber-cómo a
+agentes humanos, no hacer lo mismo en el caso de los agentes artificiales sería
+una forma de chauvinismo.
+
+#question[Esta sugerencia no es suficiente para mostrar que el argumento es
+defectuoso. ¿Qué creen ustedes?]
+
+Por otra parte, el 
+
+=== El caso a favor
 
 
 #set heading(numbering: none, outlined: false)
