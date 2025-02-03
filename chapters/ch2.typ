@@ -766,7 +766,7 @@ Sobre los experimentos mentales, el libro _Experimentos Mentales y Filosofías d
 Sillón_ (2017), de Rodrigo González, reúne una colección importante de ensayos
 sobre su uso filosófico.
 
-El libro _Experimental Philosophy: An Introduction_ (2012), de Joshua
-Alexander, provee una introducción razonable a la metodología de la filosofía
-experimental, y la defiende de varias críticas comunes.
-]
+El libro _Experimental Philosophy: An Introduction_ (#cite(<Alexander2012>,
+form: "year")), de Joshua Alexander, provee una introducción razonable a la
+metodología de la filosofía experimental, y la defiende de varias críticas
+comunes. ]
