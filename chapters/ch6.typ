@@ -428,6 +428,79 @@ verdadera respecto al caso del saber cómo. La pregunta que debemos hacernos es:
 cómo? O puesto de otra manera: si el saber cómo consiste en tener cierto tipo de
 representaciones, ¿qué contienen esas representaciones?
 
+Para entender esta pregunta, tenemos que distinguir entre el _vehículo_ de las
+representaciones, el _contenido_ de las representaciones y el _formato_ de las
+representaciones. Supongan que un basebolista trata de capturar una bola. Si de
+hecho supusieron eso, su estado mental ahora contiene una representación de un
+basebolista tratando de capturar una bola. Su estado mental es el vehículo de
+esa representación, que tiene cierto contenido (aquello que permite que se pueda
+tomar a esa representación como una representación del basebolista en vez de
+otra cosa). Ahora bien, alguien puede reprentar a un basebolista tratando de
+capturar una bola de distintas maneras. Por ejemplo, podrían simplemente tener
+en mente una representación _verbal_ del basebolista, o podrían tener una imagen
+mental del basebolista. Parte de la manera en que la representación representa
+al basebolista es el _formato_ en que lo representa; en un caso, el formato es
+verbal, en otro es imaginístico. Decimos que el contenido está codificado de
+acuerdo a uno u otro formato.
+
+#question[¿Podría haber alguna diferencia entre la idea de que representaciones
+externas, como las pinturas, los mapas, los textos, etc. tienen un formato, y la
+idea de que representaciones internas, como los pensamientos, tienen un formato?
+¿Debe haber un formato único del pensamiento?]
+
+La conexión entre el contenido de una representación y el formato en el que está
+codificado es relativamente arbitraria, en el sentido de que es en general
+necesario que un contenido sea codificado de una manera específica. Sin embargo,
+distintos formatos pueden permitir la ejecución de distintas tareas
+representacionales de distintas maneras, e incluso en los casos en que las
+mismas tareas puedan realizarse empleando representaciones en distintos
+formatos, puede que sea mejor en cierto sentido emplear representaciones en un
+formato específico en vez de otro. Podemos reconocer la cara de alguien usando
+una fotografía o una descripción verbal, pero en muchos casos el primer formato
+será mucho más eficiente que el segundo. Supongamos, para considerar otro
+ejemplo, que queremos producir una imagen de un paisaje en el estilo de Van
+Gogh. Podríamos partir de una descripción verbal del paisaje, y del estilo de
+Van Gogh, pero es quizás más plausible pensar que recurriríamos a
+representaciones pictóricas del paisaje y del estilo. En estos casos, el
+contenido sugiere el empleo de cierto formato u otro.#footnote[Cf. Coelho &
+Vernazzani (2023).] Una parte importante de la ciencia cognitiva es la
+construcción de modelos de la cognición que especifiquen de manera suficiente el
+formato y contenido de las representaciones que podrían emplearse para la
+realización de ciertas tareas cognitivas (o bien una reconstrucción de los
+formatos y contenidos que de hecho empleamos para la realización de ciertas
+tareas).#footnote[Aplicando la idea de los niveles de análisis de Marr, este
+tipo de preguntas tiene que ver con el nivel algorítmico.]
+
+La idea de que podemos representar un estilo de distintas maneras debería
+hacernos pensar en la pregunta acerca del formato representacional del
+saber-cómo, precisamente porque un estilo es una manera de hacer algo. La
+pregunta: '¿cómo podemos representar un estilo?' no es sino una instancia de la
+pregunta '¿cómo podemos representar una manera de actuar?'.
+
+Una manera de abordar la pregunta es, precisamente, tratar de caracterizar las
+características de aquello que el saber-cómo representa, y reconstruir esquemas
+representacionales que sean capaces de representar algo con esas
+características. El problema de caracterizar un _estilo_ es bastante complejo,
+así que de momento limitémonos a la pregunta de cómo podemos representar un
+procedimiento que tiene un número dado de pasos. Una manera típica de hacer esto
+es con una lista de descripciones de las acciones que tienen que seguirse para
+completar el procedimiento; esencialmente, esto es lo que tenemos en una
+_receta_.#footnote[En la literatura sobre inteligencia artificial este modelo es
+importante porque por algún tiempo se pensó que podría construirse sistemas
+artificiales que representaran procedimientos a seguir dadas ciertas
+condiciones. La representación de la estructura de una situación en la que un
+agente puede tomar distintas decisiones o realizar ciertas acciones es llamada
+'marco', y la representación de qué hacer en un marco dadas ciertas condiciones
+es llamada 'guión'. Cf. Minsky (1974) y Schank & Abelson (1977).]
+
+#question[¿De qué maneras es distinto seguir un estilo y seguir una receta?
+Considere el siguiente tipo de caso: un mismo plato puede cocinarse de distintas
+maneras en distintas cocinas locales, y dentro de cada cocina local, cada
+cocinero puede tener una forma propia de cocinar.]
+
+
+
+
 == ¿Puede haber agentes artificiales que sepan cómo hacer algo?
 
 Ya vimos cómo es que ciertas formas de representacionalismo parecer tener la
@@ -468,14 +541,14 @@ Hay una vasta literatura sobre la representación mental. Dos libros recientes
 importantes son _Representation in Cogntive Science_ (2018) de Nicholas Shea, y
 _Representation Reconsidered_ (2007), de William Ramsey.
 
-Vale la pena leer el paper originales de Turing sobre la posibilidad de la
+Vale la pena leer el paper original de Turing sobre la posibilidad de la
 inteligencia artificial (1950), donde presentó su famoso _test de la imitación_.
 
 Una buena introducción a la disciplina de la inteligencia artificial es el libro
 _Artificial Intelligence: the Basics_ (2012) de Kevin Warwick. Para una visión
 más completa de la disciplina, a un nivel más técnico, el texto estándar es
 _Artificial Intelligence, A Modern Approach_ (4a ed. 2021), de Peter Norvig y
-Stuar Russell. Un texto similar accessible en su totalidad en línea es
+Stuar Russell. Un texto similar que es accessible en su totalidad en línea es
 _Artificial Intelligence: Foundations of Computational Agents_ (2023), de David
 Poole y Alan Mackworth (https://artint.info/). 
 
