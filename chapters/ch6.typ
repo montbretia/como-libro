@@ -649,7 +649,7 @@ una forma de chauvinismo.
 #question[Esta sugerencia no es suficiente para mostrar que el argumento es
 defectuoso. ¿Qué creen ustedes?]
 
-Por otra parte, el 
+Por otra parte, el tema es
 
 === El caso a favor
 
