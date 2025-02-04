@@ -1,5 +1,6 @@
 // vim: spell spelllang=es
 #import "../utils.typ": question, aside
+#import "../logic.typ": fitch
 #set enum(numbering: "1)")
 
 = Ciencia cognitiva y saber cómo
@@ -560,7 +561,7 @@ tiene una estructura serial, por ejemplo, ya que las sub-tareas que involucra
 pueden ejecutarse en paralelo), y el caso de acciones que no son explícitas
 (como tratar de encontrar una prueba para un teorema matemático).]
 
-== ¿Puede los agentes artificiales saber cómo?
+== ¿Pueden los agentes artificiales saber cómo?
 
 Ya vimos cómo es que ciertas formas de representacionalismo parecer tener la
 consecuencia de que algunos procesos mentales pueden reproducirse
@@ -623,13 +624,24 @@ manera ciega. Algunos defienden la siguiente tesis:
 Algunas variaciones de la idea es que los agentes artificiales no son creativos,
 carecen de comprensión, no pueden distinguir qué es relevante y qué es
 irrelevante de manera flexible en un rango amplio de situaciones,
-etc.#footnote[Turing adscribe una versión de este argumento a Lady Lovelace,
-quien en sus memorias escribió que 'No hay pretensión de que la Máquina
+etc.#footnote[Turing adscribe una versión de este argumento a Ada Lovelace,
+quien en sus memorias escribió que 'no hay pretensión de que la Máquina
 Analítica _origine_ nada. Puede hacer [solo] lo que nosotros sabemos cómo
-ordenarle hacer [_whatever we know how to order it_ to perform]'.] Combinadas
+ordenarle hacer [_whatever we know how to order it_ to perform]'. Nótese que
+Lovelace sugiere que las máquinas dependen del saber cómo de sus creadores.] Combinadas
 con la idea de que, precisamente, el saber-cómo requiere este tipo de
 flexibilidad, la conclusión obvia es que los agentes artificiales no pueden
-tener saber-cómo.
+tener saber-cómo.#footnote[
+    Formalmente, leyendo $C s$ como 's posee saber cómo', $R s$ como 'la
+    conducta de s es sensible al contextot', y $A s$ como 's es un agente
+    artificial':
+    #fitch(ratio: (1fr, 2fr))[
+        + $forall s (C s -> R s)$ (asunción)
+        + $forall s (A s -> not R s)$ (asunción)
+        + $forall s (A s -> not C s)$ (1, contraposición, 2, silogismo hipotético)
+    ]
+
+]
 
 Ahora bien, es importante notar que el argumento acepta la posibilidad de que
 agentes artificiales realicen ciertas tareas exitosamente. El punto del
@@ -642,14 +654,130 @@ que el argumento presupone que para la correcta atribución de saber-cómo a un
 agente se necesita algo más que eso. Una respuesta al argumento es que esta
 suposición es problemática. Quizás, en ciertos contextos, solo basta con que
 podamos reconocer las habilidades de los agentes para poder atribuirles saber
-cómo. Si empleásemos la heurística del éxito regular para atribuir saber-cómo a
-agentes humanos, no hacer lo mismo en el caso de los agentes artificiales sería
-una forma de chauvinismo.
+cómo (recuerden la sección 5.5). Si empleásemos la heurística del éxito regular
+para atribuir saber-cómo a agentes humanos, no hacer lo mismo en el caso de los
+agentes artificiales sería una forma de chauvinismo. De modo que hay razones
+para pensar que la premisa sobre la que está fundado el argumento, de que el
+saber cómo requiere más que el éxito regular, es problemática.
 
 #question[Esta sugerencia no es suficiente para mostrar que el argumento es
 defectuoso. ¿Qué creen ustedes?]
 
-Por otra parte, el tema es
+Otra manera de atacar el argumento es rechazar la tesis de la Inflexibilidad.
+Algunas maneras 'naive' de defender la tesis ciertamente son dudosas. En
+principio, no es necesario que un programa sea inflexible; muchos sistemas
+computacionales son capaces de ejecución condicional.#footnote[Una máquina o
+sistema es _Turing-completa_ si puede realizar cualquier computación que puede
+realizar una máquina de Turing. Todas la máquinas o sistemas Turing-completos
+son capaces de ejecución condicional.] En principio, un programa podría definir
+todas las respuestas posibles a todas las circunstancias posibles. Por supuesto,
+el desarrollo de un programa como ese presenta un desafío técnico importante,
+pero la existencia de esta dificultad no implica que tales programas sean
+imposibles.
+
+Otra línea de ataque contra la posibilidad del saber-cómo y la inteligencia
+artificial es el famoso (o quizás, infame) experimento mental de la pieza china
+#cite(<Searle1980>, form: "normal"). El objetivo de Searle era dar un argumento contra la idea de que
+se puede explicar la competencia intelectual en términos de meras
+transformaciones simbólicas a nivel de la sintaxis (operaciones mecanizables de
+transformaciones de símbolos). Esta suposición está a la base del así-llamado
+proyecto de la inteligencia artificial 'fuerte', y en particular, es parte de la
+justificación para el así-llamado _test de Turing_. El test de Turing es un test
+propuesto por Alan Turing (el mismo que desarrolló la idea de las máquinas de
+Turing) para evaluar si podía decirse si una máquina poseía inteligencia o
+no.#footnote[En realidad, Turing presentó el test como una alternativa a tener
+que dar una definición de la inteligencia. En vez de especificar las condiciones
+según las cuales algo es inteligente, Turing propuso un criterio implementable
+para determinar si algo es inteligente o no.] Esquemáticamente, el test de
+Turing consiste en examinar si un evaluador podría ser incapaz de distinguir
+entre las respuestas de una máquina y una persona a distintos tipos de
+enunciados y preguntas, en el contexto de una conversación.#footnote[Hasta hace
+poco, este test era considerado difícil para las máquinas. Con el desarrollo de
+las LLMs como ChatGPT, la capacidad de los sistemas computacionales para
+mantener conversaciones con personas parece haber avanzado lo suficiente como
+para algunos investigadores han propuesto que es necesario desarrollar distintos
+tests para la inteligencia artificial. Cf. @JohnsonLaird2023 y @Savage2024.
+Véase también @Chollet2019.]
+
+El experimento mental de Searle consiste en lo siguiente:
+
+/ Pieza china: Imaginen a un angloparlante nativo que no sabe nada de chino,
+  encerrado en una pieza llana de cajas de símbolos chinos (una base de datos),
+  junto a un libro de instrucciones para manipular los símbolos (el programa).
+  Imaginen que hay gente que está fuera de la pieza que meten cadenas de
+  símbolos chinos (la entrada) a la pieza, que en efecto son preguntas en chino,
+  sin que la persona en a pieza sepa que son preguntas. Imaginen que, siguiendo
+  las instrucciones dadas en el programa, esta persona es capaz de emitir
+  cadenas de símbolos chinos (la salida) al exterior de la pieza, que en efecto
+  son respuestas correctas a las preguntas. El programa le permite a la persona
+  pasar un test del tipo de Turing sobre la comprensión del chino, sin que en
+  realidad la persona entienda una sola palabra de chino.#footnote[Adaptado de
+  @Searle1999.]
+
+La aplicación al caso del saber-cómo es más o menos directa: saber chino es una
+forma de saber-cómo; implica, al menos en cierto sentido, saber cómo responder a
+preguntas formuladas en ese lenguaje. En general, podría haber una pieza similar
+para cualquier tarea posible, donde un sujeto que no entiende lo que está
+haciendo no obstante es capaz de seguir instrucciones y completar tareas
+exitosamente con cierta regularidad. El argumento sería que un sistema capaz de
+hacer eso, no por ello sería capaz de ser atribuible con saber-cómo.
+
+Es importante notar que el argumento asume que la tesis de la Inflexibilidad no
+es relevante; Searle acepta que el programa podría contener instrucciones para
+responder cualquier pregunta en chino, de modo que la flexibilidad del sistema
+no está en cuestión.#footnote[Asimismo, las instrucciones del programa podrían
+implementar un algoritmo que haría que las respuestas en chino fuesen
+'creativas'.] La estructura del argumento, no obstante, es la misma: la
+inteligencia requiere de la satisfacción de cierta condición, que las máquinas
+intuitivamente no satisfacen. Por lo tanto, las máquinas no pueden ser
+inteligentes, o tener saber-cómo.#footnote[Para mayor discusión acerca de la
+forma del argumento, véase @Damper2006.]
+
+Hay varias respuestas posibles al argumento de Searle, pero dos de ellas tienen
+interés particular para nosotros.
+
+Según la así-llamada _respuesta de sistemas_,
+el problema con el experimento mental de Searle es que si bien no es plausible
+que el sujeto en la pieza entienda chino, habría que decir que el sistema
+completo de la pieza sí entiende chino. La falacia sería decir que para que un
+sistema posea saber-cómo, es necesario que una parte específica del sistema debe
+tener saber-cómo.#footnote[Recuerden los argumentos de Ryle contra la idea de
+que actuar inteligentemente requiere de la realización de un acto inteligente
+previo.] La contrarespuesta de Searle a este argumento es proponer una variación
+del experimento: podría haber un sujeto que 'internalizara' las operaciones de
+la pieza china, memorizando el programa y ejecutándolo tal como lo haría el
+sistema de la pieza, pero incluso en este caso sería incorrecto decir que el
+sujeto entiende chino.#footnote[Algunos han criticado esta respuesta de Searle
+porque creen que es dudoso que alguien pueda internalizar la operación de la
+pieza sin llegar a entender chino.]
+
+Según la _respuesta del robot_, el problema del experimento mental de Searle es
+que intelectualiza demasiado al entendimiento. Un sistema como el que describe
+Searle no es, según quienes defienden esta respuesta, un modelo realista de la
+manera en que un agente puede actuar inteligentemente. Para ello, es necesario
+entender a los agentes como sujetos integrados de manera causal con el mundo
+con el que interactúan, de modo que el sujeto en la pieza está demasiado
+desconectado del mundo como para poder tener entendimiento. Es importante notar
+que esta respuesta concede a Searle que el sujeto en el experimento mental no
+posee entendimiento. No obstante esto, la respuesta dice que eso no muestra que
+no pueda haber inteligencia artificial; lo que muestra es que para que pueda
+haberla, es necesario diseñar sistemas que estén acoplados de maneras
+sustantivas al mundo con el que interactúan. ¿Es esto un requisito para tener
+saber-cómo? Searle dice que no. En efecto, Searle sugiere que la incorporación
+de maneras de acoplar al sujeto con su entorno es irrelevantes, porque el sujeto
+en la pieza de todas maneras carecería de comprensión.
+
+#question[¿Qué otros argumentos se les ocurren contra el argumento de Searle?
+¿Qué respuestas creen que podría dar Searle?]
+
+Otro argumento en contra de la posibilidad de la inteligencia artificial que
+puede aplicarse al caso del saber-cómo es el así llamado argumento de la
+_informalidad de la inteligencia_. Este argumento está asociado al trabajo del
+filósofo Hubert Dreyfus (especialmente su libro _What Computers Can't Do_,
+1972), pero fue esbozado primero por Turing. La idea central del argumento es
+que la posibilidad de la inteligencia artificial requiere que exista cierta
+unidad formal de la estructura de normas a las que hay que ser sensible para
+actuar inteligentemente, pero que no hay tal cosa.
 
 === El caso a favor
 
@@ -662,7 +790,9 @@ importantes son _Representation in Cogntive Science_ (2018) de Nicholas Shea, y
 _Representation Reconsidered_ (2007), de William Ramsey.
 
 Vale la pena leer el paper original de Turing sobre la posibilidad de la
-inteligencia artificial (1950), donde presentó su famoso _test de la imitación_.
+inteligencia artificial (1950), donde presentó su famoso _test de la imitación_,
+y donde responde a una serie de argumentos en contra de la posibilidad de
+inteligencias artificiales.
 
 Una buena introducción a la disciplina de la inteligencia artificial es el libro
 _Artificial Intelligence: the Basics_ (2012) de Kevin Warwick. Para una visión
