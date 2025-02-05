@@ -779,11 +779,59 @@ Otro argumento en contra de la posibilidad de la inteligencia artificial que
 puede aplicarse al caso del saber-cómo es el así llamado argumento de la
 _informalidad de la inteligencia_. Este argumento está asociado al trabajo del
 filósofo Hubert Dreyfus (especialmente su libro _What Computers Can't Do_,
-1972), pero fue esbozado primero por @Turing1950. La idea central del argumento es
+#cite(<Dreyfus1972>, form: "year")), pero fue esbozado primero por @Turing1950.#footnote[@Dreyfus2014 reúne la
+mayoría de los trabajos de Deryfus sobre la naturaleza de las competencias
+inteligentes.] La idea central del argumento es
 que la posibilidad de la inteligencia artificial requiere que exista cierta
 unidad formal de la estructura de normas a las que hay que ser sensible para
 actuar inteligentemente, pero que no hay tal cosa, de modo que la inteligencia
-artificial no es posible.
+artificial no es posible. 
+
+
+En efecto, el argumento de Dreyfus es que el desarrollo de la inteligencia no
+consiste solamente en la adquisición de un conjunto de reglas, sino que
+precisamente consiste en la adquisición de habilidades que idealmente son
+ejecutadas de manera automática. Según el modelo que propone, la diferencia
+entre el experto y el novicio es precisamente que mientras el novicio necesita a
+menudo apelar a la consideración explícita de reglas para el reconocimiento de
+las situaciones en las que está, la evaluación de las posibles acciones que
+puede tomar, y la ejecución de esas acciones, los expertos reconocen las
+situaciones en las que están y realizan acciones de una manera que no requiere
+de pensamiento explícito:
+
+#quote(block: true)[
+  Parece que un novicio hace inferencias usando reglas y hechos del mismo modo
+  que lo haría un computador programado heurísticamente, pero que con talento y
+  suficiente experiencia, el aprendiz se vuelve un experto que ve intuitivamente
+  qué hacer sin aplicar reglas. Por supuesto, una descripción del comportamiento
+  habilidoso nunca puede ser tomado como evidencia conclusiva acerca de lo que
+  sucede en la mente o el cerebro. Siempre es posible que lo que sucede sea
+  algún proceso inconsciente que usa más reglas, y reglas más sofisticadas. Sin
+  embargo, nuestra descripción de la adquisición de habilidades va en contra del
+  prejuicio tradicional de que la experticia requiere de que se hagan
+  inferencias.
+
+  #h(1fr)#cite(<Dreyfus1985>, form: "normal")
+]
+
+Puesto de otra manera, el argumento de Dreyfus es que si el proyecto de la
+inteligencia artificial concibe el comportamiento inteligente de una manera
+sobre-intelectualizada, no puede funcionar. Asume, por tanto, la diferencia
+entre estar meramente informado y saber-cómo, y afirma que si bien los sistemas
+computacionales pueden estar informados en este sentido, e incluso actuar en
+base a la información de la que disponen, no pueden tener saber-cómo en el mismo
+sentido del experto.#footnote[Cf. @Dreyfus1986.] Para ello es necesario que
+tengan la capacidad de _ver_ relaciones entre la situación en la que están y
+situaciones pasadas.
+
+Si bien parte de la crítica de Dreyfus al modelo clásico de la inteligencia
+artificial ha sido vindicado con el tiempo, el desarrollo reciente de estas
+tecnologías hace dudar del alcance del argumento. En trabajos posteriores,
+Dreyfus sugiere que la manera de avanzar con el problema de la inteligencia
+artificial, y por tanto del problema del saber-cómo artificial, es abandonar el
+cognitivismo y adoptar modelos inspirados en la fenomenología, en particular en
+el trabajo de Maurice Merleau-Ponty y Martin Heidegger.#footnote[Cf.
+@Dreyfus2007.]
 
 @Noe2023 presenta un argumento interesante.#footnote[Véase también @Noe2024.]
 Según Noë, la respuesta a la pregunta de si las máquinas pueden pensar es
