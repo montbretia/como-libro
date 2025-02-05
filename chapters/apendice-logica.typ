@@ -207,7 +207,7 @@ la conclusión falsa. Por lo tanto, el argumento es inválido.
 
 Esto sugiere que una manera de mostrar que un argumento es válido es mostrar que
 ninguna valuación que haga falsa la conclusión puede ser consistente (y al
-revez, para mostrar que un argumento es inválido basta con mostrar que una
+revés, para mostrar que un argumento es inválido basta con mostrar que una
 valuación que haga falsa la conclusión es consistente).
 
 Podemos simplificar el proceso de evaluación de la validez semántica de la

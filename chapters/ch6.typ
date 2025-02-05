@@ -786,13 +786,23 @@ actuar inteligentemente, pero que no hay tal cosa, de modo que la inteligencia
 artificial no es posible.
 
 @Noe2023 presenta un argumento interesante.#footnote[Véase también @Noe2024.]
-Según Nöe, la respuesta a la pregunta de si las máquinas pueden pensar
-es negativa, porque las máquinas simplemente no _hacen_ nada. Presumiblemente el
+Según Noë, la respuesta a la pregunta de si las máquinas pueden pensar es
+negativa, porque las máquinas simplemente no _hacen_ nada. Presumiblemente el
 argumento aplica también a la posibilidad del saber-cómo artificial. El criterio
-de Nöe es distinto al de los otros autores que hemos visto. Según Nöe, lo que es
+de Nöe es distinto al de los otros autores que hemos visto. Según Noë, lo que es
 característico de la agencia es su reflexividad, en un sentido específico. Los
 seres humanos actúan porque se ven enfrentados a cosas que requieren oposición o
-resistencia.
+resistencia. Sin embargo, las máquinas no tienen interés en resolver problemas o
+enfrentarse a la realidad de ninguna manera. Parafraseando a John Haugeland
+(#cite(<Haugeland1979>, form: "year")) usando un chilenismo, el problema con la inteligencia
+artificial es los computadores que no están ni ahí.#footnote[Haugeland dijo:
+'the trouble with artificial intelligence is that computers don\'t give a damn.']
+Noë sugiere que computadores que pudiesen hacer esto, sí podrían hacer cosas;
+pero al hacerlo, dejarían de ser computadores: serían nuestros
+equivalentes.#footnote[Noë sugiere además que hay un sentido en que _nuestra_
+inteligencia es artificial, porque depende de nuestra inmersión en un entramado
+de prácticas que no son de nuestra propia creación, pero que permiten que
+podamos actuar reflexivamente.] 
 
 === El caso a favor
 
