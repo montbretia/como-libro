@@ -765,7 +765,12 @@ haberla, es necesario diseñar sistemas que estén acoplados de maneras
 sustantivas al mundo con el que interactúan. ¿Es esto un requisito para tener
 saber-cómo? Searle dice que no. En efecto, Searle sugiere que la incorporación
 de maneras de acoplar al sujeto con su entorno es irrelevantes, porque el sujeto
-en la pieza de todas maneras carecería de comprensión.
+en la pieza de todas maneras carecería de comprensión. Ahora bien, Searle mismo
+cree que los agentes artificiales son posibles; su problema es con la idea de
+que son posibles de las maneras que hemos descrito hasta
+ahora.#footnote[@Searle1984
+propone una alternativa, que consiste en pensar que la intencionalidad es una
+propiedad no-formal de ciertos sistemas biológicos.]
 
 #question[¿Qué otros argumentos se les ocurren contra el argumento de Searle?
 ¿Qué respuestas creen que podría dar Searle?]
@@ -774,13 +779,36 @@ Otro argumento en contra de la posibilidad de la inteligencia artificial que
 puede aplicarse al caso del saber-cómo es el así llamado argumento de la
 _informalidad de la inteligencia_. Este argumento está asociado al trabajo del
 filósofo Hubert Dreyfus (especialmente su libro _What Computers Can't Do_,
-1972), pero fue esbozado primero por Turing. La idea central del argumento es
+1972), pero fue esbozado primero por @Turing1950. La idea central del argumento es
 que la posibilidad de la inteligencia artificial requiere que exista cierta
 unidad formal de la estructura de normas a las que hay que ser sensible para
-actuar inteligentemente, pero que no hay tal cosa.
+actuar inteligentemente, pero que no hay tal cosa, de modo que la inteligencia
+artificial no es posible.
+
+@Noe2023 presenta un argumento interesante.#footnote[Véase también @Noe2024.]
+Según Nöe, la respuesta a la pregunta de si las máquinas pueden pensar
+es negativa, porque las máquinas simplemente no _hacen_ nada. Presumiblemente el
+argumento aplica también a la posibilidad del saber-cómo artificial. El criterio
+de Nöe es distinto al de los otros autores que hemos visto. Según Nöe, lo que es
+característico de la agencia es su reflexividad, en un sentido específico. Los
+seres humanos actúan porque se ven enfrentados a cosas que requieren oposición o
+resistencia.
 
 === El caso a favor
 
+El caso a favor de la posibilidad de la inteligencia artificial y, por tanto, de
+la posibilidad de que agentes artificiales posean saber-cómo, parte de las
+dificultades que tienen los argumentos en contra de esa posibilidad. No poder
+mostrar que algo es imposible da cierto soporte a la idea de que es posible. Sin
+embargo, para sostener esa posibilidad es necesario ofrecer más que este
+argumento esquemático. Esto es importante porque, en ausencia de argumentos
+definitivos a favor o en contra de la posibilidad de la inteligencia artificial,
+es racional suspender el juicio, o incluso dudar si la pregunta tiene sentido.
+
+Podemos identificar, a grandes rasgos, dos estrategias para defender la
+posibilidad del saber-cómo artificial. La primera estrategia consiste en derivar
+esta posibilidad de principios más generales. La segunda consiste en derivar
+esta posibilidad de evidencia inductiva.
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
@@ -801,5 +829,3 @@ _Artificial Intelligence, A Modern Approach_ (4a ed. 2021), de Peter Norvig y
 Stuar Russell. Un texto similar que es accessible en su totalidad en línea es
 _Artificial Intelligence: Foundations of Computational Agents_ (2023), de David
 Poole y Alan Mackworth (https://artint.info/). 
-
-
