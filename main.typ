@@ -28,7 +28,7 @@
       #if it.outlined == true [#pagebreak()]
       #v(5em)
       #text(size: 15pt)[#it]
-      #v(3em)
+      #v(4em)
     ] else if it.level == 2 [
       #v(1.5em)
       #text(size: 12pt, weight: "medium")[#it]
@@ -56,7 +56,7 @@
 #show: word-count
 
 #align(center + horizon)[
-  Palabras: #total-words / 80000 (#calc.round(74341*100/80000, digits: 1)%)
+  Palabras: #total-words / 80000 (#calc.round(74408*100/80000, digits: 1)%)
 ]
 
 #pagebreak()
