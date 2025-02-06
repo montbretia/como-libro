@@ -831,7 +831,7 @@ Dreyfus sugiere que la manera de avanzar con el problema de la inteligencia
 artificial, y por tanto del problema del saber-cómo artificial, es abandonar el
 cognitivismo y adoptar modelos inspirados en la fenomenología, en particular en
 el trabajo de Maurice Merleau-Ponty y Martin Heidegger.#footnote[Cf.
-@Dreyfus2007.]
+@Dreyfus2004 y @Dreyfus2007.]
 
 @Noe2023 presenta un argumento interesante.#footnote[Véase también @Noe2024.]
 Según Noë, la respuesta a la pregunta de si las máquinas pueden pensar es
@@ -864,9 +864,95 @@ definitivos a favor o en contra de la posibilidad de la inteligencia artificial,
 es racional suspender el juicio, o incluso dudar si la pregunta tiene sentido.
 
 Podemos identificar, a grandes rasgos, dos estrategias para defender la
-posibilidad del saber-cómo artificial. La primera estrategia consiste en derivar
-esta posibilidad de principios más generales. La segunda consiste en derivar
-esta posibilidad de evidencia inductiva.
+posibilidad del saber-cómo artificial. La primera estrategia opera desde arriba
+hacia abajo (_top-down_), y consiste en derivar esta posibilidad de principios
+más generales. La segunda opera desde abajo hacia arriba (_bottom-up_), y
+consiste en derivar esta posibilidad de evidencia inductiva.
+
+Los argumentos _top-down_ acerca de la posibilidad de la inteligencia y el
+saber-cómo artificiales usualmente parten de la premisa de que la inteligencia
+es un fenómeno natural, y que como tal, puede ser explicado de manera
+naturalista. El compromiso con el naturalismo es, en este caso, una cuestión
+metafísica; la idea (o al menos una versión de la idea) es que la esfera de lo
+natural está cerrada bajo ciertas condiciones, que implica que todos los
+fenómenos naturales pueden ser explicados en los mismos términos, o que al menos
+existe la posibilidad de explicar distintos tipos de fenómenos naturales en los
+mismos términos. Esto tiene un componente retrodictivo y otro predictivo: así
+como podemos apelar al comportamiento de ciertas cosas dentro de la esfera
+natural para explicar el comportamiento de otras cosas dentro de la esfera
+natural, también podemos predecir el comportamiento de ciertas cosas dentro de
+la esfera natural en términos de otras cosas dentro de esa esfera. Lo crucial es
+la analogía. Por ejemplo, es claro que la inteligencia humana tiene, como uno de
+sus aspectos, una dimensión de procesamiento de información, y que podemos
+construir artefactos que procesen información. En principio, entonces, podría
+extenderse la capacidad de los artefactos de procesamiento de información de
+modo que alcancen el nivel de los mecanismos de procesamiento de información que
+exhiben los seres humanos. Si además hacemos la suposición de que la
+inteligencia puede explicarse en términos de ciertas formas de procesamiento de
+información, tenemos un argumento para pensar que la inteligencia artificial es
+posible.
+
+En efecto, podríamos extender la analogía y decir que, dado que es posible que
+la inteligencia aparezca como resultado de procesos naturales (por ejemplo, como
+resultado de la evolución biológica), y dado que es posible recrear esos
+procesos naturales, es posible que la inteligencia aparezca como resultado de
+recrear esos procesos naturales.#footnote[@Dennett2017 esboza otra manera de
+conectar la posibilidad de la inteligencia artificial y la evolución.] Este es el pilar fundamental del campo
+emergente de la _vida artificial_: en principio, los procesos biológicos
+(incluida la inteligencia) pueden ser replicados o sintetizados. Por supuesto,
+esto solo eleva la pregunta acerca de la posibilidad de la inteligencia y el
+saber-cómo artificial a un nivel más alto: ¿qué razones tenemos para tener
+confianza en la hipótesis de que los procesos biológicos son simulables o
+sintetizables (y sobre todo, simulables o sintetizables de modo que pueda
+emerger la inteligencia como resultado)?
+
+#question[¿Cree que este tipo de argumento es convincente? ¿Puede imaginar otro
+argumento _top-down_ acerca de la posibilidad del saber cómo artificial, y qué
+desafíos cree que podría haber para defenderlo?]
+
+La otra estrategia, _bottom-up_, consiste en apuntar a los avances de la
+tecnología en el campo de la inteligencia artificial y proyectar la posibilidad
+de que ciertos agentes artificiales lleguen a poseer saber-cómo. Por ejemplo, es
+notable que los LLMs contemporáneos son regularmente capaces de dar respuestas a
+preguntas acerca de cómo hacer algo, que es parte de la evidencia de la que nos
+servimos para atribuir saber-cómo a las personas. Por supuesto, esta evidencia
+no es más decisiva en el caso de los agentes artificiales que en el caso de las
+personas--lo que es decir, no es enteramente decisiva. En el caso ordinario, en
+que buscamos saber si alguien sabe cómo hacer algo o no, a menudo tratamos de
+testear no solamente que estén informados, sino que además su información sea
+correcta, y que sean capaces ellos mismos de realizar aquello las tareas en
+cuestión. Si un agente artificial pasara sistemáticamente los tests a los que
+sometemos a las personas regularmente, no habría en principio problema con decir
+que es permisible decir que tienen saber-cómo.
+
+En su libro _Knowledge and the State of Nature_ (#cite(<Craig1990>, form:
+"year")), Edward Craig argumenta que la función del concepto de saber-cómo es la
+de poder identificar personas que puedan informarnos acerca de cómo hacer
+ciertas cosas, y quizás, para identificar a personas que tengan ciertas
+capacidades específicas.#footnote[Craig observa que su hipótesis general, de que
+el concepto de conocimiento tiene la función de proveer una manera de
+identificar informantes, es problemático en el caso del saber cómo: 'Cuando nos
+preguntamos si la señora sabe cómo llegar a la Alcaldía, es cierto, casi siempre
+lo que nos preguntamos es si podrá darnos información acerca de cómo llegar a la
+Alcaldía. Pero cuando nos atormenta si el niño 'sabe cómo llegar a casa' nos
+preocupa si es si puede volver a casa, no si puede dirigirnos allí
+eficientemente; claramente puede ser capaz de hacer lo primero sin tener idea de
+cómo hacer lo segundo' (p. 150).] Si agentes artificiales fueran capaces de hacer esto,
+tendríamos que decir que al menos satisfacen el concepto original de saber-cómo.
+Pero quizás sea mejor decir que están a medio camino entre poseer información en
+el sentido que un libro posee información, y la manera en que una persona es
+capaz de usar esa información para toda clase de propósitos. ¿Qué nos fuerza a
+decir que saben cómo hacer algo, en vez de simplemente decir que son una fuente
+dinámica de información? Y si poseen un rango más amplio de capacidades, ¿qué
+nos fuerza a decir que saben cómo hacer algo en vez de decir que tienen ciertas
+capacidades relativas al asunto?
+
+#question[¿No les parece arbitrario dejar la cuestión en estos términos?]
+
+Hemos visto argumentos en contra y a favor de la posibilidad del saber-cómo
+artificial. El debate está enteramente abierto. Mucho depende de cómo concibamos
+al saber-cómo y la naturaleza de la mente, y sobre esto queda mucho por
+investigar aún.
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
