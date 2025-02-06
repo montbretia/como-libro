@@ -969,7 +969,7 @@ inteligencias artificiales.
 Una buena introducción a la disciplina de la inteligencia artificial es el libro
 _Artificial Intelligence: the Basics_ (2012) de Kevin Warwick. Para una visión
 más completa de la disciplina, a un nivel más técnico, el texto estándar es
-_Artificial Intelligence, A Modern Approach_ (4a ed. 2021), de Peter Norvig y
+_Artificial Intelligence: A Modern Approach_ (4a ed. 2021), de Peter Norvig y
 Stuar Russell. Un texto similar que es accessible en su totalidad en línea es
 _Artificial Intelligence: Foundations of Computational Agents_ (2023), de David
 Poole y Alan Mackworth (https://artint.info/). 
