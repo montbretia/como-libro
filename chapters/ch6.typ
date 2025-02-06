@@ -926,7 +926,10 @@ sometemos a las personas regularmente, no habría en principio problema con deci
 que es permisible decir que tienen saber-cómo.#footnote[Un problema con esta
 línea argumental es que no considera la posibilidad de falsificar el saber-cómo
 (hacer como si uno tiene saber-cómo que realmente no tiene). Quizás sea posible
-diseñar agentes artificiales que sin tener saber-cómo puedan falsificarlo. Cf.
+diseñar agentes artificiales que sin tener saber-cómo puedan falsificarlo
+(recuerden, eso sí, que la apuesta del test de Turing es que la capacidad de
+simular ciertas clases de comportamiento es equivalente a la posesión de la
+capacidad de tener esos comportamientos). Cf.
 @Carter2024.]
 
 En su libro _Knowledge and the State of Nature_ (#cite(<Craig1990>, form:
