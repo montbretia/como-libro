@@ -923,7 +923,11 @@ testear no solamente que estén informados, sino que además su información sea
 correcta, y que sean capaces ellos mismos de realizar aquello las tareas en
 cuestión. Si un agente artificial pasara sistemáticamente los tests a los que
 sometemos a las personas regularmente, no habría en principio problema con decir
-que es permisible decir que tienen saber-cómo.
+que es permisible decir que tienen saber-cómo.#footnote[Un problema con esta
+línea argumental es que no considera la posibilidad de falsificar el saber-cómo
+(hacer como si uno tiene saber-cómo que realmente no tiene). Quizás sea posible
+diseñar agentes artificiales que sin tener saber-cómo puedan falsificarlo. Cf.
+@Carter2024.]
 
 En su libro _Knowledge and the State of Nature_ (#cite(<Craig1990>, form:
 "year")), Edward Craig argumenta que la función del concepto de saber-cómo es la
@@ -973,3 +977,7 @@ _Artificial Intelligence: A Modern Approach_ (4a ed. 2021), de Peter Norvig y
 Stuar Russell. Un texto similar que es accessible en su totalidad en línea es
 _Artificial Intelligence: Foundations of Computational Agents_ (2023), de David
 Poole y Alan Mackworth (https://artint.info/). 
+
+Una pregunta abierta respecto al rol de la inteligencia artificial como posible
+poseedor de saber-cómo o como informante es si puede ser un buen maestro.
+@Malfatti2025 examina el problema.
