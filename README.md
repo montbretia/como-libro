@@ -17,8 +17,8 @@ Incluye una discusión de:
 6) Enfoques etnoepistemológicos sobre el saber-cómo.
 
 Este libro es parte del proyecto ANID/FONDECYT de Postdoctorado #3220017
-"Saber-cómo: preguntas, intentos y maneras", a cargo de Felipe Morales
-Carbonell.
+"Saber-cómo: preguntas, intentos y maneras", a cargo de [Felipe Morales
+Carbonell](https://fmoralesc.github.io).
 
 # Instrucciones
 
