@@ -62,9 +62,35 @@ Independientemente de este problema epistemológico, también podemos preguntarn
 si el señor Anderson y el señor Smith tienen el mismo contenido mental o no. El
 internalista debería decir que el contenido mental de Anderson y Smith es el
 mismo en tanto que son duplicados internos (es decir, en términos de las
-propiedades que tienen independientemente del entorno).
+propiedades que tienen independientemente del entorno). Si fuera así, es
+plausible pensar que el significado del contenido de sus estados mentales
+(asumiendo que tiene hablar del contenido de estados mentales) debería ser el
+mismo. @Putnam1975 ataca esta idea con otro experimento mental famoso:
+
+/ Tierra gemela: Imaginen un planeta que es un duplicado de la Tierra en casi
+  todos los aspectos, salvo que en este planeta no hay agua, sino una sustancia
+  de una composición química distinta ($X X X$), pero que tiene todas las
+  propiedades sensibles del agua (nosotros podríamos llamarle 'gagua', pero los
+  habitantes de la Tierra gemela simplemente le llaman 'agua', al igual que
+  nosotros). En esta Tierra Gemela aún no se descubre la composición química de
+  esta sustancia. Supongan que alguien en la Tierra Gemela piense que el agua
+  moja. El contenido de sus pensamientos, en el sentido internalista, sería el
+  mismo que el que una persona que vive en nuestro planeta podría haber tenido
+  antes de que se descubriera la composición química del agua. Según el
+  internaliso, la persona en la Tierra Gemela y la persona en la Tierra
+  significan lo mismo al pensar que 'el agua moja'. Sin embargo, pareciera que
+  esto no es el caso: mientras que la persona en la Tierra tiene un pensamiento
+  que se refiere a la sustancia compuesta por $H_2O$, la persona en la Tierra
+  gemela tiene un pensamiento que se refiere a la sustancia $X X X$.
+
+El experimento mental parece mostrar que al menos ciertos aspectos del contenido
+de los estados mentales depende de algo que va más alla de las propiedades
+internas de los sujetos.
 
 == La hipótesis de la mente extendida
+
+Si ciertas propiedades de la mente pueden estar fundadas en algo más que las
+propiedades internas de los sujetos, ¿qué 
 
 == Saber-cómo extendido
 
