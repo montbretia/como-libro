@@ -31,14 +31,14 @@ sujetos y del hecho de que sean accessibles. Esta posición es usualmente llamad
 _internalismo_ (en particular, 'internalismo de acceso'). Considere el siguiente
 caso:
 
-/ Cerebro en una vatea: El señor Anderson vive su vida normalmente; cada mañana
+/ Cerebro en una batea: El señor Anderson vive su vida normalmente; cada mañana
   tras tomar desayuno, riega las plantas en su jardín, lee un poco, imagina qué
   podría hacer el fin de semana (los fines de semana piensa en lo que va a hacer
   en el trabajo), etc. Su experiencia es coherente y rica. Sin embargo, el señor
-  Anderson es en realidad un cerebro en una vatea, conectado a un sistema que
+  Anderson es en realidad un cerebro en una batea, conectado a un sistema que
   artificialmente estimula su sistema nervioso de modo que tenga la experiencia
   que cree tener; en efecto, el contenido de sus pensamientos es idéntico al de
-  una persona (el señor Smith) que no es un cerebro en una vatea tendría de
+  una persona (el señor Smith) que no es un cerebro en una batea tendría de
   llevar una vida paralela a la que el señor Anderson cree llevar.
 
 El señor Anderson tiene experiencias, opiniones y cree tener justificación para
@@ -51,12 +51,12 @@ razones no son suficientes para decir que tiene conocimiento, porque sus
 creencias no están conectadas de la manera apropiada a los hechos (cuando cree
 que riega sus plantas, no hay plantas que esté regando). Sin embargo, si
 aceptamos esto tenemos que enfrentarnos con otro problema: el señor Anderson no
-puede darse cuenta de que es un cerebro en una vatea y, por lo tanto, todas sus
+puede darse cuenta de que es un cerebro en una batea y, por lo tanto, todas sus
 creencias (o al menos una parte importante de ellas) quedan socavadas. Pero si
 es así, podríamos requerir que, para que las creencias de un sujeto puedan
-constituir conocimiento, el sujeto debe saber que no es un cerebro en una vatea.
+constituir conocimiento, el sujeto debe saber que no es un cerebro en una batea.
 Sin embargo, no parece haber una manera de saber esto. ¿Sabemos que no somos
-cerebros en una vatea? Si no lo sabemos, ¿cómo podemos estar seguros de nada?
+cerebros en una batea? Si no lo sabemos, ¿cómo podemos estar seguros de nada?
 
 Independientemente de este problema epistemológico, también podemos preguntarnos
 si el señor Anderson y el señor Smith tienen el mismo contenido mental o no. El
