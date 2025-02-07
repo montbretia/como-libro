@@ -1,6 +1,8 @@
-#outline(title: [Tabla de contenidos], indent: auto)
-
 #counter(page).update(1)
+
+#show outline: set heading(bookmarked: true)
+
+#outline(title: [Tabla de contenidos], indent: auto)
 
 = Prefacio
 
