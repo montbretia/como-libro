@@ -280,7 +280,7 @@ sugiere que el ser humano es un animal bípedo sin plumas: "... debimos haber
 comenzado por dividir los animales terrestres entre bípedos y cuadrúpedos; y ya
 que aquellos con alas, y solamente ellos, caen bajo la misma clase que la del
 ser humano, deberiamos dividir a los bípedos entre los que tienen plumas y
-aquellos que no las tienen". Diógenes Laertio cuenta la historia de cómo
+aquellos que no las tienen" (266e). Diógenes Laertio cuenta la historia de cómo
 Diógenes visitó a Platón, llevándole un pollo desplumado, y que le dijo que ahí
 tenía al ser humano. Diógenes dice que como resultado se añadió a la definición
 que el ser humano tenía uñas anchas. ¿Son estas buenas definciones? ¿Aparte de
