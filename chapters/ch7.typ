@@ -77,7 +77,7 @@ mismo. @Putnam1975 ataca esta idea con otro experimento mental famoso:
   moja. El contenido de sus pensamientos, en el sentido internalista, sería el
   mismo que el que una persona que vive en nuestro planeta podría haber tenido
   antes de que se descubriera la composición química del agua. Según el
-  internaliso, la persona en la Tierra Gemela y la persona en la Tierra
+  internalismo, la persona en la Tierra Gemela y la persona en la Tierra
   significan lo mismo al pensar que 'el agua moja'. Sin embargo, pareciera que
   esto no es el caso: mientras que la persona en la Tierra tiene un pensamiento
   que se refiere a la sustancia compuesta por $H_2O$, la persona en la Tierra
@@ -85,7 +85,44 @@ mismo. @Putnam1975 ataca esta idea con otro experimento mental famoso:
 
 El experimento mental parece mostrar que al menos ciertos aspectos del contenido
 de los estados mentales depende de algo que va más alla de las propiedades
-internas de los sujetos.
+internas de los sujetos. Este caso motiva una posición _externalista_ sobre el
+contenido de los estados mentales.
+
+El debate entre posiciones internalistas y externalistas se replica en el caso
+del conocimiento. Como vimos en el capítulo 3, una de las maneras en que ha
+respondido al problema de Gettier es requerir cierta conexión modalmente estable
+entre las creencias y los hechos. Distintas respuestas a este problema pueden
+requerir o no que el sujeto del conocimiento tenga acceso o no a lo que soporta
+la confiabilidad de sus creencias. En ciertas teorías externalistas del
+conocimiento resulta que la confiabilidad de las maneras en que los sujetos
+llegan a tener conocimiento podrían no ser accessibles a los sujetos mismos, sin
+que esto prevenga que tengan conocimiento. Por ejemplo, supongan que adoptamos
+una teoría según la cual lo que se requiere para que alguien tenga conocimiento
+es que haya una relación causal apropiada entre los hechos y las creencias de
+los sujetos. Miramos el paisaje y vemos lo que creemos que es la fachada de un
+granero, y formamos la creencia de que hay un granero en el campo que vemos. En
+el caso 'bueno', lo que vimos era un granero, y se estableció una relación
+causal entre el hecho de que hubiese un granero en las condiciones adecuadas y
+nuestra creencia. En el caso 'malo', lo que vemos solamente parece ser un
+granero y nuestra creencia es falsa (los hechos no causan, por lo tanto, que
+formemos la creencia correcta). En casos del tipo de Gettier, si bien formamos
+una creencia verdadera, no hay una conexión causal correcta entre los hechos y
+nuestra creencia. Nuestra creencia es verdadera, pero lo que la hace correcta no
+tiene un vínculo causal con nuestra creencia. En principio, el modelo parece
+resolver el problema de Gettier, pero da pie a casos problemáticos. Por ejemplo:
+
+/ Norman el clarividente: En condiciones ordinarias, Norman posee el poder de la
+  clarividencia de manera confiable: es regularmente capaz de formar juicios
+  correctos acerca de una serie de temas. Sin embargo, Norman no tiene razones
+  para creer ni descreer que en general la clarividencia es posible o si él
+  tiene esta capacidad. Un día, su sentido de clarividencia hace que forme el
+  juicio de que el presidente está en Nueva York.#footnote[El ejemplo está
+  tomado de @Bonjour1980.]
+
+¿Sabe Norman que el presidente está en Nueva York? Alguien que defienda la
+teoría externalista del conocimiento que acabamos de esbozar debería decir que
+sí. Sin embargo, @Bonjour1980 supone que nuestra intuición es que Norman no
+tiene conocimiento, porque no tiene razones para creer lo que cree.
 
 == La hipótesis de la mente extendida
 
