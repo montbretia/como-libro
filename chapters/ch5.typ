@@ -1893,8 +1893,9 @@ de que el proceso de testimonio transmite propiedades epistémicas? Por ejemplo,
 evolucionistas, las entiende, y por lo tanto puede transmitir su entendimiento a
 sus alumnos?]
 
-#question[¿Puede una LLM como ChatGPT ofrecer testimonio? _(Volveremos a esta
-pregunta en el capítulo 6)_]
+#question[¿Puede un LLM (_Large Language Model_, 'Modelo Grande de Lenguaje')
+como ChatGPT ofrecer testimonio? _(Volveremos a esta pregunta en el capítulo
+6)_]
 
 === ¿Puede el testimonio ser una fuente de saber cómo?
 
