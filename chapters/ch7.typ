@@ -1,3 +1,5 @@
+#import "../utils.typ": question
+
 = Usando herramientas
 
 En este capítulo vamos a partir de la observación de que el saber cómo es
@@ -124,6 +126,93 @@ teoría externalista del conocimiento que acabamos de esbozar debería decir que
 sí. Sin embargo, @Bonjour1980 supone que nuestra intuición es que Norman no
 tiene conocimiento, porque no tiene razones para creer lo que cree.
 
+#question[¿Cómo creen que podría responder el externalista al desafío de casos
+como este?]
+
+Un problema con este tipo de respuesta a casos como el de Norman es que la
+adopción de criterios internalistas para el conocimiento parece imponer un
+estándar demasiado alto para los casos del conocimiento. Si tener razones
+accesibles para creer algo es necesario para tener conocimiento, ciertas clases
+de potenciales sujetos epistémicos no podrían tener conocimiento, porque no
+poseen la habilidad de reconocer las razones de sus creencias. No es plausible,
+por ejemplo, que alguien no pueda tener conocimiento solamente porque es
+epistemológicamente naive (es decir, porque no posee el concepto de una razón
+para creer algo o una manera de emplearlo adecuadamente). Tampoco es plausible
+decir que los niños no tienen conocimiento, aunque normalmente tampoco diríamos
+que tienen acceso a las razones que dan soporte a sus creencias. El internalista
+podría responder que estos casos pueden describirse de alguna manera que sea
+aceptable desde la perspectiva internalista (por ejemplo, podría decir que no es
+necesario que el sujeto tenga la capacidad de articular razones para sus
+creencias para que tenga razones para sus creencias, y sugerir que estas clases
+de sujetos solamente carecen de lo primero), pero el debate sigue en
+pie.#footnote[Otro caso interesante es el caso de la posibilidad de conocimiento
+animal (no-humano). Cf. @Kornblith1999, @Kornblith2002.]
+
+¿Qué pasa en el caso del saber-cómo? Como vimos en la sección 5.6, hay quienes
+defienden la idea de que el saber-cómo debe estar bajo el control del sujeto en
+un sentido más o menos fuerte. La clase de casos que motivan a @Carter2022 a
+introducir un elemento de autonomía a las condiciones necesarias para que
+alguien posea saber-cómo responden a consideraciones internalistas. Al igual que
+en el caso del conocimiento, esto impone un estándar acerca de qué cuenta como
+saber-cómo que es relativamente alto, lo que lo abre a objeciones similares a
+las que tiene que responder el internalismo acerca del conocimiento.
+
+#question[¿Según el modelo de Carter, podrían tener saber-cómo los niños?]
+
+Un caso interesante que a menudo se emplea para atacar al internalismo es el
+siguiente:
+
+/ Sexadora de pollos: Eli es una sexadora de pollos: su trabajo consiste en
+  distinguir entre los pollos machos y las hembras, y separarlos (en las granjas
+  industriales de pollos, se deja a las hembras para que pongan huevos, mientras
+  que se descarta a los machos porque no tienen un uso). Eli es acertada y
+  eficiente en su trabajo, pero no podría decir sobre qué base discrimina entre
+  pollos hembras y machos.
+
+Una manera de describir el caso es que si bien Eli no puede dar razones para sus
+juicios, no obstante sabe qué pollos son hembras y cuáles son
+machos.#footnote[Si esta fuera la descripción correcta del caso, sería una mala
+noticia para los internalistas, aunque por supuesto ellos tienen algunas maneras
+de responder al problema. Cf., por ejemplo, @Brandom1998: allí se sugiere que
+Eli debería llegar a formar la creencia de que es una disciminadora confiable, y
+esto le daría razones para creer lo que cree.] Lo que debería interesarnos es la
+pregunta de si Eli _sabe cómo_ distinguir entre pollos machos y
+hembras. Ciertamente, tiene la habilidad de hacerlo, y esta habilidad es
+confiable, pero la manera en que funciona su habilidad y lo que la hace
+confiable son cuestiones opacas para ella. En efecto, hay cierto sentido en que
+debemos decir que Eli no sabe cómo hace lo que hace.
+
+Considerando casos como estos, uno podría querer distinguir entre el saber-cómo
+'genuino' y la mera posesión de ciertas capacidades confiables.#footnote[Esto
+no significa que debamos aceptar una forma de intelectualismo sobre el saber
+cómo: basta con que haya una diferencia entre distintos tipos de disposiciones a
+actuar de cierta manera (por ejemplo, disposiciones que hagan uso de razones y
+disposiciones que sean ciegas respecto a razones).] @Carter2018 distinguen entre
+saber cómo hacer algo y meramente tener cierto 'don' (_knack_): 
+
+#quote(block: true)[
+    Un novato en el golf--digamos, alguien que solo ha jugado
+una vez--puede descubrir que tiene un don (_knack_) para sacar la bola de
+las trampas de arena. Ese talento es una habilidad que no está integrada en la
+perspectiva del sujeto. El 'golfista talentoso' no sabe cómo logra golpear la
+bola de modo que escape de la trampa de arena, aunque se da cuenta de que puede
+hacer esto de manera regular. No es una habilidad (_skill_), sino tan solo un
+don.
+
+Una persona con un don de este tipo no sabe lo que hace para llegar a un
+fin. El golfista novato no sabe cómo contribuyen sus acciones al fin que se
+logra alcanzar. Los dones son distintos de la suerte porque un talento es
+confiable mientras que la suerte no lo es. Una persona que saca una bola de una
+trampa de arena no podrá repetir la proeza exitosamente.
+#h(1fr) (p. 196)
+]
+
+#question[¿Qué diría Ryle del caso del golfista novato?]
+
+La pregunta que queda abierta es si no puede haber una manera en que el
+externalista pueda distinguir entre saber cómo hacer algo y otros tipos de
+capacidades confiables.
+
 == La hipótesis de la mente extendida
 
 Si ciertas propiedades de la mente pueden estar fundadas en algo más que las
@@ -133,6 +222,8 @@ propiedades internas de los sujetos, ¿qué
 
 #set heading(numbering: none, bookmarked: false)
 == Lecturas recomendadas
+
+Sobre el debate entre internalistas y externalistas en epistemología,
 
 El libro _Embodied Cognition_ (2011) de Lawrence Shapiro es una buena
 introducción a los problemas acerca de los límites de lo mental, que toca en
