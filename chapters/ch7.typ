@@ -167,7 +167,7 @@ siguiente:
   industriales de pollos, se deja a las hembras para que pongan huevos, mientras
   que se descarta a los machos porque no tienen un uso). Eli es acertada y
   eficiente en su trabajo, pero no podría decir sobre qué base discrimina entre
-  pollos hembras y machos.
+  pollos hembras y machos.#footnote[Cf. @Horsey2002]
 
 Una manera de describir el caso es que si bien Eli no puede dar razones para sus
 juicios, no obstante sabe qué pollos son hembras y cuáles son
@@ -199,28 +199,30 @@ bola de modo que escape de la trampa de arena, aunque se da cuenta de que puede
 hacer esto de manera regular. No es una habilidad (_skill_), sino tan solo un
 don.
 
-Una persona con un don de este tipo no sabe lo que hace para llegar a un
-fin. El golfista novato no sabe cómo contribuyen sus acciones al fin que se
-logra alcanzar. Los dones son distintos de la suerte porque un talento es
-confiable mientras que la suerte no lo es. Una persona que saca una bola de una
-trampa de arena no podrá repetir la proeza exitosamente.
-#h(1fr) (p. 196)
-]
-
-#question[¿Qué diría Ryle del caso del golfista novato?]
+Una persona con un don de este tipo no sabe lo que hace para llegar a un fin. El
+golfista novato no sabe cómo  sus acciones contribuyen a que alcance sus
+objetivos. Los dones son distintos de la suerte porque un talento es confiable
+mientras que la suerte no lo es. Una persona que saca una bola de una trampa de
+arena no podrá repetir la proeza exitosamente. #h(1fr) (p. 196) ]
 
 La pregunta que queda abierta es si no puede haber una manera en que el
 externalista pueda distinguir entre saber cómo hacer algo y otros tipos de
 capacidades confiables.
 
+#question[¿Qué diría Ryle del caso del golfista novato? ¿De qué manera cree que
+podría un externalista hacer la distinción esbozada entre tener un don y saber
+cómo hacer algo?]
+
 == La hipótesis de la mente extendida
 
-Si ciertas propiedades de la mente pueden estar fundadas en algo más que las
-propiedades internas de los sujetos, ¿qué 
+Si ciertas propiedades mentales y epistémicas pueden estar fundadas en algo más
+que las propiedades internas de los sujetos, ¿por qué no pensar que la mente
+misma está constituida por partes del entorno? Esto nos lleva a considerar una
+forma distinta de externalismo, el _externalismo de vehículo_.
 
 == Saber-cómo extendido
 
-#set heading(numbering: none, bookmarked: false)
+#set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
 
 Sobre el debate entre internalistas y externalistas en epistemología,
