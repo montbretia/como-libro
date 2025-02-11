@@ -218,14 +218,36 @@ cómo hacer algo?]
 Si ciertas propiedades mentales y epistémicas pueden estar fundadas en algo más
 que las propiedades internas de los sujetos, ¿por qué no pensar que la mente
 misma está constituida por partes del entorno? Esto nos lleva a considerar una
-forma distinta de externalismo, el _externalismo de vehículo_.
+forma distinta de externalismo, el _externalismo de vehículo_. De acuerdo al
+externalismo de vehículo, la mente puede estar _constituida_ por componentes
+externos al cerebro o incluso el cuerpo.
+
+La idea fue popularizada por @Clark1998, quienes la presentaron como una forma
+más defendible de externalismo.#footnote[Varios autores habían defendido
+posiciones similares; por ejemplo, @Varela1991, @Wilson1994, @McClamrock1995,
+@Haugeland1995. Véanse también @Millikan1995, @Dennett1998, @Clark2001,
+@Rowlands2008.] Un problema que estos autores identifican con el externalismo de
+contenido es que pareciera que en los casos que motivan la posición la
+dependencia de las propiedades mentales en factores externos no tiene
+consecuencias conductuales. La diferencia entre mi contraparte en la Tierra
+Gemela y yo radica en la referencia de nuestros pensamientos, no en nuestra
+conducta--por definición. Sin embargo, la manera en que nuestros cuerpos están
+acoplados con el ambiente no se limita a esto. El entorno a menudo nos _permite_
+o _habilita_ a actuar de ciertas maneras. Esto no queda bien representado por el
+internalismo del contenido. Según Clark y Chalmers, es necesario ir más allá. Ya
+que en su modelo el entorno juega un rol activo en los procesos mentales de los
+sujetos, Clark y Chalmers llaman a su propuesta _externalismo activo_.
+
+Para entender la hipótesis es necesario clarificar un poco qué quieren decir sus
+defensores por 'constitución'.
 
 == Saber-cómo extendido
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
 
-Sobre el debate entre internalistas y externalistas en epistemología,
+Sobre el debate entre internalistas y externalistas en epistemología, recomiendo
+revisar el capítulo 9 de _This is Epistemology_ (2021), de Littlejohn & Carter.
 
 El libro _Embodied Cognition_ (2011) de Lawrence Shapiro es una buena
 introducción a los problemas acerca de los límites de lo mental, que toca en
