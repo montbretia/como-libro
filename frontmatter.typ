@@ -1,3 +1,12 @@
+#[
+  #set text(size: 9pt)
+Copyright #sym.copyright 2025 Felipe Morales Carbonell\ 
+Santiago, Chile
+
+]
+
+#set page(numbering: "i")
+
 #counter(page).update(1)
 
 #show outline: set heading(bookmarked: true)
