@@ -226,20 +226,63 @@ La idea fue popularizada por @Clark1998, quienes la presentaron como una forma
 más defendible de externalismo.#footnote[Varios autores habían defendido
 posiciones similares; por ejemplo, @Varela1991, @Wilson1994, @McClamrock1995,
 @Haugeland1995. Véanse también @Millikan1995, @Dennett1998, @Clark2001,
-@Rowlands2008.] Un problema que estos autores identifican con el externalismo de
-contenido es que pareciera que en los casos que motivan la posición la
-dependencia de las propiedades mentales en factores externos no tiene
-consecuencias conductuales. La diferencia entre mi contraparte en la Tierra
-Gemela y yo radica en la referencia de nuestros pensamientos, no en nuestra
-conducta--por definición. Sin embargo, la manera en que nuestros cuerpos están
-acoplados con el ambiente no se limita a esto. El entorno a menudo nos _permite_
-o _habilita_ a actuar de ciertas maneras. Esto no queda bien representado por el
+@Clark2008, @Rowlands2008 y @Menary2010.] Un problema que estos autores
+identifican con el externalismo de contenido es que pareciera que en los casos
+que motivan la posición la dependencia de las propiedades mentales en factores
+externos no tiene consecuencias conductuales. La diferencia entre mi contraparte
+en la Tierra Gemela y yo radica en la referencia de nuestros pensamientos, no en
+nuestra conducta--por definición. Sin embargo, la manera en que nuestros cuerpos
+están acoplados con el ambiente no se limita a esto. El entorno a menudo nos
+_permite_ o _habilita_ a actuar de ciertas maneras, y en otros casos podemos
+decir que interactuamos con el . Esto no queda bien representado por el
 internalismo del contenido. Según Clark y Chalmers, es necesario ir más allá. Ya
 que en su modelo el entorno juega un rol activo en los procesos mentales de los
 sujetos, Clark y Chalmers llaman a su propuesta _externalismo activo_.
 
 Para entender la hipótesis es necesario clarificar un poco qué quieren decir sus
-defensores por 'constitución'.
+defensores por 'constitución', distinguiéndo esto de otros conceptos con los que
+podría confundirse. La tesis de que la mente está constituida por aspectos de
+ciertos organismos y su entorno debe distinguirse, por ejemplo de la tesis de
+que la mente es causada o está en una relación causal con aspectos de estos
+organismos y su entorno. La segunda tesis es compatible con el internalismo (en
+efecto, es necesario que el internalismo acepte este si quiere ser compatible
+con alguna forma de realismo acerca del entorno, entendiendo por 'realismo
+acerca del entorno' la tesis de que el entorno existe independientemente),
+mientras que la primera no lo es. Una manera de distinguir entre relaciones
+causales y constitutivas es categorizarlas de acuerdo a las relaciones
+temporales que tienen. Una causa usualmente precede a lo causado; un
+constituyente, por otro lado, usualmente es contemporáneo a lo constituido
+porque perdura en tanto que lo constituido perdura.#footnote[Ser contemporáneos
+no es suficiente porque dependiendo de cómo se defina la relación de causa y
+efecto, las causas de un efecto podrían ser contemporáneas a los efectos. La
+estimulación de nuestros sentidos puede ser contemporánea a nuestras creencias
+empíricas, y al mismo tiempo ser causa de esas creencias, por ejemplo.] Las
+acciones de un constructor son la causa de que mis muros tengan ciertas
+propiedades, pero no perduran junto con el muro. Por otra parte, los ladrillos
+de los que está hecho, que son constituyentes del muro perduran con el muro.
+Clark y Chalmers apuntan a este tipo de condición cuando dicen que el
+internalismo de contenido no va suficientemente lejos, porque en ese caso, la
+dependencia de las propiedades mentales en el entorno podría ser meramente
+causal, mientras que en la hipótesis que ellos defienden, la idea es que el
+entorno contribuye a la cognición de manera presente; según ellos, procesos
+localizados en el entorno del organismo pueden ser parte de los procesos
+cognitivos o mentales de los que ese organismo es parte.
+
+Por supuesto, en el caso mental hay que tener cuidado al identificar los
+_relata_ de la relación de constitución. Cuando se dice que algo en el entorno
+de un organismo puede ser parte de su mente, podríamos querer decir varias cosas
+distintas. Una versión de la idea es que los _procesos_ mentales pueden estar
+constituidos por procesos ambientales. Otra versión es que los _estados_
+mentales pueden estar constituidos por estados ambientales.#footnote[La
+distinción es borrosa, porque hay casos en los que el que un objeto esté en un
+estado consista exactamente en el hecho de que pasa por cierto proceso. Aquí
+podemos omitir estas complicaciones.] Para resumir, diremos que el externalismo
+de vehículo mental/cognitivo está comprometido con la tesis:
+
+/ Constitución: Ciertos estados y/o procesos mentales/cogntivos de ciertos
+  organismos están constituidos por estados y/o procesos ambientales.
+
+
 
 == Saber-cómo extendido
 
