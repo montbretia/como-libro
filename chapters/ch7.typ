@@ -272,17 +272,74 @@ Por supuesto, en el caso mental hay que tener cuidado al identificar los
 _relata_ de la relación de constitución. Cuando se dice que algo en el entorno
 de un organismo puede ser parte de su mente, podríamos querer decir varias cosas
 distintas. Una versión de la idea es que los _procesos_ mentales pueden estar
-constituidos por procesos ambientales. Otra versión es que los _estados_
-mentales pueden estar constituidos por estados ambientales.#footnote[La
-distinción es borrosa, porque hay casos en los que el que un objeto esté en un
-estado consista exactamente en el hecho de que pasa por cierto proceso. Aquí
-podemos omitir estas complicaciones.] Para resumir, diremos que el externalismo
-de vehículo mental/cognitivo está comprometido con la tesis:
+constituidos por partes del entorno; cuando esos procesos mentales son
+cognitivos, en este caso se habla de la _tesis de cognición extendida_. Otra
+versión es que los _estados_ mentales pueden estar constituidos por partes del
+entorno; en este caso se habla de la _tesis de la mente extendida_ propiamente
+hablando. La distinción es borrosa, porque podría argumentarse que hay casos en
+los que el que un objeto esté en un estado consista exactamente en el hecho de
+que pase por cierto proceso. Clark y Chalmers, por ejemplo, no enfatizan este
+punto porque creen que los estados que discuten (en particular, la creencia) son
+dinámicos y están asociados a ciertos procesos mentales, de modo que la
+distinción es innecesaria. Otros autores son más escrupulosos al distinguir
+estas tesis. Volveremos a este punto en breve.
 
-/ Constitución: Ciertos estados y/o procesos mentales/cogntivos de ciertos
-  organismos están constituidos por estados y/o procesos ambientales.
+En realidad, los defensores de las hipótesis de la mente extendida a menudo
+defienden algo más fuerte, a saber, que el hecho de que los estados y
+procesos mentales/cognitivos estén constituido por estados y/o procesos
+ambientales es particularmente importante o incluso crucial para la operación de
+la mente. Por ejemplo, @Dennett1998 dice:
 
+#quote(block: true)[
 
+    Nuestros cerebros son un poco más grandes que los cerebros de nuestros parientes
+    más cercanos (aunque no son más grandes que los cerebros de algunos delfines y
+    de las ballenas), pero ciertamente esto no es la fuente de nuestra mayor
+    inteligencia. Lo que quiero sugerir es que su fuente primaria es nuestro hábito de
+    descargar (_offloading_) tantas tareas cognitivas como sea posible en el ambiente
+    mismo--extruyendo nuestras mentes (esto es, nuestros proyectos y actividades
+    mentales) al mundo circundante, donde un número de dispositivos periféricos que
+    hemos construido pueden guardad, procesar y re-representar lo que significamos,
+    afinando, mejorando y protegiendo los procesos de transformación en los que
+    consiste nuestro pensamiento. Esta práctica de descargar nos libera de las
+    limitaciones de nuestros cerebros animales.    #h(1fr) (pp. 134--135)
+ ]
+
+Del mismo modo, Clark & Chalmers sugieren que el externalismo activo provee de
+explicaciones más naturales para diversos tipos de acciones, e insisten que
+adoptar un marco externalista no es una cuestión meramente terminológica. Su
+preocupación se debe a que aceptan una forma de _funcionalismo_ (la teoría según
+la cual los estados mentales deben caracterizarse en términos de su perfil
+funcional que es realizable de distintas maneras) que los obliga a admitir que
+es al menos posible que todos los procesos y estados mentales/cognitivos que
+pueden involucrar partes del entorno se instancien sin involucrar partes del
+entorno. Así, ellos reconocen la necesidad de mostrar que la hipótesis de la
+mente extendida ofrece mejores explicaciones de casos reales (y no meramente
+posibles). Como ejemplos de procesos que parecen requerir de la interacción con
+partes del entorno que cumplen un rol constitutivo en esos procesos, Clark y
+Chalmers enumeran el uso de lápiz y paper para realizar multiplicaciones, el uso
+de piezas con letras en el juego del Scrabble para recordar palabras, el uso de
+instrumentos náuticos, y 'en general, la parafernalia del lenguaje, los libros,
+los diagramas y la cultura'. ¡No es poco!
+
+@Adams2001 objetan precisamente que si bien la cognición extracranial podría ser
+metafísicamente o nomológicamente posible, sus defensores no han mostrado que
+existe en el mundo real. En vistas a listas como la que da Clark y Chalmers,
+esto parece implausible, pero la objeción no es que ciertos elementos
+extracraniales no puedan tener algún rol en la cognición, sino que no hay manera
+de distinguir casos como esos de otros en que interactuamos con el entorno
+sin que eso haga que las partes del entorno con las que interactuamos
+constituyan procesos cognitivos (cuando un futbolista patea una pelota,
+¿constituye la pelota parte de sus procesos mentales?). Si no hay una manera de
+distinguir entre estos tipos distintos de caso, quizás tendríamos que decir que
+la hipótesis de la cognición extendida incurre en la falacia de confundir las
+relaciones causales con relaciones constitutivas.
+
+Clark & Chalmers describen un caso en que pareciera que una creencia está
+constituida al menos en parte por elementos del entorno de un sujeto. El caso es
+el siguiente:
+
+/ Otto y su libreta:
 
 == Saber-cómo extendido
 
