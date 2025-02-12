@@ -1,4 +1,4 @@
-#let pat = pattern(size: (7pt, 40pt))[
+#let pat = tiling(size: (7pt, 40pt))[
   #place(line(stroke: 0.7pt + rgb("#461abe"), start: (0%, 0%), end: (100%, 100%)))
 ]
 
@@ -11,10 +11,10 @@
     #set text(white)
 
     #v(-2em)
-    #text(font: "Adobe Caslon Pro", style: "italic", weight: "semibold", size: 28pt)[¿CÓMO?]
+    #text(style: "italic", weight: "bold", size: 28pt)[¿CÓMO?]
 
     #set text(font: "Jost*")
-    #text(style: "italic", weight: "medium", size: 13pt)[Una introducción a\ la epistemología\ del saber cómo]
+    #text(style: "italic", weight: "regular", size: 13pt)[una introducción a\ la epistemología\ del saber cómo]
 
       #align(center+bottom)[
 
