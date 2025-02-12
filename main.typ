@@ -61,7 +61,6 @@
 
 #pagebreak()
 
-#set page(numbering: "i")
 #include "frontmatter.typ"
 
 #set heading(
