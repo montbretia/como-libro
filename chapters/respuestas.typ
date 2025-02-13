@@ -1,6 +1,7 @@
 = Respuestas
 
-#set heading(outlined: false)
+#let chnum(.., last) = str(last) + "."
+#set heading(outlined: false, numbering: chnum)
 
 == La imagen manifiesta
 
