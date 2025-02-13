@@ -79,6 +79,6 @@
 #include "chapters/ch8.typ"
 #include "chapters/ch9.typ"
 #include "chapters/ch10.typ"
-#include "chapters/respuestas.typ"
 #include "chapters/apendice-logica.typ"
+#include "chapters/respuestas.typ"
 #include "backmatter.typ"
