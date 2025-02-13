@@ -147,10 +147,10 @@ símbolo bajo el lector. Entonces, el programa puede definirse simplemente con l
 regla que dice que, dado el estado inicial $sigma$ y cualquier símbolo bajo el
 lector, el cabezal debe escribir el símbolo "1", mantener la posición, y pasar
 al estado de parada. Tras una aplicación del programa, la máquina queda en la
-siguiente configuración (la posición del cabezal está en rojo):
+siguiente configuración (la posición del cabezal está en celeste):
 
 #figure(kind: "misc", supplement: none)[#table(rows: 1.5em, columns: (1.5em,) * 10, stroke: 0.1pt,
-table.cell(fill: red.lighten(50%))[1])]
+table.cell(fill: blue.lighten(50%))[1])]
 
 #question[¿Qué pasaría si reemplazamos esa regla por la regla que dice que, dado
 el estado inicial $sigma$ y cualquier símbolo, el cabezal debe escribir el
@@ -170,10 +170,10 @@ marcada en rojo._])[
         columns: (1.5em,) * 12, 
         stroke: 0.1pt,
         // row-gutter: 0.2em,
-    table.cell(stroke: none)[1], table.cell(fill: red.lighten(50%))[], [], [], [], [], [], [], [], [], [], table.cell(stroke: none)[],
-    table.cell(stroke: none)[2], [1], table.cell(fill: red.lighten(50%))[], [], [], [], [], [], [], [], [],table.cell(stroke: none)[],
-    table.cell(stroke: none)[3], [1], [0], table.cell(fill: red.lighten(50%))[], [], [], [], [], [], [], [],table.cell(stroke: none)[],
-    table.cell(stroke: none)[4], [1], [0], [1], table.cell(fill: red.lighten(50%))[], [], [], [], [], [], [],table.cell(stroke: none)[],
+    table.cell(stroke: none)[1], table.cell(fill: blue.lighten(50%))[], [], [], [], [], [], [], [], [], [], table.cell(stroke: none)[],
+    table.cell(stroke: none)[2], [1], table.cell(fill: blue.lighten(50%))[], [], [], [], [], [], [], [], [],table.cell(stroke: none)[],
+    table.cell(stroke: none)[3], [1], [0], table.cell(fill: blue.lighten(50%))[], [], [], [], [], [], [], [],table.cell(stroke: none)[],
+    table.cell(stroke: none)[4], [1], [0], [1], table.cell(fill: blue.lighten(50%))[], [], [], [], [], [], [],table.cell(stroke: none)[],
     table.cell(stroke: none, colspan: 12)[...]
 )
 ]
