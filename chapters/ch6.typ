@@ -964,6 +964,13 @@ investigar aún.
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
 
+En este capítulo no toco el punto, pero las discusiones en ciencia cognitiva
+ofrecen una línea de ataque distinta en los debates sobre la naturaleza del
+saber-cómo. Por ejemplo, casos de sujetos con amnesia que mantienenen ciertas
+competencias motrices parecen sugerir alguna forma de anti-intelectualismo. Sin
+embargo, @Stanley2013 presentan un argumento a favor del intelectualismo
+basado en esa misma evidencia. Véase @Schwartz2019 para más discusión.
+
 Hay una vasta literatura sobre la representación mental. Dos libros recientes
 importantes son _Representation in Cogntive Science_ (2018) de Nicholas Shea, y
 _Representation Reconsidered_ (2007), de William Ramsey.

@@ -1,6 +1,6 @@
 #import "../utils.typ": question
 
-= Usando herramientas
+= Usando el mundo
 
 En este capítulo vamos a partir de la observación de que el saber cómo es
 crucial para explicar las maneras en que usamos herramientas en el mundo físico.
@@ -335,11 +335,83 @@ distinguir entre estos tipos distintos de caso, quizás tendríamos que decir qu
 la hipótesis de la cognición extendida incurre en la falacia de confundir las
 relaciones causales con relaciones constitutivas.
 
-Clark & Chalmers describen un caso en que pareciera que una creencia está
-constituida al menos en parte por elementos del entorno de un sujeto. El caso es
-el siguiente:
+La respuesta de Clark al problema es insistir que hay ciertas condiciones
+adicionales para que parte del entorno juege un rol en los procesos y estados
+mentales. En el artículo de 1998, Clark y Chalmers enfatizan que es necesario
+que el acople entre el sujeto y el entorno sea confiable.#footnote[Cf. @Clark2010.]
 
-/ Otto y su libreta:
+Clark & Chalmers describen un caso en que pareciera que una creencia está
+constituida al menos en parte por elementos del entorno de un sujeto, que
+ilustra estas condiciones. El caso es el siguiente:
+
+/ Otto y su libreta: Otto sufre de Alzheimer, y como muchos pacientes de esta
+  enfermedad, depende de que haya información disponible en su entorno como
+  ayuda para mantener la estructura de su vida. Otto lleva un cuadernillo
+  consigo dondequiera que va. Cuando aprende algo nuevo, lo anota en el
+  cuadernillo. Cuando necesita información, la busca. Para Otto, su libreta
+  cumple el rol que usualmente juega la memoria biológica. Hoy, Otto se entera
+  de que hay una exhibición en el Museo de Arte Moderno, y decide ir a verla.
+  Consulta su libreta, que dice que el museo está en la calle 53, así que camina
+  a la calle 53 y va al museo.#footnote[@Clark1998[pp. 12--13]]
+
+¿Cómo explicamos la acción de Otto? Clark y Chalmers proponen que deberíamos
+explicarla de la misma manera que describiríamos una acción similar ejecutada
+por una persona que no tiene Alzheimer y que no necesita usar un cuadernillo
+como una memoria externa: Otto fue a la calle 53 porque quería ir al deseo y
+porque creía que el museo estaba en la calle 53. Otto posee la información de
+modo tal que su creencia no-ocurrente de que el museo está en la calle 53 está
+constituida en parte por la información disponible en su cuadernillo.
+
+#question[¿Comparten el juicio de Clark y Chalmers? Traten de variar el
+experimento mental, y vean si cambian sus opiniones (cf. @Dennett2014 sobre los
+experimentos mentales como 'bombas de intuiciones'). ¿Qué pasaría si en vez de
+un cuadernillo, Otto hiciera búsquedas en Internet? ¿Qué pasa si en vez de un
+cuadernillo, Otto tuviera un asistente (avanzando un poco las discusiones que
+nos van a ocupar en el siguiente capítulo)? ¿Sería la memoria del asistente parte de
+la memoria de Otto?]
+
+Uno podría responder diciendo que Otto no tiene una creencia acerca de la
+ubicación del museo hasta que consulta el cuadernillo; pero, dicen Clark y
+Chalmers, esto sería implausible porque podemos imaginar a Otto comportándose de
+la misma manera que si tuviera la creencia, incluso antes de consultarlo. El uso
+del cuadernillo está bien integrado en la vida de Otto. Puede ser que la manera
+en que está integrado en su vida sea distinta a la usual, pero cuando llega el
+momento de hacer lo que tiene que hacer, puede contar con sus medios del mismo
+modo que otras personas sin las dificultades de Otto pueden hacerlo. La idea
+subyacente a este argumento es un cierto principio de paridad:
+
+/ Paridad: Si, confrontados con una tarea, parte del mundo funciona como un
+  proceso que, de realizarse en la cabeza, no dudaríamos en reconocer como parte
+  de un proceso cognitivo, entonces esa parte del mundo es... parte del proceso
+  cognitivo.#footnote[@Clark2008[p. 222].]
+
+Es decir, tenemos que aplicar a la par los mismos criterios para decir si algo
+intracranial y algo extracranial constituye un proceso cognitivo; si el criterio
+se satisface en ambos casos, ambos casos son procesos cognitivos. El criterio
+que defienden Clark y Chalmers es funcional, como ya mencionamos.
+
+¿Qué hace que el caso de Otto sea una instancia de acoplamiento
+organismo-entorno que sea genuinamente cognitivo, en vez de una instancia de
+acoplamiento organismo-entorno que no lo es? Clark y Chalmers sugieren cuatro
+criterios, todos los cuales se satisfacen en el caso de Otto:
+
+#set enum(numbering: "a)" )
++ Las partes del entorno en cuestión deben tener una presencia constante en la
+  vida del sujeto,
++ La información presente en el entorno debe estar disponible sin dificultad,
++ Al emplear esa información, el sujeto la acepta,
++ La información ha sido aceptada en el pasado, y permanece disponible en el
+  entorno porque se la había aceptado.
+
+Estos criterios se ajustan al caso de la creencia y la memoria, pero en
+principio podría reconstruirse criterios similares o variaciones de estos para
+un rango más amplio de estados y procesos mentales/cognitivos.
+
+#question[@Rupert2004 propone, como alternativa a la hipótesis de la mente
+extendida, lo que llama _hipótesis de la mente incrustada (embedded)_. Según
+esta hipótesis, es cierto que la cognición y la mente en general está
+involucrada extensamente con lo que sucede en el entorno, pero esto no significa
+que el entorno constituya parte de la mente o cognición.]
 
 == Saber-cómo extendido
 
