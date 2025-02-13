@@ -103,7 +103,8 @@ _knowing-how_.
     [knows that it is raining], [sabe que llueve], [conoce que llueve],
     [knows where it is], [sabe dónde está], [conoce dónde está],
     [knows the answer], [sabe la respuesta], [conoce la respuesta],
-    [knows the plant], [conoce la planta], [sabe la planta], 
+    [knows the plant], [conoce la planta], [sabe la planta#footnote[Compárese
+    con 'sabe _de_ la planta'.]], 
     [knows Felipe], [conoce a Felipe], [sabe a Felipe],
     [knows how to solve it], [sabe cómo resolverlo], [conoce cómo resolverlo]
   )
@@ -151,9 +152,9 @@ intentar responderlas uno mismo. Las preguntas acerca del saber cómo son
 fascinantes (espero convencerte de ello durante el libro), y ofrecen una
 excelente oportunidad para ello.#footnote[Esto hace que el libro difiera de
 otros trabajos similares, como el excelente _A Critical Introduction to
-Knowledge-How_ (2018) de J.A. Carter y T. Poston.]
+Knowledge-How_ (#cite(<Carter2018>, form: "year")) de J.A. Carter y T. Poston.]
 
-#v(2em)
+#v(1.5em)
 #block[]
 
 El libro procede en cuatro etapas.

@@ -12,7 +12,7 @@ expresión del filósofo Wilfrid Sellars, nuestra ‘imagen manifiesta’ acerca
 saber cómo.
 #footnote[Wilfrid Sellars (1912-1989) fue un filósofo
 norteamericano. En su ensayo ‘La Filosofía y la Imagen Científica del Hombre’
-(1962), introduce una distinción entre la imagen manifiesta y la imagen
+(#cite(<Sellars1962>, form: "year")), introduce una distinción entre la imagen manifiesta y la imagen
 científica del lugar del ser humano en el cosmos. Según Sellars, el objetivo de
 la filosofía es ‘entender cómo las cosas, en el sentido más amplio posible del
 término, se conectan unas con otras (hang together), en el sentido más amplio
@@ -310,11 +310,11 @@ no tiene la connotación de 'convicción religiosa' que la palabra tiene a veces
 en su uso en el español. Cuando decimos que alguien cree algo, simplemente decimos
 que lo acepta o asiente a ello de alguna manera, con alguna convicción.]
 
-Como Edmund Gettier observó en un ensayo en 1963, el análisis tiene
-contraejemplos. Una manera de presentar estos contraejemplos es en la forma de
-lo que podemos llamar _experimentos mentales_, casos imaginarios que nos
-fuerzan a considerar ciertas posibilidades. Imaginen el siguiente caso, que es
-uno de los ejemplos originales de Gettier:
+Como Edmund Gettier observó en un ensayo en #cite(<Gettier1963>, form: "year"),
+el análisis tiene contraejemplos. Una manera de presentar estos contraejemplos
+es en la forma de lo que podemos llamar _experimentos mentales_, casos
+imaginarios que nos fuerzan a considerar ciertas posibilidades. Imaginen el
+siguiente caso, que es uno de los ejemplos originales de Gettier:
 
 / Smith: Smith cree, basado en buen evidencia, que su
   compañero de trabajo Jones recibirá una promoción, y que Jones tiene tiene diez
