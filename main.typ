@@ -16,7 +16,9 @@
 
 #set cite(form: "prose")
 
-#show cite: set text(fill: blue.darken(50%))
+// #show cite: set text(fill: blue.darken(50%))
+#show cite: it => {underline(stroke: (thickness: 0.5pt, paint: red.transparentize(20%), dash: "dashed"), offset: 1.5pt)[#it]}
+#show link: it => {underline(stroke: (thickness: 0.5pt, paint: red.transparentize(20%), dash: "dashed"), offset: 1.5pt)[#it]}
 
 #show terms: set block(above: 1.2em, below: 1.2em)
 #show figure: set block(above: 1.2em, below: 1.2em)
