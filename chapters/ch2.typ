@@ -2,12 +2,8 @@
 #import "../logic.typ": fitch
 #set text(lang: "es")
 
-= Enfrentando la imagen manifiesta
 
-#figure[
-#image("../images/robert-bota-rainforest.jpg", width: 150%)
-#v(2em)
-]
+= Enfrentando la imagen manifiesta
 
 En este capítulo vamos a comenzar nuestra exploración del problema del saber
 cómo, esbozado en el capítulo anterior, desde la perspectiva de ciertas ideas

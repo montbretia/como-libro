@@ -7,10 +7,6 @@
 
 = La disputa de las cien escuelas
 
-#figure[
-#image(width: 150%, "../images/pavia_tapestry.jpg")
-]
-
 #align(right)[
   #set text(size: 9pt, style: "italic")
   #block(width: 70%)[
