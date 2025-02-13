@@ -443,7 +443,13 @@ saber-cómo. Si el saber-cómo está al menos correlacionado con ciertos estados
 procesos mentales, ¿podrían estos estar constituidos por parte del entorno al
 sujeto?
 
-@Carter2016 esbozan las posibilidades.
+@Carter2016 esbozan las posibilidades. Su estrategia general consiste en mostrar
+que las maneras en que el saber-cómo puede involucrar el entorno son distintas a
+las maneras en que el conocimiento proposicional puede hacerlo; es decir,
+sugieren que si hemos de aceptar ciertas maneras de explicar la posibilidad de
+saber cómo extendido, tenemos que adoptar alguna forma de
+anti-intelectualismo.#footnote[@Andrada2022 también defiende una teoría
+anti-intelectualista del saber-cómo extendido.]
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
