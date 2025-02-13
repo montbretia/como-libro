@@ -437,7 +437,13 @@ acerca de todos los números telefónicos disponibles en directorios telefónico
 
 == Saber-cómo extendido
 
+Dada la plausibilidad de algunas de las versiones de la idea de extensión
+mental, sería al menos interesante considerar si puede aplicarse al caso del
+saber-cómo. Si el saber-cómo está al menos correlacionado con ciertos estados o
+procesos mentales, ¿podrían estos estar constituidos por parte del entorno al
+sujeto?
 
+@Carter2016 esbozan las posibilidades.
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
