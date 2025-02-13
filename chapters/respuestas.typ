@@ -1,9 +1,9 @@
-= Respuestas
+#set heading(numbering: none)
+= Apéndice B: Respuestas
 
-#let chnum(.., last) = str(last) + "."
-#set heading(outlined: false, numbering: chnum)
+#set heading(outlined: false, numbering: none)
 
-== La imagen manifiesta
+== 1. La imagen manifiesta
 
 + Un <q2_1>argumento en contra: la imagen manifiesta del saber cómo puede no
   estar cerrada bajo la implicación lógica (es decir, puede que no
@@ -53,7 +53,7 @@
   piensan que es esencial a la filosofía que sea una empresa separada de
   la ciencia.
 
-== Un modelo tentador
+== 2. Un modelo tentador
 
 + La lectura no puede ser una fuente básica de conocimiento, porque
   depende de la percepción. A menudo aprendemos a hacer cosas leyendo
@@ -69,7 +69,7 @@
   conocimiento proposicional; tanto la percepción el razonamiento
   parecen ser fuentes viables del saber cómo.
 
-== Contra el fantasma en la máquina
+== 3. Contra el fantasma en la máquina
 
 + Ambas posturas pueden defenderse (así como la teoría de que los
   errores de categoría no son ni absurdos ni necesariamente falsos,
@@ -84,15 +84,17 @@
   que no son compuestos de una mente y un cuerpo (contra el monismo).
   Esta es una pastilla bastante más difícil de tragar.
 
-== La disputa de las cien escuelas
+== 4. La disputa de las cien escuelas
 
-== Ciencia cognitiva y saber cómo
+== 5. Ciencia cognitiva y saber cómo
 
-== Usando herramientas
+== 6. Usando el mundo
 
-== Haciendo cosas en conjunto
+== 7. Haciendo cosas en conjunto
 
-== Impedimentos
+== 8. Impedimentos
 
-== Otras epistemologías
+== 9. Otras epistemologías
+
+== A. Lógica
 
