@@ -1,3 +1,10 @@
+
+#set document(title: [¿Cómo? Una Introducción a la Epistemología del Saber
+Cómo],
+author: "Felipe Morales Carbonell",
+keywords: ("saber-cómo", "epistemología")
+)
+
 #set page(paper: "a5")
 #set text(font:"Minion Pro", size: 10.5pt, lang: "es")
 #show math.equation: set text(font: "Libertinus Math")
