@@ -51,16 +51,6 @@
   emph(it)
 }
 
-#import "@preview/wordometer:0.1.4": word-count, total-words
-
-#show: word-count
-
-#align(center + horizon)[
-  Palabras: #total-words / 80000 (#calc.round(78052*100/80000, digits: 1)%)
-]
-
-#pagebreak()
-
 #include "frontmatter.typ"
 
 #set heading(
