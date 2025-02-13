@@ -411,9 +411,33 @@ un rango más amplio de estados y procesos mentales/cognitivos.
 extendida, lo que llama _hipótesis de la mente incrustada (embedded)_. Según
 esta hipótesis, es cierto que la cognición y la mente en general está
 involucrada extensamente con lo que sucede en el entorno, pero esto no significa
-que el entorno constituya parte de la mente o cognición.]
+que el entorno constituya parte de la mente o cognición.#footnote[La estrategia
+es similar a la de ciertos intérpretes de Descartes, quienes discuten la
+naturaleza de ciertos estados mentales 'mixtos', como la imaginación, que
+parecen requerir la participación tanto de la _res cogitans_ como de la _res
+extensa_. En la interpretación tradicional, estos son puramente modos de la _res
+cogitans_. De acuerdo a intérpretes 'trialistas', estos son modos de la unión de
+la _res extensa_ y la _res cogitans_, que es un _ens per se_. Para evitar esta
+interpretación, algunos autores han sugerido que debemos entender estos estados
+mentales como modos de la _res cogitans_ _en tanto que está unida a la res
+cogitans_. La hipótesis de la mente incrustada recuerda a esta última opción.]
+
+Parte del argumento negativo de Rupert contra la hipótesis de la mente extendida
+consiste en mostrar que los criterios de Clark y Chalmers son insuficientes para
+determinar que el acople entre el organismo y su entorno sea cognitivo. Para
+ilustrar el punto, considera el uso de directorios de teléfonos. La existencia
+de información sobre números telefónicos es una constante en nuestra sociedad
+(aunque esto es más marginal que cuando Rupert presentó el argumento), y
+es de fácil acceso. Además, es parte del empleo de tales directorios que se los
+acepte como autoritativos, y su existencia se explica porque se ha aceptado la
+información que contienen en el pasado. ¿Significa esto que tenemos creencias
+acerca de todos los números telefónicos disponibles en directorios telefónicos?
+¿Qué creen del argumento de Rupert?
+]
 
 == Saber-cómo extendido
+
+
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
