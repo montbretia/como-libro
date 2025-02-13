@@ -1,8 +1,7 @@
-
-#set document(title: [¿Cómo? Una Introducción a la Epistemología del Saber
-Cómo],
-author: "Felipe Morales Carbonell",
-keywords: ("saber-cómo", "epistemología")
+#set document(
+  title: [¿Cómo? Una Introducción a la Epistemología del Saber Cómo],
+  author: "Felipe Morales Carbonell",
+  keywords: ("saber-cómo", "epistemología")
 )
 
 #set page(paper: "a5")

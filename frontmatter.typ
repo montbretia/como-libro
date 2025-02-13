@@ -1,7 +1,12 @@
 #[
   #set text(size: 9pt)
+  #set par(first-line-indent: 0em)
 Copyright #sym.copyright 2025 Felipe Morales Carbonell\ 
 Santiago, Chile
+
+#v(1em)
+
+Producido usando #link("https://typst.app")[typst].
 
 ]
 
