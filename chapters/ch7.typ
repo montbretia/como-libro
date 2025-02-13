@@ -28,8 +28,8 @@ de la naturaleza de la mente:
   intracraniales.
 
 Esta asunción a veces va acompañada de otra, que es que el estatus de los
-estados epistémicos depende solamente de los hechos que son accessibles a los
-sujetos y del hecho de que sean accessibles. Esta posición es usualmente llamada
+estados epistémicos depende solamente de los hechos que son accesibles a los
+sujetos y del hecho de que sean accesibles. Esta posición es usualmente llamada
 _internalismo_ (en particular, 'internalismo de acceso'). Considere el siguiente
 caso:
 
@@ -86,7 +86,7 @@ mismo. @Putnam1975 ataca esta idea con otro experimento mental famoso:
   gemela tiene un pensamiento que se refiere a la sustancia $X X X$.
 
 El experimento mental parece mostrar que al menos ciertos aspectos del contenido
-de los estados mentales depende de algo que va más alla de las propiedades
+de los estados mentales depende de algo que va más allá de las propiedades
 internas de los sujetos. Este caso motiva una posición _externalista_ sobre el
 contenido de los estados mentales.
 
@@ -97,7 +97,7 @@ entre las creencias y los hechos. Distintas respuestas a este problema pueden
 requerir o no que el sujeto del conocimiento tenga acceso o no a lo que soporta
 la confiabilidad de sus creencias. En ciertas teorías externalistas del
 conocimiento resulta que la confiabilidad de las maneras en que los sujetos
-llegan a tener conocimiento podrían no ser accessibles a los sujetos mismos, sin
+llegan a tener conocimiento podrían no ser accesibles a los sujetos mismos, sin
 que esto prevenga que tengan conocimiento. Por ejemplo, supongan que adoptamos
 una teoría según la cual lo que se requiere para que alguien tenga conocimiento
 es que haya una relación causal apropiada entre los hechos y las creencias de
@@ -174,7 +174,7 @@ juicios, no obstante sabe qué pollos son hembras y cuáles son
 machos.#footnote[Si esta fuera la descripción correcta del caso, sería una mala
 noticia para los internalistas, aunque por supuesto ellos tienen algunas maneras
 de responder al problema. Cf., por ejemplo, @Brandom1998: allí se sugiere que
-Eli debería llegar a formar la creencia de que es una disciminadora confiable, y
+Eli debería llegar a formar la creencia de que es una discriminadora confiable, y
 esto le daría razones para creer lo que cree.] Lo que debería interesarnos es la
 pregunta de si Eli _sabe cómo_ distinguir entre pollos machos y
 hembras. Ciertamente, tiene la habilidad de hacerlo, y esta habilidad es
@@ -449,7 +449,14 @@ las maneras en que el conocimiento proposicional puede hacerlo; es decir,
 sugieren que si hemos de aceptar ciertas maneras de explicar la posibilidad de
 saber cómo extendido, tenemos que adoptar alguna forma de
 anti-intelectualismo.#footnote[@Andrada2022 también defiende una teoría
-anti-intelectualista del saber-cómo extendido.]
+anti-intelectualista del saber-cómo extendido. Véase tb. @Carter2024a.]
+
+Para evaluar la situación respecto al intelectualismo acerca del saber-cómo es
+necesario evaluar primero las opciones para dar cuenta de la posibilidad del
+conocimiento proposicional extendido. Si @Clark1998 tienen razón, y es posible
+que haya creencias extendidas, y si el conocimiento proposicional es un tipo de
+creencia, el conocimiento proposicional extendido debería ser posible.
+
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
