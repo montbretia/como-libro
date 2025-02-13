@@ -56,7 +56,7 @@
 #show: word-count
 
 #align(center + horizon)[
-  Palabras: #total-words / 80000 (#calc.round(76311*100/80000, digits: 1)%)
+  Palabras: #total-words / 80000 (#calc.round(78052*100/80000, digits: 1)%)
 ]
 
 #pagebreak()
