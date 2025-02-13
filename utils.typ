@@ -1,26 +1,26 @@
-#let question(label: none, body) = {
-  block(fill: rgb("#f4c9c3"), 
-        stroke: 0.1pt + rgb("#f4c9c3").darken(10%),
-        spacing: 0.64em, 
-        inset: 0pt,
-        outset: 0pt,
-        radius: 3pt,
-        above: 1.5em,
-        below: 1.5em)[
-    #grid(columns: (0.85fr, 10fr),
-      block(
-        inset: 8pt, 
-        fill: red.transparentize(15%), 
-        radius: (top-left: 4pt, bottom-right: 4pt, rest: 0pt)
-      )[#align(right+horizon)[#text(size: 1.2em, fill: white)[*¿?*]]],
-      grid.cell(align: horizon, breakable: false, inset: 9pt)[
-      #body
-      #if label != none [
-        #h(1fr) #link(label)[#text(size: 12pt, fill: red)[#sym.arrow.r.wave]]
-      ]
-      ]
-    )
+#let question(label: none, breakable: false, body) = {
+
+block(inset: 1em, 
+      fill: rgb("#f4c0c3"),
+      stroke: 0.1pt + rgb("#f4c9c3").darken(10%),
+      spacing: 0.64em,
+      radius: 3pt,
+      above: 1.2em,
+      below: 1em,
+      width: 100%,
+      )[
+  #place(top+left, dy: -1.3em, dx: -2.8em)[
+    #block(inset: 0.7em, fill: red.lighten(15%), radius: 3pt)[
+      #text(fill: white, size: 1.2em)[*¿?*]
+    ]
   ]
+  #block(breakable: breakable)[
+  #body
+  #if label != none [
+        #h(1fr) #link(label)[#text(size: 12pt, fill: red)[#sym.arrow.r.wave]]
+  ]
+]
+]
 }
 
 #let aside(breakable: false, float: true, body) = {
