@@ -24,7 +24,7 @@
           #datetime.today().display()
         ]
         #v(2em)
- 
+
         #text(size: 13pt)[Felipe Morales Carbonell]
 
               
