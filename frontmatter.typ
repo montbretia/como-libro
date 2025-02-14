@@ -14,9 +14,11 @@ Producido usando #link("https://typst.app")[typst].
 
 #counter(page).update(1)
 
+#[
 #show outline: set heading(bookmarked: true)
 
 #outline(title: [Tabla de contenidos], indent: auto)
+]
 
 = Prefacio
 
@@ -28,3 +30,11 @@ del saber cómo' (2o semestre 2024), quienes me dieron ideas útiles mientras
 terminaba el borrador inicial. Especiales gracias a Francisco Barría y Hector
 Mira, quienes además de participar en este grupo, colaboraron en la preparación
 de la versión final de este documento.
+
+Partes del texto han sido publicado antes:
+
+- Partes de la sección 5.5 están basadas en #cite(<MoralesCarbonell2023>, form:
+  "full"). 
+- La sección 8.1 corresponde a una traducción de #cite(<MoralesCarbonell2024>,
+  form: "full").
+- El capítulo 10 está basado en #cite(<MoralesCarbonell2025>, form: "full")
