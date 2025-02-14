@@ -376,10 +376,10 @@ _ngünenduamün_ (notar, reconocer, advertir), _ngüneduamküllen_ (estar atento
 _ngiüfen_ (advertir, alertar, persuadir), _llüwan_ (notar, advertir algo),
 _nüwan_ (estar alerta 'y con ojo astuto'), _lliwafe_ (sagaz), _kuwiwtuwün_
 (tener cuidado frente al peligro), _fallüluwün_ (fiarse de sí mismo),
-_duamkülen_ (estar alegre),#footnote[@DeAugusta1916 distingue entre _küme
-duamkúlen_, que es estar alegre, y _weza duamkülen_, que es estar triste.
-_duamkúlen_ parece ser más bien tener cierta disposición psicológica. Así,
-_trepeduamkulen_ es 'estar despierto'.], _trepelewtun_ (volver a despertar, ver
+_duamkülen_ (estar alegre; @DeAugusta1916 distingue entre _küme
+duamkúlen_, que es estar alegre, y _weza duamkülen_, que es estar triste, así
+que _duamkúlen_ parece ser más bien tener cierta disposición psicológica, del
+mismo modo que _trepeduamkulen_ es 'estar despierto'), _trepelewtun_ (volver a despertar, ver
 la luz, comprender), _trepen_ (despertar). Esta lista es problemática por varias
 razones, siendo la más importante que no es claro en qué sentido hay una
 progresión entre todos estos conceptos. Ciertamente, hay una secuencia que
@@ -675,18 +675,17 @@ encontramos,#footnote[Traduzco de la versión inglesa de Martin Palmer (Penguin,
   Nos hagas planes.\
   No trates de hacer nada.\
   No intentes ser un maestro del conocimiento.\
-  Toma lo que existe, pero no lo tomes como signo de otra cosa.\
-  Trabaja con lo que viene del Cielo, pero no busques apresarlo.\
+  Toma de lo que existe, pero no lo tomes como signo de otra cosa.\
+  Trabaja lo que viene del Cielo, pero no busques apresarlo.\
   Se vacío.
 
-  El corazón (_xin_)#footnote[Tb. 'mente'.] del hombre perfecto es como un espejo.\
+  El corazón (_xin_) del hombre perfecto es como un espejo.\
   No va tras las cosas.\
   No busca cosas.\
   No persigue el conocimiento, sino que meramente responde.\
   En consecuencia, puede lidiar con todo, y nada puede
   dañarlo.
 ]
-
 
 ¿Es esta disposición del hombre perfecto, un actuar sin actuar (_wuwei_), una forma de saber-cómo?
 
