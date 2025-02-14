@@ -74,6 +74,7 @@ del día no hemos podido salir de esta jungla de preguntas, si no hemos obtenido
 una solución, al menos debemos poder decir que nos hemos acostumbrado un poco a
 estar perdidos. El progreso en filosofía a veces se ve así. 
 
+#v(1.5em)
 #block[]
 
 _Más explícitamente_: este libro es una introducción a lo que podríamos llamar
