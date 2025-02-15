@@ -468,7 +468,11 @@ suposición adicional de que la posesión de actitudes proposicionales consiste 
 la ocurrencia de ciertos procesos (una asunción que, como vimos, @Clark1998 sí
 hacen), pero Carter y Czarnecki creen que el costo de esta suposición es
 demasiado alto porque creen que lleva a problemas como los que apuntan
-@Adams2001 y @Rupert2004.
+@Adams2001 y @Rupert2004, en particular al problema de tener que adscribir más
+estados mentales al sujeto que los que son plausibles.
+
+#question[¿Comparten los escrúpulos de Carter y Czarnecki sobre la concepción
+dinámica de la creencia?]
 
 ¿Cuáles son las opciones desde la perspectiva anti-intelectualista? Un
 anti-intelectualista que adopte una postura disposicionalista (por ejemplo,
@@ -479,7 +483,59 @@ parcialmente constituidas por el entorno. Para defender esta posición, es
 necesario esclarecer la relación que hay entre la posesión de habilidades y el
 entorno. 
 
+En su paper de 2016, Carter y Czarnecki apelan a la idea de que las habilidades
+que un sujeto tiene pueden extenderse en el sentido de que las bases categóricas
+de esas habilidades (los estados no-disposicionales de los que presumiblemente
+dependen esas habilidades) pueden ´hibridarse', es decir, incluir componentes
+no-biológicos. La condición híbrida de una de estas bases categóricas es
+compatible con o implica que el sujeto sepa cómo hacer algo en tanto que es
+posible aplicar un cierto principio de paridad en vistas a la habilidad de un
+sujeto cuyas habilidades son funcionalmente equivalentes, pero que no son
+híbridas, y que son compatibles con o implican que el sujeto sepa cómo hacer lo
+mismo. Por ejemplo, podemos considerar a un sujeto que tiene una habilidad para
+producir imágenes rotadas de objetos tridimensionales sobre una base categórica
+puramente biológica (el sujeto tiene la capacidad de imaginar estas figuras y
+rotarlas en su imagiinación, por ejemplo) que satisface las condiciones para
+que digamos que sabe cómo producir tales imágenes, y a otro sujeto que tiene la
+misma habilidad, solo que en su caso la habilidad tiene una base categórica
+híbrida (en vez de imaginar objetos rotados, el sujeto hace uso de modelos
+computacionales). En vistas al principio de paridad que acabo de esbozar,
+tendríamos decir que este sujeto también sabe cómo producir imágenes rotadas de
+objetos tridimensionales, y tendríamos que decir que, ya que la base categórica
+es híbrida, esta habilidad se extiende al entorno del sujeto, con el cual está
+acoplado.
 
+En @Carter2018 este modelo es explicado haciendo uso de la distinción,
+introducida por @Sosa2010, entre el asiento (_seat_), la figura (_shape_) y la
+situación (_situation_) de una competencia.#footnote[Sosa elabora esta
+distinción en más detalle en @Sosa2015.] El asiento consiste en la habilidad del
+sujeto que tiene la competencia para hacer lo que es necesario para ejercitar la
+competencia. La figura es la condición del sujeto para manifestar la
+competencia. La situación son las condiciones del entorno en las que el sujeto
+se encuentra para manifestar su competencia. Por ejemplo, para evaluar la
+competencia de un arquero en un contexto determinado debemos considerar la
+habilidad que tiene (que es resultado de sus talentos naturales y su
+entrenamiento), su condición mental (por ejemplo, que esté bien despierto y
+sobrio), y las condiciones ambientales (por ejemplo, que corra mucho o poco
+viento). Solo en vistas a estos tres elementos podemos decir si el arquero
+tendrá éxito en sus tiros en un caso determinado. Si el sujeto es competente,
+sin embargo, el asiento debe ser favorable independientemente de si la figura o
+la situación no son favorables: hay un sentido en que un arquero competente no
+deja de serlo porque está distraído o porque el entorno hace difícil que
+manifieste sus habilidades.
+
+Hacer esta distinción permite reformular la tesis del saber-cómo extendido de
+una manera más precisa. Esto es necesario porque si el saber-cómo corresponde a
+un tipo de competencia, es simplemente trivial que esté en una relación de
+superveniencia con el entorno, de modo que las propiedades de la competencia
+cambiarían si ciertas propiedades del entorno cambiasen (esto simplemente se
+sigue de que la situación sea una parte constituyente de la competencia). La
+tesis que nos interesa es que el asiento de la competencia esté constituido por
+partes del entorno. En el ejemplo que examinábamos antes, del sujeto que sabe
+cómo producir imágenes de objetos tridimensionales rotados, precisamente lo que
+tendríamos que decir es que, dada la tesis de paridad relevante, el asiento de
+su competencia se extiende a su entorno.
+ 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
 
