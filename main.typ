@@ -10,7 +10,7 @@
 
 #include "cover.typ"
 
-#set par(spacing: 0.5em, justify: true, leading: 0.5em, first-line-indent: 1em)
+#set par(spacing: 0.51em, justify: true, leading: 0.51em, first-line-indent: 1em)
 
 #show quote: set pad(top: -1.6em, bottom: -0.8em, x: 2em)
 
@@ -61,12 +61,10 @@
 
 #include "frontmatter.typ"
 
-#set heading(
-    numbering: "1.",
-  )
-
+#set heading(numbering: "1.")
 #set page(numbering: "1")
 #counter(page).update(1)
+
 #include "chapters/ch1.typ"
 #include "chapters/ch2.typ"
 #include "chapters/ch3.typ"
