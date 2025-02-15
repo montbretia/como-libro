@@ -142,7 +142,7 @@ _requiere_ el uso de la metodología hermenéutica que Mora adopta.] En cambio,
 para bien o para mal, mi perspectiva es la de la epistemología contemporánea
 analítica, y trato de emplear las herramientas que este enfoque provee para el
 análisis filosófico. Estas tradicionalmente consisten en métodos de análisis
-conceptual, construcción de modelos, etc.#footnote[@JohnBengson2022 ofrecen una
+conceptual, construcción de modelos, etc.#footnote[@Bengson2022 ofrecen una
 excelente visión general de las metodologías analíticas contemporáneas.] Para
 los propósitos de la etnoepistemología, el enfoque analítico provee de un modelo
 de reconstrucción lógica o conceptual de los objetos filosóficos de interés (en
