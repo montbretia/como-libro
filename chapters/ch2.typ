@@ -336,7 +336,7 @@ ocurren otros contraejemplos?]
 
 Consideremos un caso similar, quizás un poco más sencillo. Imaginen que un
 miembro de su familia está en el hospital, y que tienen el plan de ir a
-visitarlo al día siguiente. Normalmente eso basta para que puedan decir con
+visitarlo al día siguiente. Normalmente, eso basta para que puedan decir con
 cierto grado de seguridad que sucederá lo que planean, de modo que creen que
 van a estar en el hospital el día siguiente. Sin embargo, resulta que cuando
 salgan a la calle, tendrán un accidente que los va a dejar hospitalizados y que
@@ -353,12 +353,13 @@ tenga conocimiento—o al menos, esa es la lección que la mayoría de los
 filósofos ha extraído del problema presentado por Gettier.
 
 La observación de Gettier dio pie a una verdadera industria de producir
-análisis revisados y nuevos contraejemplos.#footnote[Shope (1983) da una
+análisis revisados y nuevos contraejemplos.#footnote[@Shope1983 da una
 vista panorámica a las propuestas de análisis del concepto de conocimiento
 desde el paper de Gettier hasta el inicio de los años 1980.] En el caso del concepto de
 conocimiento, se ha llegado a proponer que el concepto de conocimiento es
-inanalizable y básico/primitivo. Por ejemplo, Linda Zagzebski (1994) argumenta
-en contra de la definibilidad del concepto de conocimiento, y Williamson (2000)
+inanalizable y básico/primitivo. Por ejemplo, Linda Zagzebski
+(#cite(<Zagzebski1994>, form: "year") argumenta
+en contra de la definibilidad del concepto de conocimiento, y @Williamson2000
 ofrece una reconcepción de la epistemología basada en tomar el concepto de
 conocimiento como una noción primitiva. En modelos como esos uno podría
 sugerir, por ejemplo, que el concepto de creencia se explica en términos del
@@ -368,7 +369,7 @@ proceder.
 
 En todo caso, a menudo se critica al modelo clásico de análisis por no tener un
 buen récord de éxitos. Algunos filósofos han ofrecido interesantes ideas sobre
-por qué. Wittgenstein (1953) cuestiona la asunción de que siempre es posible
+por qué. @Wittgenstein1953 cuestiona la asunción de que siempre es posible
 dar un conjunto de condiciones que indique que es común a todas las cosas de un
 determinado tipo. Wittgenstein nos hace examinar la pregunta de si hay algo
 común a todos los juegos:
@@ -388,13 +389,13 @@ como una sugerencia retórica de que cada vez que te pongas a observar verás qu
 no hay nada común a todos los casos que caen bajo un concepto—en este caso, no
 es necesario observar salvo para confirmar la tesis anti-definicional.
 Ciertamente, la primera opción es encomendable y la segunda repudiable. Bernard
-Suits (1978) sugiere que Wittgenstein mismo no ha hecho el intento de observar
+Suits (#cite(<Suits1978>, form: "year")) sugiere que Wittgenstein mismo no ha hecho el intento de observar
 seriamente; de otro modo habría notado que si es posible dar una definición de
 lo que es un juego (Suits define jugar como ‘el intento voluntario de superar
 obstáculos innecesarios’ (41) – el lector puede formar su propia opinión acerca
 de si esta definición es adecuada).
 
-Otro argumento es el de Waismann (1945): los conceptos en general tiene una
+Otro argumento es el de @Waismann1945: los conceptos en general tiene una
 textura abierta (es posible decir que ciertos objetos que nada determina ni si
 caen bajo el concepto ni que no caen bajo él). Por tanto, no es posible decidir
 en base al uso previo del concepto si sigue aplicando en usos nuevos, y en
@@ -417,7 +418,7 @@ determinar una ubicación exacta para el concepto, apunta al área donde podemos
 encontrarlo. Mientras más puntos/conceptos conozcamos, mejor situados estaremos
 para dar con la posición de nuestro objetivo. Lo que importa en este caso es
 que tenemos una idea más precisa de cómo opera el concepto en distintos tipos
-de casos—tenemos un modelo del fenómeno.#footnote[Williamson (2017) explora la
+de casos—tenemos un modelo del fenómeno.#footnote[@Williamson2017 explora la
 importancia del uso de modelos en filosofía.] En el caso límite, la
 construcción de un modelo de este tipo puede entregarnos una estimación
 arbitrariamente precisa de las condiciones en las que el concepto queda
@@ -491,7 +492,7 @@ la U.S. Army Corps of Engineers construyó un modelo a escala de la bahía y sus
 alrededores, con un sistema hidraulico para simular las mareas, la corriente
 del río y la barrera de salinidad que hay entre el agua dulce del río y el agua
 salada que proviene del Océano Pacífico. El uso de este modelo permitió
-predecir que el plan de Reber no era viable.#footnote[Weisberg (2013) examina
+predecir que el plan de Reber no era viable.#footnote[@Weisberg2013 examina
 este caso más en detalle.] El modelo no es una representación exacta de la
 bahía de San Francisco, pero sí representa una serie de aspectos de ella, que
 son relevantes para la evaluación de un plan como el de Reber. Si no tuviera
@@ -617,7 +618,8 @@ diagnósticos de los casos. Por ejemplo, en el experimento mental de Gettier,
 Smith tiene justificación para creer una serie de cosas sobre Jones. ¿Qué
 pasaría si no tuviera esa justificación? Podemos simplemente examinar qué
 consecuencias se siguen de ese ajuste al experimento mental.#footnote[En
-_Intuition Pumps and Other Tools for Thinking_ (2013), Daniel Dennett sugiere que lo
+_Intuition Pumps and Other Tools for Thinking_ (#cite(<Dennett2014>, form:
+"year")), Daniel Dennett sugiere que lo
 más característico de los experimentos mentales (Dennett les llama "bombas de
 intuiciones") es que son ajustables en relación a distintos aspectos, lo que
 permite ver qué relaciones existen entre los componentes del experimento
@@ -631,7 +633,8 @@ experimento mental del Trolley:
  llegando a la bifurcación. Si no mueves la palanca, el tren arrollará a las 5
  personas, pero se salvará la persona en la otra rama. Si mueves la palanca, el
  tren arrollará a esa persona, pero se salvarán las 5 personas. ¿Mueves la
- palanca o no?
+ palanca o no?#footnote[El problema fue planteado por primera vez por Phillipa
+ Foot (#cite(<Foot1967>, form: "year")).]
 
 Parece plausible que, en vistas a las consecuencias de hacer una u otra cosa, la
 opción de mover la palanca es preferible. ¿Qué pasaría si cambias la situación?
@@ -671,8 +674,8 @@ simplemente no han sido pensadas por ellos (en ambos casos las opiniones de los
 filósofos son sorprendentes para quienes no son filósofos). Incluso si tomamos
 las posiciones promedio de la totalidad de los filósofos, encontraremos que
 como grupo no son necesariamente representativos del total de la
-población.#footnote[El problema es similar al que Heinrich, Heine & Norenzayan
-(2010) examinan en el caso de los estudios en psicología, que emplean de manera
+población.#footnote[El problema es similar al que @HenrichHeineNorenzayan2010
+examinan en el caso de los estudios en psicología, que emplean de manera
 excesiva datos sobre miembros de sociedades WEIRD (_Western, Educated,
 Industrialized, Rich, Democratic_ – Occidentales, Educadas, Industrializadas,
 Ricas, Democráticas). ]
@@ -708,7 +711,7 @@ basadas en la evidencia, o si bien pueden estar basadas en algún tipo de
 evidencia, no son confiables, o están sistemáticamente determinadas por
 factores culturales que las distorsionan. Por tanto, deberíamos adoptar
 metodologías que no se basen en las intuiciones. Algunos filósofos (como Herman
-Cappelen 2012) han argumentado que los filósofos nunca en realidad han basado
+Cappelen, #cite(<Cappelen2012>, form: "year")) han argumentado que los filósofos nunca en realidad han basado
 su trabajo en intuiciones, pero supongamos que existe alguna manera de sostener
 la idea de que sí lo hacen. Una posibilidad, la de los ‘filósofos
 experimentales’, es la de usar metodologías empleadas en psicología y las
@@ -730,22 +733,25 @@ experimental?]
 
 == Lecturas recomendadas
 
-El libro de Bernard Suits _The Grasshopper: Games, Life and Utopia_ (1978), es
+El libro de Bernard Suits _The Grasshopper: Games, Life and Utopia_
+(#cite(<Suits1978>, form: "year")), es
 probablemente la mejor iniciación que hay al método de análisis. A través de un
 dialogo, vemos como se crea, ajusta y defiende una propuesta de análisis sobre
 un tema que no es trivial: la definición de qué es un juego.
 
-_The Philosophy of Philosophy_, de Timothy Williamson (2007, 2a ed. 2021) es un
+_The Philosophy of Philosophy_, de Timothy Williamson (#cite(<Williamson2007>,
+form: "year"), 2a ed. 2021) es un
 importante punto de referencia para los debates contemporáneos acerca de la
 metodología filosófica. Williamson defiende la posibilidad (aunque no la
 necesidad) de que se pueda hacer buena filosofía desde el sillón que trate de
 asuntos que no son puramente conceptuales o lingüísticosi, y defiende el uso de
 modelos filosóficos. Williamson también ha escrito un libro más accesible,
-_Doing Philosophy: From Common Curiosity to Logical Reasoning_ (2018), que
+_Doing Philosophy: From Common Curiosity to Logical Reasoning_
+(#cite(<Williamson2018>, form: "year")), que
 esboza su manera de ver cómo funciona la filosofía.
 
 Un libro sobre metodología filosófica más reciente es _Philosophical
-Methodology: From Data to Theory_ (2022), de John Bengson, Terence Cuneo y Russ
+Methodology: From Data to Theory_ (#cite(<Bengson2022>, form:"year")), de John Bengson, Terence Cuneo y Russ
 Shafer-Landau. Los autores dan una formulación compacta de los criterios que
 debe satisfacer una teoría filosófica:
 
@@ -755,11 +761,11 @@ y expliquen los datos,  (ii) estén ellas mismas substanciadas e integradas, y
 (iii) posean virtudes teóricas específicas. (108)]
 
 Para una introducción al uso de modelos en general, un excelente punto de
-partida es el libro de Axel Gelfert (2016), _How to Do Science with Models: A
+partida es el libro de Axel Gelfert (#cite(<Gelfert2016>, form: "year")), _How to Do Science with Models: A
 Philosophical Primer_.
 
 Sobre los experimentos mentales, el libro _Experimentos Mentales y Filosofías de
-Sillón_ (2017), de Rodrigo González, reúne una colección importante de ensayos
+Sillón_ (#cite(<Gonzalez2017>, form:"year")), de Rodrigo González, reúne una colección importante de ensayos
 sobre su uso filosófico.
 
 El libro _Experimental Philosophy: An Introduction_ (#cite(<Alexander2012>,

@@ -812,6 +812,12 @@ presentación de varias lógicas de interés filosófico, así como de varios
 problemas filosóficos sobre la lógica. _An Introduction to Non-Classical Logic_
 (2008) de Graham Priest, es un recurso valiosísimo que cubre muchísimas de las
 lógicas de interés filosófico.
+
+La construcción de buenos argumentos en un sentido amplio va más allá que el
+mero uso de métodos lógicos. Un buen libro introductoria a la teoría de la
+argumentación es el conciso libro de Anthony Weston, _A Rulebook for Arguments_
+(#cite(<Weston2018>, form: "year")).
+
 ]
 
 ] // context
