@@ -41,5 +41,5 @@ Los archivos están organizados de la siguiente manera:
 | logic.typ       | Facilidades para preparar argumentos y fórmulas lógicas                             |
 | **bib/**        | Archivos de bibliografías                                                           |
 | **chapters/**   | Capítulos                                                                           |
-| **fonts/**      | Fuentes usadas (Minion Pro, Jost, Adobe Caslon Pro)                                 |
+| **fonts/**      | Fuentes usadas (Minion Pro, Jost)                                 |
 | **images/**     | Imágenes                                                                            |
