@@ -453,9 +453,31 @@ anti-intelectualista del saber-cómo extendido. Véase tb. @Carter2024a.]
 
 Para evaluar la situación respecto al intelectualismo acerca del saber-cómo es
 necesario evaluar primero las opciones para dar cuenta de la posibilidad del
-conocimiento proposicional extendido. Si @Clark1998 tienen razón, y es posible
+conocimiento proposicional extendido. Si @Clark1998 tienen razón y es posible
 que haya creencias extendidas, y si el conocimiento proposicional es un tipo de
-creencia, el conocimiento proposicional extendido debería ser posible.
+creencia, el conocimiento proposicional extendido debería ser posible (el
+argumento generaliza a toda clase de teoría sobre el saber-cómo en que este sea
+un tipo de estado con contenido). Esto tiene sentido si pensamos en términos de
+la hipótesis de la mente extendida, tomando al conocimiento como un tipo de
+estado, pero es más dudoso si lo tomamos desde la perspectiva de la cognición
+extendida, tomando al conocimiento en relación con ciertas clases de procesos.
+La tesis de la cognición extendida _no_ implica que si algo cambiara en el
+entorno, eso llevaría a cambios en el conocimiento (entendido como un tipo de
+actitud proposicional). Esta conclusión solo puede derivarse si añadimos la
+suposición adicional de que la posesión de actitudes proposicionales consiste en
+la ocurrencia de ciertos procesos (una asunción que, como vimos, @Clark1998 sí
+hacen), pero Carter y Czarnecki creen que el costo de esta suposición es
+demasiado alto porque creen que lleva a problemas como los que apuntan
+@Adams2001 y @Rupert2004.
+
+¿Cuáles son las opciones desde la perspectiva anti-intelectualista? Un
+anti-intelectualista que adopte una postura disposicionalista (por ejemplo,
+alquien que acepte la idea de que el saber-cómo consiste en la posesión de
+ciertas habilidades) tendría que reducir la posibilidad del saber-cómo
+extendido a la posibilidad de que ciertas habilidades estén
+parcialmente constituidas por el entorno. Para defender esta posición, es
+necesario esclarecer la relación que hay entre la posesión de habilidades y el
+entorno. 
 
 
 #set heading(numbering: none, outlined: false)
