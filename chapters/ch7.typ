@@ -535,7 +535,31 @@ partes del entorno. En el ejemplo que examinábamos antes, del sujeto que sabe
 cómo producir imágenes de objetos tridimensionales rotados, precisamente lo que
 tendríamos que decir es que, dada la tesis de paridad relevante, el asiento de
 su competencia se extiende a su entorno.
- 
+
+#question[Traten de construir un caso de saber-cómo extendido, identificando el
+asiento de la competencia relevante.]
+
+La propuesta de @Carter2016 y @Carter2018 permite dar cuenta de la posibilidad
+del saber-cómo extendido sin tener que asumir una concepción dinámica de la
+creencia o suscribir a la tesis de la mente extendida en su sentido estricto.
+Esto sugiere que, en cuanto a la posibilidad de la extensión en el entorno, el
+intelectualismo y el anti-intelectualismo no están a la par.
+
+Si parte del asiento de las competencias se extiende en el entorno del sujeto de
+esas competencias, podría volverse un problema distinguir entre la situación y
+el asiento de la competencia. Esto, a su vez, lleva a un problema respecto a la
+manera en que el saber-cómo extendido podría verse afectado por cuestiones de
+suerte epistémica ambiental. Si la confiabilidad de las partes del entorno que
+quedan integradas al asiento de las competencias se ve afectada por cuestions de
+suerte ambiental, el argumento anti-intelectualista de que, a
+diferencia del conocimiento proposicional, el saber-cómo no se ve afectado de la
+misma manera por la suerte epistémica se ve debilitado. En efecto, este tipo de
+problema tiene repercusiones importantes en cómo debamos pensar el asunto de la
+suerte epistémica respecto a toda clase de estado epistémico, si hemos de
+aceptar algo así como la posibilidad de que estos estados o procesos puedan
+extenderse en el entorno de los sujetos.#footnote[Cf. @Carter2013
+y @Carter2019.]
+
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
 
