@@ -1,5 +1,5 @@
 #[
-  #set text(size: 9pt)
+  #set text(size: 9.5pt)
   #set par(first-line-indent: 0em)
 Copyright #sym.copyright 2025 Felipe Morales Carbonell\ 
 Santiago, Chile
