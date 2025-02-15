@@ -1,4 +1,4 @@
-#import "../utils.typ": question
+#import "../utils.typ": question, aside
 
 = Usando el mundo
 
@@ -407,20 +407,11 @@ Estos criterios se ajustan al caso de la creencia y la memoria, pero en
 principio podría reconstruirse criterios similares o variaciones de estos para
 un rango más amplio de estados y procesos mentales/cognitivos.
 
-#question[@Rupert2004 propone, como alternativa a la hipótesis de la mente
+#question(breakable: true)[@Rupert2004 propone, como alternativa a la hipótesis de la mente
 extendida, lo que llama _hipótesis de la mente incrustada (embedded)_. Según
 esta hipótesis, es cierto que la cognición y la mente en general está
 involucrada extensamente con lo que sucede en el entorno, pero esto no significa
-que el entorno constituya parte de la mente o cognición.#footnote[La estrategia
-es similar a la de ciertos intérpretes de Descartes, quienes discuten la
-naturaleza de ciertos estados mentales 'mixtos', como la imaginación, que
-parecen requerir la participación tanto de la _res cogitans_ como de la _res
-extensa_. En la interpretación tradicional, estos son puramente modos de la _res
-cogitans_. De acuerdo a intérpretes 'trialistas', estos son modos de la unión de
-la _res extensa_ y la _res cogitans_, que es un _ens per se_. Para evitar esta
-interpretación, algunos autores han sugerido que debemos entender estos estados
-mentales como modos de la _res cogitans_ _en tanto que está unida a la res
-cogitans_. La hipótesis de la mente incrustada recuerda a esta última opción.]
+que el entorno constituya parte de la mente o cognición (véase apartado).
 
 Parte del argumento negativo de Rupert contra la hipótesis de la mente extendida
 consiste en mostrar que los criterios de Clark y Chalmers son insuficientes para
@@ -432,8 +423,19 @@ es de fácil acceso. Además, es parte del empleo de tales directorios que se lo
 acepte como autoritativos, y su existencia se explica porque se ha aceptado la
 información que contienen en el pasado. ¿Significa esto que tenemos creencias
 acerca de todos los números telefónicos disponibles en directorios telefónicos?
-¿Qué creen del argumento de Rupert?
+(cf. @Ludwig2014 para ver un argumento similar) ¿Qué creen del argumento de Rupert?
 ]
+
+#aside[La estrategia de @Rupert2004 es similar a la de ciertos intérpretes de
+Descartes, quienes discuten la naturaleza de ciertos estados mentales 'mixtos',
+como la imaginación, que parecen requerir la participación tanto de la _res
+cogitans_ como de la _res extensa_. En la interpretación tradicional, estos son
+puramente modos de la _res cogitans_. De acuerdo a intérpretes 'trialistas'
+(como @Cottingham1985), estos son modos de la unión de la _res extensa_ y la
+_res cogitans_, que es un _ens per se_. Para evitar esta interpretación, algunos
+autores (como @Rozemond1998) han sugerido que debemos entender estos estados mentales como modos de
+la _res cogitans_ _en tanto que está unida a la res cogitans_. La hipótesis de
+la mente incrustada recuerda a esta última opción.]
 
 == Saber-cómo extendido
 
@@ -504,6 +506,10 @@ tendríamos decir que este sujeto también sabe cómo producir imágenes rotadas
 objetos tridimensionales, y tendríamos que decir que, ya que la base categórica
 es híbrida, esta habilidad se extiende al entorno del sujeto, con el cual está
 acoplado.
+
+#question[¿Qué intuiciones tienen respecto al valor del saber-cómo extendido en
+casos como el que acabo de describir? ¿Está el saber-cómo extendido a la par o no
+con el saber-cómo no-extendido?]
 
 En @Carter2018 este modelo es explicado haciendo uso de la distinción,
 introducida por @Sosa2010, entre el asiento (_seat_), la figura (_shape_) y la
