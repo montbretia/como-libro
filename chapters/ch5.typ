@@ -908,7 +908,7 @@ El anti-intelectualista puede responder de distintas maneras. En primer
 lugar, puede rechazar la evidencia experimental supuestamente provista
 los juicios ordinarios acerca de Irina. Esto no parece fácil respecto al
 juicio de que Irina no tiene saber cómo—su confusión parece prevenir que
-lo tenga.#footnote[Cf. Cath (2011), Carter & Czarncki (2017), Levy (2017), Löwenstein
+lo tenga.#footnote[Cf. Cath (2011), Carter & Czarncki (2016), Levy (2017), Löwenstein
 (2017), Carter & Poston (2018), Littlejohn & Carter (2021), y Carter
 (2022).] Quizás una mejor opción es rechazar la idea de que Irina tiene la
 habilidad relevante para realizar el #emph[Salchow];. Por ejemplo,
