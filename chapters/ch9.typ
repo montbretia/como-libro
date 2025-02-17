@@ -17,7 +17,7 @@ forma de virtud. Entre los posibles _vicios_ del saber cómo están
 ciertas formas de soberbia epistémica, así como ciertas formas de
 dogmatismo.
 
-== Injusticia epistémica y saber cómo
+== Injusticia epistémica y saber-cómo
 
 Para introducirnos al siguiente tópico, partamos haciendo algunas observaciones
 acerca de la práctica de asignar y reconocer el estatus epistémico de los
@@ -44,7 +44,7 @@ ciertos roles.
 Una manera de ver esto es que normalmente tener ciertas propiedades con
 relevancia epistémica (como tener cierta información), implica tener ciertos
 _derechos_ como ocupantes potenciales de ciertos roles asociados a esas
-propiedades (como el rol de ser un informante). LLamemos a estos derechos,
+propiedades (como el rol de ser un informante). Llamemos a estos derechos,
 _derechos epistémicos_. Ya que simplemente tener un derecho no significa que
 este sea respetado incluso cuando haya razones para respetarlo, esto abre la
 posibilidad de que haya algún tipo de violaciones no justificadas de derechos
@@ -52,10 +52,48 @@ epistémicos. A grandes rasgos, la posibilidad de estas violaciones
 injustificadas de derechos corresponde a la posibildiad de lo que podemos llamar
 _injusticia epistémica_, en un sentido general.
 
+#aside(float: false)[En vez de hablar en términos de derechos y deberes,
+podríamos describir lo mismo en términos de habilitaciones y restricciones.
+Ocupar un rol habilita ciertas acciones, pero al mismo tiempo restringe qué
+acciones se puede tomar. Es importante notar que la noción de un rol es
+estructural, ya que un rol estar ocupado (por un sujeto que juega ese rol) o no,
+y esto no significa que el rol deje de existir, o al menos tener sentido, en un
+contexto determinado.#footnote[Vease @Haslanger2018 para una caracterización
+útil de las prácticas sociales que explica la ocupación de roles (la creación y
+mantención de roles es una práctica social en el sentido de Haslanger).]]
+
 Algunos filósofos han tratado de desarrollar esta idea, u otras similares, de
-maneras más concretas. Por ejemplo, Miranda Fricker (2008) caracteriza a las
-injusticias epistémicas como aquellas injusticias de las que es víctima un
-sujeto en su capacidad de sujeto de conocimiento (_knower_).
+maneras más concretas. Por ejemplo, Miranda Fricker (#cite(<Fricker2007>, form:
+"year")) caracteriza a las injusticias epistémicas como aquellas injusticias de
+las que es víctima un sujeto en su capacidad de sujeto de conocimiento
+(_knower_). Según Fricker, para que algo cuente como una injusticia epistémica
+no es suficiente que sea una injusticia respecto a la distribución de bienes
+epistémicos; por ejemplo, que no se informe a alguien de algo, incluso si es
+relevante para sus propósitos, no es suficiente para que esto constituya una
+instancia de injusticia epistémica, porque este tipo de acción (o inacción,
+según cómo prefiera describirselo) es algo que podríamos realizar con respecto a
+cualquier otro tipo de bien. Fricker identifica dos tipos de injusticias que,
+según ella, pueden ser caracterizadas como propiamente epistémicas porque
+afectan a sus víctimas específicamente en su capacidad de sujetos de
+conocimiento:
+
+- _Injusticia testimonial_: cuando un prejuicio hace que una persona le dé un
+  nivel de credibilidad más bajo o más alto de lo apropiado al testimonio de
+  alguien.#footnote[En el libro de 2007, Fricker enfatiza que la injusticia
+  testimonial se caracteriza por un déficit de credibilidad, y rechaza la
+  posibilidad de que dar demasiada credibilidad a alguien sea un tipo de
+  injusticia epistémica. Autores como @Medina2011 y @Lackey2018, sin embargo,
+  defienden la idea.]
+
+- _Injusticia hermenéutica_: cuando hay una brecha en los recursos
+  interpretativos colectivos que ponen a alguien en desventaja respecto a la
+  posibilidad de hacer sentido de sus propias experiencias.
+
+Para entender mejor estos conceptos, veamos un par de ejemplos. Primero,
+consideremos un caso de injusticia testimonial:
+
+/ :
+
 
 
 == Vicios del saber cómo
