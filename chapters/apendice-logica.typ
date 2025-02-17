@@ -8,7 +8,7 @@
   #show terms.item: it => {
     set text(size: 10pt)
     block(width: 100%, stroke: 0.5pt + black.lighten(80%), fill:
-    black.lighten(95%), inset: 1em, breakable: false, radius: 5pt)[
+    black.lighten(95%), inset: 0.8em, breakable: false, radius: 3pt)[
       #it
     ]
   }
@@ -535,6 +535,8 @@ Además, hay algunas reglas derivadas de inferencia que pueden ser útiles:
 
 #question[Pruebe la validez de estos esquemas argumentales.]
 
+#v(1em)
+
 == Lógica de predicados
 
 Hay argumentos válidos cuya verdad no queda capturada por la lógica
@@ -701,8 +703,6 @@ $Q$, entonces es $R$. Hacemos la suposición de que $a$ es $P$ y $Q$, y a partir
 de eso derivamos que hay algo que es $R$. Finalmente, descartamos la suposición
 y derivamos que hay algo que es $R$.
 
-La regla es: 
-
 / Cuantificador existencial (eliminación): 
   #fitch[
     + $exists x phi$
@@ -711,6 +711,8 @@ La regla es:
 
   ]
   $c$ no puede aparecer en $xi$.
+
+#v(2em)
 
 Algunas equivalencias útiles que son probables con estas reglas son:
 
@@ -722,6 +724,8 @@ Algunas equivalencias útiles que son probables con estas reglas son:
 + $exists x(phi or psi) equiv exists x(phi) or exists x(psi)$
 
 #question[Pruebe estas equivalencias.]
+
+#v(1em)
 
 Un elemento adicional que es útil en los lenguajes de primer orden es el de las
 _funciones_. Una función tiene la función sintáctica de los nombres, pero en vez
@@ -737,6 +741,8 @@ producir un valor de otro tipo.
   + $forall x forall y ("sum"(x, y) = "sum"(y, x))$
   + $forall y ("sum"(1, y) = "sum"(y, 1))$ (univ elim)
 ]
+
+#v(1em)
 
 También es conveniente añadir al lenguaje de primer orden de la lógica de predicados un
 elemento adicional, el signo de identidad. Esto nos permite decir cosas como que
