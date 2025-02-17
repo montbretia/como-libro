@@ -1975,14 +1975,14 @@ que se debe hacer X y sin embargo no hacer X. En un sentido más fuerte,
 podríamos rechazar que si sabemos que se debe hacer X y además _aceptamos_ que
 se debe hacer X es aún así posible no hacer X. Platón introdujo el problema de
 la posibilidad de la _akrasia_ en un famoso argumento que aparece en el
-_Protágoras_. Ahí Sócrates argumenta que el conocimiento tiene un poder tal que
+_Protágoras_ (@Platon1981). Ahí Sócrates argumenta que el conocimiento tiene un poder tal que
 es imposible actuar de manera contraria a lo que uno sabe que es bueno. El
 problema es que parece ser posible saber qué es lo bueno y aun así actuar de
 otra manera (i.e., ser acrático). Platón retoma el problema en la _República_,
-libro IV, donde parece rechazar el modelo del Protágoras y explica la
+libro IV (@Platon1988a), donde parece rechazar el modelo del Protágoras y explica la
 posibilidad de la _akrasia_ en términos de la división del alma en una parte
 racional y una parte apetitiva. Aristóteles lidia con el problema de la akrasia
-en el libro VII de la _Ética Nicomaquea_.] Que nos informen de lo que se nos
+en el libro VII de la _Ética Nicomaquea_ (@Aristoteles1985).] Que nos informen de lo que se nos
 permite no hace que adquiramos la disposición de actuar de ninguna de las
 maneras en que se nos permite actuar (por ejemplo, se nos puede decir que está
 permitido beber alcohol, y sin embargo no beberlo).
