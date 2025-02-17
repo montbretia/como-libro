@@ -1424,7 +1424,7 @@ acerca del entendimiento trata de si el entendimiento es factivo o no, es decir,
 si es necesario que el contenido del entendimiento sea verdadero. Los
 intelectualistas defienden la importancia del contenido verdadero del
 entendimiento (después de todo, el conocimiento es factivo),#footnote[Aunque
-considere las objeciones de Hazzlett (2015).] mientras que algunos
+considere las objeciones de Hazlett (2015).] mientras que algunos
 anti-intelectualistas enfatizan la importancia de formas de entendimiento cuyo
 contenido es literalmente falso, como el entendimiento que proveen las
 idealizaciones y ficciones (cf. Elgin 2017).
@@ -2060,7 +2060,7 @@ Grimm (2018) rechaza esta sugerencia por dos razones:
 
 + Si el éxito de la transmisión testimonial requiriera de la posesión previa de
  cierto saber-cómo mas general, no podríamos explicar la posibilidad de adquirir
- saber-cómo nuevo a partid del testimonio de otros. Si yo fuera un cocinero
+ saber-cómo nuevo a partir del testimonio de otros. Si yo fuera un cocinero
  novato, quizás no pueda decir que sé cocinar (en un sentido genérico), y aún
  así podría haber aprendido cómo cocinar el _biryani_. Poston dice que no es
  posible obtener una habilidad nueva directamente a través del testimonio de
