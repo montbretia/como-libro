@@ -1751,10 +1751,12 @@ observación de la veracidad del testimonio humano, y de la conformidad usual de
 los hechos con los reportes de los testigos. [...] Si la memoria no tuviese
 cierto grado de tenacidad; si las personas no tuvieran una inclinación a la
 verdad y un principio de probidad; si no sintieran vergüenza, cuando se detecta
-que están errados; sí estas no fueran, digo, cosas que la _experiencia_ descubre
+que están errados; si estas no fueran, digo, cosas que la _experiencia_ descubre
 como cualidades inherentes a la naturaleza humana, nunca podríamos descansar la
 menor confianza en el testimonio humano. Una persona delirante, o famosa por su
-falsedad y villanía, no tiene ninguna autoridad sobre nosotros.
+falsedad y villanía, no tiene ninguna autoridad sobre
+nosotros.#footnote[Traduzco de la edición de Eric Steinberg (#cite(<Hume1993>,
+form:"year")).]#h(1fr) (10.5, SBN 111-112)
 ]
 
 En la propuesta reduccionista de Hume, recibimos el testimonio de alguien, y en
