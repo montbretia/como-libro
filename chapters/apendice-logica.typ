@@ -394,8 +394,6 @@ Como regla derivada de estas, tenemos:
 Vamos a permitir que si algo puede tomarse como verdadero, lo podemos _reiterar_
 en cualquier paso de la prueba posterior.
 
-#pagebreak()
-
 Con estas reglas podemos construir cualquier prueba para la lógica
 proposicional. Por ejemplo, podemos probar que $(p and q) and r$ se sigue de $p
 and (q and r)$:
@@ -790,9 +788,11 @@ $c=c$. Esta suposición tiene que descargarse inmediatamente:
 == Lecturas recomendadas
 
 Una introducción excelente a la lógica proposicional y de predicados es _The
-Logic Manual_ (2010) de Volker Halbach. Una introducción similar, pero más
-detallada, es _How Logic Works: A User's Guide_ (2020), de Hans Halvorson.
-Otra introducción de mi gusto es _Formal Logic: Its Scope and Limits_, de
+Logic Manual_ (#cite(<Halbach2010>, form: "year")) de Volker Halbach. Una introducción similar, pero más
+detallada, es _How Logic Works: A User's Guide_ (#cite(<Halvorson2020>, form:
+"year")), de Hans Halvorson.
+Otra introducción de mi gusto es _Formal Logic: Its Scope and Limits_
+(#cite(<Jeffrey2006>, form: "year")), de
 Richard Jeffrey (una diferencia con las otras, es que este libro usa el método
 de los árboles analíticos como sistema de prueba). En español, el libro _Lógica
 para Principiantes_ (2004) de María Manzano y Antonia Huertas es bueno.
@@ -805,13 +805,14 @@ pueden definirse en términos veritativo-funcionales: algo puede ser falso, y si
 embargo ser posible. Una idea común para dar sentido a esto es que si bien ago
 puede ser falso en el mundo actual, podría ser verdadero en un mundo posible que
 represnta una manera en que el mundo actual podría haber sido. El libro _Modal
-Logics and Philosophy_ (2009) de Rod Girle es una introducción amigable.
+Logics and Philosophy_ (#cite(<Girle2014>, form:"year")) de Rod Girle es una introducción amigable.
 
-_An Introduction to Philosophical Logic_ (2021) de John McFarlane es una buena
-presentación de varias lógicas de interés filosófico, así como de varios
-problemas filosóficos sobre la lógica. _An Introduction to Non-Classical Logic_
-(2008) de Graham Priest, es un recurso valiosísimo que cubre muchísimas de las
-lógicas de interés filosófico.
+_Philosophical Logic: A Contemporary Introduction_ (#cite(<MacFarlane2021>,
+form: "year")) de John McFarlane es una buena presentación de varias lógicas de
+interés filosófico, así como de varios problemas filosóficos sobre la lógica.
+_An Introduction to Non-Classical Logic_ (#cite(<Priest2019>, form: "year")) de
+Graham Priest, es un recurso valiosísimo que cubre muchísimas de las lógicas de
+interés filosófico.
 
 La construcción de buenos argumentos en un sentido amplio va más allá que el
 mero uso de métodos lógicos. Un buen libro introductoria a la teoría de la
