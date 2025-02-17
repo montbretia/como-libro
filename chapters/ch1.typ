@@ -87,7 +87,7 @@ práctico, ‘saber cómo hacer algo’. La expresión en español es un présta
 tanto artificial del inglés, donde se utilizan los términos _know-how_ y
 _knowing-how_. 
 
-#aside[
+#aside(float: false)[
   _Una nota terminológica_. Mientras que en inglés usamos el mismo verbo raíz
   'to know' para referirnos al conocimiento en todas sus formas, en español
   empleamos de manera diferencial los términos 'saber' y 'conocer'. 
