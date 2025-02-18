@@ -148,7 +148,7 @@ Por otro lado, este libro busca enfatizar la práctica de la filosofía, es
 decir, la construcción de modelos y argumentos, el análisis de ejemplos y
 contraejemplos, y la evaluación de experimentos mentales. Por eso, creo que
 puede ser empleado además como una introducción a la metodología filosófica. No
-hay manera de aprender a filosofar sino mediante hacerse preguntas concretas e
+se puede aprender a filosofar, sino mediante hacerse preguntas concretas e
 intentar responderlas uno mismo. Las preguntas acerca del saber cómo son
 fascinantes (espero convencerte de ello durante el libro), y ofrecen una
 excelente oportunidad para ello.#footnote[Esto hace que el libro difiera de
