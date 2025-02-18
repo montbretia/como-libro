@@ -92,8 +92,100 @@ conocimiento:
 Para entender mejor estos conceptos, veamos un par de ejemplos. Primero,
 consideremos un caso de injusticia testimonial:
 
-/ :
+/ Stef: Stef es un joven inmigrante trabajando en un laboratorio. Pedro, su
+  jefe, tiene ciertos prejuicios acerca del nivel educacional de inmigrantes
+  como Stef. Durante una conversación, Stef comenta que cree que el
+  procedimiento en el que están trabajando podría mejorarse si realizaran un
+  pequeño cambio (Stef tiene experiencia previa en este tipo de procesos). Pedro
+  escucha el comentario de Stef, pero no lo toma seriamente a causa de sus
+  prejuicios. En consecuencia, Stef no gana influencia en su grupo de trabajo.
 
+En este caso, Stef es víctima de un tipo de injusticia epistémica en el sentido
+de que no le es dada la credibilidad apropiada, lo que le afecta en su rol de
+sujeto de conocimiento. Lo que es importante aquí es que en esta situación, la
+manera en que Pedro trata la identidad de Stef está mediada por un prejuicio que
+distorsiona los juicios que hace y comunica acerca de la credibilidad de Stef.
+En un entorno social, usualmente ocurre que empleamos información acerca de la
+identidad de nuestros interlocutores para hacer juicios rápidos acerca de su
+credibilidad. Esto no es un problema a menos que estos juicios se vean
+distorsionados por prejuicios. La identidad de los sujetos involucrados en una
+situación comunicacional como la que describimos tiene normalmente una multitud
+de dimensiones (Stef es inmigrante, joven, tiene experiencia en su trabajo,
+etc.), pero el contexto (en particular, las creencias de trasfondo de los
+interlocutores) determina la prominencia y valencia de esas dimensiones
+al momento de formar juicios.
 
+#question[Considere el siguiente caso: antes de una reunión, un colega le dice a
+Stef que nadie le va a escuchar porque es un inmigrante, y en consecuencia, Stef
+no participa libremente en la reunión. ¿Es esto también un tipo de injusticia
+epistémica? Imaginen que Stef decide no partipar abiertamente en el intercambio
+de opiniones en la reunión porque cree que no lo van a tomar en serio. ¿Es este
+un caso de injusticia epistémica?]
+
+El caso de la injusticia hermenéutica es un poco distinto. En este caso, el
+problema no es que un sujeto de conocimiento es incapacitado para que las
+acciones que toma de acuerdo a los roles epistémicos que tiene sean efectivas,
+sino que se previene que pueda tomar ciertos roles porque no se le permite el
+acceso a ciertos recursos interpretativos. Consideren este ejemplo:
+
+/ Acoso: Lisa es víctima de acoso en el trabajo. Aunque siente una molestia, no
+  entiende por qué se siente así, y se siente culpable y avergonzada. Piensa
+  '¿estaré exagerando?', y de hecho su entorno social parece sugerir
+  precisamente eso; oye a colegas y jefes decir que cosas así son normales, que
+  no hay nada de que preocuparse. Hablando con una colega, se da cuenta de que
+  no es la única, pero su colega tampoco entiende lo que sucede. Un día, leyendo
+  una revista, encuentra un artículo donde se habla de casos similares, y los
+  describen como acoso. Lisa se da cuenta de que eso es lo que le pasa.
+
+Al principio, Lisa tiene una laguna interpretativa; no _ve_ que lo que le sucede
+es que es víctima de acoso. Su situación no es única, la situación en la que
+está parece estar estructurada de manera que nadie pueda reconocer lo que está
+sucediendo, al punto de que lo único que cambia la situación de Lisa es un
+encuentro casual con la idea de acoso laboral. En este caso, la injusticia
+proviene de la manera en que sujetos como Lisa están marginalizados
+hermenéuticamente en ese contexto. Esta marginalización puede ser sistemática o
+incidental.
+
+Otros autores han propuesto que aparte de estas formas de injusticia epistémica,
+existen otros tipos. Por ejemplo, @Hookway2010 considera que toda clase de
+contribución al proceso de investigación puede ser afectado por alguna forma de
+injusticia epistémica. Al investigar, no solamente ofrecemos información o
+construimos maneras de entender algo, sino que también hacemos preguntas,
+probamos cómo funcionarían ciertas ideas sin aceptarlas, consideramos
+posibilidades, etc. Dada la centralidad de estas actividades para la obtención
+de fines y bienes epistémicos, es necesario pensar que ciertas acciones en
+relación con esto puede redituar en una forma de injusticia epistémica. Hookway
+llama a esta forma de injusticia epistémica _injusticia participativa_. Así como
+en el caso de la injusticia testimonial (que por otro lado, resulta ser un tipo
+de injusticia participativa) es posible que haya injusticia al dar muy poca o
+mucha credibilidad al testimonio de alguien, en el caso de la injusticia
+participativa es posible cometer injusticia epistémica al dar muy poco o
+demasiado espacio para participar en una tarea investigativa a un sujeto.
+
+#question[@Nguyen2020 distingue entre 'burbujas epistémicas' y 'cámaras de eco'.
+En una burbuja epistémica se omiten ciertas voces sobre un asunto. Por ejemplo,
+simplemente por el hecho de no tener un entorno social muy amplio, los niños a
+menudo están en burbujas epistémicas respecto a asuntos de los que solamente
+hablan con su familia. En una cámara de eco, se excluyen y desacreditan
+activamente otras voces. Por ejemplo, ciertos grupos conspiracionistas suelen
+desacreditar por defecto a sus críticos. Nguyen argumenta que debido a la manera
+en que las cámaras de eco abusan de la interdependencia epistémica de quienes
+están en ellas, es extremadamente difícil escapar de ellas. Las cámaras de eco
+epistémicas presentan una fuente adicional de injusticia epistémica. ¿Qué tipos
+de injusticia epistémica promueven las cámaras de eco?]
+
+Ahora que tenemos una idea de en qué consiste la injusticia epistémica, ¿cómo
+aplica este concepto al caso del saber-cómo?
 
 == Vicios del saber cómo
+
+#set heading(numbering: none, bookmarked: false)
+== Lecturas recomendadas
+
+@McKinnon2016 ofrece una visión sinóptica de las discusiones centrales sobre la
+injusticia epistémica. @Kidd2019 ofrece un número de perspectivas y aplicaciones
+del concepto de injusticia epistémica.
+
+Muchas aplicaciones de la noción de injusticia epistémica tienen consecuencias
+políticas. @Medina2013 es un ejemplo importante, y considera en extenso el
+problema de cómo se puede crear una situación de justicia epistémica. 
