@@ -177,7 +177,42 @@ de injusticia epistémica promueven las cámaras de eco?]
 Ahora que tenemos una idea de en qué consiste la injusticia epistémica, ¿cómo
 aplica este concepto al caso del saber-cómo?
 
+Una idea inicial que podríamos tener, especialmente si tenemos tendencias
+intelectualistas, es tratar de reconstruir la posibilidad de injusticia
+epistémica que afecte al saber-cómo en términos de cómo podría afectar al
+conocimiento proposicional. En el libro de 2007, Fricker no habla del
+saber-cómo, de modo que los ejemplos clásicos de injusticia epistémica tratan de
+casos en que ocurre alguna injusticia respecto a los roles que distintos sujetos
+pueden tomar respecto a, principalmente, el conocimiento proposicional. El caso
+central de injusticia epistémica que Fricker examina, la injusticia testimonial,
+precisamente consiste es una injusticia que alguien comete respecto a alguien
+que toma el rol de informante en el sentido de hacer afirmaciones
+presumiblemente fundadas en su conocimiento u otras actitudes similares.
+
+Ciertamente, al menos parte del rol de quienes tienen saber-cómo consiste en ser
+fuentes de saber-cómo para otros (saber-cómo hacer algo te da el derecho de
+instruir a otros acerca de cómo hacer lo que saber hacer). En este sentido,
+alquien que tiene saber-cómo puede sufrir un tipo de injusticia epistémica
+porque se coarta en este rol; esto sería un caso de injusticia testimonial. En
+el caso del saber-cómo, sin embargo, el reconocimiento mismo de alguien como poseedor
+de saber-cómo es problemático de maneras que son hacen que la situación sea
+distinta a la del caso del testimonio de conocimiento proposicional.
+
 == Vicios del saber cómo
+
+Saber cómo hacer algo es valioso por razones epistémicas y prácticas, y
+podríamos fácilmente pensar que es en sí mismo una virtud epistémica, en el
+sentido de la epistemología de las virtudes (donde una virtud es una propiedad
+estable de valencia positiva del carácter de los sujetos epistémicos o de los
+procesos epistémicos en lo que participan).#footnote[La distinción entre una
+virtud como una propiedad del carácter y una virtud como una propiedad de
+ciertos procesos o mecanismos da pie a distintas formas de epistemología de las
+virtudes. Cf. @Zagzebski1998, cap. 1.] Sin embargo, así como es posible ser
+virtuoso respecto a algo, es posible tener _vicios_. ¿Hay vicios del saber-cómo?
+
+El estudio de los vicios epistémicos es el campo de estudio de la así-llamada
+_epistemología de los vicios_, y ha recibido bastante atención ultimamente
+gracias al trabajo de filósofos como Quassim Cassan. 
 
 #set heading(numbering: none, bookmarked: false)
 == Lecturas recomendadas

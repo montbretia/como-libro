@@ -1696,7 +1696,7 @@ acerca de cómo caracterizar la distinción intelectualismo/anti-intelectualismo
 #question[¿Como clasificaríamos las posturas que hemos examinado hasta ahora
 según este esquema?]
 
-== El problema del testimonio
+== El problema del testimonio <testimonio>
 
 Volviendo a la pregunta de cómo se diferencian el saber-cómo y el conocimiento
 proposicional, podríamos preguntarnos si podemos adquirir saber-cómo de las
