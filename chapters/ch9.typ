@@ -141,7 +141,9 @@ Al principio, Lisa tiene una laguna interpretativa; no _ve_ que lo que le sucede
 es que es víctima de acoso. Su situación no es única, la situación en la que
 está parece estar estructurada de manera que nadie pueda reconocer lo que está
 sucediendo, al punto de que lo único que cambia la situación de Lisa es un
-encuentro casual con la idea de acoso laboral. En este caso, la injusticia
+encuentro casual con la idea de acoso laboral. En este caso, la injEn
+la #ref(<testimonio>) vimos algunos de los problemas que hay acerca de la
+transmisión testimonial del saber-cómo. Como vimos, en general no es suficienteusticia
 proviene de la manera en que sujetos como Lisa están marginalizados
 hermenéuticamente en ese contexto. Esta marginalización puede ser sistemática o
 incidental.
@@ -187,7 +189,9 @@ pueden tomar respecto a, principalmente, el conocimiento proposicional. El caso
 central de injusticia epistémica que Fricker examina, la injusticia testimonial,
 precisamente consiste es una injusticia que alguien comete respecto a alguien
 que toma el rol de informante en el sentido de hacer afirmaciones
-presumiblemente fundadas en su conocimiento u otras actitudes similares.
+presumiblemente fundadas en su conocimiento u otras actitudes siEn
+la #ref(<testimonio>) vimos algunos de los problemas que hay acerca de la
+transmisión testimonial del saber-cómo. Como vimos, en general no es suficientemilares.
 
 Ciertamente, al menos parte del rol de quienes tienen saber-cómo consiste en ser
 fuentes de saber-cómo para otros (saber-cómo hacer algo te da el derecho de
@@ -196,7 +200,63 @@ alquien que tiene saber-cómo puede sufrir un tipo de injusticia epistémica
 porque se coarta en este rol; esto sería un caso de injusticia testimonial. En
 el caso del saber-cómo, sin embargo, el reconocimiento mismo de alguien como poseedor
 de saber-cómo es problemático de maneras que son hacen que la situación sea
-distinta a la del caso del testimonio de conocimiento proposicional.
+distinta a la del caso del testimonio de conocimiento proposicional. Por lo
+general, que alguien nos diga cómo podría hacerse algo no es evidencia
+suficiente para pensar que esa es la manera de hacerlo, ni tampoco de que la
+persona sabe cómo hacerlo. Por lo general, preferimos atribuir saber-cómo a
+quienes demostrablemente son capaces de hacer ciertas cosas.#footnote[Esto es
+distinto al caso en que alguien te dice que una tercera persona sabe cómo hacer
+algo. En ese caso la información es proposicional, y que la aceptemos o no
+depende de la credibilidad que le demos a nuestro informante.] Dado esto, es
+necesario afinar la manera en que entendemos la posibilidad de injusticias
+epistémicas relacionadas con el saber-cómo.
+
+@Hawley2011 hace una serie de distinciones que son importantes para atacar el
+problema. Primero, Hawley distingue entre varios roles que pueden ocupar quienes
+poseen saber-cómo. Por una parte, quienes saben cómo hacer algo pueden ocupar el
+rol de maestros o modelos para aprendices; este es el caso que veníamos
+discutiendo. Por otra parte, quienes saben cómo hacer algo también pueden
+dedicarse a realizar las tareas que saben hacer para otros, que en este caso
+serían sus _clientes_ (aunque no es necesario que tengan una relación económica,
+de modo que un cliente podría ser simplemente alguien que necesita ayuda y a la
+que otra persona podría prestarle una mano). A causa de algún prejuicio, un
+aprendiz o un cliente podría disminuir o exagerar el saber-cómo de sus
+informantes o contratados. En particular, incluso si vieran que tienen éxito en
+sus acciones más o menos regularmente, los aprendices o clientes podrían no
+reconocer suficientemente que son expertos, o incluso podrían explicar su éxito
+en términos de mera casualidad, sin darles crédito por lo que hacen. En ambos
+casos, los aprendices y clientes socavan el estatus de quienes poseen
+saber-cómo.#footnote[@Barker2021 extiende el análisis de la segunda clase de
+casos.]
+
+Segundo, Hawley toma una distinción que ya había esbozado @Fricker2007, entre
+informantes y fuentes de información. Un informante es responsable por la
+información que provee, porque lo hace activamente. Una fuente de información
+provee de información sin necesariamente tener un rol activo o incluso
+consciente en este proceso. Imaginen que hay tres personas en una habitación, A,
+B, y C. A quiere transmitirle un secreto a B, sin que C se entere. Para ello, A
+emplea un código que había convenido de antemano con B, y por lo tanto es un
+informante para B. Sin que A o B se enteren, C se da cuenta de que están usando
+un código, y lo descifra, de modo que adquiere la información secreta. A es una
+fuente de información para C, pero no un informante. Esto es relevante para
+tratar el siguiente problema. Fricker distingue entre prejuicios de ignorancia y
+prejuicios de engaño. Tratar a alguien que sabe de ignorante es una injusticia
+epistémica, pero también lo es tratar a alguien de mentiroso injustamente.
+¿Existe algo similar en el caso del saber cómo? Fricker sugiere que si lo hay,
+es un fenómeno más raro que en el caso de la transmisión de conocimiento
+proposicional; la razón, justamente, es que cuando adquirimos saber-cómo de
+otros, los tratamos como fuentes de información, no necesariamente como
+informantes (por ejemplo, podemos aprender a hacer algo de alguien sin que esa
+persona necesariamente intente enseñarnos), y además porque parece ser
+particularmente difícil engañar a alguien acerca de cómo se hace algo (si uno
+intenta una manera falsa de hacer algo, es probable que uno
+falle).#footnote[@Carter2024 argumentan, sin embargo, que la hipótesis de Hawley de que el
+saber-cómo es menos susceptible a ser falsificado que el conocimiento
+proposicional es dudosa.] De modo que en el caso del saber-cómo no habría
+demasiado espacio para injusticias epistémicas basadas en prejuicios de engaño.
+
+#question[¿Existe un análogo a la injusticia hermenéutica que afecte al
+saber-cómo?]
 
 == Vicios del saber cómo
 
@@ -224,3 +284,6 @@ del concepto de injusticia epistémica.
 Muchas aplicaciones de la noción de injusticia epistémica tienen consecuencias
 políticas. @Medina2013 es un ejemplo importante, y considera en extenso el
 problema de cómo se puede crear una situación de justicia epistémica. 
+
+Para una manera diferente de enmarcar la discusión acerca de la posibilidad de
+injusticia epistémica respecto al saber-cómo, véase @Cath2025.
