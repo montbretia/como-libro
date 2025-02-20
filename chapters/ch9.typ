@@ -312,10 +312,7 @@ ciertas formas de dudas, la falta de cuidado, la credulidad, el apresuramiento
 intelectual, el cinismo, el fatalismo, el estar satisfechos con uno mismo, el
 narcisismo, el auto-humillarse, la ignorancia motivada, el desinterés por los
 objetivos epistémicos de los demás, la procrastinación, el esnobismo,
-etc.#footnote[Véanse las lecturas recomendadas, sobre todo @Kidd2019.] Si
-bien muchos de estos vicios epistémicos pueden conceptualizarse como falencias
-individuales, también es posible pensar que es posible que instituciones o
-grupos de personas tengan vicios epistémicos propios.
+etc.#footnote[Véanse las lecturas recomendadas, sobre todo @Kidd2019.] 
 
 ¿Qué tienen estas cosas en común? Según @Cassam2016, son mecanismos, hábitos o
 estilos de pensamiento o investigación, formas de buscar y evaluar evidencia,
@@ -334,6 +331,29 @@ las que participan quienes poseen estos vicios:
     negligente disminuye la efectividad de nuestras investigaciones, y nos deja
     abiertos a la crítica de que actuamos irresponsablemente.#h(1fr) (p. 165)
 ]
+
+Si bien muchos de estos vicios epistémicos pueden conceptualizarse como
+falencias individuales, también es posible pensar que es posible que
+instituciones o grupos de personas tengan vicios epistémicos propios.
+Adicionalmente, la relación entre los vicios epistémicos a los niveles
+individual y colectivo es compleja. @Levy2020, por ejemplo, argumentan que las
+disposiciones que están en juego en la producción y mantención de lo que llaman
+'cultura acumulativa' (el conocimiento colectivamente recopilado que se
+transmite en una sociedad y que sirve de base para las innovaciones que puedan
+hacer las generaciones futuras) son más similares a los vicios que las virtudes,
+de ahí que hablen de vicios que lleven al conocimiento.#footnote[De manera
+similar, @Bland2022 argumenta que la imprudencia epistémica a menudo es crucial
+para la obtención de conocimiento a largo plazo.] En particular,
+argumentan, las prácticas de transmisión intergeneracional que requiere la
+cultura acumulativa exhiben varias formas extremas de deferencia epistémica, que
+generan un sesgo de conformismo (copiamos irreflexivamente el comportamiento y
+las creencias de la mayoría) e imitación excesiva. A pesar de esto, la cultura
+acumulativa es extremadamente importante. El éxito de la cultura acumulativa
+como cuerpo de conocimiento no se debe a las virtudes de miembros de las
+sociedades a las que pertenece, pues puede pasar que nadie en esas sociedades
+entienda qué es lo que la hace exitosa.#footnote[Esto nos remite de vuelta al
+tipo de problemas con los estados epistémicos colectivos que vimos en el
+capítulo anterior.]
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
