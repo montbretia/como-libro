@@ -282,17 +282,60 @@ Tenessini, entre otros. Los epistemólogos de los vicios se dedican en primer
 lugar, a caracterizar y explicar las maneras en que somos malos pensadores y
 sujetos epistémicos, y para hacerlo recurren a la idea de que estas deficiencias
 epistémicas deben explicarse en términos de la presencia de rasgos negativos
-estables del carácter. Estos serían los vicios epistémicos. En segundo lugar,
-los epistemólogos de los vicios tratan de construir maneras de evitar la
+pero estables del carácter. Estos serían los vicios epistémicos. En segundo
+lugar, los epistemólogos de los vicios tratan de construir maneras de evitar la
 influencia de los vicios epistémicos, con el fin de mejorar nuestra situación
 epistémica.#footnote[Este último fin pone los objetivos de la epistemología de
 los vicios a la par con otras tendencias en la epistemología contemporánea, como
 la epistemología de la investigación (_inquiry_). Cf. @Hookway2006. Véase
-tambien @Ballantyne2019 y @McKenna2023.]
+también @Roberts2007, @Ballantyne2019 y @McKenna2023.]
 
+@Zagzebski1998 da los siguientes ejemplos de vicios epistémicos:
 
+#quote(block: true)[
+[...] el orgullo epistémico, la negligencia, la flojera, la cobardía, la
+conformidad, la despreocupación, la rigidez, el prejuicio, el dejarse llevar por
+las ilusiones, la cerrazón de mente, la falta de sensibilidad a los detalles, la
+obcecación [en el sentido de no ver la relevancia de ciertos detalles al momento
+de sopesar cierta evidencia o la confiabilidad de una autoridad], y la falta de
+exhaustividad. También hay probablemente un vicio contrario a la perseverancia
+intelectual, que consiste en ceder muy pronto, y que puede ser una forma de
+flojera o tendencia a descorazonarse. Algunas formas de auto-engaño pueden ser
+un vicio, pero otras pueden ser más bien una forma de _akrasia_
+intelectual.#h(1fr) (p. 152)
+]
 
-#set heading(numbering: none, bookmarked: false)
+Otros autores añaden a esta lista la arrogancia o _hubris_ (aunque puede ser un
+tipo de lo que Zagzebski llama 'orgullo epistémico'), el dogmatismo, la
+autoindulgencia epistémica, tontería, la falta de amor por el aprendizaje,
+ciertas formas de dudas, la falta de cuidado, la credulidad, el apresuramiento
+intelectual, el cinismo, el fatalismo, el estar satisfechos con uno mismo, el
+narcisismo, el auto-humillarse, la ignorancia motivada, el desinterés por los
+objetivos epistémicos de los demás, la procrastinación, el esnobismo,
+etc.#footnote[Véanse las lecturas recomendadas, sobre todo @Kidd2019.] Si
+bien muchos de estos vicios epistémicos pueden conceptualizarse como falencias
+individuales, también es posible pensar que es posible que instituciones o
+grupos de personas tengan vicios epistémicos propios.
+
+¿Qué tienen estas cosas en común? Según @Cassam2016, son mecanismos, hábitos o
+estilos de pensamiento o investigación, formas de buscar y evaluar evidencia,
+que impiden el desarrollo efectivo y responsable de ciertas tareas epistémicas
+(cf. p. 164). Cassam argumenta que no es necesario pensar que los vicios
+epistémicos son siembre rasgos de carácter, como en el modelo aristotélico de la
+virtud y el vicio; otras cosas como el ignorar cierta evidencia es un vicio
+porque impide que se investigue efectiva y responsablemente. Lo que hace que
+algo sea un vicio es su 'influencia maligna' en las prácticas investigativas en
+las que participan quienes poseen estos vicios:
+
+#quote(block: true)[
+    Ser crédulo es un vicio y no una virtud porque que nos engañen nos hace
+    menos efectivos en descubrir las respuestas a nuestras preguntas y en tratar
+    de comprender los eventos que tratamos de comprender. Ser descuidado o
+    negligente disminuye la efectividad de nuestras investigaciones, y nos deja
+    abiertos a la crítica de que actuamos irresponsablemente.#h(1fr) (p. 165)
+]
+
+#set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
 
 @McKinnon2016 ofrece una visión sinóptica de las discusiones centrales sobre la
@@ -310,4 +353,7 @@ Para una manera diferente de enmarcar la discusión acerca de la posibilidad de
 injusticia epistémica respecto al saber-cómo, véase @Cath2025.
 
 @Kidd2020 reúne una serie de artículos explorando la epistemología de las
-virtudes.
+virtudes. El libro _The Mismeausre of the Self_ (#cite(<Tanesini2021>,
+form:"year")), de Alessandra Tanesini es un estudio detallado de ciertos vicios
+epistemicos que tienen que ver con la manera en que las personas juzgan su
+propio carácter epistémico (por ejemplo, el narcisismo y la auto-satisfacción).
