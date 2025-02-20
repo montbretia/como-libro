@@ -267,12 +267,30 @@ estable de valencia positiva del carácter de los sujetos epistémicos o de los
 procesos epistémicos en lo que participan).#footnote[La distinción entre una
 virtud como una propiedad del carácter y una virtud como una propiedad de
 ciertos procesos o mecanismos da pie a distintas formas de epistemología de las
-virtudes. Cf. @Zagzebski1998, cap. 1.] Sin embargo, así como es posible ser
-virtuoso respecto a algo, es posible tener _vicios_. ¿Hay vicios del saber-cómo?
+virtudes; en el primer caso, al _responsabilismo_ asociado a Montmarquet
+(#cite(<Montmarquet1987>, form: "year"), #cite(<Montmarquet1993>, form:"year")) y
+Zagzebski (#cite(<Zagzebski1998>, form: "year")), y en el segundo, al
+_confiabilismo_ (@Sosa2015, @Greco1999, @Pritchard2012).
+Lorraine Code (#cite(<Code1984>, form: "year")) introdujo la distinción por primera vez.]
+Sin embargo, así como es posible ser virtuoso respecto a algo, es posible tener
+_vicios_. ¿Hay vicios del saber-cómo?
 
 El estudio de los vicios epistémicos es el campo de estudio de la así-llamada
 _epistemología de los vicios_, y ha recibido bastante atención ultimamente
-gracias al trabajo de filósofos como Quassim Cassan. 
+gracias al trabajo de filósofos como Quassim Cassam, Ian Kidd y Alessandra
+Tenessini, entre otros. Los epistemólogos de los vicios se dedican en primer
+lugar, a caracterizar y explicar las maneras en que somos malos pensadores y
+sujetos epistémicos, y para hacerlo recurren a la idea de que estas deficiencias
+epistémicas deben explicarse en términos de la presencia de rasgos negativos
+estables del carácter. Estos serían los vicios epistémicos. En segundo lugar,
+los epistemólogos de los vicios tratan de construir maneras de evitar la
+influencia de los vicios epistémicos, con el fin de mejorar nuestra situación
+epistémica.#footnote[Este último fin pone los objetivos de la epistemología de
+los vicios a la par con otras tendencias en la epistemología contemporánea, como
+la epistemología de la investigación (_inquiry_). Cf. @Hookway2006. Véase
+tambien @Ballantyne2019 y @McKenna2023.]
+
+
 
 #set heading(numbering: none, bookmarked: false)
 == Lecturas recomendadas
@@ -283,7 +301,13 @@ del concepto de injusticia epistémica.
 
 Muchas aplicaciones de la noción de injusticia epistémica tienen consecuencias
 políticas. @Medina2013 es un ejemplo importante, y considera en extenso el
-problema de cómo se puede crear una situación de justicia epistémica. 
+problema de cómo se puede crear una situación de justicia epistémica. El volumen
+_The Political Turn in Analytic Philosophy_ (#cite(<Plou2023>, form: "year"))
+reúne una serie de ensayos que aplican los métodos de la filosofía analítica a
+cuestiones de importancia política.
 
 Para una manera diferente de enmarcar la discusión acerca de la posibilidad de
 injusticia epistémica respecto al saber-cómo, véase @Cath2025.
+
+@Kidd2020 reúne una serie de artículos explorando la epistemología de las
+virtudes.
