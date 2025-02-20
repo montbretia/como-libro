@@ -250,8 +250,8 @@ informantes (por ejemplo, podemos aprender a hacer algo de alguien sin que esa
 persona necesariamente intente enseñarnos), y además porque parece ser
 particularmente difícil engañar a alguien acerca de cómo se hace algo (si uno
 intenta una manera falsa de hacer algo, es probable que uno
-falle).#footnote[@Carter2024 argumentan, sin embargo, que la hipótesis de Hawley de que el
-saber-cómo es menos susceptible a ser falsificado que el conocimiento
+falle).#footnote[@Carter2024 argumentan, sin embargo, que la hipótesis de Hawley
+de que el saber-cómo es menos susceptible a ser falsificado que el conocimiento
 proposicional es dudosa.] De modo que en el caso del saber-cómo no habría
 demasiado espacio para injusticias epistémicas basadas en prejuicios de engaño.
 
