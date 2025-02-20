@@ -353,7 +353,19 @@ como cuerpo de conocimiento no se debe a las virtudes de miembros de las
 sociedades a las que pertenece, pues puede pasar que nadie en esas sociedades
 entienda qué es lo que la hace exitosa.#footnote[Esto nos remite de vuelta al
 tipo de problemas con los estados epistémicos colectivos que vimos en el
-capítulo anterior.]
+capítulo anterior.] @Levy2020 sugieren que, en efecto, gran parte de la cultura
+acumulativa consiste en saber-cómo. 
+
+Volvamos a la pregunta inicial, de si puede haber vicios del saber-cómo. Para
+atacar el problema podemos apelar nuevamente a la distinción de @Hawley2011
+entre la relación entre maestros-aprendices y patrones-clientes. Ciertamente, el
+tipo de disposiciones que promueven las injusticias epistémicas que pueden
+afectar al saber-cómo son vicios epistémicos. Sin embargo, las formas de
+prejuicio que pueden sufrir quienes tienen saber-cómo son vicios de aquellos con
+quienes interactúan (los aprendices y clientes), quienes no son necesariamente
+ellos mismos poseedores de saber-cómo. Lo que nos interesa ahora es examinar si
+es posible que haya vicios característicos de quienes tengan saber-cómo, no sus
+aprendices o clientes.
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
