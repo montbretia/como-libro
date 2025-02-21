@@ -14,7 +14,7 @@ mediante las herramientas que usamos. Esto se ha llamado la _hipótesis de
 la mente extendida_. ¿Qué consecuencias tiene esta hipótesis para nuestra
 comprensión del saber cómo? ¿Cómo debemos evaluarla?
 
-== Internalismo y externalismo
+== Internalismo y externalismo <internalismo-externalismo>
 
 En la concepción tradicional de la mente, esta es una propiedad de la _persona_,
 concebida esta como o bien un compuesto de un cuerpo y una mente (lo que
