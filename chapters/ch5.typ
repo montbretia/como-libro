@@ -3460,21 +3460,22 @@ profunda, vale la pena ver el artículo de la SEP sobre descripciones:
 Para otra explicación sencilla de cómo funciona el operador lambda, ver
 el comic ‘Lambda calculus for /lɪŋgwɪsts/’:
 #link("https://imgur.com/gallery/XBHub#hQWGYJZ");. El libro
-#emph[Meaning: A Slim Guide to Semantics];, ofrece una concisa
+_Meaning: A Slim Guide to Semantics_ (#cite(<Elbourne2011>, form: "year")) ofrece una concisa
 introducción a la semántica, manteniendo los aspectos formales a un
 mínimo.
 
 Sobre la epistemología del testimonio, el libro _Learning from Words: Testimony
-as a Source of Knowledge_ (2008) de Jennifer Lackey, es excelente. Una vista más
-breve a los problemas sobre el testimonio puede encontrarse en el artículo
-"Recent Work on Testimony" (2012), de John Greco.
+as a Source of Knowledge_ (#cite(<Lackey2008>, form: "year")) de Jennifer
+Lackey, es excelente. Una vista más breve a los problemas sobre el testimonio
+puede encontrarse en el artículo "Recent Work on Testimony" (#cite(<Greco2012>,
+form: "year"), de John Greco.
 
 Sobre el contextualismo, el artículo de la SEP sobre contextualismo epistémico
 es recomendable:
 #link("https://plato.stanford.edu/entries/contextualism-epistemology/"). Un
 libro reciente que da una exposición de los avances más recientes respecto a la
 semántica de las atribuciones del conocimiento es _The Semantics of Knowledge
-Attributions_, de Michael Blome-Tillmann.
+Attributions_ (#cite(<BlomeTillmann2022>, form: "year")) de Michael Blome-Tillmann.
 
 
 == Una pregunta final...
