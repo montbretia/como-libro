@@ -489,7 +489,31 @@ de otras maneras podría ser menos riesgoso en ciertas circunstancias.
 #question[¿Sería lo opuesto a esta forma de dogmatismo un vicio también?]
 
 Finalmente, en su relación con aprendices o clientes, alguien que posee
-saber-cómo podría 
+saber-cómo podría exhibir algunos de los vicios que reconocimos antes como
+característicos del conocimiento proposicional. Por ejemplo, alguien puede tener
+el vicio de sobreestimar su competencia frente a tareas nuevas. Que esto sea un
+vicio o no depende del contexto: quizás ir más allá de la evidencia es bueno
+cuando uno intenta algo que nunca ha tratado. Del mismo modo, cierta timidez
+respecto a las habilidades que uno tiene pueden constituir un vicio del
+saber-cómo, aunque en este caso tenemos que tener cuidado con la fuente de estas
+disposiciones epistémicas. Por ejemplo, alguien podría volverse tímido
+epistémicamente porque es víctima de algún tipo de injusticia epistémica: dada
+la presión social para que los miembros de un grupo oprimido no crean que tienen
+agencia, es fácil imaginar que podría haber casos en que esta opresión resulte
+en una falta de confianza sistemática en su propia agencia de parte de los
+miembros de este grupo. Quizás habría que decir que en casos como estos, la
+injusticia epistémica engendra vicios epistémicos (y probablemente haya que
+decir lo converso también, que los vicios epistémicos a menudo engendran
+injusticias epistémicas).
+
+Las observaciones que hemos hecho acerca de la posibilidad de vicios del
+saber-cómo son solo una aproximación inicial al problema. Hay mucho que explorar
+aún. Por ejemplo, es necesario examinar si existen vicios epistémicos del saber
+cómo que afectan a los grupos independientemente de si afectan a los individuos.
+@Levy2020 sugerían que el conocimiento acumulativo es una forma de saber-cómo, y
+que es compatible con que los individuos que pertenecen a las comunidades que lo
+poseen sean viciosos epistémicamente. Es necesario elaborar una visión sinóptica
+que unifique estos fenómenos.
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
@@ -512,8 +536,13 @@ cuestiones de importancia política.
 Para una manera diferente de enmarcar la discusión acerca de la posibilidad de
 injusticia epistémica respecto al saber-cómo, véase @Cath2025.
 
-@Kidd2020 reúne una serie de artículos explorando la epistemología de las
-virtudes. El libro _The Mismeausre of the Self_ (#cite(<Tanesini2021>,
+@Kidd2020 reúne una serie de artículos explorando la epistemología de los
+vicios. El libro _The Mismeausre of the Self_ (#cite(<Tanesini2021>,
 form:"year")), de Alessandra Tanesini es un estudio detallado de ciertos vicios
 epistemicos que tienen que ver con la manera en que las personas juzgan su
 propio carácter epistémico (por ejemplo, el narcisismo y la auto-satisfacción).
+
+En el mundo moderno, gran parte de la información cotidiana acerca de cómo hacer
+ciertas cosas proviene del uso de medios digitales. ¿Cómo identificar expertos
+responsablemente, y de qué maneras puede fallar este proceso? @AmicoKorby2025
+examina el problema.
