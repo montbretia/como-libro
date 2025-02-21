@@ -1220,7 +1220,10 @@ las dificultades que tiene que sortear una teoría filosófica del
 concepto de habilidad.
 
 Sobre el argumento del conocimiento, recomiendo leer el artículo de
-Martin nida-Rümelin y Donnach O Conaill en la SEP:
-#link("https://plato.stanford.edu/entries/qualia-knowledge/")
+Martin Nida-Rümelin y Donnach O'Conaill en la SEP:
+#link("https://plato.stanford.edu/entries/qualia-knowledge/"). También vale la
+pena leer el libro _Knowing What It Is Like_ (#cite(<Cath2024>, form:"year")),
+de Yuri Cath.
+
 
 ]
