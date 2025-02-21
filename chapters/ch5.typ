@@ -8,7 +8,7 @@
 = La disputa de las cien escuelas
 
 #align(right)[
-  #set text(size: 9pt, style: "italic")
+  #set text(size: 10pt, style: "italic")
   #block(width: 70%)[
     #v(1.5em)
     #quote(block: true, attribution: [_Spinoza_, Ética, _parte 1, apéndice_])[
@@ -47,30 +47,29 @@ el rango de opciones teóricas.
 
 == El regreso del intelectualismo
 
-En un paper de 2001, Jason Stanley y Timothy Williamson argumentan en contra
+En un paper de #cite(<Stanley2001>, form: "year"), Jason Stanley y Timothy Williamson argumentan en contra
 del anti-intelectualismo de Ryle, y ofrecen un modelo sofisticado de
 intelectualismo. Para efectos prácticos, este paper puede considerarse como un
 nuevo inicio para la discusión filosófica acerca del saber cómo, inaugurando el
-periodo de discusión contemporáneo.#footnote[Stanley (2011) extiende el
-argumento, y Williamson (2022) lo reexamina desde la perspectiva de su
-epistemología del conocimiento-primero (#emph[knowledge-first];, cf. Williamson
-(2000)).]
+periodo de discusión contemporáneo.#footnote[@Stanley2011 extiende el
+argumento, y @Williamson2022 lo reexamina desde la perspectiva de su
+epistemología del conocimiento-primero (#emph[knowledge-first];, cf.
+@Williamson2000).]
 
 === Stanley & Williamson contra Ryle 
 
-Lo primero que hacen Stanley y Williamson (2001) y Stanley (2011) es criticar
-los argumentos de Ryle. En primer lugar, atacan la suposición que hace del
-argumento contra la necesidad, de que el intelectualista debería comprometerse
-con la idea de que todo ejercicio de una acción intencional debe verse
-precedido por la contemplación de alguna proposición acerca de cómo realizarla.
-Según Stanley (2001, 14), esta suposición hace un mono de paja del
-intelectualismo; simplemente es un dato fenomenoógico que podemos actuar
-inteligentemente sin tener que contemplar proposiciones. Según Stanley y
-Williamson (2001), el problema fundamental con este aspecto del argumento de
-Ryle es que asume que el conocimiento proposicional #emph[solo] puede
-manifestarse mediante la contemplación de proposiciones. Recordemos el caso que
-vimos en el capítulo anterior del conocimiento proposicional que ejercitamos
-cuando abrimos una puerta. 
+Lo primero que hacen @Stanley2001 y @Stanley2011 es criticar los argumentos de
+Ryle. En primer lugar, atacan la suposición que hace del argumento contra la
+necesidad, de que el intelectualista debería comprometerse con la idea de que
+todo ejercicio de una acción intencional debe verse precedido por la
+contemplación de alguna proposición acerca de cómo realizarla. Según Stanley
+(2001, 14), esta suposición hace un mono de paja del intelectualismo;
+simplemente es un dato fenomenoógico que podemos actuar inteligentemente sin
+tener que contemplar proposiciones. Según @Stanley2001, el problema fundamental
+con este aspecto del argumento de Ryle es que asume que el conocimiento
+proposicional #emph[solo] puede manifestarse mediante la contemplación de
+proposiciones. Recordemos el caso que vimos en el capítulo anterior del
+conocimiento proposicional que ejercitamos cuando abrimos una puerta. 
 
 Por supuesto, podríamos tomar la expresión ‘contemplar una proposición’ en un
 sentido en que incluso en casos como el de Ginet si podríamos decir que
@@ -81,7 +80,7 @@ inteligente o tontamente; eso es un error de categoría, porque no hay un sujeto
 en control de la activación de proposiciones.
 
 Contra el argumento en contra de la suficiencia del conocimiento
-proposicional para el saber cómo, Stanley (2001) critica la aparente
+proposicional para el saber cómo, @Stanley2011 critica la aparente
 asunción de Ryle de que el conocimiento proposicional es inerte respecto
 a la conducta. Después de todo, según Ryle, sin importar cuanto
 conocimiento uno tenga sobre cómo hacer algo, uno podría aún carecer de
@@ -152,7 +151,7 @@ de que expresiones (a) y (b), a pesar de las apariencias, sí tengan una forma
 profunda en común. El intelectualista se puede servir de esta idea para
 proponer que las atribuciones de saber cómo no son, al nivel profundo, más que
 atribuciones de conocimiento proposicional. En efecto, esto es precisamente lo
-que Stanley y Williamson quieren mostrar.#footnote[Hetherington (2011) aplica
+que Stanley y Williamson quieren mostrar.#footnote[@Hetherington2011 aplica
 una estrategia similar, pero en el sentido contrario: él trata de mostrar que
 el conocimiento proposicional es un tipo de saber cómo.]
 
@@ -187,7 +186,7 @@ Araucanía, y que tal persona es gallarda. Como en efecto no hay tal persona, la
 oración es falsa. Pero en esta reconstrucción del significado de la oración, no
 hay necesidad de pensar que la expresión refiere a un objeto particular,
 posiblemente inexistente. El problema metafísico que presentaba la primera
-interpretación de (c) desaparece.#footnote[Wittgenstein (1922) reconoce esto
+interpretación de (c) desaparece.#footnote[@Wittgenstein1922 reconoce esto
 como la gran contribución de Russell a la filosofía: ‘El mérito de Russell fue
 haber mostrado que la forma lógica aparente de una proposición no tiene que ser
 su forma real’ (TLP, 4.0031). ]
@@ -256,11 +255,11 @@ Esto sugiere, analógicamente, que en el caso del saber cómo también existe la
 posibilidad de reducirlo a conocimiento proposicional.#footnote[Cf. Braun
 (2011), p. 245-246.] Si existiera una teoría que vindicara esta posibilidad,
 podríamos mostrar que el saber cómo es un tipo de conocimiento proposicional.
-Esto es precisamente lo que Stanley & Williamson (2001) y Stanley (2001)
+Esto es precisamente lo que @Stanley2001 y @Stanley2011
 ofrecen.
 
 La estructura argumental puede hacerse más clara con la siguiente glosa
-(la adapto de Carter & Poston (2018)):
+(la adapto de @Carter2018):
 
 #[
 #set enum(numbering: "A)", start: 1)
@@ -280,16 +279,15 @@ La estructura argumental puede hacerse más clara con la siguiente glosa
 A y B se basan en los patrones que hemos observado acerca de las
 atribuciones de saber-\?. C, por el contrario, depende de que se de una
 explicación de las condiciones de verdad de enunciados en los que un
-sujeto sabe la respuesta a una pregunta. Para este propósito, Stanley &
-Williamson (2001) hacen uso del marco teórico de la semántica de
-Karttunen (1977) para las preguntas incrustadas. Stanley (2011) examina
+sujeto sabe la respuesta a una pregunta. Para este propósito, @Stanley2001 hacen uso del marco teórico de la semántica de
+@Karttunen1977 para las preguntas incrustadas. @Stanley2011 examina
 algunas de las limitaciones de esta semántica y adopta una teoría más
-sofisticada, la de Groenendjk & Stokhof (1982). Aquí voy a seguir la
-presentación de Stanley & Williamson (2001), indicando los puntos en los
+sofisticada, la de @Groenendijk1982. Aquí voy a seguir la
+presentación de @Stanley2001, indicando los puntos en los
 que Stanley difiere de esta.
 
 Para entender estas teorías vale la pena remontarse un poco más atrás.
-En 1958, Hamblin propuso la siguiente teoría acerca de las preguntas:
+En #cite(<Hamblin1958>, form: "year"), Hamblin propuso la siguiente teoría acerca de las preguntas:
 
 - La respuesta a una pregunta es un enunciado,
 - Saber qué es lo que cuenta como una respuesta a una pregunta es
@@ -312,7 +310,7 @@ hacer un curry). Así, podríamos proponer lo siguiente:
 
 - Saber cómo hacer un curry es saber qué posibilidades son posibles
   respuestas a la pregunta de cómo hacer un
-  curry.#footnote[Hamblin (1958) en efecto hace la siguiente observación:
+  curry.#footnote[@Hamblin1958 en efecto hace la siguiente observación:
   “Incidentalmente en relación a esto es interesante comparar la
   distinción hecha por Ryle entre ‘saber que’ y ‘saber cómo’. Parte de
   la distinción puede ponerse de la siguiente manera: decir que alguien
@@ -360,7 +358,7 @@ se puede hacer algo de cierta manera y decir cómo hacer algo. ¿Qué
 intuiciones tienen ustedes acerca de esos casos?]
 ]
 
-Karttunen (1977) en efecto presenta una variación a la idea básica de
+@Karttunen1977 en efecto presenta una variación a la idea básica de
 Hamblin, pero añade la restricción de que el conjunto de respuestas solo
 ha de contener respuestas verdaderas. Así, en su propuesta, el
 significado de una expresión como ‘quién escribió Hamlet’ no es el
@@ -449,14 +447,14 @@ hay una manera de hacer algo, saber que es la manera de hacerlo es saber
 cómo hacerlo. Si hay varias maneras de hacer algo, saber de cada una de
 ellas que es una manera de hacerlo es saber cómo hacerlo. El saber cómo
 parece resultar reducible al conocimiento proposicional acerca de
-maneras de hacer cosas. Stanley (2011) obtiene el mismo resultado, con
+maneras de hacer cosas. @Stanley2011 obtiene el mismo resultado, con
 algunas mejoras, empleando la semántica alternativa de las preguntas de
-Groenendijk & Stokhof (1982).
+@Groenendijk1982.
 
 Hay algunas complicaciones: en el caso en que hay distintas maneras de
 hacer algo, es plausible que no requiramos que se tenga conocimiento de
 todas ellas. En ese caso, quizás es suficiente que se conozcan algunas
-de ellas. Stanley & Williamson (2001) sugieren que estas dificultades
+de ellas. @Stanley2001 sugieren que estas dificultades
 pueden resolverse al menos parcialmente apelando al contexto, y que en
 general hay ambigüedad entre interpretaciones de ‘saber cómo’ que
 requieran que consideremos todas o solo algunas de las posibilidades.
@@ -470,22 +468,22 @@ lo que él hace es una manera en que ella puede andar en bicicleta. En
 este caso, podríamos decir que Hannah sabe que la manera en que Pedro
 anda en bicicleta es una manera en que ella podría andar en bicicleta.
 La #emph[forma] en que Hannah considera la proposición no es la correcta
-para que digamos que sabe cómo andar en bicicleta, aún. Stanley (2011,
-p. 122-130) elabora más por qué es necesario postular tales modos
+para que digamos que sabe cómo andar en bicicleta, aún. @Stanley2011[pp.
+122-130] elabora más por qué es necesario postular tales modos
 prácticos de presentación, y lo conecta con el problema de cómo se
 define el sentido de posibilidad relevante al saber cómo (saber cómo
 requiere, al parecer, que sea en cierto sentido posible actuar de las
 maneras en que uno sabe actuar—pero, ¿qué significa ‘posible’
 aquí?-recuerden nuestra discusión en el capítulo 3).
 
-En resumen, el análisis de Stanley & Williamson (2001) es que
+En resumen, el análisis de @Stanley2001 es que
 
 / Saber cómo intelectualista (Stanley y Williamson; ISW): Un sujeto S sabe
   cómo hacer φ si y solo si hay una manera w contextualmente relevante tal
   que S tiene conocimiento proposicional de que w es una manera en que S
   puede hacer φ \[#emph[w is a way for S to φ];\], y S considera esta
-  proposición bajo un modo práctico de presentación.#footnote[Stanley 
-  (2011, p. 122) ofrece el siguiente análisis, que pone más énfasis en el aspecto
+  proposición bajo un modo práctico de presentación.#footnote[@Stanley2011[p.
+  122] ofrece el siguiente análisis, que pone más énfasis en el aspecto
   modal de las adscripciones de saber cómo, y cómo eso está influido por el
   contexto (volveremos al problema del contexto en la sección 5.7):
 
@@ -505,7 +503,8 @@ mediante su ingeniosa aplicación de las herramientas de la lingüística
 formal. Además, establecieron una plantilla para muchos trabajos
 posteriores, mostrando que era posible construir una teoría del saber
 cómo sobre la base de una explicación de la semántica (el significado)
-de las atribuciones de saber cómo. Como Habgood-Coote (2018, 2022) dice,
+de las atribuciones de saber cómo. Como Habgood-Coote (#cite(<HabgoodCoote2018>,
+form: "year"), #cite(<HabgoodCoote2022>, form: "year")) dice,
 la posibilidad de construir una implementación semántica de una teoría
 del saber cómo es una marca a favor de la teoría.
 
@@ -517,7 +516,7 @@ de que el saber cómo consiste en ser capaz o tener la habilidad de hacer algo,
 pero eso tiene más que ver con la historia negativa a favor del intelectualismo
 y voy a dejar esa discusión para después.
 
-Nöe (2005) ataca la propuesta positiva de Stanley & Williamson presentando un
+@Noe2005 ataca la propuesta positiva de Stanley & Williamson presentando un
 nuevo tipo de argumento de regreso. Suponiendo que comprender proposiciones es
 algo que en sí mismo requiere de cierto saber-cómo, este saber-cómo no puede
 explicarse solamente en términos de la comprensión de proposiciones; de otro
@@ -536,13 +535,13 @@ modo caemos en un regreso vicioso. Consideren:
 ¿En qué podría consistir entender un concepto? Al menos en algunos casos, para
 bloquear el regreso al infinito, debe consistir en algo que no sea la
 comprensión de proposiciones. Una alternativa es que consista en la capacidad
-de aplicar el concepto exitosamente. Nöe da el ejemplo de comprender el
+de aplicar el concepto exitosamente. Noë da el ejemplo de comprender el
 concepto _rojo_. Es plausible que nuestra comprensión del concepto esté fundado
 en nuestra capacidad de aplicarlo cuando reconocemos ciertas cualidades en
 nuestra experiencia. De este modo, la supuesta explicación intelectualista
 del saber-cómo en términos de saber-que simplemente debe redundar en una
 explicación del saber-que en términos de saber-cómo.#footnote[Ya vimos que
-Ryle (1946) sugiere esto mismo, pero no insiste en la idea.]
+@Ryle1947 sugiere esto mismo, pero no insiste en la idea.]
 
 #question[¿Cómo se vería rechazar el argumento rechazando la premisa de que
 para comprender una proposición es necesario entender los conceptos que la
@@ -600,7 +599,7 @@ conocimiento. Consideren los siguientes casos:
   colapsado aún en un agujero negro) ubicado en la galaxia M82. Si bien se
   detectan ráfagas de rayos gamma a menudo, solo se han detectado otras
   tres ráfagas de rayos gamma provenientes de #emph[magnetares] en los
-  últimos 50 años.#footnote[Cf. Kovac (2024).]
+  últimos 50 años.#footnote[Cf. @Kovac2024.]
 
 / No hay crimen perfecto: Una serie de asesinatos
   espanta a la comunidad de un pueblo en Dinamarca, y la policía se ve
@@ -639,7 +638,7 @@ sucede en el caso en que fácilmente habríamos carecido de la evidencia
 necesaria para formarlas. En contraste a esto, en los casos de mala
 suerte epistémica el problema es que sí se llega a tener una creencia
 verdadera, sobre la base de algún tipo de evidencia, pero fácilmente
-habría resultado falsa. Engel (1992) define este tipo de suerte
+habría resultado falsa. @Engel1992 define este tipo de suerte
 epistémica de la siguiente manera:
 
 / Suerte epistémica verítica: Una persona S es #emph[veríticamente]
@@ -659,7 +658,7 @@ lleguemos a formar ciertas creencias empíricas verdaderas está fuera de
 nuestro control (por ejemplo, que al salir de casa durante el día en un
 día soleado lleguemos a creer que hay una diferencia en la temperatura
 dentro y fuera de casa), pero esto no parece socavar nuestro
-conocimiento empírico. Pritchard (2005) sugiere una concepción
+conocimiento empírico. @Pritchard2005 sugiere una concepción
 alternativa de suerte, que se ha vuelto más dominante en las discusiones
 epistemológicas:
 
@@ -765,9 +764,9 @@ argumento puede elaborarse en términos de si el saber cómo es compatible
 con la suerte que interviene, o si es compatible con la suerte
 ambiental.
 
-Como parte de su defensa del intelectualismo, Stanley & Williamson
-(2001) anticipan esta objeción y presentan el siguiente caso, que según
-ellos es un análogo a los ejemplos clásicos de Gettier:
+Como parte de su defensa del intelectualismo, @Stanley2001 anticipan esta
+objeción y presentan el siguiente caso, que según ellos es un análogo a los
+ejemplos clásicos de Gettier:
 
 / Simulador de vuelo: Bob quiere aprender a volar
   aeroplanos. Su instructor es Henry. Henry es, sin embargo, un farsante,
@@ -789,16 +788,15 @@ hace correctas están desconectados. Esto es precisamente lo que
 esperaríamos si el saber cómo fuera un tipo de conocimiento
 proposicional.
 
-¿Es correcto este veredicto? Las intuiciones de Stanley & Williamson no
-han sido aceptadas universalmente. Por ejemplo, Ted Poston (2009) dice
-que en este caso, si observáramos lo que Bob puede hacer, diríamos que
-sí sabe cómo volar un aeroplano. La información que obtuvo fue la
-correcta, y no tenemos razón para pensar que Bob carece de la capacidad
-de aplicarlo o incluso enseñarle a otros cómo volar un aeroplano;
-esperaríamos que su capacidad es comparable a la de personas que han
-sido entrenadas correctamente por tutores confiables. Si es así,
-entonces parece que el saber cómo #emph[sí] es compatible con esta forma
-de suerte epistémica.
+¿Es correcto este veredicto? Las intuiciones de Stanley & Williamson no han sido
+aceptadas universalmente. Por ejemplo, Ted Poston (#cite(<Poston2009>, form:
+"year")) dice que en este caso, si observáramos lo que Bob puede hacer, diríamos
+que sí sabe cómo volar un aeroplano. La información que obtuvo fue la correcta,
+y no tenemos razón para pensar que Bob carece de la capacidad de aplicarlo o
+incluso enseñarle a otros cómo volar un aeroplano; esperaríamos que su capacidad
+es comparable a la de personas que han sido entrenadas correctamente por tutores
+confiables. Si es así, entonces parece que el saber cómo #emph[sí] es compatible
+con esta forma de suerte epistémica.
 
 Es claro que los juicios sobre casos específicos como #emph[simulador de
 vuelo] no van a decidir la cuestión por sí mismos. Poston es consciente
@@ -840,7 +838,7 @@ que el sujeto actúe o tenga la capacidad de actuar exitosamente. Del
 mismo modo, en vez de que haya una creencia esté justificada, Poston
 propone que en el caso del saber cómo el sujeto debe guiar su acción
 inteligentemente. Ambas condiciones quedan satisfechas en el caso del
-simulador de vuelo. Stanley (2011) acepta esta premisa cuando critica el
+simulador de vuelo. @Stanley2011 acepta esta premisa cuando critica el
 argumento de Poston.
 
 La segunda premisa es más problemática. Poston la motiva de la siguiente
@@ -872,7 +870,7 @@ petición de principio. Pero además de eso, Stanley cree que el argumento
 que Poston emplea para motivar la premisa depende de intuiciones, que no
 son necesariamente confiables ni garantizan que la premisa no tenga
 contraejemplos. En efecto, Stanley propone el siguiente caso como
-contraejemplo a la premisa, que toma de Bengson & Moffett (2007, p. 46):
+contraejemplo a la premisa, que toma de @BengsonMoffett2007[p. 46]:
 
 / Salchow: Irina, una patinadora novata, decide intentar un salto complejo
   llamado el #emph[Salchow];.#footnote[Salchow (se pronuncia ‘Sálkoh’) es el
@@ -894,7 +892,7 @@ contraejemplo a la premisa, que toma de Bengson & Moffett (2007, p. 46):
 
 ¿Sabe Irina o no cómo realizar el #emph[Salchow];? Stanley dice que no.
 Él acepta que Irina realiza el Salchow inteligente y exitosamente, pero
-apela a los resultados del estudio de Bengson et al (2009), donde 138
+apela a los resultados del estudio de @BengsonMoffettWright2009, donde 138
 personas fueron encuestadas acerca del caso, que parecen mostrar que el
 veredicto ordinario acerca de este es que si bien Irina tiene la
 habilidad de realizar el Salchow (86% de los participantes acepta esto),
@@ -908,11 +906,10 @@ El anti-intelectualista puede responder de distintas maneras. En primer
 lugar, puede rechazar la evidencia experimental supuestamente provista
 los juicios ordinarios acerca de Irina. Esto no parece fácil respecto al
 juicio de que Irina no tiene saber cómo—su confusión parece prevenir que
-lo tenga.#footnote[Cf. Cath (2011), Carter & Czarncki (2016), Levy (2017), Löwenstein
-(2017), Carter & Poston (2018), Littlejohn & Carter (2021), y Carter
-(2022).] Quizás una mejor opción es rechazar la idea de que Irina tiene la
+lo tenga.#footnote[Cf. @Cath2011, @Carter2016, @Levy2017, @Loewenstein2017,
+@Carter2018, @Littlejohn2021, y @Carter2022.] Quizás una mejor opción es rechazar la idea de que Irina tiene la
 habilidad relevante para realizar el #emph[Salchow];. Por ejemplo,
-Pritchard (2010) distinguen entre habilidades #emph[genuinas] de otras
+@Pritchard2010 distingue entre habilidades #emph[genuinas] de otras
 disposiciones en términos de si las disposiciones al caso están
 propiamente integradas psicológicamente.#footnote[Pritchard distingue entre
 procesos de formación de creencias que se
@@ -931,7 +928,7 @@ habilidad, y decir que en los juicios ordinarios el sentido de habilidad
 saliente es insensible a diferencias acerca de la integración cognitiva
 de los distintos factores que componen la habilidad de los sujetos de
 atribución—esto sería un modo por defecto de hacer juicios sobre las
-habilidades de un sujeto que Bengson et al (2009) no han considerado en
+habilidades de un sujeto que @BengsonMoffettWright2009 no han considerado en
 el diseño de su estudio y que han alterado el resultado de su
 experimento. Una última estrategia para rechazar el contraejemplo de
 Stanley es proponer que, contrario a las apariencias, Irina no actúa
@@ -946,13 +943,13 @@ Irina las que causan compulsivamente que mueva su cuerpo de una manera
 que permite que su intención se realice parece quitarle el control
 necesario para que se le pueda atribuir el éxito de su acción.
 
-Yuri Cath (2011) propone un argumento distinto a favor de la idea de que
+Yuri Cath (#cite(<Cath2011>, form:"year")) propone un argumento distinto a favor de la idea de que
 el saber cómo es más resistente a la suerte epistémica que el
 conocimiento proposicional. La estrategia de Cath es mostrar que puede
 haber casos donde (i) alguien sabe cómo hacer algo, pero (ii) carece del
 conocimiento proposicional en el que supuestamente ese saber cómo podría
 reducirse, debido a cuestiones de suerte epistémica. En concreto, el
-argumento de Cath ataca el análisis de Stanley & Williamson (2001)
+argumento de Cath ataca el análisis de @Stanley2001
 directamente. Cath propone el siguiente caso:
 
 / Ampolleta afortunada: Charlie quiere
@@ -1011,7 +1008,7 @@ epistémica esté en juego para la importancia del caso? ]
 
 Hay otra clase de ejemplos que defienden la compatibilidad del saber
 cómo y la suerte epistémica. Consideren la siguiente variación del caso
-de la ampolleta afortunada, ofrecida por Carter & Pritchard (2015) (la
+de la ampolleta afortunada, ofrecida por @Carter2015 (la
 adapto un poco):
 
 / Ampolleta afortunada 2: Charlie consulta un libro
@@ -1077,14 +1074,15 @@ Hasta ahora, hemos formulado el intelectualismo en términos del concepto
 de conocimiento, entendido como un estatus epistémico que requiere de
 creencia, justificación, verdad y la satisfacción de alguna condición
 anti-suerte/anti-Gettier. ¿Por qué asumir que el saber cómo debe
-sostenerse sobre tal cosa? En la literatura posterior a Williamson &
-Stanley (2001) han aparecido varias teorías que, si bien mantienen su
+sostenerse sobre tal cosa? En la literatura posterior a @Stanley2001
+han aparecido varias teorías que, si bien mantienen su
 compromiso con el intelectualismo (en su sentido más amplio), prefieren
 optar por explicar el saber cómo en términos distintos al de
 conocimiento. Aquí examinaremos dos de estas propuestas: el
-intelectualismo revisionario de Yuri Cath (2011, 2015), el intelectualismo
-no-proposicional de Bengson & Moffett (2011), y el interrogativismo de
-Habgood-Coote (2020).
+intelectualismo revisionario de Yuri Cath (#cite(<Cath2011>, form: "year"),
+#cite(<Cath2015>, form: "year")), el intelectualismo
+no-proposicional de @Bengson2011, y el interrogativismo de
+@HabgoodCoote2019.
 
 Vale la pena examinar brevemente varias maneras en que se ha hecho la
 distinción entre intelectualismo y anti-intelectualismo. Como ya vimos, según
@@ -1114,7 +1112,7 @@ table.cell(fill:orange.lighten(70%))[intelectualismo\ clásico], table.cell(alig
 )
 ]
 
-Algunos autores, como Glick (2011) y Habgood-Coote (2019), clasifican posturas
+Algunos autores, como @Glick2011 y @HabgoodCoote2019, clasifican posturas
 como intelectualistas o anti-intelectualistas en términos de cómo conciben
 el objeto del saber cómo y el tipo de relación con ese objeto (véase la
 @table:clas-obj-relata). Así, distinguen
@@ -1142,7 +1140,7 @@ table.hline(), table.cell(fill: blue.transparentize(80%))[_otra relación_], tab
 
 Una consecuencia de esta manera de clasificar estas posiciones es que el
 intelectualismo débil y el anti-intelectualismo débil resultan ser compatibles.
-Habgood-Coote (2019) sugiere que su posición, según la cual, saber-cómo es
+@HabgoodCoote2019 sugiere que su posición, según la cual, saber-cómo es
 tener un tipo de relación de tener la habilidad de responder preguntas acerca
 de cómo hacer algo, es una combinación de ambas posturas. Sin embargo, en esta
 clasificación ciertas posturas que Ryle consideraría como intelectualistas
@@ -1160,9 +1158,9 @@ cómo es un tipo de relación de conocimiento teórico con un contenido no
 proposicional, es decir, algo que calce en el cuadrante marcado con un símbolo
 de interrogación en la Tabla 2?]
 
-=== Intelectualismo revisionario
+=== Intelectualismo revisionario <intelectualismo-rev>
 
-En un paper de 2011, Yuri Cath esboza la tesis de que el saber cómo podría ser
+En un paper de #cite(<Cath2011>, form:"year"), Yuri Cath esboza la tesis de que el saber cómo podría ser
 un tipo de relación con una proposición, en la que esta le _parece_ a un sujeto
 como la respuesta a una pregunta sobre cómo podría hacerse algo. El análisis es el siguiente:
 
@@ -1204,7 +1202,7 @@ como los que vimos en la sección anterior, podríamos adoptar algún modelo
 intelectualista en el que el conocimiento proposicional sea reemplazado por
 otra relación epistémica.
 
-En un paper posterior de 2015, Cath observa que esta no es la única salida para
+En un paper posterior, de #cite(<Cath2015>, form: "year"), Cath observa que esta no es la única salida para
 el intelectualista. Una estrategia alternativa es que se revise la concepción
 subyacente del conocimiento proposicional, adoptando una donde el conocimiento
 proposicional no tenga las propiedades problemáticas que la concepción
@@ -1234,7 +1232,7 @@ verdadera _segura_).
 tenga creencias sobre maneras de hacer algo. El anti-intelectualista podría
 responder que esto es de por sí inaceptable. Algunos epistemólogos han
 propuesto que se puede tener conocimiento proposicional sin tener creencias
-(por ejemplo, Radford (1966) presenta un caso en que alguien que cree no haber
+(por ejemplo, @Radford1966 presenta un caso en que alguien que cree no haber
 estudiado nunca la historia de Inglaterra, pero que en realidad simplemente ha
 olvidado que la ha estudiado, sin embargo es capaz de responder preguntas
 específicas sobre ella correctamente; Redford sugiere que en este caso el
@@ -1243,7 +1241,7 @@ una postura como esta ayudaría a resolver la tensión?]
 
 === Intelectualismo no-proposicional
 
-Bengson & Moffett (2011) presentan un tipo de intelectualismo distinto. En este
+@Bengson2011 presentan un tipo de intelectualismo distinto. En este
 caso, ellos abandonan la idea de que el objeto de la relación del saber-cómo es
 proposicional, al menos en un cierto. Sin embargo, mantienen la idea
 intelectualista de que la relación _es_ un tipo de conocimiento.
@@ -1270,7 +1268,7 @@ requeridas, pero obviamente esto no es viable porque las condiciones en las que
 estas acciones son posibles podrían ser demasiado distintas a las condiciones
 actuales como para que podamos decir que realmente dan sustento a que el sujeto
 de hecho sepa como. Otra idea es que hubiera alguna esfera delimitada de las 
-posibilidades que son relevantes para que sepa cómo. Por ejemplo, Hawley (2003)
+posibilidades que son relevantes para que sepa cómo. Por ejemplo, @Hawley2003
 sugiere que el saber-cómo requiere que el sujeto sea exitoso en hacer X al menos
 contrafácticamente (i.e., si es que si trataran de hacerlo en los mundos posibles
 relevantes más cercanos al actual, tendrían éxito). Sin embargo, hay casos en que
@@ -1306,7 +1304,7 @@ relevante. En el caso del instructor de ski, el sujeto posee tal aprehensión, m
 que en el caso de la patinadora, esta no la tiene. La aprehensión de la que hablamos
 aquí es una forma de conocer ciertos objetos, a saber, las _maneras_ de realizar
 acciones. El saber-cómo no consiste en conocer proposiciones acerca de esas maneras
-(como en el modelo de Stanley & Williamson (2001)), sino en tener una relación cognitiva
+(como en el modelo de @Stanley2001), sino en tener una relación cognitiva
 con esas maneras. Es importante que este conocimiento de maneras sea capaz de guiar
 la conducta del sujeto; no basta tener cierta familiaridad con una manera de hacer
 X para saber cómo hacer X. Esto es importante para tratar casos como el de Hannah, 
@@ -1317,8 +1315,8 @@ Para clarificar el modelo, es necesario elaborar la idea de que se tiene
 conocimiento de maneras de actuar. Primero, es preciso entender a qué nos
 referimos cuando decimos que algo es una _manera de actuar_. Bengson & Moffett
 proponen que al menos algunas maneras de actuar (lo que ellos llama _métodos_) son
-secuencias de tipos de acciones cuya realización es un acto.#footnote[Stanley &
-Williamson (2001) dicen que las maneras son tipos de acciones; más
+secuencias de tipos de acciones cuya realización es un
+acto.#footnote[@Stanley2001 dicen que las maneras son tipos de acciones; más
 precisamente, dicen que son propiedades que instancias de eventos pueden tener
 (la idea es que una acción es un evento, y que el que se haga de una u otra
 manera es una propiedad de ese evento). La diferencia es sutil, pero
@@ -1409,7 +1407,7 @@ acciones. Su concepción sería correcta y completa si fuera posible para estos
 sujetos que realizaran estas acciones guiándose por esa concepción.
 
 #aside[El entendimiento ha sido de especial interés en la epistemología
-contemporánea más reciente (al menos desde Zagzebski (2001)). Así como en el caso
+contemporánea más reciente (al menos desde @Zagzebski2001). Así como en el caso
 del saber-cómo, ha habido cierto debate respecto a si el entendimiento es un
 tipo de conocimiento o no. Un lugar común acerca del entendimiento es que en
 cierto sentido es más valioso que el simple conocimiento: saber que hay un
@@ -1417,22 +1415,22 @@ conflicto en Medio Oriente es menos valioso que entender que haya tal conflicto.
 Esto podría explicarse porque el entendimiento es un tipo distinto de estado
 epistémico, más valioso que el mero conocimiento, o porque el entendimiento es
 un tipo especial de conocimiento--por ejemplo, conocimiento sistemático (cf.
-Kelp 2013).
+@Kelp2015).
 
 Un debate ortogonal al debate entre intelectualistas y anti-intelectualistas
 acerca del entendimiento trata de si el entendimiento es factivo o no, es decir,
 si es necesario que el contenido del entendimiento sea verdadero. Los
 intelectualistas defienden la importancia del contenido verdadero del
 entendimiento (después de todo, el conocimiento es factivo),#footnote[Aunque
-considere las objeciones de Hazlett (2015).] mientras que algunos
+considere las objeciones de @Hazlett2010.] mientras que algunos
 anti-intelectualistas enfatizan la importancia de formas de entendimiento cuyo
 contenido es literalmente falso, como el entendimiento que proveen las
-idealizaciones y ficciones (cf. Elgin 2017).
+idealizaciones y ficciones (cf. @Elgin2017).
 
 Algo que tanto intelectualistas como anti-intelectualistas acerca
 del entendimiento aceptan es que el entendimiento no consiste en la posesión de
 ciertas actitudes proposicionales aisladas; más bien, parece consistir en una
-relación cognitiva con un conjunto estructurado de ítemes. Grimm (2016)
+relación cognitiva con un conjunto estructurado de ítemes. @Grimm2016
 defiende, por ejemplo, la idea de que el entendimiento en general consiste en
 apresar epistémicamente cierta estructura.]
 
@@ -1457,7 +1455,7 @@ concepciones que tengan de las maneras de actuar?]
 
 === Interrogativismo
 
-Más recientemente, Joshua Habgood-Coote (2018) ha desarrollado una nueva teoría del
+Más recientemente, Joshua Habgood-Coote (#cite(<HabgoodCoote2019>, form: "year")) ha desarrollado una nueva teoría del
 saber-cómo que puede clasificarse como intelectualista, pero que difiere de
 varias maneras significativas del modelo intelectualista tradicional.
 
@@ -1588,7 +1586,7 @@ table.cell(rowspan: 2)[#rotate(270deg, reflow: true)[*relación*]], [_teórica_]
 )
 ]<table:revised-glick>
 
-Bengson & Moffett (2011) introducen una idea interesante: deberíamos,
+@Bengson2011 introducen una idea interesante: deberíamos,
 argumentan, distinguir entre el fundamento de estados cognitivos como el
 saber-cómo y los constituyentes de esos estados cognitivos. Por ejemplo, en
 algunos casos podríamos querer considerar estados que están fundados en que
@@ -1739,7 +1737,7 @@ razonar inductivamente sobre la base de nuestras experiencias pasadas sobre esa
 persona u otras personas que son similares de maneras relevantes a ella: no hay
 una manera de _ver_ "de a una", por así decirlo, que una persona es confiable
 (recuerden las observaciones de Ryle sobre las atribuciones de saber-cómo). Por
-ejemplo, Hume (en su ensayo "Sobre Los Milagros") dice lo siguiente sobre el
+ejemplo, Hume (en su ensayo 'Sobre Los Milagros') dice lo siguiente sobre el
 testimonio:
 
 #quote(block: true)[
@@ -1807,8 +1805,7 @@ podría llevar a cierta forma de credulidad. ¿Qué tan serios son estos problem
 La literatura acerca del rol del testimonio en las maneras en las que aprendemos
 cómo actuar ha mantenido cierta neutralidad respecto al debate entre
 reduccionistas y anti-reduccionistas. Para ello han acudido a una
-caracterización neutral del conocimiento testimonial, que es la de Goldberg
-(2006): 
+caracterización neutral del conocimiento testimonial, que es la de @Goldberg2006: 
 
 / Conocimiento testimonial: $S$ tiene conocimiento testimonial de que $p$ si y
  solo si:
@@ -1826,7 +1823,7 @@ términos de las condiciones en las que se obtiene y el perfil normativo del
 conocimiento obtenido mediante el testimonio. Es importante también notar que
 distingue entre la confiabilidad de quien provee el testimonio y la
 confiabilidad de quien recibe el testimonio. Para que un intercambio testimonial
-sea exitoso pareciera que se requiere que ambos sean confiables. Lackey (2008)
+sea exitoso pareciera que se requiere que ambos sean confiables. @Lackey2008
 propone que en vez de adoptar una postura reduccionista (que concede más
 importancia al hablante) o anti-reduccionista (que concede más importante al
 escucha), es mejor adoptar una postura híbrida (lo ilustra con el símil de que
@@ -1868,7 +1865,7 @@ lo recuerda, debe haberlo llegado a saber de otra manera antes).
 
 Si bien la idea de que el testimonio meramente transfiere justificación o
 conocimiento es plausible, recientemente ha habido bastante discusión respecto a
-ella. Por ejemplo, Lackey (2007) presenta el siguiente caso:
+ella. Por ejemplo, @Lackey2007 presenta el siguiente caso:
 
 / Profesora creacionista: Una profesora de escuela básica cree que la vida en la
  Tierra es producto de la creación divina. Esta creencia es incompatible con la
@@ -1901,7 +1898,7 @@ Es posible transmitir conocimiento proposicional a través del testimonio. Si el
 saber-cómo es un tipo de conocimiento proposicional, debería ser posible
 transmitirlo mediante el testimonio también. ¿Es esto cierto?
 
-He aquí una línea argumental inicial.#footnote[La tomo de Poston (2016).] Una
+He aquí una línea argumental inicial.#footnote[La tomo de @Poston2015.] Una
 distinción importante que podríamos hacer es entre dos tipos, por así decirlo,
 de saber-cómo. Por un lado, tenemos el tipo de conocimiento que atribuimos a
 alguien cuando decimos cosas como:
@@ -1956,7 +1953,7 @@ contraejemplos? ¿Cree que esto afectaría la manera en que podamos explicar la
 Si tenemos tendencias anti-intelectualistas, es plausible que la intuición que
 tengamos sobre casos como estos es que no basta con que se nos informa acerca de
 cómo hacer algo; es necesario, además, que adquiramos control sobre las maneras
-de hacerlo.#footnote[Poston (2016) justifica las intuiciones
+de hacerlo.#footnote[@Poston2015 justifica las intuiciones
 anti-intelectualistas en términos de que el saber-cómo es un tipo de logro
 cognitivo mientras que el conocimiento proposicional no lo es. Tocaremos estas
 ideas en la sección 5.6. El argumento que doy aquí es mío.] A menudo aprendemos
@@ -1998,7 +1995,7 @@ cosas: que podemos abrir el sobre de cierta manera, que podemos colocar una
 carta en su interior de ciertas maneras (por ejemplo, doblándola en tres), y que
 podemos cerrar el sobre de cierta manera. En un caso como este, no parece
 inapropiado pensar que podemos adquirir saber cómo directamente por el
-testimonio de quien nos da estas instrucciones. Grimm (2019) da el siguiente
+testimonio de quien nos da estas instrucciones. @Grimm2019 da el siguiente
 ejemplo:
 
 #quote(block: true)[
@@ -2056,7 +2053,7 @@ más débil. De modo que lo que explica el éxito o fracaso de la transmisión
 testimonial no es la complejidad o simplicidad de las tareas en cuestión, sino
 la posesión previa de saber-cómo más general.
 
-Grimm (2018) rechaza esta sugerencia por dos razones:
+@Grimm2019 rechaza esta sugerencia por dos razones:
 
 + Si el éxito de la transmisión testimonial requiriera de la posesión previa de
  cierto saber-cómo mas general, no podríamos explicar la posibilidad de adquirir
@@ -2095,7 +2092,7 @@ Pero esto es verdad tanto en el caso del saber-cómo como en el caso del
 conocimiento proposicional.
 
 Otra manera de explicar el fallo de la transmisión testimonial es apelar, como
-hacen Stanley & Williamson (2001), a la idea de que el saber-cómo requiere que
+hacen @Stanley2001, a la idea de que el saber-cómo requiere que
 se consideren las proposiciones relevantes bajo un cierto modo práctico de
 presentación. Recuerden el caso de Hannah, que ve como un amigo anda en
 bicicleta. Hannah sabe que hay una manera de andar en bicicleta, pero no lo sabe
@@ -2107,7 +2104,7 @@ es esa manera, pero no lo sabe bajo un modo práctico de presentación, así que
 saber-cómo de su amigo no ha sido transferido testimonialmente de manera
 exitosa.
 
-Parte de la historia que Stanley (2011) ofrece acerca del saber-cómo es que es
+Parte de la historia que @Stanley2011 ofrece acerca del saber-cómo es que es
 un tipo de conocimiento, no solo proposicional, sino también _de se_. Una
 actitud _de se_ es acerca del sujeto que la tiene. Cuando creo que me siento
 mal, mi creencia es _de se_, se trata de mí mismo. 'Susana se siente mal'
@@ -2131,7 +2128,7 @@ _ellos_ podrían hacer algo.
 hacer algo?]
 
 De esta manera de pensar el contenido del saber-cómo se sigue que el testimonio
-nunca puede transmitirse mediante el testimonio.#footnote[Poston plantea que hay
+nunca puede transmitirse mediante el testimonio.#footnote[@Poston2015 plantea que hay
 tres problemas con la propuesta de Stanley. Este es el segundo de estos
 problemas. El primer problema es que no todo conocimiento _de se_ posee un
 perfil disposicional relacionado con las maneras en que uno podría tratarse a sí
@@ -2180,8 +2177,8 @@ son _sensibles al contexto_. Para ello necesitamos dar un breve repaso a
 algunas nociones de filosofía del lenguaje.
 
 Una idea fundacional de la filosofía del lenguaje contemporánea es que las
-expresiones de un lenguaje tienen significado en un contexto.#footnote[Frege
-(1884) establece lo que ha llegado a denominarse como _principio del contexto_:
+expresiones de un lenguaje tienen significado en un
+contexto.#footnote[@Frege1884 establece lo que ha llegado a denominarse como _principio del contexto_:
 "nunca buscar el significado de una palabra aisladamente, sino solo en el
 contexto de una proposición". Russell y Wittgenstein aceptan ciertas variedades
 de la misma idea.] Toma el caso de una palabra--digamos, 'libro'. La palabra
@@ -2226,7 +2223,7 @@ suficientemente superior a ese promedio, y no serlo en un contexto en que la
 altura promedio es distinta.
 
 Ahora bien, la misma idea puede aplicarse a términos epistémicos, como el de
-"conocimiento". En un paper de 1996, David Lewis presentó esto como, entre
+"conocimiento". En un paper de #cite(<Lewis1996>, form:"year"), David Lewis presentó esto como, entre
 otras cosas, una solución al problema del escepticismo. El trasfondo de la
 teoría de Lewis es la idea de que el conocimiento consiste en haber descartado
 razones para dudar en algo; por ejemplo, para poder decir que sabemos que
@@ -2255,7 +2252,7 @@ saber-cómo.
 
 === Intelectualismo contextualista
 
-Wallbridge (2021) ofrece el siguiente argumento a favor del intelectualismo:
+@Wallbridge2021 ofrece el siguiente argumento a favor del intelectualismo:
 
 + Las atribuciones de saber-cómo son sensibles al contexto
 + Una forma de intelectualismo contextualista es la mejor explicación de los patrones de
@@ -2274,7 +2271,7 @@ aduce que en ellos los sujetos conservan su saber cómo. Por ejemplo
 / Instructor de ski: Hannes es un instructor de ski. Tiene éxito en enseñar a
   sus alumnos cómo realizar varios trucos que él mismo no puede realizar.
 
-Stanley & Williamson (2001) afirmarían que en este caso Hannes sabe cómo
+@Stanley2001 afirmarían que en este caso Hannes sabe cómo
 realizar esos trucos, a pesar de carecer de la habilidad para
 realizarlos. Otro ejemplo:
 
@@ -2286,45 +2283,44 @@ realizarlos. Otro ejemplo:
 En este caso, la intuición es que Luisa sabe cómo escapar de su auto,
 pero ha perdido la habilidad de hacerlo temporalmente.#footnote[Uno
 podría decir que conserva la habilidad, pero que esta ha sido
-#emph[enmascarada \[masked\]];. Cf. Fara (2008).] Ginet (1975) presenta
-el caso de un violinista que se ha dañado los dedos, Ziff (1984) el de
+#emph[enmascarada \[masked\]];. Cf. @Fara2008.] @Ginet1975 presenta
+el caso de un violinista que se ha dañado los dedos, @Ziff1984 el de
 una pianista que ha perdido ambas manos en un trágico accidente, y
-Snowdon (2003) el de un chef que ha perdido sus brazos. En todos estos
+@Snowdon2003 el de un chef que ha perdido sus brazos. En todos estos
 casos, existe la intuición de que los sujetos saben cómo hacer algo
 (tocar el violín, tocar el piano, cocinar, etc.) a pesar de que (de
 momento) carecen de la habilidad para hacerlo.
 
 Sin embargo, existen casos en que dadas las mismas condiciones, las
-intuiciones cambian. Glick (2012) ofrece los siguientes ejemplos, que
+intuiciones cambian. @Glick2012 ofrece los siguientes ejemplos, que
 son variaciones de los anteriores:
 
 #quote(block: true)[
 Supón que después del accidente de la pianista \[…\] te la presento
 diciendo “¡Ella sabe tocar muy bien el piano!”. Quedarías desconcertado,
 o interpretarías mi comentario como un tipo de broma cruel, no como un
-testimonio sensato de su experticia. (130)
+testimonio sensato de su experticia.#h(1fr) (130)
 
 Tras ver al instructor realizar un truco impresionante, un estudiante le
 pregunta si sabe realizar otro: ‘¿Sabe cómo hacer un McTwist?’. La
 respuesta ‘No’ sería correcta si el instructor nunca hubiese aprendido a
 realizar un McTwist, incluso si pudiera ayudar a otra persona a
-aprenderlo. (130-131)
+aprenderlo.#h(1fr) (130-131)
 ]
 
-Wallbridge acepta las intuiciones de Glick, así como los resultados de
-ciertos sondeos experimentales acerca de las intuiciones #emph[folk] en
-casos similares (Bengson et al (2009), Harmon & Horne (2016) y Gonnerman
-et al (2018)).#footnote[Gonnerman et al. (2021) ofrece información
-adicional. Por razones de espacio no me referiré a este estudio, pero
-creo que la propuesta que haré aplica igualmente a los casos nuevos que
-se discuten allí. Los autores argumentan que el concepto #emph[folk] de
-saber cómo es filosóficamente híbrido, ni intelectualista ni
-anti-intelectualista. Hay cierto atractivo en esta idea. Carter et al.
-(2019) también ofrecen información relevante. Ellos consideran si las
-intuiciones folk se corresponden con la implicación intelectualista de
-que ciertas atribuciones de saber podrían verse Gettierizadas (en casos
-de mala suerte ambiental, así como el conocimiento proposicional se
-pierde, según el intelectualismo debería perderse el saber cómo
+Wallbridge acepta las intuiciones de Glick, así como los resultados de ciertos
+sondeos experimentales acerca de las intuiciones #emph[folk] en casos similares
+(@BengsonMoffettWright2009, @HarmonHorne2016 y
+@GonnermanMortensenRobbins2018).#footnote[@GonnermanMortensenRobbins2021 ofrece
+información adicional. Por razones de espacio no me referiré a este estudio,
+pero creo que la propuesta que haré aplica igualmente a los casos nuevos que se
+discuten allí. Los autores argumentan que el concepto #emph[folk] de saber cómo
+es filosóficamente híbrido, ni intelectualista ni anti-intelectualista. Hay
+cierto atractivo en esta idea. @CarterPritchardShepherd2019 también ofrecen información
+relevante. Ellos consideran si las intuiciones folk se corresponden con la
+implicación intelectualista de que ciertas atribuciones de saber podrían verse
+Gettierizadas (en casos de mala suerte ambiental, así como el conocimiento
+proposicional se pierde, según el intelectualismo debería perderse el saber cómo
 también).] 
 
 #question[¿Deberíamos aceptar estas intuiciones sobe estos casos?]
@@ -2355,14 +2351,14 @@ es un caso especial de un esquema más general
 / Intelectualismo sensible a sujetos (ISS): S sabe cómo x si y solo si hay
   una manera w tal que S sabe de w que es una manera en que P podría hacer x
 
-donde P es una clase de personas. En el modelo de Stanley y Williamson,
+donde P es una clase de personas. En el modelo de @Stanley2001,
  la clase de personas relevante siempre es la que está integrada
 únicamente por el sujeto de atribución. Lo que importa es que w sea una
-manera #emph[para ella] de hacer x. Por eso es que Stanley (2011) asocia
+manera #emph[para ella] de hacer x. Por eso es que @Stanley2011 asocia
 al saber cómo con un tipo de auto-conocimiento: sé cómo hacer x solo si
 sé cómo #emph[yo] puedo hacerlo.#footnote[Es natural pensar que el
 modelo es al menos compatible con la postura ‘invariantista sensible al
-sujeto’ que Stanley (2005) ha defendido en el caso de las adscripciones
+sujeto’ que @Stanley2005 ha defendido en el caso de las adscripciones
 de conocimiento. Según esta posición, los estándares del soporte
 epistémico requeridos para que sea correcto adscribir conocimiento a un
 sujeto depende de qué posibilidades puede descartar el sujeto, así como
@@ -2413,12 +2409,12 @@ habilidad para hacer phi (aunque por supuesto podrías tenerla de todos
 modos). (1630)
 ]
 
-El modelo es sorprendentemente robusto frente a los datos empíricos de
-los estudios de Bengson et al (2009), Harmon & Horne (2016) y Gonnerman
-et al (2018) (por razones de espacio, voy a deferir una descripción de
-algunos de estos casos hasta la próxima sección, donde propongo un
-modelo alternativo.) Wallbridge afirma, en efecto, que el modelo es
-capaz de explicar todos los puntos de datos existentes en la literatura.
+El modelo es sorprendentemente robusto frente a los datos empíricos de los
+estudios de @BengsonMoffettWright2009, @HarmonHorne2016) y
+@GonnermanMortensenRobbins2018 (por razones de espacio, voy a deferir una
+descripción de algunos de estos casos hasta la próxima sección, donde propongo
+un modelo alternativo.) Wallbridge afirma, en efecto, que el modelo es capaz de
+explicar todos los puntos de datos existentes en la literatura.
 
 === Anti-intelectualismo contextualista
 
@@ -2435,7 +2431,7 @@ puedan o no dar cuenta de los datos. Por lo tanto, a lo más puede
 concluir que #emph[si] no hay tal alternativa, el intelectualismo es
 preferible. Pero no sabemos si no puede haber tal alternativa. En lo que
 sigue voy a argumentar que sí puede haberla--en efecto, voy a mostrar que
-la hay.#footnote[Esto es una versión de Morales Carbonell (2023).]
+la hay.#footnote[Esto es una versión de @MoralesCarbonell2023.]
 
 Una manera de construir una alternativa anti-intelectualista es emplear
 los mismos recursos a los que Wallbridge apela en la construcción de su
@@ -2489,11 +2485,11 @@ clase no tienen la habilidad de tocar el piano.
 
 El modelo se aprovecha del hecho bien conocido de la sensibilidad al
 contexto de ciertas expresiones modales como ‘ser capaz’, ‘tener la
-habilidad de’, ‘poder’, etc.#footnote[Cf. Kratzer (2012). Jaster (2021)
+habilidad de’, ‘poder’, etc.#footnote[Cf. @Kratzer2012. @Jaster2021
 ofrece una amplia discusión acerca de la semántica del concepto de
 habilidad. Aquí voy a asumir una visión estándar, de acuerdo con la cual
 tener una habilidad implica cierto tipo de posibilidad metafísica.]
-Lewis (1976) ofrece esto como una manera de resolver la famosa paradoja
+@Lewis1976 ofrece esto como una manera de resolver la famosa paradoja
 del abuelo, donde parece ser cierto que al mismo tiempo tenemos lo que
 hace falta para matar a nuestro abuelo y aún así no podemos matarlo. La
 siguiente cita clarifica el punto:
@@ -2512,7 +2508,7 @@ que puedo hacer, relativo a un conjunto de hechos, no lo puedo hacer,
 relativo a otro conjunto que incluya más cosas. \[…\] Del mismo modo es
 posible ser equívoco acerca de si es posible que yo hable finlandés, o
 si soy capaz, o si tengo la habilidad o capacidad o el poder o la
-potencialidad de hacerlo. (77)
+potencialidad de hacerlo. #h(1fr) (77)
 ]
 
 Si creemos que la contribución de los términos modales es sensible al
@@ -2599,7 +2595,7 @@ candidato viable para que le adscribamos que sepa cómo realizar el
 truco. Y en efecto, esto es cierto incluso si es capaz en el sentido más
 amplio (que no es seleccionado como relevante en este contexto).
 
-En el estudio de Bengson et al. (2009), se consideran tres casos, además
+En el estudio de @BengsonMoffettWright2009, se consideran tres casos, además
 del caso del instructor de ski. En el primero de estos, se pide que
 consideremos a Jane, una patinadora que quiere realizar un
 #emph[Salchow] quintuple. En este caso, Jane tiene conocimiento
@@ -2629,13 +2625,13 @@ instructor y de la patinadora.#footnote[Uno podría por tanto objetar que
 los juicios de los encuestados sobre este caso podrían haber sido
 afectados porque los sujetos podrían haber esperado un concepto de
 habilidad similarmente estricto al de esos otros casos. Sin embargo,
-aunque Bengson et al. (2009) no hacen esto suficientemente explícito (a
+aunque @BengsonMoffettWright2009 no hacen esto suficientemente explícito (a
 mi parecer) en su trabajo, las encuestas sobre estos casos fueron
 realizadas independientemente (al menos los casos primero y segundo son
 independientes entre sí, e independientes de los casos tercero y cuarto,
 que parecen haber sido testeados en un mismo estudio).]
 
-Bengson y Moffett (2009, 396) conceden un punto similar (que la
+@BengsonMoffettWright2009[p. 396] conceden un punto similar (que la
 habilidad que Sally manifiesta no es suficientemente #emph[confiable];),
 y tratan de descartar el problema con un testeo del caso del _Salchow_. En
 este, Irina es una patinadora novata que trata de realizar el
@@ -2662,7 +2658,7 @@ creencias erróneas y anormalidad neurológica, sería natural decir que no
 lo sabe. Esto no es más que el efecto del contexto en la propiedad de
 las atribuciones de habilidad correspondientes.]
 
-En el estudio de Gonnerman et al. (2018), se consideraron dos tipos de
+En el estudio de @GonnermanMortensenRobbins2018, se consideraron dos tipos de
 variaciones del caso de la patinadora, y un caso adicional. Respecto a
 los primeros, Wallbridge sugiere que el contexto hace relevantes dos
 posibilidades: o bien que los sujetos han aprendido una manera de
@@ -2678,7 +2674,7 @@ modelo anti-intelectualista, porque es claro que puede pasar que un
 sujeto puede poseer una habilidad en parte por tener cierto
 conocimiento.#footnote[Esto es neutral respecto a la pregunta de si el
 conocimiento proposicional es en si mismo un tipo de saber cómo, que
-Hetherington (2011) responde positivamente.]
+@Hetherington2011 responde positivamente.]
 
 El intelectualista en efecto podría objetar que lo que estos casos
 muestran es que efectivamente no se pueden eliminar los componentes
@@ -2689,7 +2685,7 @@ En este caso, parece que es ineludible referir a ciertas creencias u
 otras actitudes proposicionales. La respuesta anti-intelectualista es
 precisamente que lo que importa es que tenga la habilidad, no solamente
 el conocimiento proposicional. El argumento es en esencia el mismo que
-Ryle (1949) propone contra la idea de que tener cierto conocimiento
+@Ryle1949 propone contra la idea de que tener cierto conocimiento
 proposicional es suficiente para que se sepa cómo hacer algo: es posible
 que alguien posea, por ejemplo, conocimiento acerca de todo lo que
 conviene de hecho para poder imaginar correctamente cómo realizar el
@@ -2731,7 +2727,7 @@ conocimiento proposicional, como la de De Rose, para evitar algunas de
 las críticas que estas han recibido. Sin embargo, esto da a pie al
 problema que apunto aquí acerca de la falta de sistematicidad de su
 propuesta contextualista. Sobre qué otras actitudes proposicionales
-podrían ser relevantes, véase Cath (2015).]
+podrían ser relevantes, véase @Cath2015.]
 
 Para romper el #emph[impasse];, el anti-intelectualista podría intentar
 proponer una clase de casos que el anti-intelectualista no pueda
@@ -2773,8 +2769,8 @@ ser tomadas como formas de saber cómo, y luego, en una capa superior,
 define las condiciones en las que algunas de esas habilidades son en
 efecto tomadas como tales. La segunda capa de la teoría refleja las
 necesidades prácticas de los usuarios del lenguaje, y estas están
-definidas por el contexto.#footnote[Véanse las reflexiones de Craig
-(1990) sobre la función del concepto de saber cómo.] Lo que hace falta,
+definidas por el contexto.#footnote[Véanse las reflexiones de @Craig1990
+sobre la función del concepto de saber cómo.] Lo que hace falta,
 entonces, es precisar en qué contextos se vuelve imperioso rastrear
 ciertas habilidades.
 
@@ -2783,7 +2779,7 @@ ciertas habilidades.
 Una idea que algunos autores defienden sobre el saber-cómo es que este es un
 tipo de _logro epistémico_, y que esto explica el valor del saber-cómo. Algunos
 de estos autores han empleado esta idea para distinguir al saber-cómo del
-conocimiento proposicional. Por ejemplo, Carter & Pritchard (2015) proponen que
+conocimiento proposicional. Por ejemplo, @Carter2015a proponen que
 mientras que el saber-cómo es siempre un logro epistémico, el conocimiento
 proposicional no siempre lo es. Si este tipo de argumento funciona, habría otra
 manera de defender el anti-intelectualismo.
@@ -2852,7 +2848,7 @@ veríamos tentados a decir que parte del valor de su conocimiento es que le
 permite saber cómo hacer ciertas cosas (llegar a Larissa, guiar a otros, etc.).
 Y si el saber-cómo es una forma de conocimiento, entonces estas intuiciones
 socráticas sugieren que es distinto a la creencia verdadera. Ya vimos, en la
-sección 5.3.1, como Cath (2011) propone que esta diferencia es ilusoria,
+#ref(<intelectualismo-rev>), como @Cath2011 propone que esta diferencia es ilusoria,
 precisamente porque tener una creencia verdadera es suficiente para poder guiar
 nuestra conducta de manera intencional.
 
@@ -2873,8 +2869,8 @@ tener: un ejemplo de esto es la manera en que valoramos la verdad en nuestras
 creencias. Por otro, valoramos ciertas propiedades de las maneras en las que
 llegamos a tener ciertos estados epistémicos: por ejemplo, valoramos que cuando
 llegamos a tener creencias verdaderas, lo hagamos mediante un proceso que además
-nos provea de justificación para tener esas creencias.#footnote[Barceló Aspeitia
-(2019) examina, entre otras cosas, la distinción entre estas dos maneras de
+nos provea de justificación para tener esas creencias.#footnote[@BarceloAspeitia2019
+examina, entre otras cosas, la distinción entre estas dos maneras de
 evaluar nuestras condiciones epistémicas y morales, llamando al primer tipo de
 evaluación _consecuencialista_, y al segundo _deontologista_.]
 
@@ -3055,7 +3051,7 @@ proposicional no son el mismo tipo de logro no hablamos de casos en que la
 relación entre los tipos de logro relevantes sea como esto; asumimos que ninguno
 de los tipos de logro relevantes son una instancia de los otros.]
 
-Carter & Pritchard (2015) argumentan a favor de una posición
+@Carter2015a argumentan a favor de una posición
 anti-intelectualista siguiendo la primera de esas posibilidades. Primero,
 argumentan que el conocimiento proposicional no es un tipo de logro epistémico,
 y luego, argumentan que el saber-cómo sí es un tipo de logro epistémico.
@@ -3067,7 +3063,7 @@ concepto de conocimiento es separable del concepto de logro (que haya un logro
 no es necesario ni suficiente para que haya conocimiento).
 
 Un argumento contra la necesidad del logro para el conocimiento proposicional es
-que hay casos como el siguiente (adaptado de Lackey (2007)):
+que hay casos como el siguiente (adaptado de @Lackey2007):
 
 / Estación de trenes: Tras llegar a la estación de trenes de Köln, Isabel tiene
  que hacer un cambio de andenes. No tiene tiempo para buscar los carteles con
@@ -3124,11 +3120,12 @@ conocimiento. El problema es que pareciera que la clase de logros atribuibles a
 Isabel no pasan la De modo que quienes defiendan la necesidad del logro para el
 conocimiento encaran un dilema.
 
-En la dirección contraria, autores como Kallestrup & Pritchard (2012, 2013,
-2014) han propuesto que el logro epistémico no es suficiente para la posesión
-del conocimiento proposicional tampoco. Para esto emplean un experimento mental
-inspirado en el experimento de la Tierra Gemela de Putnam (véase el cuadro
-explicativo). Su idea es la siguiente:
+En la dirección contraria, autores como Kallestrup & Pritchard
+(#cite(<Kallestrup2012>, form: "year"), #cite(<Kallestrup2013>, form: "year"),
+#cite(<Kallestrup2014>, form: "year")) han propuesto que el logro epistémico no
+es suficiente para la posesión del conocimiento proposicional tampoco. Para esto
+emplean un experimento mental inspirado en el experimento de la Tierra Gemela de
+Putnam (véase el cuadro explicativo). Su idea es la siguiente:
 
 / Idénticos en sus logros: Dos sujetos pueden ser idénticos en términos de la
  agencia que emplean para alcanzar un objetivo epistémico; por ejemplo, dos
@@ -3156,7 +3153,7 @@ explicativo). Su idea es la siguiente:
 Putnam presentó este caso como una ilustración de la tesis de que las
 propiedades semánticas como la referencia no estaban fijadas por las propiedades
 internas de los sujetos, sino por la manera en que es el mundo; a esta idea se
-le llama _externalismo_.]
+le llama _externalismo_. Véase la #ref(<internalismo-externalismo>).]
 
 Parece, entonces, que este caso atribuir conocimiento a Kira entra en conflicto
 con las intuiciones estándar sobre la interacción entre el conocimiento
@@ -3269,7 +3266,8 @@ En este caso, que Sally\* tenga cierto tipo de acierto podría no significar que
 su acierto se deba al ejercicio de sus habilidades, incluso si eso parece a
 primera vista.
 
-¿Por qué creer que Incompatibilismo es verdadero? Clayton Littlejohn propone que
+¿Por qué creer que Incompatibilismo es verdadero? Clayton Littlejohn
+(#cite(<Littlejohn2014>, form: "year")) propone que
 tiene que ser verdadero porque para que un éxito sea atribuible a la habilidad
 de un sujeto, el sujeto debe haber tenido una oportunidad del tipo adecuado para
 ejercitar las habilidades relevantes, y ese ejercicio debe haber llevado al
@@ -3314,7 +3312,7 @@ compatibilista del argumento de Carter & Pritchard no es válida.
 
 === Autonomía
 
-Markie (2019) ofrece un tipo distinto de contraejemplo a la tesis de que el
+@Markie2019 ofrece un tipo distinto de contraejemplo a la tesis de que el
 saber-cómo es un tipo de logro epistémico. Ya vimos que en casos como el del
 Salchow, es plausible que haya sujetos que no tienen saber-cómo porque la manera
 en que conciben la manera de realizar una acción es inadecuada, aunque pueden
@@ -3349,7 +3347,7 @@ esta autonomía tras la intervención divina, Irina es autónoma y su saber-cóm
 consiste en tener una manera de gobernarse respecto a cómo realizar el Salchow.
 En tanto la autonomía es valiosa, su estado ha mejorado.
 
-Carter (2022) adopta la noción de autonomía, pero la desarrolla de una manera
+@Carter2022 adopta la noción de autonomía, pero la desarrolla de una manera
 distinta. Lo que diferencia la propuesta de Carter de la de Markie es que cree
 que en casos como el de Intervención divina no deberíamos pensar que el sujeto
 tiene saber-cómo. Carter comienza su discusión del caso del saber-cómo con el
