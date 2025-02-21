@@ -451,7 +451,7 @@ componentes cruciales del _kimün_ que caracteriza aquello que es ser una buena
 persona; @Mora2016[p. 145] aduce el proverbio '_küme che küme zugunkey_', 'buena
 persona, buen hablante'.
 
-== Saber-cómo, 'aprender observando', 'aprender haciendo' y 'aprender escuchando'
+== 'Aprender observando', 'aprender haciendo' y 'aprender escuchando'
 
 En la sección anterior hemos examinado las líneas generales de la epistemología
 mapuche. En esta sección quiero examinar cómo este esquema puede aplicarse a la
