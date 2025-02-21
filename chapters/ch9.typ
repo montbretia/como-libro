@@ -219,7 +219,8 @@ discutiendo. Por otra parte, quienes saben cómo hacer algo también pueden
 dedicarse a realizar las tareas que saben hacer para otros, que en este caso
 serían sus _clientes_ (aunque no es necesario que tengan una relación económica,
 de modo que un cliente podría ser simplemente alguien que necesita ayuda y a la
-que otra persona podría prestarle una mano). A causa de algún prejuicio, un
+que otra persona podría prestarle una mano). En este caso hablaremos de la
+relación entre proveedores y clientes. A causa de algún prejuicio, un
 aprendiz o un cliente podría disminuir o exagerar el saber-cómo de sus
 informantes o contratados. En particular, incluso si vieran que tienen éxito en
 sus acciones más o menos regularmente, los aprendices o clientes podrían no
@@ -257,6 +258,27 @@ demasiado espacio para injusticias epistémicas basadas en prejuicios de engaño
 
 #question[¿Existe un análogo a la injusticia hermenéutica que afecte al
 saber-cómo?]
+
+#aside[
+    Iris Marion Young, en su famoso ensayo 'Throwing Like a Girl' (#cite(<Young1980>,
+    form: "year")) describe cómo la
+    manera de comportarse femenina está socialmente cohartada:
+
+    #quote(block: true)[
+        La existencia corporal femenina es una _intencionalidad inhibida_, que
+        al mismo tiempo se proyecta a un fin con un 'yo puedo' y retrae su
+        compromiso completo corporal con ese fin en un auto-impuesto 'no puedo'.
+        #h(1fr) (p. 146)
+    ]
+
+    Young ilustra el problema con el caso de frases como 'tiras como niña', que
+    sugieren que hay una manera de actuar característica de las mujeres jóvenes,
+    que es evaluativamente despreciada, y que responde a la existencia de un
+    prejuicio generalizado. Este tipo de opresión sistemática sobre el ejercicio
+    y auto-concepción de las habilidades de un sujeto es crucial para entender
+    la posibilidad de la injusticia epistémica desde la perspectiva del
+    anti-intelectualismo.
+]
 
 == Vicios del saber cómo
 
@@ -307,12 +329,15 @@ intelectual.#h(1fr) (p. 152)
 
 Otros autores añaden a esta lista la arrogancia o _hubris_ (aunque puede ser un
 tipo de lo que Zagzebski llama 'orgullo epistémico'), el dogmatismo, la
-autoindulgencia epistémica, tontería, la falta de amor por el aprendizaje,
+autoindulgencia epistémica, la tontería, la falta de amor por el aprendizaje,
 ciertas formas de dudas, la falta de cuidado, la credulidad, el apresuramiento
 intelectual, el cinismo, el fatalismo, el estar satisfechos con uno mismo, el
 narcisismo, el auto-humillarse, la ignorancia motivada, el desinterés por los
 objetivos epistémicos de los demás, la procrastinación, el esnobismo,
 etc.#footnote[Véanse las lecturas recomendadas, sobre todo @Kidd2019.] 
+
+#question[¿Hay alguna jerarquía de vicios epistémicos? ¿Son algunos peores que
+otros? ¿Puede haber casos en que el contexto hace, de virtudes, vicios?]
 
 ¿Qué tienen estas cosas en común? Según @Cassam2016, son mecanismos, hábitos o
 estilos de pensamiento o investigación, formas de buscar y evaluar evidencia,
@@ -354,24 +379,127 @@ sociedades a las que pertenece, pues puede pasar que nadie en esas sociedades
 entienda qué es lo que la hace exitosa.#footnote[Esto nos remite de vuelta al
 tipo de problemas con los estados epistémicos colectivos que vimos en el
 capítulo anterior.] @Levy2020 sugieren que, en efecto, gran parte de la cultura
-acumulativa consiste en saber-cómo. 
+acumulativa consiste en saber-cómo.
 
-Volvamos a la pregunta inicial, de si puede haber vicios del saber-cómo. Para
-atacar el problema podemos apelar nuevamente a la distinción de @Hawley2011
-entre la relación entre maestros-aprendices y patrones-clientes. Ciertamente, el
-tipo de disposiciones que promueven las injusticias epistémicas que pueden
-afectar al saber-cómo son vicios epistémicos. Sin embargo, las formas de
-prejuicio que pueden sufrir quienes tienen saber-cómo son vicios de aquellos con
-quienes interactúan (los aprendices y clientes), quienes no son necesariamente
-ellos mismos poseedores de saber-cómo. Lo que nos interesa ahora es examinar si
-es posible que haya vicios característicos de quienes tengan saber-cómo, no sus
-aprendices o clientes.
+#aside(float: false)[
+    En sus _Lecciones de Pedagogía_ (1803), Kant
+    sugiere (un tanto cínicamente) que quienes no han desarrollado su facultad del juicio de todas
+    maneras tienen un rol que cumplir en la economía del conocimiento:
+
+    #quote(block: true)[
+        Las facultades inferiores no tienen valor en sí mismas: tomen como
+        ejemplo a una persona que tiene una gran memoria, pero que carece de
+        poder de juicio. Alguien como ese es un diccionario viviente. Tales
+        mulas de carga del Parnaso son necesarias también, pues aunque no pueden
+        ellas misma cumplir con nada sensato, de todas maneras pueden arrastrar los
+        materiales con los que otros pueden hacer algo bueno.#footnote[Traduzco
+    de @Kant2007.] #h(1fr) (9: 472)
+    ]
+
+    (El Parnaso era el sitio donde habitaban las musas, y por lo tanto
+    representa al aprendizaje.)
+]
+
+Volvamos entonces a la pregunta inicial, de si puede haber vicios del
+saber-cómo. Para atacar el problema podemos apelar nuevamente a la distinción de
+@Hawley2011 entre la relación entre maestros-aprendices y proveedores-clientes.
+Ciertamente, el tipo de disposiciones que promueven las injusticias epistémicas
+que pueden afectar al saber-cómo son vicios epistémicos. Sin embargo, las formas
+de prejuicio que pueden sufrir quienes tienen saber-cómo son vicios de aquellos
+con quienes interactúan (los aprendices y clientes), quienes no son
+necesariamente ellos mismos poseedores de saber-cómo. Lo que nos interesa ahora
+es examinar si es posible que haya vicios característicos de quienes ocupen
+roles relacionados al saber-cómo, ya sea como proveedores o como maestros, no
+sus aprendices o clientes.
+
+Para organizar nuestra discusión, distingamos entre lo que puede afectar:
+
+- la adquisición del saber-cómo,
+- la mantención del saber-cómo, y
+- la transmisión y el ejercicio del saber-cómo
+
+Primero, consideremos los casos virtuosos, para después examinar qué es lo que
+pasaría en el caso contrario. Una persona puede adquirir cierto saber-cómo de
+manera virtuosa si lo hace responsablemente, con vistas a formar una competencia
+robusta y efectiva que le permita hacer lo que necesita, y además cumplir una
+serie de roles socio-epistemológicos característicos de quienes poseen
+saber-cómo. En este sentido, alguien puede aprender fijándose no solo en lo que
+necesita hacer en un caso determinado, sino además en vistas a la posibilidad de
+que tenga que hacer cosas similares en circunstancias distintas. Además, en
+principio guiar el proceso de aprendizaje de modo que uno adquiera tanta
+competencia como sea razonable es en general un proceso virtuoso. Por el
+contrario, cierta forma de mediocridad constituye un vicio
+epistémico.#footnote[@Schwitzgebel2019 examina los argumentos que pueden darse a
+favor de la mediocridad moral (la idea de que es aceptable tener como objetivo
+ser moralmente mediocres). Por ejemplo, Schwitzgebel considera el argumento de
+que tener como objetivo ser moralmente buenos y no mediocres es injusto
+(_unfair_) dado que muchos de nuestros pares son mediocres, y responde que
+cuestiones de justicia no son necesariamente exculpatorias. Alguien podría ser
+el menos brutal de los asesinos, y en cierto sentido sería injusto decir que es
+igual que el más brutal de los asesinos, pero esto no significa que no merece
+ser culpado o incluso repudiado por lo que ha hecho. Podrían defenderse
+argumentos similares a favor de la mediocridad epistémica, y criticarse de la
+misma manera.] Si aprendes a hacer algo específico, pero fácilmente podrías
+haber aprendido una habilidad más general, quedas en principio abierto a ciertas
+críticas. Mi madre, por ejemplo, teje a _crochet_, pero rehúsa intentar aprender
+cómo diseñar sus propios patrones (prefiere seguir tutoriales en Youtube). Estas
+deficiencias a menudo pueden pasarse por alto porque quienes tienen estos vicios
+a menudo pueden ser altamente competentes en las tareas específicas que sí saben
+hacer. En otros casos, alguien podría simplemente aprender el mínimo como para
+satisfacer meramente a un cliente poco juicioso o exigente. Qué es virtuoso
+aprender a hacer es algo que requiere de cierto juicio, pero ciertamente la
+falta de esfuerzo en aprender es una forma de vicio.
+
+Respecto al aprendizaje, también podría haber vicios que van en la dirección
+opuesta, de poner _demasiado_ esfuerzo en el aprendizaje. Esto es más claro en
+el caso del conocimiento proposicional que en el caso del saber-cómo. Uno podría
+dedicarse a leer todo lo que existe sobre un tema, y aprender mucho, sin llegar
+a formar una opinión coherente o propia acerca del asunto. Estar informado, como
+nos decía @Ryle1947, no es lo mismo que ser inteligente, sin importar cuán
+informados estemos.#footnote[Otro argumento en contra de tratar de adquirir la
+mayor cantidad de saber-cómo posible es que hacer esto abarrota nuestra mentes.
+Es necesario adoptar una norma de investigación que diga que solo debemos
+investigar aquello que promueva los intereses relevantes (en principio, los
+nuestros). Véase @Harman1986 y @Friedman2017.] Sin embargo, uno podría tener la
+disposición a juzgar ciegamente que lo que uno ha aprendido a hacer no es
+suficiente. Esto es particularmente plausible en casos en que uno no tiene una
+idea precisa de en qué consistiría saber hacer algo excepto en términos de tener
+la experiencia de haberlo hecho. Cuando queremos algo que no hemos hecho antes,
+es fácil caer en la ansiedad de no saber si nos hemos preparado lo suficiente.
+Esta ansiedad es sana en tanto nos obliga a reevaluar nuestras competencias,
+pero puede volverse viciosa si se vuelve insensible a la evidencia acerca de
+nuestras competencias.
+
+Una vez que aprende a hacer algo, un agente epistémico virtuoso busca hacer su
+saber-cómo más estable y mejor en todo sentido, hasta donde es razonable. Por
+ejemplo, busca saber cómo otros sujetos hace lo mismo, con el fin de investigar
+mejores maneras de hacerlo. La posibilidad de una falta de compromiso con estas
+cosas, o de un impulso exagerado a hacerlas debido a una falta de confianza en
+las capacidades de uno mismo pueden llegar a ser vicios, del mismo modo que pasa
+en el caso de la adquisición del saber cómo. Además, respecto a la mantención
+del saber-cómo existe la posibilidad de cierto dogmatismo vicioso. A menudo una
+tarea puede realizarse de distintas maneras, sin que ninguna sea
+fundamentalmente mejor que las otras salvo en circunstancias particulares.
+Alguien podría tener conocimiento de estas maneras de realizar la tarea, conocer
+los pros y cons de cada uno, y no obstante esto preferir en cada caso una manera
+por sobre las otras aunque no es la mejor en la situación actual. Esto puede
+estar motivado por cierta timidez o aversión al riesgo, aunque de hecho actuar
+de otras maneras podría ser menos riesgoso en ciertas circunstancias.
+
+#question[¿Sería lo opuesto a esta forma de dogmatismo un vicio también?]
+
+Finalmente, en su relación con aprendices o clientes, alguien que posee
+saber-cómo podría 
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
 
+@Haslanger1999 esboza algunas de las preocupaciones acerca del conocimiento
+desde una perspectiva feminista.
+
 @McKinnon2016 ofrece una visión sinóptica de las discusiones centrales sobre la
-injusticia epistémica. @Kidd2019 ofrece un número de perspectivas y aplicaciones
+injusticia epistémica. El volumen _The Routledge Handbook of Epistemic
+Injustice_ (#cite(<Kidd2019>, form: "year")) ofrece un número de perspectivas y aplicaciones
 del concepto de injusticia epistémica.
 
 Muchas aplicaciones de la noción de injusticia epistémica tienen consecuencias
