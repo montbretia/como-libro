@@ -51,6 +51,15 @@
     ]
   ]
 
+#import "@preview/wordometer:0.1.4": word-count, total-words
+
+#show: word-count
+
+#total-words palabras
+
+#v(1em)
+
+
 #show outline.entry.where(level: 1): it => {
   v(0.7em)  
   strong(it)
@@ -61,6 +70,8 @@
 }
 
 #include "frontmatter.typ"
+
+
 
 #set heading(numbering: "1.")
 #set page(numbering: "1")
