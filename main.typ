@@ -52,13 +52,12 @@
   ]
 
 #show outline.entry.where(level: 1): it => {
-  v(0.5em)  
+  v(0.7em)  
   strong(it)
 }
  
-#show outline.entry.where(level: 1): it => {
-  v(0.2em)
-  it
+#show outline.entry.where(level: 2): it => {
+  emph(it)
 }
 
 #include "frontmatter.typ"
