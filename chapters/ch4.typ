@@ -34,13 +34,14 @@ proponen.
 Los argumentos anti-intelectualistas que nos van a preocupar en este
 capítulo fueron esgrimidos por primera vez por el filósofo inglés
 Gilbert Ryle (1900–1976) en un ensayo llamado ‘Knowing How and Knowing
-That’ (KH, 1945) y en su libro #emph[The Concept of Mind ];(CM, 1949).
+That’ (KH, #cite(<Ryle1947>, form: "year")) y en su libro #emph[The Concept of
+Mind] (CM, #cite(<Ryle1949>, form: "year")).
 En efecto, en esto trabajos Ryle impuso el marco conceptual dentro del
 cual se han llevado a cabo todas las discusiones posteriores acerca del
 saber cómo. Fue él quien planteó el problema como un dilema entre una
 postura intelectualista y otra
 anti-intelectualista.#footnote[
-Con esto no quiero decir que Ryle inventó la distinción Kremer (2017)
+Con esto no quiero decir que Ryle inventó la distinción. @Kremer2017
 muestra convincentemente que el uso de Ryle de los términos
 ‘intelectualista’ y ‘anti-intelectualista’ se sitúa en un contexto en
 que estos términos ya estaban en voga.
@@ -89,15 +90,12 @@ las ideas de Descartes acerca de la mente. Como es sabido, en sus
 #emph[Meditaciones Metafísicas] Descartes se pregunta acerca de la
 naturaleza de su existencia, y responde:
 
-#quote(block: true)[
-\[…\] entonces ¿qué soy? Una cosa que piensa. ¿Qué es una cosa que
-piensa? Es decir una cosa que duda, que concibe, que afirma, que niega,
-que quiere, que no quiere, que también imagina, y que siente (AT VII
-22)#footnote[Cito a Descartes con el esquema AT + libro (AT VII son las
-#emph[Meditaciones] en la edición de Adam y Tannery) + página, usado por
-la mayoría de las ediciones de uso académico.
-]
-]
+#quote(block: true)[ \[…\] entonces ¿qué soy? Una cosa que piensa. ¿Qué es una
+cosa que piensa? Es decir una cosa que duda, que concibe, que afirma, que niega,
+que quiere, que no quiere, que también imagina, y que siente.#footnote[Cito a
+Descartes con el esquema AT + libro (AT VII son las #emph[Meditaciones] en la
+edición de Adam y Tannery) + página, usado por la mayoría de las ediciones de
+uso académico.] #h(1fr) (AT VII 22)]
 
 Pero una cosa que piensa no es una cosa que ocupa un lugar en el
 espacio. Puedo concebir cuerpos sin mentes, y también mentes sin cuerpos
@@ -141,8 +139,7 @@ esta asunción de que había una causalidad bifurcada era el resultado de
 una visión de la vida humana \[...\] según la cual cada parte de la vida
 de una persona tenía que ser un par de partes de otras dos vidas
 sincrónicas, misteriosamente unidas por conexiones causales que
-tenderían un puente entre la causación mecánica y física. (1962/2009,
-196)
+tenderían un puente entre la causación mecánica y física. (@Ryle1962[p. 196])
 ]
 
 El tipo de explicación de la acción que la doctrina oficial ofrece es
@@ -180,7 +177,7 @@ tipo que los movimientos corporales. Y así. \[…\] Quienes repudiaban al
 mecanicismo representaron a las mentes como el centro extraordinario de
 procesos mentales, parecidos a las máquinas pero al mismo tiempo
 considerablemente distintos. Su teoría era una hipótesis para-mecánica.
-(CM, 8-9)
+#h(1fr) (CM, 8-9)
 ]
 
 Esto es un problema porque aplica un modelo de explicación, el modelo
@@ -257,8 +254,8 @@ tales actos internos de considerar proposiciones (proposiciones
 un ejercicio de la inteligencia, sino a lo más un proceso iniciado y de
 algún modo conducido por un acto adicional de teorización. (Se asume
 también que el teorizar no es un tipo de hacer, como si ‘hacer
-internamente’ fuera un tipo de contradicción.)’ (KH,
-222)#footnote[Cf. CM: ‘\[…\] tanto los filósofos como la gente común tienden a tratar
+internamente’ fuera un tipo de contradicción.)’ #h(1fr) (KH,
+222)#footnote[Cf. CM, p. 15: ‘\[…\] tanto los filósofos como la gente común tienden a tratar
 las operaciones intelectuales como el centro de la conducta mental; es
 decir, tienden a definir todos los otros conceptos de conducta mental en
 términos de conceptos cognitivos. \[…\] \[Ciertos teóricos (Ryle
@@ -271,7 +268,6 @@ intelectual de proposiciones verdaderas. Ser racional era ser capaz de
 reconocer verdades y las conexiones que hay entre ellas. Por lo tanto,
 actuar racionalmente era controlar las propensiones extra-teoréticas
 mediante la aprehensión de verdades acerca de cómo conducir la vida.’
-(15).
 ]
 ]
 
@@ -282,7 +278,8 @@ Aquí vale la pena distinguir entre dos tesis intelectualistas:
 
 / Intelectualismo~sobre~el~hacer: Para todo sujeto s y acción a, s hace a
   inteligentemente si y solo si su acción es iniciada y/o guiada por estados
-  intelectuales de s, presumiblemente acerca de a#footnote[Cf. Bengson & Moffatt (2011), p. 7. ]
+  intelectuales de s, presumiblemente acerca de a#footnote[Cf.
+  @BengsonMoffett2011-1[p. 7].]
 
 Podemos definir el saber cómo en términos de la primera de estas ideas:
 es un tipo de ejercicio del intelecto, y por lo tanto consiste en la
@@ -334,14 +331,16 @@ su oponente estúpido tantas reglas, máximas prácticas, ‘consejos’
 podría aceptarlas y memorizarlas todas; y podría estar preparado para
 recitarlas correctamente si se lo pidieran. Aun así, podría jugar
 ajedrez estúpidamente, es decir, ser incapaz de aplicar las máximas
-inteligentemente, etc. (225–226)
+inteligentemente, etc.
+
+#h(1fr) (225–226)
 ]
 #v(0.5em)
 
 #quote(block: true)[
 Sin importar cuántos estratos de saber-que se postulen, siempre volvemos
 al mismo quid: un tonto podría tener todo ese conocimiento sin saber
-cómo actuar \[...\] (228)
+cómo actuar \[...\] #h(1fr) (228)
 ]
 
 Estrictamente, estas observaciones no son aún un argumento en contra del
@@ -413,7 +412,7 @@ principio:
 
 En esencia, con su argumento del tonto, Ryle muestra que este principio
 intelectualista tiene contraejemplos.#footnote[
-Carter & Poston (2018) reconstuyen el argumento de Ryle usando un
+@Carter2018 reconstuyen el argumento de Ryle usando un
 principio aparentemente distinto:
 
 #set enum(numbering: "(A)")
@@ -449,7 +448,8 @@ el antecedente es falso también. Es decir:
 + El intelectualismo es falso.
 ]
 
-#aside(breakable: true, float: false)[Mi formalización toma inspiración de ciertas ideas de Häggqvist (2017).
+#aside(breakable: true, float: false)[Mi formalización toma inspiración de
+ciertas ideas de @Haggqvist2017.
 Häggqvist sugiere que en una formalización de un experimento mental, cada
 premisa debe corresponder con una manera en que alguien podría estar en
 desacuerdo con el argumento, e identifica tres premisas. La primera afirma la
@@ -559,13 +559,13 @@ saber cómo emplear ese conocimiento (cf. págs. 234-235). En otras
 palabras: el mero conocimiento proposicional que se manifiesta en la
 capacidad de recitar hechos no merece ser considerado como conocimiento
 propiamente hablando. Ryle acusa al intelectualista de emplear una
-noción de conocimiento debilitada. Hartland-Swann (1956) critica a Ryle
+noción de conocimiento debilitada. @HartlandSwann1956 critica a Ryle
 por no haber mantenido esta doctrina en CM.
 ]
 
 En KH, Ryle ofrece un argumento adicional que da soporte a esta premisa,
 en la forma de un argumento de regreso al infinito:#footnote[Ryle toma el
-argumento de Carroll (1895).
+argumento de @Carroll1895.
 ]
 
 #quote(block: true)[
@@ -583,7 +583,7 @@ que #emph[la conclusión es verdadera si las premisas y la primera
 proposición hipotética, de que si las premisas son verdaderas entonces
 la conclusión es verdadera, son verdaderas];. Aún así el pupilo no logra
 ver el punto. Y así siguen, sin fin. El pupilo acepta reglas en la
-teoría, pero esto no lo fuerza a aplicarlas en la práctica. (226-227)
+teoría, pero esto no lo fuerza a aplicarlas en la práctica. #h(1fr) (226-227)
 ]
 
 Si Ryle creyera que es suficiente mostrar que es posible que alguien
@@ -653,7 +653,7 @@ conclusión. Si bien esta forma débil de conocimiento es un estado
 epistémico limitado, parece tener cierta importancia. Una persona que
 tiene conocimiento débil puede informarnos correctamente, y esa parece
 ser una función importante del
-conocimiento.#footnote[Sobre la función del conocimiento, véanse Craig (1990) y Hannon (2019).
+conocimiento.#footnote[Sobre la función del conocimiento, véanse @Craig1990 y @Hannon2019.
 ] De modo que hay razones para aceptar la distinción entre conocimiento
 débil y fuerte que son independientes de la disputa entre
 intelectualismo y anti-intelectualismo.
@@ -728,7 +728,7 @@ ejecución puede ser más o menos inteligente, más o menos estúpida. Pero,
 si para que cualquier operación sea ejecutada inteligentemente debiera
 haber una operación teórica previa que fuera realizada inteligentemente,
 sería una imposibilidad lógica que alguien pudiera romper el círculo.
-(19)
+#h(1fr) (p. 19)
 ]
 
 Ryle parte de la observación de que en el modelo intelectualista, la
@@ -801,7 +801,7 @@ tesis de necesidad de manera más explícita de la siguiente manera:
 
 El argumento es un poco indirecto, porque pasamos de los requisitos para
 el saber cómo a los requisitos de la consideración inteligente de
-proposiciones.#footnote[Gratton (2010) da otra formalización del argumento, basada en una
+proposiciones.#footnote[@Gratton2010 da otra formalización del argumento, basada en una
 versión de A. Según esta formalización, el regreso parte de A (que sirve
 el rol de lo que Gratton llama una #emph[fórmula de regreso];) y la
 premisa de que hay un acto inteligente (Gratton llama a esto el
@@ -852,7 +852,7 @@ girando la perilla y empujándola (así como mi conocimiento de que hay
 una puerta ahí) al realizar esa operación automáticamente cuando salgo
 de la pieza; y esto lo puedo hacer, por supuesto, sin formular (ni en mi
 mente ni en voz alta) ni esa proposición ni ninguna otra que sea
-relevante. (1975, 7).
+relevante. #h(1fr) (@Ginet1975[p. 7]).
 ]
 
 El argumento de Ryle parece afectar a una versión del intelectualismo
@@ -905,7 +905,7 @@ herirse. Los espectadores aplauden su habilidad para parecer torpe, pero
 lo que aplauden no es un tipo de #emph[performance] que ejecute ‘en su
 cabeza’. Lo que admiran es su #emph[performance] visible, y la admiran
 no por ser el efecto de ninguna causa interna, sino por ser el ejercicio
-de una habilidad. (CM, 21)
+de una habilidad. #h(1fr) (CM, 21)
 ]
 #v(0.6em)
 #quote(block: true)[
@@ -914,7 +914,7 @@ ellas consisten sus bromas; pero las caídas y tropezones visiblemente
 similares de una persona torpe no son la labor de su mente. Y esto es
 porque no tropieza a propósito. Tropezar a propósito es un proceso tanto
 corporal como mental, pero no es un par de procesos, como podrían ser un
-proceso de intentar caerse, y como efecto, otro proceso de caerse. (CM,
+proceso de intentar caerse, y como efecto, otro proceso de caerse. #h(1fr) (CM,
 22)
 ]
 
@@ -946,7 +946,7 @@ mind’s eye];\]’.
 ] Lo que rechaza es que lo mental se defina en términos de esa
 característica. Este es un punto al que Ryle volvió durante su obra
 posterior.#footnote[En su ensayo ‘El pensar pensamientos: ¿qué está haciendo #emph[Le
-Penseur?];’ (1968) Ryle se pregunta qué es lo distintivo del pensar como
+Penseur?];’ (#cite(<Ryle1968>, form: "year")) Ryle se pregunta qué es lo distintivo del pensar como
 acción. Ryle introduce la distinción entre descripciones delgadas
 (#emph[thin];) y gruesas (#emph[thick];) de una acción. La descripción
 más delgada de una acción se limita a describir el comportamiento físico
@@ -961,7 +961,7 @@ gruesas extremadamente dispares. La distinción fue empleada por el
 antropólogo Clifford Geertz para esbozar una metodología
 interpretativista en las ciencias de la cultura—según Geertz, comprender
 una cultura consiste en poder dar una descripción gruesa adecuada de lo
-que ocurre en ella (véase Geertz (1973)).
+que ocurre en ella (véase @Geertz1975).
 ]
 
 Así como en el modelo intelectualista el saber cómo no puede ser
@@ -1001,7 +1001,7 @@ hace o que concede, y en los movimientos que evita o veta. Mientras
 pueda seguir las reglas, no nos importa si no puede formularlas. No es
 lo que hace en su cabeza o con su lengua, sino lo que hace en el tablero
 lo que muestra si sabe o no las reglas de modo que efectivamente es
-capaz de aplicarlas. (29-30)
+capaz de aplicarlas.#h(1fr) (pp. 29-30)
 ]
 
 En efecto, Ryle observa que una vez que ha aprendido a jugar ajedrez de
@@ -1056,7 +1056,8 @@ heterogéneos es suficiente para establecer si sabe cómo disparar o no
 más allá de la duda razonable. Sólo entonces, quizás, pueda decidirse si
 acertó medio a medio del blanco por haber tenido suerte, o porque era un
 tirador suficientemente bueno como para tener éxito cuando lo intentase.
-(CM, 33)
+
+#h(1fr) (CM, 33)
 ]
 
 La hipótesis de que el saber cómo es un tipo de habilidad parece no
@@ -1101,7 +1102,7 @@ inferirse a partir de ciertos hechos:
 Una ley se usa como un #emph[ticket] para inferir (como un #emph[ticket]
 para entrar al estadio), que le da licencia a quien lo tenga a pasar de
 la afirmación de ciertos enunciados de hecho a la afirmación de otros
-enunciados de hecho. (CM, 105).
+enunciados de hecho. #h(1fr) (CM, 105).
 ]
 
 Sin embargo, el que una ley sea verdadera no implica, según Ryle, que
@@ -1131,9 +1132,9 @@ escrúpulos metafísicos de Ryle.
 
 La distinción entre saber proposicional y saber cómo introducida por
 Ryle ha sido extremadamente influyente, y ha sido usada para una
-diversidad de propósitos. Un ejemplo interesante es el de Lewis (1983,
-1988), en defensa del materialismo sobre lo mental frente a una objeción
-popularizada por Frank Jackson (1982), el así llamado #emph[argumento
+diversidad de propósitos. Un ejemplo interesante es el de Lewis
+(#cite(<Lewis1983>, form: "year"), #cite(<Lewis1988>, form: "year")), en defensa del materialismo sobre lo mental frente a una objeción
+popularizada por Frank Jackson (#cite(<Jackson1982>, form: "year")), el así llamado #emph[argumento
 del conocimiento];. Jackson ilustra el problema con un experimento
 mental:
 
@@ -1160,16 +1161,15 @@ fenómenos mentales.
   intelectualista la hipótesis de que saber cómo se siente algo es una
   forma de saber cómo?]
 
-El argumento presenta un desafío importante para el materialismo sobre
-lo mental, y ha habido muchos intentos de responder a él. Daniel Dennett
-(1991), por ejemplo, responde que la conclusión a la que parece llegar
-el experimento mental es ilusoria: si Mary saliera de su casa, ni se
-sorprendería ni aprendería nada nuevo. Esta respuesta no es demasiado
-satisfactoria: nos pone a discutir acerca de intuiciones acerca de qué
-ocurriría en casos extraños de los que no podemos tener completa
-certeza.
+El argumento presenta un desafío importante para el materialismo sobre lo
+mental, y ha habido muchos intentos de responder a él. Daniel Dennett
+(#cite(<Dennett1991>, form: "year")), por ejemplo, responde que la conclusión a
+la que parece llegar el experimento mental es ilusoria: si Mary saliera de su
+casa, ni se sorprendería ni aprendería nada nuevo. Esta respuesta no es
+demasiado satisfactoria: nos pone a discutir acerca de intuiciones acerca de qué
+ocurriría en casos extraños de los que no podemos tener completa certeza.
 
-Lewis (1983, 1988) acepta el peso del argumento, y propone una
+Lewis (#cite(<Lewis1983>, form: "year"), #cite(<Lewis1988>, form: "year")) acepta el peso del argumento, y propone una
 explicación alternativa de lo que sucede con Mary una vez que sale de su
 casa y experimenta el color. Según él, lo que Mary adquiere al
 experimentar los colores por primera vez no es información, sino una
