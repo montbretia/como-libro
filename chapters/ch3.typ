@@ -331,7 +331,7 @@ que llama #emph[conocimiento] #emph[animal];, y un nivel cognitivo más
 alto que llama #emph[conocimiento] #emph[reflexivo];, que requiere ser
 sensible a las posibilidades de caer en el
 error.#footnote[
-Sosa (2011) introduce el concepto de conocer plenamente bien
+@Sosa2010a introduce el concepto de conocer plenamente bien
 (#emph[knowing full well];)#emph[, ];que consiste en conocimiento que se
 obtiene mediante un proceso que es guiado por una evaluación del riesgo
 que es ella misma reflexivamente apta.
@@ -343,7 +343,7 @@ que ‘el conocimiento es creencia segura que emerge de los rasgos
 cognitivos confiables que constituyen nuestro carácter cognitivo, de tal
 modo que nuestro éxito epistémico es atribuible a nuestro carácter
 cognitivo’ (54). #footnote[
-Otro enfoque es el de Beddor & Pavese (2018). Ellos introducen una
+Otro enfoque es el de @Beddor2018. Ellos introducen una
 noción de habilidad (#emph[skillfulness];) como un tipo de
 #emph[robustez] #emph[modal];: en una proporción suficientemente alta de
 posibilidades cercanas relevantes donde uno realiza un acto similar, uno
