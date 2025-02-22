@@ -39,7 +39,7 @@
       #text(size: 15pt)[#it]
       #v(4em)
     ] else if it.level == 2 [
-      #v(1.5em)
+      #v(1.2em)
       #text(size: 12pt, weight: "medium")[#it]
       #v(0.5em)
     ] else if it.level == 3 [
