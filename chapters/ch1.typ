@@ -215,9 +215,7 @@ hipervínculos en el documento, para tener fácil acceso a las respuestas).
 
 #question[Las preguntas van a aparecer en este formato.]
 
-Como es usual, el libro termina con una lista de referencias. Aparte de las
-referidas explícitamente en el texto, he añadido algunas entradas adicionales
-como suplemento. Estas están marcadas con un asterisco. Cuando cito textos en
+Como es usual, el libro termina con una lista de referencias. Cuando cito textos en
 inglés, he ofrecido mis propias traducciones, pero en la lista de referencias
 he añadido información sobre traducciones al español cuando hay disponibles. 
 

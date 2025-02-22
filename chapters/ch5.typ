@@ -282,7 +282,7 @@ explicación de las condiciones de verdad de enunciados en los que un
 sujeto sabe la respuesta a una pregunta. Para este propósito, @Stanley2001 hacen uso del marco teórico de la semántica de
 @Karttunen1977 para las preguntas incrustadas. @Stanley2011 examina
 algunas de las limitaciones de esta semántica y adopta una teoría más
-sofisticada, la de @Groenendijk1982. Aquí voy a seguir la
+sofisticada, la de @Groenendijk1984. Aquí voy a seguir la
 presentación de @Stanley2001, indicando los puntos en los
 que Stanley difiere de esta.
 
@@ -449,7 +449,7 @@ ellas que es una manera de hacerlo es saber cómo hacerlo. El saber cómo
 parece resultar reducible al conocimiento proposicional acerca de
 maneras de hacer cosas. @Stanley2011 obtiene el mismo resultado, con
 algunas mejoras, empleando la semántica alternativa de las preguntas de
-@Groenendijk1982.
+@Groenendijk1984.
 
 Hay algunas complicaciones: en el caso en que hay distintas maneras de
 hacer algo, es plausible que no requiramos que se tenga conocimiento de
