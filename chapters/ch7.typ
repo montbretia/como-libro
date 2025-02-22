@@ -426,7 +426,7 @@ acerca de todos los números telefónicos disponibles en directorios telefónico
 (cf. @Ludwig2014 para ver un argumento similar) ¿Qué creen del argumento de Rupert?
 ]
 
-#aside[La estrategia de @Rupert2004 es similar a la de ciertos intérpretes de
+#aside(float: false)[La estrategia de @Rupert2004 es similar a la de ciertos intérpretes de
 Descartes, quienes discuten la naturaleza de ciertos estados mentales 'mixtos',
 como la imaginación, que parecen requerir la participación tanto de la _res
 cogitans_ como de la _res extensa_. En la interpretación tradicional, estos son
