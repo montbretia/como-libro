@@ -570,10 +570,11 @@ y @Carter2019.]
 == Lecturas recomendadas
 
 Sobre el debate entre internalistas y externalistas en epistemología, recomiendo
-revisar el capítulo 9 de _This is Epistemology_ (2021), de Littlejohn & Carter.
+revisar el capítulo 9 de _This is Epistemology_ (#cite(<Littlejohn2021>, form:
+"year")), de Littlejohn & Carter.
 
-El libro _Embodied Cognition_ (2011) de Lawrence Shapiro es una buena
-introducción a los problemas acerca de los límites de lo mental, que toca en
-parte el problema de la posibilidad de mentes extendidas (véase en particular el
-capítulo 6), aunque su foco principal es el rol que tiene la corporalidad en la
-posesión de la mente.
+El libro _Embodied Cognition_ (#cite(<Shapiro2011>, form:"year")) de Lawrence
+Shapiro es una buena introducción a los problemas acerca de los límites de lo
+mental, que toca en parte el problema de la posibilidad de mentes extendidas
+(véase en particular el capítulo 6), aunque su foco principal es el rol que
+tiene la corporalidad en la posesión de la mente.
