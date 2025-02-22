@@ -213,13 +213,13 @@ La noción más general de representación se mezcla bien con el computacionalis
 mental porque amplía el alcance de los tipos de procesos que pueden capturarse
 por el modelo. Considérese el caso de la clasificación de objetos en una escena
 visual: un sujeto percibe su entorno, y llega a determinar que existen tales o
-cuáles objetos en este (por ejemplo, ahora juzgo que hay un trozo de chocolate
+cuales objetos en este (por ejemplo, ahora juzgo que hay un trozo de chocolate
 en mi escritorio en base al contenido de mi experiencia visual). La mente del
 sujeto recibe información de su entorno, y lo procesa para formar una
 representación de ciertos aspectos del entorno (por ejemplo, el contenido de una
 creencia de que "hay un trozo de chocolate en el escritorio").
 
-#aside[El neurocientífico David Marr (1982) propuso un modelo informacional de
+#aside(float: false)[El neurocientífico David Marr (1982) propuso un modelo informacional de
 la visión que incluye un componente computacional. En el modelo de Marr, un
 organismo procesa la información visual que adquiere en su retina con el fin de
 obtener una descripción tridimensional del mundo. En el modelo de Marr, este
@@ -269,12 +269,12 @@ sugiere que la manera en que actuamos puede describirse de la siguiente manera:
       i.e., el agente computa un conjunto de juicios hipotéticos de una forma
       similar a "si se ejecuta $B_i$ en S, con cierta probabilidad, $C_i$". Qué
       hipotéticos sean computados y qué probabilidades se asignen depende, por
-      supuesto, de lo que el organimso sepa o crea sobre situaciones como $S$
+      supuesto, de lo que el organismo sepa o crea sobre situaciones como $S$
       (también dependerá de otras variables que, desde el punto de vista del
       modelo, son meramente ruido: la presión de tiempo, la cantidad de espacio
         computacional disponible para el organismo, etc.)
     + Se le asigna un orden de preferencias a las consecuencias,
-    + La decisión conductual del organismo es una función de las preferencias y
+    + La decisión del organismo es una función de las preferencias y
       las probabilidades asignadas.
 ]
 
