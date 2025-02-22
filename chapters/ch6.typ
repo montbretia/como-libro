@@ -112,7 +112,7 @@ computacionales; la mente funciona de una manera equivalente a la de una
 computadora simbólica.
 
 Una de las maneras más generales de entender cómo funciona una computadora es la
-que desarrolló Alan Turing en un paper en 1937. Según Turing, es posible
+que desarrolló Alan Turing en un paper en #cite(<Turing1936>, form: "year"). Según Turing, es posible
 describir cualquier proceso computacional en términos de la operación de un
 cierto tipo de máquina extremadamente simple; a estas máquinas se las llama
 _máquinas de Turing_. Una máquina de Turing consiste en: 
