@@ -338,7 +338,7 @@ que es ella misma reflexivamente apta.
 ] Otra manera es la de combinar los dos enfoques. En este caso
 terminamos con una teoría de las virtudes resistente al problema de la
 suerte (#emph[anti-luck virtue epistemology];, usando la terminología de
-Pritchard (2010), de donde he sacado el caso de Barney). La propuesta es
+@Pritchard2012, de donde he sacado el caso de Barney). La propuesta es
 que ‘el conocimiento es creencia segura que emerge de los rasgos
 cognitivos confiables que constituyen nuestro carácter cognitivo, de tal
 modo que nuestro éxito epistémico es atribuible a nuestro carácter
@@ -430,7 +430,7 @@ la imaginación sólo puede ser una fuente de conocimiento si es
 constreñida por conocimiento que presumiblemente proviene de
 #emph[otras] fuentes.
 
-#question[René van Woudenberg (2021) argumenta que la lectura es una fuente
+#question[René van Woudenberg (#cite(<Woudenberg2021>, form: "year")) argumenta que la lectura es una fuente
 distintiva de conocimiento. ¿Puede ser una fuente básica de conocimiento?
 ¿Podemos llegar a saber cómo hacer algo mediante la lectura?]
 
@@ -496,7 +496,7 @@ generales—el conocimiento proposicional). Es una asunción tradicional
 que una teoría con estas características es particularmente valiosa,
 pues ellas son tomadas como indicios de que la teoría es probablemente
 verdadera.#footnote[
-Cf. Kuhn (1977). Longino (1995) ofrece una lista alternativa de valores
+Cf. @Kuhn1977. @Longino1995 ofrece una lista alternativa de valores
 científicos que pone en cuestión que los valores científicos
 tradicionales sean satisfactorios.
 ]
@@ -510,13 +510,14 @@ siguen abordarán el debate que surge a partir de esta posibilidad), pero
 por ahora nos interesa más entender cómo formular la hipótesis
 intelectualista y el alcance que tiene.
 
-#question[Stephen Hetherington (2011) argumenta que saber que X es saber cómo
-es que X, es decir, de qué manera es que X. Hay que prestar atención a que en
-este caso se habla de maneras de ser, y no de hacer. Pero Hetherington avanza
-una segunda hipótesis, que es que saber que X es saber cómo registrar
-acertadamente que X, donde ‘registrar’ quiere decir ‘responder, replicar,
-representar o razonar’. ¿Qué consecuencias podría tener esto para la distinción
-entre el saber cómo y otras formas de conocimiento proposicional?]
+#question[Stephen Hetherington (#cite(<Hetherington2011>, form: "year"))
+argumenta que saber que X es saber cómo es que X, es decir, de qué manera es que
+X. Hay que prestar atención a que en este caso se habla de maneras de ser, y no
+de hacer. Pero Hetherington avanza una segunda hipótesis, que es que saber que X
+es saber cómo registrar acertadamente que X, donde ‘registrar’ quiere decir
+‘responder, replicar, representar o razonar’. ¿Qué consecuencias podría tener
+esto para la distinción entre el saber cómo y otras formas de conocimiento
+proposicional?]
 
 === Lo que distingue al saber cómo
 
@@ -680,7 +681,7 @@ estos análisis. No es necesariamente conocimiento de hechos actuales,
 sino de posibilidades. ¿Cómo sabemos que algo es posible, y sobre todo,
 cómo sabemos que algo es posible si no ha sido realizado
 ya?#footnote[
-Véase van Inwagen (1998).
+Véase @Inwagen1998.
 ] No existe una respuesta unívoca a esta pregunta; la disciplina que la
 estudia es la #emph[epistemología] #emph[modal] o de la modalidad. En el
 caso de este tipo de conocimiento acerca de cómo alguien puede hacer
@@ -688,14 +689,14 @@ algo, hay varias alternativas plausibles. Por ejemplo, puede ser que
 tengamos la capacidad de percibir la posibilidad de hacer algo en un
 entorno dado, lo que a veces se llama una
 #emph[affordance];.#footnote[
-La noción de #emph[affordance] viene de Gibson (1966). Strohminger
-(2015) sugiere que es posible percibir posibilidades no-actualizadas.
-Vetter (2021) también elabora esta idea.
+La noción de #emph[affordance] viene de @Gibson1966. @Strohminger2015
+sugiere que es posible percibir posibilidades no-actualizadas.
+@Vetter2021 también elabora esta idea.
 ] O puede ser que tengamos la capacidad de imaginar situaciones que nos
 permitan formar creencias justificadas acerca de qué es posible o
 no.#footnote[
-Yablo (1993) y Chalmers (1996, 2002) defienden epistemologías modales
-basadas en la capacidad de concebir situaciones. Williamson (2017)
+@Yablo1993 y @Chalmers2002 defienden epistemologías modales
+basadas en la capacidad de concebir situaciones. @Williamson2017
 defiende el uso de la imaginación para la evaluación de condicionales
 contrafácticos, y generaliza a las nociones de posibilidad y necesidad.
 ] O puede que en algunos casos podamos inferir la posibilidad de actuar
@@ -703,8 +704,7 @@ de cierta manera, o que mediante la observación de casos similares en
 los que ciertas acciones se han realizado, podamos llegar inductivamente
 al juicio de que son posibles en el caso
 presente.#footnote[
-La idea de apelar a la inducción es elaborada por Sonia Roca-Royes
-(2017).
+La idea de apelar a la inducción es elaborada por @RocaRoyes2016.
 ] De momento no tenemos que decidir (aunque una teoría intelectualista
 del tipo que hemos esbozado aquí eventualmente debería dar alguna
 explicación de cómo obtenemos el conocimiento modal en el que
@@ -724,8 +724,7 @@ manera, requiere que el sujeto mismo pueda hacerlo:
 
 / Intelectualismo~5: S sabe cómo hacer X si y solo si S sabe que ellos mismos pueden hacer X
   de cierta manera M#footnote[
-Este análisis es muy similar al de Stanley & Williamson (2001) y Stanley
-(2011). Volveremos a su propuesta en el capítulo 4.
+Este análisis es muy similar al de @Stanley2001 y @Stanley2011. Volveremos a su propuesta en el capítulo 4.
 ]
 
 Esta versión resiste el argumento que dimos antes contra
@@ -923,11 +922,12 @@ sofisticadas del intelectualismo y del anti-intelectualismo.
 == Lecturas recomendadas
 
 Una excelente introducción a la epistemología es el librito de Stephen
-Hetherington, #emph[What is Epistemology? ];(2019). Para quienes quieran
-más detalle, Clayton Littlejohn & Adam Carter tienen un libro llamado
-#emph[This is Epistemology: An Introduction ];(2021). En español, están
-la #emph[Introducción a la Epistemología Contemporánea ];(1993)#emph[,
-];de Jonathan Dancy, y el libro _Teoría del Conocimiento_ (2004), de Josep Blasco y
+Hetherington, _What is Epistemology?_ (#cite(<Hetherington2019>, form: "year")).
+Para quienes quieran más detalle, Clayton Littlejohn & Adam Carter tienen un
+libro llamado _This is Epistemology: An Introduction_ (#cite(<Littlejohn2021>,
+form: "year")). En español, están la _Introducción a la Epistemología
+Contemporánea_ (#cite(<Dancy1993>, form:"year")) de Jonathan Dancy, y el libro
+_Teoría del Conocimiento_ (#cite(<Blasco2004>, form: "year")), de Josep Blasco y
 Tobies Grimaltos.
 
 Sobre la epistemología modal, una buena introducción es el artículo de
