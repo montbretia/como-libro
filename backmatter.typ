@@ -10,7 +10,7 @@ full: true,
 ))
 
 #set page(numbering: none)
-#pagebreak()
+#pagebreak(to: "even")
 
 #place(center+horizon)[
   _Santiago_
