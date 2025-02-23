@@ -20,6 +20,7 @@ Producido usando #link("https://typst.app")[typst].
 #outline(title: [Tabla de contenidos], indent: auto)
 ]
 
+#set pagebreak(to: "odd")
 = Prefacio
 
 Este trabajo es parte del proyecto ANID Fondecyt de Postdoctorado #3220017
