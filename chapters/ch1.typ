@@ -72,7 +72,8 @@ familiares con ellos, para poder navegarlos como haríamos con un lugar
 relativamente familiar, pero que aún puede guardarnos sorpresas.  Y si al final
 del día no hemos podido salir de esta jungla de preguntas, si no hemos obtenido
 una solución, al menos debemos poder decir que nos hemos acostumbrado un poco a
-estar perdidos. El progreso en filosofía a veces se ve así. 
+estar perdidos. El progreso en filosofía a veces se ve así.#footnote[Sobre la
+noción de progreso en filosofía, véase @Dellsen2024.]
 
 #v(1.5em)
 #block[]
