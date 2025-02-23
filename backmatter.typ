@@ -9,4 +9,15 @@ full: true,
   "bib/mapuche.bib",
 ))
 
+#set page(numbering: none)
+#pagebreak()
 
+#place(center+horizon)[
+  _Santiago_
+
+  _Chile_
+
+  #v(2em)
+
+  2025
+]
