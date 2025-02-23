@@ -578,3 +578,19 @@ Shapiro es una buena introducción a los problemas acerca de los límites de lo
 mental, que toca en parte el problema de la posibilidad de mentes extendidas
 (véase en particular el capítulo 6), aunque su foco principal es el rol que
 tiene la corporalidad en la posesión de la mente.
+
+Un modelo reciente de la cognición, la _hipótesis del procesamiento predictivo_,
+sugiere que la mente es una máquina de predicciones cuyo principal función es la
+de minimizar el error predictivo. Algunos de sus defensores, como Andy Clark,
+explícitamente conectan estos modelos de la cognición con la posesión de alguna
+forma de saber-cómo, y además buscan acomodar esta hipótesis con un marco que
+permite la cognición extendida. Para el marco general, véanse @Hohwy2014 y
+@Clark2016. @Clark2022 conecta el modelo con la hipótesis de la mente extendida.
+La hipótesis del procesamiento predictivo en su forma estándar hace uso de
+representaciones probabilísticas, lo que sugiere alguna afinidad con ciertas
+formas de intelectualismo (_pace_ @Clark2016). @Pavese2020 esboza un modelo
+intelectualista del saber-cómo y la acción intencional que hace uso de creencias
+probabilísticas, usando el marco conceptual de @Moss2020. @Downey2017 esboza un
+modelo anti-representacionalista de cognición predictiva, y @Gallagher2019
+aplica algunas de estas ideas al caso del saber-cómo, defendiendo una forma de
+anti-intelectualismo.
