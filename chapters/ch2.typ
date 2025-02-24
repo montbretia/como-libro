@@ -279,8 +279,8 @@ sólo que el hecho de que consista en A, B y C es contingente.] La asunción aqu
 es que la lógica de la necesidad y la posibilidad obedece el principio de
 Dualidad $ #sym.square p -> not #sym.diamond not p $ Por contraposición,
 $ #sym.diamond not p -> not #sym.square p $
-Entonces, si una teoría $T$ implica $#sym.square p$, si se encuentra un
-contraejemplo contrafáctico que valide $#sym.diamond not p$, encadenándolo todo
+Entonces, si una teoría $T$ implica $#sym.square p$, si encontramos un
+contraejemplo contrafáctico que valide $#sym.diamond not p$, 
 tenemos que la teoría es falsa:
 
 #fitch(ratio: (2fr, 3fr))[
@@ -289,6 +289,9 @@ tenemos que la teoría es falsa:
   + $not #sym.square p$ (2, Dualidad, contraposición)
   + $not T$ (3, 1, contraposición)
 ]
+
+Del mismo modo, si una teoría implica que algo es imposible, mostrar que es
+posible derrota la teoría.
 
 #questionx(answer: [Estas propuestas platónicas no parecen ser buenas
 definiciones. El problema principal es que no parecen tener un peso explicativo:
