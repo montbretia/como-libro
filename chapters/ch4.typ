@@ -1,4 +1,4 @@
-#import "../utils.typ": question, aside
+#import "../utils.typ": question, questionx, aside
 #import "../logic.typ": would
 
 = Contra el fantasma en la máquina
@@ -206,8 +206,17 @@ por disciplinas categoriales’ (lxi), es decir, el reemplazo de maneras
 enraizadas pero irreflexivas de usar los conceptos, por otras que sean
 reflexivas y responsables.
 
-#question[¿Un juicio que expresa un error de categoría es falso o absurdo?
-]
+#questionx(answer: [Ambas posturas pueden defenderse (así como la teoría de que
+los errores de categoría no son ni absurdos ni necesariamente falsos, véase
+Magidor (2013) para más detalles). Cabe hacer la siguiente observación lógica
+para apreciar el efecto de tomar una u otra posición. Si un error de categoría
+es absurdo, también lo es su negación. Pero si un error de categoría es falso,
+su negación es verdadera. Supón que la doctrina oficial que Ryle ataca es, como
+él dice, un error de categoría. Uno podría suponer que es falsa porque las
+personas no son compuestos de una mente y un cuerpo (contra el dualismo). Pero
+si la doctrina es absurda, también es absurdo decir que no son compuestos de una
+mente y un cuerpo (contra el monismo). Esta es una pastilla bastante más difícil
+de tragar. ])[¿Un juicio que expresa un error de categoría es falso o absurdo? ]
 
 El diagnóstico de Ryle es entonces que al introducirse y adoptarse la
 doctrina oficial no se descubrió una serie de preguntas importantes,
