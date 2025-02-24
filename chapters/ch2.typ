@@ -267,15 +267,28 @@ de la forma $X -> A, B, C$ es falso en dos condiciones:
 En el primer caso decimos que $A, B, C...$ no son necesarios para la satisfacción de $X$,
 y en el segundo caso, que $A, B, C...$ no son suficientes.
 
-A menudo, además, se asume que la verdad de un análisis es necesario. En esos
+A menudo, además, se asume que la verdad de un análisis es necesaria. En esos
 casos, para dar un contraejemplo no es necesario que demos un contraejemplo
 real, sino que basta con que mostremos que es _posible_ que el análisis sea
 falso.#footnote[Si el análisis no se presenta como una condición nnecesaria,
 mostrar que tiene un ccontraejemplo contrafactico (i.e., meramente posible) es
 inefectivo. Si alguien defiende que la justicia de hecho consiste en A, B, y C,
-decir que, si las cosas fueran muy distintas a como en realidad son podría haber
+decir que si las cosas fueran muy distintas a como en realidad son podría haber
 justicia sin C, no mostraría que la justicia no consiste de hecho en A, B, y C,
-sólo que el hecho de que consista en A, B y C es contingente.]
+sólo que el hecho de que consista en A, B y C es contingente.] La asunción aquí
+es que la lógica de la necesidad y la posibilidad obedece el principio de
+Dualidad $ #sym.square p -> not #sym.diamond not p $ Por contraposición,
+$ #sym.diamond not p -> not #sym.square p $
+Entonces, si una teoría $T$ implica $#sym.square p$, si se encuentra un
+contraejemplo contrafáctico que valide $#sym.diamond not p$, encadenándolo todo
+tenemos que la teoría es falsa:
+
+#fitch(ratio: (2fr, 3fr))[
+  + $T -> #sym.square p$ (premisa)
+  + $#sym.diamond not p$ (premisa)
+  + $not #sym.square p$ (2, Dualidad, contraposición)
+  + $not T$ (3, 1, contraposición)
+]
 
 #questionx(answer: [Estas propuestas platónicas no parecen ser buenas
 definiciones. El problema principal es que no parecen tener un peso explicativo:
@@ -588,7 +601,7 @@ modelos o teorías sobre el conocimiento.
   hay una serie de asunciones sobre el conocimiento, que describen el modelo:
 
   #fitch(num: "A)", ratio: (4fr, 7.5fr))[
-  + $forall p (p -> diamond.medium K p)$  (toda proposición es cognocible)
+  + $forall p (p -> diamond K p)$  (toda proposición es cognocible)
   + $exists p (p and not K p)$            (hay proposiciones que son desconocidas)
   + $K p tack.r p$                        (el conocimiento es factivo)
   + $K (p and q) tack.r K p and K q$      (si se conoce una conjunción, se conocen sus conyuntos)
@@ -601,7 +614,7 @@ modelos o teorías sobre el conocimiento.
 
   #fitch(num: "I)")[
   + $"Si" tack.r p, "entonces" tack.r square p$
-  + $square not p tack.r not diamond.medium p$
+  + $square not p tack.r not diamond p$
 ]
 
   Primero, mostramos que no es posible conocer que se ignora algo:
@@ -614,14 +627,14 @@ modelos o teorías sobre el conocimiento.
   + $bot$                     (2, 4)
   + $not K (p and not K p)$   (1, 5, reductio)
   + $square not K (p and not K p)$ (6, I)
-  + $not diamond.medium K (p and not K p)$ (7, II)
+  + $not diamond K (p and not K p)$ (7, II)
 ]
 
   Pero esto está en conflicto con nuestras asunciones, pues estas implican que es posible saber que se ignora algo:
   #fitch(start: 9, ratio: (4fr, 4fr))[
   + $(p and not K p)$             (instancia de B, hay algo desconocido)
-  + $(p and not K p) -> diamond.medium K (p and not K p)$ (instancia de A)
-  + $diamond.medium K (p and not K p)$ (9, 10, modus ponens)
+  + $(p and not K p) -> diamond K (p and not K p)$ (instancia de A)
+  + $diamond K (p and not K p)$ (9, 10, modus ponens)
   + $bot$                         (11, 8)
   + $not exists (p and not K p)$  (B, 12, reductio)
 ]
