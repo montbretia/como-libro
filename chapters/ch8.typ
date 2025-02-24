@@ -27,11 +27,26 @@ tener saber-cómo o estados mentales en general, y explicar estas formas de
 hablar como una suerte de abreviación para expresar ciertos juicios acerca de
 los miembros de los grupos; por ejemplo, podríamos explicar el juicio de que
 NASA sepa cómo preparar una misión para enviar a Marte en términos de que una
-porción de los miembros de masa individualmente sepan cómo hacerlo.
+porción (ya sea la totalidad, la mayoría, o quizás una porción contextualmente
+significativa) de los miembros de masa individualmente sepan cómo hacerlo. En
+ese caso, la introducción de formas de hablar acerca del 'saber-cómo colectivo'
+sería simplemente una manera más expediente para describir ciertos fenómenos.
+Del mismo modo, quizás podríamos tratat la idea del 'saber-cómo colectivo' como
+una 'ficción útil' (en este caso, ni siquiera tenemos que comprometernos con que
+los juicios acerca del saber-cómo colectivo se reduzcan a juicios acerca del
+saber-cómo de individuos). Si bien podríámos adoptar alguna de estas estrategias
+deflacionistas, no es claro que debamos hacerlo. Como veremos enseguida, iertos
+fenómenos sugieren que el modelo reduccionista no es viable, y la estrategia
+ficcionalista también es problemática. Para apreciar el problema y barajar las
+opciones, en la @k-colectivo examinaremos el problema general de atribuir
+agencia y estados epistémicos a entidades colectivas. Luego, en la
+@kh-colectivo, examinaremos con más detalle el caso del saber-cómo.
 
-=== Agencia y conocimiento colectivos
+=== Agencia y conocimiento colectivos <k-colectivo>
 
-=== Saber-cómo colectivo
+
+
+=== Saber-cómo colectivo <kh-colectivo>
 
 
 
