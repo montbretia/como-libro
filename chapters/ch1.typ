@@ -1,4 +1,4 @@
-#import "../utils.typ": aside, question
+#import "../utils.typ": aside, question, questionx
 
 = El problema
 
@@ -186,7 +186,7 @@ Tras esto, pasaremos a ocuparnos de preguntas que son de interés para tanto
 intelectualistas como para anti-intelectualistas, que tienen que ver con las
 formas que puede tomar el saber cómo. En primer lugar: _¿qué dicen las ciencias
 cognitivas acerca del saber cómo?_ ¿Puede un agente artificial (un robot o una
-IA) tener saber cómo? (capítulo 6) En el siguiente capitulo examinaremos otra
+IA) tener saber cómo? (capítulo 6) En el siguiente capítulo examinaremos otra
 pregunta que puede abordarse desde la filosofía de la mente: _¿qué papel tiene
 el uso de herramientas en el saber cómo?_ ¿Depende el saber cómo de nuestra
 capacidad para emplear herramientas, y cómo podemos dar sentido a esta idea?
@@ -211,10 +211,11 @@ Durante el transcurso de cada capítulo presentaré una serie de preguntas que
 pueden servir para pensar más en detalle los problemas tratados, y al final del
 libro hay un capítulo con esbozos de respuestas para algunas de estas
 preguntas (cuando doy respuestas a esas preguntas, lo indico con el símbolo 
-#text(fill: red)[#sym.arrow.r.wave]\; en la versión en PDF estos son
+#text(fill: red)[#sym.arrow.cw.half]\; en la versión en PDF estos son
 hipervínculos en el documento, para tener fácil acceso a las respuestas). 
 
-#question[Las preguntas van a aparecer en este formato.]
+#questionx(answer: [Este es el formato de las respuestas.])[Las preguntas van a
+aparecer en este formato.]
 
 Como es usual, el libro termina con una lista de referencias. Cuando cito textos en
 inglés, he ofrecido mis propias traducciones, pero en la lista de referencias
