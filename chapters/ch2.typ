@@ -1,4 +1,4 @@
-#import "../utils.typ": question, aside
+#import "../utils.typ": question, questionx, aside
 #import "../logic.typ": fitch
 #set text(lang: "es")
 
@@ -92,8 +92,14 @@ manejar. Puede ser que además de tener cierto tipo de control, algo más sea
 necesario. Quizás estas ideas todavía pertenezcan a la imagen ordinaria que
 tenemos acerca de saber cómo actuar y de control. 
 
-#question(label: <q2_1>)[¿Por qué no decimos que la imagen manifiesta del saber cómo _es_ una
+#questionx(answer: [Un argumento en contra: la imagen manifiesta del saber cómo puede no
+  estar cerrada bajo la implicación lógica (es decir, puede que no
+  acepte todas las consecuencias lógicas de sus postulados, lo que es
+  usualmente un requerimiento formal de las teorías científicas). Otro
+  criterio importante tiene que ver con la capacidad explicativa de la
+  imagen manifiesta.])[¿Por qué no decimos que la imagen manifiesta del saber cómo _es_ una
 teoría?]
+
 
 En todo caso, si hacemos la asunción de que esta ‘imagen manifiesta’ funciona
 como una teoría, la siguiente pregunta que debemos hacernos es si puede
@@ -271,17 +277,21 @@ decir que, si las cosas fueran muy distintas a como en realidad son podría habe
 justicia sin C, no mostraría que la justicia no consiste de hecho en A, B, y C,
 sólo que el hecho de que consista en A, B y C es contingente.]
 
-#question(label: <q2_2>)[En el diálogo _El Político_, Platón emplea el método de división y
-sugiere que el ser humano es un animal bípedo sin plumas: "... debimos haber
-comenzado por dividir los animales terrestres entre bípedos y cuadrúpedos; y ya
-que aquellos con alas, y solamente ellos, caen bajo la misma clase que la del
-ser humano, deberiamos dividir a los bípedos entre los que tienen plumas y
-aquellos que no las tienen" (266e). Diógenes Laertio cuenta la historia de cómo
-Diógenes visitó a Platón, llevándole un pollo desplumado, y que le dijo que ahí
-tenía al ser humano. Diógenes dice que como resultado se añadió a la definición
-que el ser humano tenía uñas anchas. ¿Son estas buenas definciones? ¿Aparte de
-ser correcta, hay otros requisitos que una definición debiera cumplir
-idealmente?]
+#questionx(answer: [Estas propuestas platónicas no parecen ser buenas
+definiciones. El problema principal es que no parecen tener un peso explicativo:
+que algo sea un bípedo implume con uñas anchas no parece explicar que sea un ser
+humano; al contrario, el que sea humano parece explicar que sea un bípedo
+implume con uñas anchas.])[En el diálogo _El Político_, Platón emplea el método
+de división y sugiere que el ser humano es un animal bípedo sin plumas: "...
+debimos haber comenzado por dividir los animales terrestres entre bípedos y
+cuadrúpedos; y ya que aquellos con alas, y solamente ellos, caen bajo la misma
+clase que la del ser humano, deberiamos dividir a los bípedos entre los que
+tienen plumas y aquellos que no las tienen" (266e). Diógenes Laertio cuenta la
+historia de cómo Diógenes visitó a Platón, llevándole un pollo desplumado, y que
+le dijo que ahí tenía al ser humano. Diógenes dice que como resultado se añadió
+a la definición que el ser humano tenía uñas anchas. ¿Son estas buenas
+definciones? ¿Aparte de ser correcta, hay otros requisitos que una definición
+debiera cumplir idealmente?]
 
 Tomemos por ejemplo el concepto de conocimiento. ¿Qué es el conocimiento? ¿Cómo
 usamos el concepto? El caso paradigmático de uso del concepto de conocimiento
@@ -331,8 +341,14 @@ recibirá la promoción tiene diez monedas en su bolsillo. Smith satisface las
 condiciones del anális JTB (tiene una creencia verdadera y justificada), pero
 esto no basta para que tenga conocimiento.
 
-#question(label: <q2_3>)[¿Qué piensan del contraejemplo de Gettier? ¿Se les
-ocurren otros contraejemplos?]
+#questionx(answer: [No creo que los contraejemplos de Gettier sean decisivos
+contra el concepto clásico de conocimiento, pero sí sugieren que es posible
+concebir el conocimiento de manera que este se vea socavado por ciertos tipos de
+suerte epistémica. El problema está en que a menudo empleamos un concepto de
+justificación que no requiere factividad, de modo que siempre es posible una
+diferencia entre tener una creencia verdadera justificada y estar en un estado
+que garantice la verdad de la creencia.])[¿Qué piensan del contraejemplo de
+Gettier? ¿Se les ocurren otros contraejemplos?]
 
 Consideremos un caso similar, quizás un poco más sencillo. Imaginen que un
 miembro de su familia está en el hospital, y que tienen el plan de ir a
@@ -424,7 +440,13 @@ construcción de un modelo de este tipo puede entregarnos una estimación
 arbitrariamente precisa de las condiciones en las que el concepto queda
 satisfecho.
 
-#question(label: <q2_4>)[¿Tenemos que creer en la verdad literal de un análisis para que sea útil?]
+#questionx(answer: [A menudo podemos emplear un modelo que sabemos que es falso
+para examinar el comportamiento de un sistema o concepto. Del mismo modo,
+podemos usar un análisis falso para examinar cómo serían las cosas si fuera
+verdadero; al ver que un análisis falso entra en problemas, podemos avanzar
+hipótesis acerca de cómo debería ser un análisis verdadero o más
+adecuado.])[¿Tenemos que creer en la verdad literal de un análisis para que sea
+útil?]
 
 == ¿Conservar o revisar?
 
@@ -457,8 +479,9 @@ y determinar cuál es el fenómeno. Si abandonamos todas las ideas preconcebidas
 acerca del saber como, por ejemplo, ¿cómo podríamos apresar el fenómeno? En
 efecto, podríamos tener que recomponer esas mismas ideas preconcebidas.
 
-#question(label: <q2_5>)[¿Deberíamos realmente tomar la postura conservadora acerca de las
-ideas preconcebidas como la postura por defecto?]
+#questionx(answer: [Una observación en contra: no hay razón para pensar que las
+ideas preconcebidas son adecuadas. ])[¿Deberíamos realmente tomar la postura
+conservadora acerca de las ideas preconcebidas como la postura por defecto?]
 
 Aun así, existe la posibilidad de revisar las ideas preconcebidas que tengamos
 acerca del fenómeno de interés, y volver a sopesar la importancia de estas en
@@ -605,8 +628,16 @@ modelos o teorías sobre el conocimiento.
 
   Lo que es equivalente a que todas las proposiciones verdaderas sean conocidas: $ forall p (p -> K p) $
 
-  #block(inset: 3pt)[#question(label: <q2_6>)[¿Cómo creen que podemos evitar la paradoja?]]
-]
+  #block(inset: 3pt)[#questionx(answer: [El problema de la paradoja de Fitch ha
+  generado una industria de propuestas para evitar la paradoja sin tener que
+  rechazar las asunciones. En principio uno podría evitar la paradoja
+  simplemente rechazando una de ellas; por ejemplo, yo creo que la tesis de que
+  toda proposición verdadera es cognoscible es insostenible. Otra forma de
+  evitar la paradoja es reformular la tesis de cognoscibilidad, ya sea
+  restringiéndola a una clase de verdades, o manteniendo su generalidad pero
+  formulandola en otros términos. Otras posibilidades son revisar la lógica de
+  trasfondo (por ejemplo, adoptar una lógica en la que no se pueda razonar por
+  _reductio_).])[¿Cómo creen que podemos evitar la paradoja?]] ]
 
 Los experimentos mentales, como el que vimos antes de Gettier, constituyen otro
 tipo importante de modelo en filosofía. Un experimento mental es un modelo de un
@@ -722,7 +753,18 @@ sido examinado también desde la perspectiva de la filosofía experimental. Para
 evaluar estas contribuciones debemos primero entrar en la tarea concreta de
 examinar cómo se construye una teoría sobre el saber cómo.
 
-#question(label: <q2_7>)[Este capítulo esboza una forma de pluralismo metodológico: hay una
+#questionx(answer:[Si bien tengo afinidades con el pluralismo metodológico, creo que la
+  postura tiene varias debilidades. Primero, es necesario racionalizar
+  las maneras en que se coordinen las distintas metodologías
+  filosóficas, así como las maneras en que evaluamos qué metodología
+  puede ser más adecuada en cada caso, y eso parece simplemente derivar
+  el problema del método a un nivel superior. Segundo, la versión del
+  pluralismo metodológico que sugiero aquí es naturalista, porque
+  integra el trabajo filosófico con varias fuentes de conocimiento
+  empírico. No todos estarán contentos con esta idea, pues hay quienes
+  piensan que es esencial a la filosofía que sea una empresa separada de
+  la ciencia.
+])[Este capítulo esboza una forma de pluralismo metodológico: hay una
 multitud de métodos que son aplicables en distintas situaciones, y que en
 muchos casos son compatibles. ¿Qué tan razonable es esta postura? Por ejemplo,
 ¿son realmente compatibles la construcción de modelos y la filosofía

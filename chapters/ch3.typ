@@ -1,4 +1,4 @@
-#import "../utils.typ": question, aside
+#import "../utils.typ": question, questionx, aside
 #import "../logic.typ": would
 
 = Un modelo tentador
@@ -430,7 +430,11 @@ la imaginación sólo puede ser una fuente de conocimiento si es
 constreñida por conocimiento que presumiblemente proviene de
 #emph[otras] fuentes.
 
-#question[René van Woudenberg (#cite(<Woudenberg2021>, form: "year")) argumenta que la lectura es una fuente
+#questionx(answer: [La lectura no puede ser una fuente básica de conocimiento, porque
+  depende de la percepción. A menudo aprendemos a hacer cosas leyendo
+  instrucciones, por ejemplo, de modo que es plausible que podamos
+  obtener saber cómo mediante la lectura (dicho sea de paso, un libro de
+  texto como este no sería viable si esto no fuera posible).])[René van Woudenberg (#cite(<Woudenberg2021>, form: "year")) argumenta que la lectura es una fuente
 distintiva de conocimiento. ¿Puede ser una fuente básica de conocimiento?
 ¿Podemos llegar a saber cómo hacer algo mediante la lectura?]
 
@@ -479,8 +483,14 @@ el de Gettier para el saber cómo. El conocimiento proposicional parece
 ser transmisible mediante el testimonio: por tanto, el saber como
 debería ser transmisible mediante el testimonio también. Etcétera.
 
-#question[¿Por qué no podría diferenciarse al saber cómo de otras formas de
-conocimiento proposicional por las fuentes mediante las cuales lo obtenemos?]
+#questionx(answer: [Sería necesario descubrir que el saber cómo no puede
+obtenerse de alguna de las formas en que se puede obtener el conocimiento
+proposicional. En efecto, como veremos, es posible defender esta idea. Sin
+embargo, es menos plausible cuando consideramos la posibilidad de que obtengamos
+saber cómo mediante las fuentes básicas del conocimiento proposicional; tanto la
+percepción como el razonamiento parecen ser fuentes viables del saber
+cómo.])[¿Por qué no podría diferenciarse al saber cómo de otras formas de
+pconocimiento proposicional por las fuentes mediante las cuales lo obtenemos?]
 
 #question[¿Puedes imaginar un caso del tipo de Gettier para el saber cómo?
 _(Discutiremos casos como estos en el capítulo 5)_]
