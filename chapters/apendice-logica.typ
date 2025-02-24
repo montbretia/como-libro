@@ -794,14 +794,14 @@ $c=c$. Esta suposición tiene que descargarse inmediatamente:
 == Lecturas recomendadas
 
 Una introducción excelente a la lógica proposicional y de predicados es _The
-Logic Manual_ (#cite(<Halbach2010>, form: "year")) de Volker Halbach. Una introducción similar, pero más
-detallada, es _How Logic Works: A User's Guide_ (#cite(<Halvorson2020>, form:
-"year")), de Hans Halvorson.
-Otra introducción de mi gusto es _Formal Logic: Its Scope and Limits_
-(#cite(<Jeffrey2006>, form: "year")), de
-Richard Jeffrey (una diferencia con las otras, es que este libro usa el método
-de los árboles analíticos como sistema de prueba). En español, el libro _Lógica
-para Principiantes_ (2004) de María Manzano y Antonia Huertas es bueno.
+Logic Manual_ (#cite(<Halbach2010>, form: "year")) de Volker Halbach. Una
+introducción similar, pero más detallada, es _How Logic Works: A User's Guide_
+(#cite(<Halvorson2020>, form: "year")), de Hans Halvorson. Otra introducción de
+mi gusto es _Formal Logic: Its Scope and Limits_ (#cite(<Jeffrey2006>, form:
+"year")), de Richard Jeffrey (una diferencia con las otras, es que este libro
+usa el método de los árboles analíticos como sistema de prueba). En español, el
+libro _Lógica para Principiantes_ (#cite(<Manzano2004>, form: "year")) de María
+Manzano y Antonia Huertas es bueno.
 
 El uso filosófico de la lógica no se limita a lenguajes de primer order como los
 que describimos aquí. Una clase de lógicas importante filosóficamente es la
@@ -811,7 +811,8 @@ pueden definirse en términos veritativo-funcionales: algo puede ser falso, y si
 embargo ser posible. Una idea común para dar sentido a esto es que si bien ago
 puede ser falso en el mundo actual, podría ser verdadero en un mundo posible que
 represnta una manera en que el mundo actual podría haber sido. El libro _Modal
-Logics and Philosophy_ (#cite(<Girle2014>, form:"year")) de Rod Girle es una introducción amigable.
+Logics and Philosophy_ (#cite(<Girle2014>, form:"year")) de Rod Girle es una
+introducción amigable.
 
 _Philosophical Logic: A Contemporary Introduction_ (#cite(<MacFarlane2021>,
 form: "year")) de John McFarlane es una buena presentación de varias lógicas de
