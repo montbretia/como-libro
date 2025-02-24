@@ -17,7 +17,7 @@ block(inset: 1em,
   #block(breakable: breakable)[
   #body
   #if label != none [
-        #h(1fr) #link(label)[#text(size: 12pt, fill: red)[#sym.arrow.r.wave]]
+        #h(1fr) #link(label)[#text(size: 12pt, fill: red)[#sym.arrow.cw.half]]
   ]
 ]
 ]
