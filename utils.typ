@@ -57,7 +57,7 @@ block(inset: 1em,
 #let answers(rest) = {
   context[
     #show grid.cell: set par(justify: true, leading: 0.5em)
-    
+
     #let vals = query(<answered>)
     #let a = ()
     
@@ -66,13 +66,12 @@ block(inset: 1em,
       let offset = source_page - 9
       let l = "<q" + str(val.value.pos.first()) + "." + str(val.value.pos.last()) + ">"
       a.push([
-        #set text(fill: black.lighten(30%))
         #link((page: source_page, x: 0pt, y: 0pt))[
-                #text(fill: red)[#sym.arrow.ccw.half]
                 #val.value.pos.last())
-                _c.~#val.value.pos.first()_, 
-                _p.~#offset _#eval(l) 
-                
+                #text(fill: black.lighten(30%))[
+                  _c.~#val.value.pos.first()_, 
+                  _p.~#offset _#eval(l) 
+                ]
               ]
             ])
       a.push([#val.value.answer])
@@ -82,6 +81,7 @@ block(inset: 1em,
       columns: (3fr, 10.2fr),
       column-gutter: 0.6em,
       row-gutter: 0.5em,
+      [#text(fill: red)[#sym.arrow.ccw.half]], [],
       ..a
     )
   ]
