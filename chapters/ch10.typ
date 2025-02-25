@@ -242,8 +242,9 @@ del sujeto evaluar la calidad del testimonio, cotejándolo con su propia
 experiencia.
     En @Mora2001[p. 224] se consigna el siguiente refrán, que ilustra el punto: 
 
-    #quote(block: true)[
-        #grid(columns: 2,
+#quote(block: true)[
+      #set text(size: 9.5pt)
+      #grid(columns: 2,
         column-gutter: 2em,
         [Füchake che yem ñi femkelel,\ 
         fey adentukallelaiaiñ,\ 
@@ -261,9 +262,6 @@ experiencia.
         ¡sólo esforzándote vencerás tu ignorancia!]
         )
     ]
-
-#v(1em)
-
 
 @Mora2016 hace la importante observación de que la posesión del estado
 epistémico de ser _kimche_ no es una cuestión meramente interna al sujeto, sino
