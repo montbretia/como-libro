@@ -35,7 +35,7 @@ Del mismo modo, quizás podríamos tratat la idea del 'saber-cómo colectivo' co
 una 'ficción útil' (en este caso, ni siquiera tenemos que comprometernos con que
 los juicios acerca del saber-cómo colectivo se reduzcan a juicios acerca del
 saber-cómo de individuos). Si bien podríámos adoptar alguna de estas estrategias
-deflacionistas, no es claro que debamos hacerlo. Como veremos enseguida, iertos
+deflacionistas o anti-realistas, no es claro que debamos hacerlo. Como veremos enseguida, iertos
 fenómenos sugieren que el modelo reduccionista no es viable, y la estrategia
 ficcionalista también es problemática. Para apreciar el problema y barajar las
 opciones, en la @k-colectivo examinaremos el problema general de atribuir
@@ -44,6 +44,33 @@ agencia y estados epistémicos a entidades colectivas. Luego, en la
 
 === Agencia y conocimiento colectivos <k-colectivo>
 
+Primero, definamos el alcance de nuestra discusión. Por entidades colectivas
+vamos a tomar a cualquier grupo de individuos de los que pueda decirse que sus
+miembros participan en ciertas tareas conjuntas. No toda colección plural de
+entidades constituye una entidad colectiva en el sentido deseado: el Papa
+ortodoxo y yo constituimos una colección plural de entidades, pero no
+participamos en ninguna tarea conjunta, al menos en un sentido
+intuitivo.#footnote[Ojo: participar en una tarea conjunta podría no ser una
+condición suficiente para formar una entidad colectiva, porque podría ser que
+separadamente varios agentes hagan que algo ocurra sin estar coordinados entre
+sí. Plausiblemente, el Papa ortodoxo y yo (y muchos más) contribuimos a la
+acumulación de $C O_2$ en la atmósfera, sin embargo esto no es suficiente para
+decir que constituimos una entidad colectiva. Sin embargo, podríamos decir que
+somos parte de una entidad colectiva que es responsable por el incremento de $C
+O_2$ en la atmósfera (¿o por qué no decir que formamos parte de dos o más
+entidades colectivas, que dividen la población terrestre de distintas maneras?).
+Este ejemplo ilustra que la manera en que determinamos qué cuenta como una
+entidad colectiva o no es en general bastante complejo y que toma como
+antecedentes muchos aspectos.] Dicho de otra manera, las entidades colectivas en
+el sentido que nos interesa aquí son entidades capaces de realizar acciones
+colectivas.#footnote[Cf. @Tuomela1989.] Las entidades colectivas en este sentido
+incluyen lo que podríamos llamar 'grupos sociales', que son colecciones de
+personas que interactuan entre sí y que además comparten ciertas actitudes (cf.
+@Tollefsen2014[p.88]).
+
+Como sugería en la introducción a esta sección, uno podría adoptar una postura
+_anti-realista_ acerca de las entidades colectivas, rechazando que sean parte del
+inventario de cosas que existen realmente.
 
 
 === Saber-cómo colectivo <kh-colectivo>
@@ -59,7 +86,7 @@ agencia y estados epistémicos a entidades colectivas. Luego, en la
 
 El libro _Groups as Agents_ (#cite(<Tollefsen2015>, form: "year")), de Deborah
 Tollefsen, presenta de una manera clara los debates principales acerca de la
-agencia y cognición de los grupos.
+ontología, la agencia y la cognición de los grupos.
 
 La epistemología social es un rico de investigación actualmente. El artículo de
 la SEP, _Social Epistemology_, por Caoiln O'Connor, Sanford Goldberg y Alvin
