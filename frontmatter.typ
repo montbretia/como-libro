@@ -36,6 +36,6 @@ Partes del texto han sido publicado antes:
 
 - Partes de la sección 5.5 están basadas en #cite(<MoralesCarbonell2023>, form:
   "full"). 
-- La sección 8.1 corresponde a una traducción de #cite(<MoralesCarbonell2024>,
-  form: "full").
+- Partes de la sección 8.1 corresponden a una traducción de
+  #cite(<MoralesCarbonell2024>, form: "full").
 - El capítulo 10 está basado en #cite(<MoralesCarbonell2025>, form: "full")
