@@ -654,7 +654,8 @@ James Maffie en la _Internet Encyclopedia of Philosophy_ (https://iep.utm.edu/et
 Hay muchos trabajos etnoepistemologicos de gran interés para el estudio del
 saber-cómo. Sin salir del contexto americano, vale la pena examinar la filosofía
 de los pueblos nativos norteamericanos, por ejemplo, el ensayo de Brian Yazzie
-Burkhart (cherokee), 'What Coyote and Thales can teach us' (2004), en el libro
+Burkhart (cherokee), 'What Coyote and Thales can teach us'
+(#cite(<Burkhart2004>, form: "year")), en el libro
 _American Indian Thought_. Otra obra interesante es el libro _How It Is: The
 Native American Philosophy of V.F. Cordova_ (2007), especialmente por su
 concepción de cómo hay que abordar el trabajo filosófico de recuperar la

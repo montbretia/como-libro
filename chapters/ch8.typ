@@ -278,17 +278,32 @@ construir una teoría del saber-cómo colectivo, pero aquí omito esta
 complicación.]
 
 / Implementabilidad semántica: La teoría debe proveer una semántica adecuada
-  para las atribuciones de saber-cómo a entidades colectivas.
+  para las atribuciones de saber-cómo a entidades colectivas. Si bien no es
+  necesario que se de prioridad a la evidencia lingüística acerca de las
+  atribuciones de saber-cómo colectivo, es importante que una teoría del
+  saber-cómo colectivo provea un modelo semántico que sea adecuado en vista a
+  los compromisos metafísicos de la teoría (si la teoría habla de habilidades,
+  la semántica tiene que dar cuenta de expresiones de habilidad también, por
+  ejemplo).
 / Practicalidad: La teoría debe explicar el vínculo del saber-cómo y la acción
-  colectiva.
-/ Generalidad: La teoría debe ser aplicable a un rango amplio de casos.
+  colectiva. Ya que la motivación para considerar la posibilidad del saber-cómo
+  colectivo es la utilidad que la hipótesis puede tener para explicar la
+  conducta colectiva, esto tiene que derivarse de la teoría. Esto puede suceder
+  de varias maneras: la teoría puede implicar que las acciones colectivas
+  manifiestan saber-cómo, o que requieren de ciertas habilidades congiables y
+  flexibles, o que el saber-cómo colectivo es necesario para tener intenciones
+  adecuadas acerca de cómo hacer algo, etc.
+/ Generalidad: La teoría debe ser aplicable a un rango amplio de casos. No basta
+  con que la teoría explique casos aislados, o solo a cierta escala (por
+  ejemplo, que solamente explique el saber-cómo de grupos pequeños), idealmente
+  debe cubrir todos los casos donde parezca plausible aplicar el concepto de
+  saber-cómo a fenómenos que involucran entidades colectivas.
 / Conexión: La teoría debe dar cuenta de la importancia del saber cómo
   individual para el saber-cómo colectivo.
 / Divergencia: La teoría debe explicar cómo es posible que un grupo pueda
   tener saber-cómo que ninguno de sus miembros posea.
 
-El criterio de Divergencia es precisamente la necesidad de explicar casos como
-el de la compañia productora de automóviles o del proyecto Manhattan.
+Hay varias propuestas acerca del saber-cómo colectivo en la literatura.
 
 == El saber cómo en la ciencia <sci-know-how>
 
