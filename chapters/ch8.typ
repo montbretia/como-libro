@@ -270,6 +270,8 @@ proyecto Manhattan:
     ningún miembro del proyecto tenía este conocimiento.#h(1fr) (pp. 33--34)
 ]
 
+#questionx[Trate de construir un caso en que el modelo sumativo si funcione.]
+
 @HabgoodCoote2022 enumera cinco _desiderata_ para una teoría del saber-cómo
 colectivo:#footnote[En @MoralesCarbonell2024 argumento que adicionalmente debe
 distinguirse entre los problemas de atribución y posesión del saber-cómo para el
@@ -303,7 +305,10 @@ complicación.]
 / Divergencia: La teoría debe explicar cómo es posible que un grupo pueda
   tener saber-cómo que ninguno de sus miembros posea.
 
-Hay varias propuestas acerca del saber-cómo colectivo en la literatura.
+Hay varias propuestas acerca del saber-cómo colectivo en la literatura. Como
+muestra, vamos a examinar @Birch2018, @Palermos2018 y
+@HabgoodCoote2022.#footnote[Véase además @Miller2019, @Dragos2019, @Cath2020,
+@Pino2021, @Fang2024, @MoralesCarbonell2025a]
 
 == El saber cómo en la ciencia <sci-know-how>
 
