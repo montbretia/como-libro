@@ -9,9 +9,19 @@ block(inset: 1em,
       below: 1em,
       width: 100%,
       )[
-  #place(top+left, dy: -1.3em, dx: -2.8em)[
-    #block(inset: 0.7em, fill: red.lighten(15%), radius: 3pt)[
-      #text(fill: white, size: 1.2em)[*¿?*]
+  #context[
+    #if calc.even(here().page()) [
+      #place(top+left, dy: -1.3em, dx: -2.8em)[
+        #block(inset: 0.7em, fill: red.lighten(15%), radius: 3pt)[
+          #text(fill: white, size: 1.2em)[*¿?*]
+        ]
+      ]
+    ] else [
+      #place(top+right, dy: -1.3em, dx: 2.8em)[
+        #block(inset: 0.7em, fill: red.lighten(15%), radius: 3pt)[
+          #text(fill: white, size: 1.2em)[*¿?*]
+        ]
+      ]
     ]
   ]
   #block(breakable: breakable)[
@@ -33,9 +43,19 @@ block(inset: 1em,
   below: 1em,
   width: 100%,
 )[
-  #place(top+left, dy: -1.3em, dx: -2.8em)[
-    #block(inset: 0.7em, fill: red.lighten(15%), radius: 3pt)[
-      #text(fill: white, size: 1.2em)[*¿?*]
+  #context[
+    #if calc.even(here().page()) [
+      #place(top+left, dy: -1.3em, dx: -2.8em)[
+        #block(inset: 0.7em, fill: red.lighten(15%), radius: 3pt)[
+          #text(fill: white, size: 1.2em)[*¿?*]
+        ]
+      ]
+    ] else [
+      #place(top+right, dy: -1.3em, dx: 2.8em)[
+        #block(inset: 0.7em, fill: red.lighten(15%), radius: 3pt)[
+          #text(fill: white, size: 1.2em)[*¿?*]
+        ]
+      ]
     ]
   ]
   #block(breakable: breakable)[
@@ -78,8 +98,8 @@ block(inset: 1em,
     }
 
     #grid(
-      columns: (3fr, 10.2fr),
-      column-gutter: 0.6em,
+      columns: (3fr, 12fr),
+      column-gutter: 0.2em,
       row-gutter: 0.5em,
       [#text(fill: red)[#sym.arrow.ccw.half]], [],
       ..a
