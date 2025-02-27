@@ -382,25 +382,6 @@ exitosa.#footnote[Esto nos remite de vuelta al tipo de problemas con los estados
 epistémicos colectivos que vimos en el capítulo anterior.] @Levy2020 sugieren
 que, en efecto, gran parte de la cultura acumulativa consiste en saber-cómo.
 
-#aside(float: false)[
-    En sus _Lecciones de Pedagogía_ (1803), Kant
-    sugiere (un tanto cínicamente) que quienes no han desarrollado su facultad del juicio de todas
-    maneras tienen un rol que cumplir en la economía del conocimiento:
-
-    #quote(block: true)[
-        Las facultades inferiores no tienen valor en sí mismas: tomen como
-        ejemplo a una persona que tiene una gran memoria, pero que carece de
-        poder de juicio. Alguien como ese es un diccionario viviente. Tales
-        mulas de carga del Parnaso son necesarias también, pues aunque no pueden
-        ellas misma cumplir con nada sensato, de todas maneras pueden arrastrar los
-        materiales con los que otros pueden hacer algo bueno.#footnote[Traduzco
-    de @Kant2007.] #h(1fr) (9: 472)
-    ]
-
-    (El Parnaso era el sitio donde habitaban las musas, y por lo tanto
-    representa al aprendizaje.)
-]
-
 Volvamos entonces a la pregunta inicial, de si puede haber vicios del
 saber-cómo. Para atacar el problema podemos apelar nuevamente a la distinción de
 @Hawley2011 entre la relación entre maestros-aprendices y proveedores-clientes.
@@ -415,9 +396,10 @@ sus aprendices o clientes.
 
 Para organizar nuestra discusión, distingamos entre lo que puede afectar:
 
-- la adquisición del saber-cómo,
-- la mantención del saber-cómo, y
-- la transmisión y el ejercicio del saber-cómo
+#set enum(numbering: "a)")
++ la adquisición del saber-cómo,
++ la mantención del saber-cómo, y
++ la transmisión y el ejercicio del saber-cómo
 
 Primero, consideremos los casos virtuosos, para después examinar qué es lo que
 pasaría en el caso contrario. Una persona puede adquirir cierto saber-cómo de
