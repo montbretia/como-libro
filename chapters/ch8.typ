@@ -1,3 +1,5 @@
+#import "../utils.typ": aside, questionx
+
 = Haciendo cosas en conjunto
 
 Hasta ahora, hemos examinado el saber-cómo asumiendo que el sujeto del
@@ -42,7 +44,7 @@ opciones, en la @k-colectivo examinaremos el problema general de atribuir
 agencia y estados epistémicos a entidades colectivas. Luego, en la
 @kh-colectivo, examinaremos con más detalle el caso del saber-cómo.
 
-=== Agencia y conocimiento colectivos <k-colectivo>
+=== Las entidades colectivas, su agencia y conocimiento <k-colectivo>
 
 Primero, definamos el alcance de nuestra discusión. Por entidades colectivas
 vamos a tomar a cualquier grupo de individuos de los que pueda decirse que sus
@@ -69,9 +71,61 @@ personas que interactuan entre sí y que además comparten ciertas actitudes (cf
 @Tollefsen2014[p.88]).
 
 Como sugería en la introducción a esta sección, uno podría adoptar una postura
-_anti-realista_ acerca de las entidades colectivas, rechazando que sean parte del
-inventario de cosas que existen realmente.
+_anti-realista_ acerca de las entidades colectivas, rechazando que sean parte
+del inventario de cosas que existen realmente. Esto puede significar varias
+cosas. Por un lado, podría querer decirse que solo existen individuos, y que es
+un error hablar de entidades colectivas. En este caso, las expresiones
+que aparentemente hablan acerca de entidades colectivas serían simplemente
+erróneas, y los conceptos que se emplean para hablar de tales entidades deberían
+eliminarse (esto es una forma de _eliminativismo_). Otra opción sería decir que
+no es necesario comprometerse ontológicamente con la existencia de las entidades
+colectivas, pero que podemos permitirnos emplear expresiones que aparentemente
+tratan de tales colectivas porque tiene cierto beneficio práctico (una forma de
+_instrumentalismo_). Otra opción sería decir que las entidades colectivas no
+existen objetivamente, pero son meramente proyectadas por nuestra manera de
+pensar (_proyectivismo_). Otra opción sería decir que no hay entidades
+colectivas, pero que hay ficciones según las cuales existen tales cosas, y que
+estas ficciones pueden cumplir ciertas funciones
+(_ficcionalismo_).#footnote[@Moen2023 defiende una forma de ficcionalismo sobre
+los grupos.]
 
+A estas posturas se oponen las distintas formas de _realismo_ acerca de las
+entidades colectivas, que aceptan que son parte del inventario de cosas que
+existen realmente. Algunas de estas posturas van a ser _reduccionistas_,
+explicando los hechos acerca de las entidades colectivas en términos de otros
+tipos de hechos (típicamente, en términos de individuos). Otras posturas son
+_anti-reduccionistas_, asignando propiedades a las entidades colectivas que no
+pueden explicarse en términos de individuos. En general, la razón para adoptar
+una actitud realista acerca de una clase de entidades deriva del estatus que se
+asigne a las teorías que parecen referir a entidades de los tipos en
+cuestión.#footnote[Véase @Harp2016.] Si una teoría es explicativa, y parece
+referir a entidades colectivas, eso de por sí provee de razones para pensar que
+deberíamos incluir tales entidades en nuestra ontología.#footnote[Cuando se
+apela a la indispensabilidad de una teoría, hablamos de un argumento de
+indispensabilidad. Cf. @Panza2016.] Precisamente, esta es la línea de autores
+como @List2011. Nos piden que consideremos casos como el siguiente:
+
+/ Votación inconsistente: Tres individuos, $A$, $B$ y $C$, deciden actuar
+  conjuntamente, y dictando el curso de acción del grupo mediante votaciones.
+  Votan respecto a tres asuntos, $p$, $q$ y $r$. $A$ y $B$ votan por $p$, y $C$
+  vota contra $p$; $B$ y $C$ votan por $q$, y $A$ en contra; $A$ y $C$ votan
+  contra $p and q$, y $B$ a favor. La decisión de la mayoría es, entonces,
+  adoptar $p$, $q$ y $not (p and q)$, pero esto es inconsistente. Para resolver
+  el dilema, el grupo decide modificar el mecanismo de toma de decisiones, de
+  modo que cuando surja una decisión inconsistente, se vote para abandonar una
+  de las opciones ya votadas. En este caso, tras adoptar este mecanismo, se
+  decide abandonar el rechazo a que se realicen $p$ y $q$ conjuntamente; el
+  grupo decide entonces a favor de $p$ y $q$.
+
+En este caso, la decisión del grupo no representa exactamente ninguna de las
+decisiones de los miembros, lo que sugiere que el comportamiento final del
+grupo debe explicarse en términos de las propiedades del grupo y no solamente
+en términos de los miembros del grupo (el realismo resultante es
+anti-reduccionista, aunque es compatible con la tesis de que las propiedades del
+grupo supervienen en las propiedades de los individuos: el grupo no tendría las
+propiedades que tiene si los miembros no tuvieran las propiedades que tienen).
+
+Este tipo de consideraciones
 
 === Saber-cómo colectivo <kh-colectivo>
 
