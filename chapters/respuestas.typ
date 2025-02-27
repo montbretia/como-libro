@@ -5,4 +5,5 @@
 
 #set heading(outlined: false, numbering: none)
 
+#set text(size: 9.5pt)
 #show: answers
