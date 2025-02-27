@@ -215,11 +215,84 @@ examinarse la pregunta de si es posible que ciertas entidades colectivas posean
 estados epistémicos, y en particular, si pueden tener saber cómo. Si es posible
 que haya entidades colectivas con agencia, que realicen acciones de manera
 intencional basadas en creencias colectivas, no es implausible pensar que
-realizan esas acciones manifestando cierta forma de saber-cómo.
+realizan esas acciones manifestando cierta forma de saber-cómo. En efecto,
+ciertos estudios experimentales sugieren que las personas sí tienden atribuir
+saber-cómo a entidades colectivas (véase @Jenkins2014[pp. 3--4]). Otro argumento
+que podríá darse a favor de la posibilidad del saber-cómo colectivo se inspira
+en los argumentos dados a favor de la posibilidad del saber-cómo extendido: así
+como hay que reconocer como estados de saber-cómo a estados que se extienden más
+allá del cuerpo de ciertos sujetos, en vistas a sus perfiles funcionales, puede
+reconocerse que estados distribuidos en una entidad colectiva puede corresponder
+a estados de saber-cómo; del mismo modo que la posesión de saber-cómo extendido
+explica la acción de ciertos individuos acoplados a su entorno, la posesión de
+saber-cómo colectivo explica las acciones de entidades
+colectivas.#footnote[@Tollefsen2015 apela a un argumento de este tipo a favor de
+su interpretativismo acerca de la agencia y cognición colectiva.]
+
+Una alternativa es adoptar una postura reduccionista/individualista y tratar de
+explicar el saber-cómo colectivo en términos de la posesión de saber-cómo de
+parte de los individuos que son parte de la entidad colectiva en cuestión. Un
+argumento para pensar que un modelo sumativista es implausible en el caso del
+saber-cómo es que incluso si cada miembro de un grupo sabe cómo hacer algo, la
+manera en que él o ella lo haría por su cuenta puede diferir de la manera en que
+lo haría junto a otras personas. Supongamos que queremos encontrar todas las
+menciones de un concepto en un cuerpo de documentos, por ejemplo. Si estuviera
+solo, iría documento a documento en serie, buscando instancias del concepto. Si
+lo hiciera con otros, separaría los documentos en lotes, y haría que cada uno de
+los miembros de mi grupo revisara un lote en paralelo.#footnote[Nótese que la
+primera manera serial de revisar los documentos no está disponible para el grupo
+de la misma manera que para el individuo (si es que de hecho está disponible
+para el grupo en absoluto). Un grupo podría revisar los documentos en grupo
+revisando cada documento en conjunto de manera serial, pero esta no sería la
+manera más eficiente de realizar esa tarea, dados los recursos de los que
+dispone el grupo.] Adicionalmente, esta manera que el sujeto puede tener para
+hacer algo junto con otros no es la manera en que el grupo hace la tarea. 
+
+No es necesario que todos los miembros de un grupo tengan la misma concepción de
+cómo actuar cuando el grupo intenta hacer algo. Tomando un ejempolo de
+@Palermos2018: cuando decimos que la compañía Corvette sabe cómo fabricar autos,
+no queremos decir que cada miembro de la compañía tiene una concepción de cómo
+fabricar un auto junto a los demás. En efecto, los distintos miembros de la
+compañía pueden tener distintos roles en la producción de autos, y basta con que
+cada uno sepa cómo hacer su parte. No es necesario que haya un miembro del grupo
+que sepa cómo hacer cada una de las partes que hace falta para producir un auto;
+en efecto, es implausible que sea así en general. @Bird2010 cita el ejemplo del
+proyecto Manhattan:
+
+#quote(block: true)[
+    Consideren el Proyecto Manhattan para construir la primer bomba atómica.
+    Como muchos otros proyectos científico-tecnológicos, requirió de la división
+    de labor cognitiva. Aunque miembros del equipo sabían cómo operaban sus
+    partes del proyecto individualmtne, no sabíán los detalles de las otras
+    partes. Los líderes del proyecto sabían cómo encajaban las distintas partes,
+    pero no tenían un conocimiento detallado de cada una de esas partes. De modo
+    que el equipo en su conjunto sabía cómo construir una bomba atómica, pero
+    ningún miembro del proyecto tenía este conocimiento.#h(1fr) (pp. 33--34)
+]
+
+@HabgoodCoote2022 enumera cinco _desiderata_ para una teoría del saber-cómo
+colectivo:#footnote[En @MoralesCarbonell2024 argumento que adicionalmente debe
+distinguirse entre los problemas de atribución y posesión del saber-cómo para el
+caso colectivo, lo que tiene algunas consecuencias importantes para la manera de
+construir una teoría del saber-cómo colectivo, pero aquí omito esta
+complicación.]
+
+/ Implementabilidad semántica: La teoría debe proveer una semántica adecuada
+  para las atribuciones de saber-cómo a entidades colectivas.
+/ Practicalidad: La teoría debe explicar el vínculo del saber-cómo y la acción
+  colectiva.
+/ Generalidad: La teoría debe ser aplicable a un rango amplio de casos.
+/ Conexión: La teoría debe dar cuenta de la importancia del saber cómo
+  individual para el saber-cómo colectivo.
+/ Divergencia: La teoría debe explicar cómo es posible que un grupo pueda
+  tener saber-cómo que ninguno de sus miembros posea.
+
+El criterio de Divergencia es precisamente la necesidad de explicar casos como
+el de la compañia productora de automóviles o del proyecto Manhattan.
 
 == El saber cómo en la ciencia <sci-know-how>
 
-== Saber cómo social <social-know-how>
+== Saber-cómo social <social-know-how>
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
