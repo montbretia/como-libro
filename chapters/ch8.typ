@@ -37,14 +37,14 @@ Del mismo modo, quizás podríamos tratat la idea del 'saber-cómo colectivo' co
 una 'ficción útil' (en este caso, ni siquiera tenemos que comprometernos con que
 los juicios acerca del saber-cómo colectivo se reduzcan a juicios acerca del
 saber-cómo de individuos). Si bien podríámos adoptar alguna de estas estrategias
-deflacionistas o anti-realistas, no es claro que debamos hacerlo. Como veremos enseguida, iertos
-fenómenos sugieren que el modelo reduccionista no es viable, y la estrategia
-ficcionalista también es problemática. Para apreciar el problema y barajar las
-opciones, en la @k-colectivo examinaremos el problema general de atribuir
-agencia y estados epistémicos a entidades colectivas. Luego, en la
+deflacionistas o anti-realistas, no es claro que debamos hacerlo. Como veremos
+enseguida, iertos fenómenos sugieren que el modelo reduccionista no es viable, y
+la estrategia ficcionalista también es problemática. Para apreciar el problema y
+barajar las opciones, en la @k-colectivo examinaremos el problema general de
+atribuir agencia y estados epistémicos a entidades colectivas. Luego, en la
 @kh-colectivo, examinaremos con más detalle el caso del saber-cómo.
 
-=== Las entidades colectivas, su agencia y conocimiento <k-colectivo>
+=== Las entidades colectivas, su agencia y creencias <k-colectivo>
 
 Primero, definamos el alcance de nuestra discusión. Por entidades colectivas
 vamos a tomar a cualquier grupo de individuos de los que pueda decirse que sus
@@ -125,11 +125,97 @@ anti-reduccionista, aunque es compatible con la tesis de que las propiedades del
 grupo supervienen en las propiedades de los individuos: el grupo no tendría las
 propiedades que tiene si los miembros no tuvieran las propiedades que tienen).
 
-Este tipo de consideraciones
+#questionx(answer: [Una posible objeción es que el argumento de @List2011 asume
+que las creencias e intenciones de los miembros del grupo permanecen estáticas.
+Al aplicar el mecanismo correctivo, podríamos decir que los miembros del grupo
+cambian sus creencias e intenciones, de modo que el grupo simplemente refleja
+las _nuevas_ creencias e intenciones de sus miembros.])[¿Creen que el caso de
+@List2011 es convincente? ¿Se les ocurre otra manera de describir lo que sucede
+en este caso que no tenga que suponer que el grupo tiene propiedades que no
+comparte con sus miembros?]
+
+Este tipo de consideraciones aplican de manera similar al caso de la posibilidad
+de estados mentales y epistémicos para las entidades colectivas. En el caso de
+@List2011, el grupo no solamente existe, sino que acepta ciertas cosas como
+cursos de acción deseables y toma decisiones. Estas atribuciones de estados
+mentales con contenido tienen que explicarse de algún modo. Nuevamente, las
+opciones divergen entre teorías individualistas y anti-individualistas,
+dependiendo de si el comportamiento de los grupos se explica o reduce en
+términos del comportamiento de los individuos.
+
+Para simplificar nuestra discusión un poco, consideremos solamente el caso de
+las creencias. ¿En qué condiciones tiene un grupo la creencia de que algo es
+verdadero? ¿Cuál sería el contenido de estas creencias?
+
+De acuerdo a ciertas teorías, las intenciones y creencias de las entidades
+colectivas son algún tipo de suma de las intenciones o creencias de los
+individuos que componenen esas entidades.#footnote[Un ejemplo clásico es
+@Quinton1976] En forma esquemática, la propuesta es:
+
+/ Sumativismo: Una entidad colectiva G tiene un estado S con contenido X si y
+  solo si todos o la mayoría de los miembros de G tienen estados del mismo tipo
+  con contenido X.
+
+Ciertamente, algo como este análisis parece ser válido en varios casos. Si la
+proposición de que la gente que está trabajando en la cocina cree que tiene
+todos los ingredientes lo que van a necesitar esa noche, es plausible pensar
+que al menos la mayoría de los miembros de ese grupo tienen individualmente esa
+creencia. Si se realiza una votación, y resulta que el candidato X es elegido
+por una mayoría contundente, en muchos casos será plausible decir que los
+votantes creen que X es el mejor candidato.#footnote[Esto depende, como vimos
+con el caso de @List2011, de la manera en que se configure la votación.]
+
+#questionx[Consideren el siguiente caso: A, B y C son una banda musical. Cada
+uno de ellos cree que su canción X es la mejor que tienen, pero guardan su
+opinión en secreto a los otros (B, quien compuso la canción, no quiere sonar
+petulante, y A y C no quieren que a B se le suban los humos a la cabeza.) ¿Tiene
+la banda la creencia de que X es su mejor canción?]
+
+Sin embargo, hay casos en que parece que la propuesta sumativista es incorrecta.
+Supongamos que tenemos un comité que debe decidir si contratar a alguien o no, y
+que nadie comparte exactamente la misma opinión acerca del asunto. Mediante el
+lobby, el comité forma dos bloques de opinión, y finalmente decide por un
+candidato que es visto por casi todos como un compromiso. ¿Cree el comité que
+este candidato debe ser contratado? La respuesta natural es que sí, aunque casi
+ninguno de sus miembros realmente cree que ese candidato debe ser contratado.
+
+¿Cómo acomodar casos como estos? Hay varias propuestas. De acuerdo con teorías
+de aceptación, como la de @Tuomela1992, un grupo G cree que p cuando, debido a
+la estructura del grupo, ciertos miembros establecen una posición de grupo que
+los miembros del grupo aceptan.#footnote[Otros ejemplos de autores que hacen la
+noción de aceptación central a la posibilidad de estados epistémicos grupales
+son @Wray2001 y @Hakli2007. Sobre la distinción entre creencia y aceptación,
+véase @Cohen1992.] En el caso del comité, ciertos sujetos toman el
+rol de definir posturas que el resto de los miembros del grupo aceptan mediante
+los mecanismos del lobby e influencias.
+
+@Gilbert1994 propone un modelo alternativo que no requiere que los miembros
+acepten lo que el grupo cree. Según la propuesta de Gilbert, tenemos que
+entender la creencia colectiva en términos de la existencia de compromisos
+conjuntos a tratar algo como verdadero.#footnote[Véase también @Gilbert2013.
+@Gilbert2002 distingue entre lo que un grupo acepta y cree.] Esto no requiere
+que ninguno de los miembros del grupo acepten o creen el contenido de la
+creencia grupal (aunque es compatible con estas posibilidades). En el caso del
+comité, lo que sucede es que mediante el proceso del lobby, se forman
+compromisos conjuntos para tratar a alguien como el mejor candidato. Estos
+compromisos se efectúan mediante ciertas acciones que los miembros del grupo
+toman para hacer conocimiento común del hecho de que están comprometiéndose con
+que el grupo tome cierta posición sobre un asunto.
+
+#questionx[En el caso del comité, es claro que es posible pensar en un acuerdo
+explícito conjunto a comprometerse con una postura. Sin embargo, hay entidades
+colectivas respecto a las cuales es dudoso que pueda decirse que hay tales
+compromisos. ¿Cómo podríamos atribuir creencias a compañias, naciones,
+instituciones internacionales, etc?]
 
 === Saber-cómo colectivo <kh-colectivo>
 
-
+Consideraciones similares a las de la sección anterior hacen plausible que deba
+examinarse la pregunta de si es posible que ciertas entidades colectivas posean
+estados epistémicos, y en particular, si pueden tener saber cómo. Si es posible
+que haya entidades colectivas con agencia, que realicen acciones de manera
+intencional basadas en creencias colectivas, no es implausible pensar que
+realizan esas acciones manifestando cierta forma de saber-cómo.
 
 == El saber cómo en la ciencia <sci-know-how>
 
