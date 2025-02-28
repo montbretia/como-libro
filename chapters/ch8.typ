@@ -208,6 +208,15 @@ colectivas respecto a las cuales es dudoso que pueda decirse que hay tales
 compromisos. ¿Cómo podríamos atribuir creencias a compañias, naciones,
 instituciones internacionales, etc?]
 
+Antes de seguir, es importante hacer una observación adicional acerca de las
+entidades colectivas. A menudo, identificamos una entidad colectiva no en
+términos del conjunto concreto de individuos que la componen, sino en términos
+de una estructura en la que ciertos individuos juegan diversos roles. Las
+instituciones, como el Senado o un equipo de fútbol, no dejan de ser las
+entidades que son porque algunos de sus miembros cambien. En algunos casos nos
+va a interesar considerar si una entidad colectiva de este tipo puede mantener
+ciertas propiedades incluso si sufre este tipo de cambios.
+
 === Saber-cómo colectivo <kh-colectivo>
 
 Consideraciones similares a las de la sección anterior hacen plausible que deba
@@ -301,18 +310,38 @@ complicación.]
   debe cubrir todos los casos donde parezca plausible aplicar el concepto de
   saber-cómo a fenómenos que involucran entidades colectivas.
 / Conexión: La teoría debe dar cuenta de la importancia del saber cómo
-  individual para el saber-cómo colectivo.
+  individual para el saber-cómo colectivo. En algunos casos, podemos apreciar
+  que el saber-cómo colectivo depende del saber-cómo individual porque si se
+  remueven a individuos con cierto saber-cómo específico, las entidades
+  colectivas que les incluyen pierden ciertas capacidades. Si para saber cómo
+  hacer X es necesario saber cómo hacer Y, es plausible que si una persona cuyo
+  rol en el grupo es sostener el saber-cómo acerca de Y deja de participar en el
+  grupo, el grupo ya no podrá saber cómo hacer X.
 / Divergencia: La teoría debe explicar cómo es posible que un grupo pueda
-  tener saber-cómo que ninguno de sus miembros posea.
+  tener saber-cómo que ninguno de sus miembros posea. Esto queda ilustrado en
+  los casos que examinábamos antes.
 
 Hay varias propuestas acerca del saber-cómo colectivo en la literatura. Como
 muestra, vamos a examinar @Birch2018, @Palermos2018 y
 @HabgoodCoote2022.#footnote[Véase además @Miller2019, @Dragos2019, @Cath2020,
 @Pino2021, @Fang2024, @MoralesCarbonell2025a]
 
+La teoría de @Birch2018 trata de dar cuenta del fenómeno del saber-cómo conjunto
+(_joint know-how_), saber cómo que se manifiesta en la ejecución de acciones en
+conjunto de parte de grupos de individuos, como cuando un duo de cantante y
+guitarrista ejecuta una balada, o un equipo de tenis juega una partida contra
+otro equipo.#footnote[Este último caso puede describirse como una acción
+'conjunta-conjunta', porque los jugadores de un equipo conjuntamente compiten
+con otro equipo, con el que también coordinan sus acciones.]
+
 == El saber cómo en la ciencia <sci-know-how>
 
 == Saber-cómo social <social-know-how>
+
+Las personas no solo son parte de grupos con objetivos específicos dedicados a
+la realización de esos objetivos, sino que también son parte de _comunidades_ que
+se caracterizan por toda clase de rasgos, como parentezcos familiares,
+asociaciones ideológicas e identitarias, etc.
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
