@@ -404,7 +404,7 @@ miembros, que según ellos debería entenderse como un sistema dinámico cuyas
 partes están relacionadas de manera no-linear unas con otras sobre la base de
 interacciones recíprocas continuas. Estas interacciones producen un sistema que
 no puede descomponerse en partes que involucra a todos los miembros del grupo en
-cuestión, que realizan distintas acciones en tándem.#footnote[Cf. @Palermos2014,
+cuestión, que realizan distintas acciones en tándem.#footnote[Cf. @Gelder1995a,  @Palermos2014,
 @Palermos2016 y @Tollefsen2012.]
 
 @HabgoodCoote2022 resume la propuesta de @Palermos2018 de la siguiente manera:
@@ -428,7 +428,109 @@ adecuada, es difícil evaluar si el modelo no es lo suficientemente general:
 podría ser que para cada caso de saber-cómo grupal del que queramos dar cuenta
 pueda darse en los términos que sugieren @Palermos2018.
 
+Finalmente, @HabgoodCoote2022 ofrece una extensión de su teoría interrogativista
+del saber-cómo al caso colectivo (vimos esta teoría en la
+#ref(<s-interrogativismo>)). A grandes rasgos, como recordatorio, el
+interrogativismo de Habgood-Coote consiste en la idea de que un sujeto tiene
+saber-cómo en tanto tiene la habilidad de activar conocimiento que responde a
+una pregunta de la forma '¿cómo hacer X?' en el proceso de hacer X. La idea de
+activar conocimiento tiene que entenderse en un sentido amplio: Habgood-Coote
+sugiere que casos en que se genera conocimiento también activan conocimiento en
+este sentido (por ejemplo, saber cómo caminar en terreno difícil requiere la
+habilidad de descubrir como realizar la tarea de manera específica mientras
+tratas de hacerla). Para extender este modelo al caso colectivo adopta la
+siguiente estrategia. Uno puede entender al conocimiento colectivo como la
+capacidad de un grupo de ser capaz de activar una respuesta a una pregunta: NASA
+sabe que un viaje a Marte duraría cierta cantidad de días, en tanto que NASA
+puede generar una respuesta a la pregunta de cuántos días duraría un viaje a
+Marte. Para dar cuenta de este tipo de conocimiento, Habgood-Coote sugiere que
+tenemos que analizar la oración
 
+#set enum(numbering: "1)")
++ NASA sabe cuanto duraría un viaje a Marte
+
+como 
+
+#[#set enum(numbering: "1)", start: 2)
++ Miembros de NASA poseen partes de la respuesta a la pregunta '¿cuánto duraría
+  un viaje a Marte?', cierta manera de reunir estas respuestas parciales
+  responde completamente a la pregunta.#footnote[Formalmente, la propuesta de
+  Habgood-Coote es que los predicados de la forma 'sabe X', cuando se aplican a
+  expresiones plurales (que refieren a entidades colectivas), deben ser
+  entendidos de manera 'cumulativa', en oposición a una lectura 'distributiva' o
+  'colectiva'. Un predicado recibe una lectura distribuida cuando el predicado
+  aplica a todos los referentes de la expresión plural (por ejemplo, 'son
+  impares' en 'los números primos mayores que 3 son impares' tiene una lectura
+  distribuida). Un predicado recibe una lectura colectiva cuando el predicado no
+  aplica a los referentes de la expresión plural por separado, sino que
+  solamente al conjunto tomado en su totalidad (por ejemplo, 'son numerosos' en
+  'los problemas son numerosos'). Un predicado recibe una lectura cumulativa
+  cuando se entiende que los miembros de la referencia de la expresión plural a
+  la que aplica entre ellos, de alguna manera, satisfacen de forma exhaustiva la
+  condición que expresa el predicado (por ejemplo, en 'mis familiares me
+  trajeron diez regalos', si recibí diez regalos y tengo menos de diez familiares,
+  tendría que entender que algunos de mis familiares me dieron más de un
+  regalo). Cf. @Champollion2020.]]
+
+La pregunta incrustada puede variar, y de este modo llegamos al esquema:
+
+/ Respuesta fragmentada: Un grupo $G$ sabe la respuesta a una pregunta $Q$ si y
+  solo si
+  #set enum(numbering: "a)")
+  + Algunos miembros de $G$ saben la respuesta a sub-preguntas de $Q$.
+  + Entre ellos, los miembros de $G$ saben respuestas que reunidas constituyen
+    una respuesta completa a la pregunta $Q$.
+
+La aplicación a preguntas de la forma '¿cómo hacer X?' es obvia. El análisis
+tiene que ajustarse para dar cuenta de un problema que queda ilustrado con el
+siguiente caso:
+
+/ Cuarteto: Un cuarteto de corno francés va a tocar una pieza complicada. El
+  primer corno sabe cómo tocar su parte y la del tercer corno. El segundo corno
+  sabe tocar su parte y la del cuarto corno. El cuarto corno sabe tocar su
+  parte. El tercer corno aún no sabe tocar su parte.
+
+Intuitivamente, el cuarteto no sabe tocar la pieza aún, porque uno de sus
+miembros no sabe tocar su parte. Sin embargo, se satisfacen las condiciones del
+análisis: los miembros poseen parte de la respuesta a cómo tocar la pieza, y las
+partes que tienen, reunidas, constituyen una respuesta a la pregunta de cómo
+tocar la pieza.
+
+#questionx[Antes de avanzar, ¿cómo resolverían el problema ustedes?]
+
+La solución de Habgood-Coote es requerir que los miembros del grupo sean capaces
+de realizar sus capacidades juntos en el curso de la acción colectiva: no basta
+con que cumulativamente los miembros de un grupo tengan la respuesta a una
+pregunta, sino que es necesario que puedan activarla en conjunto. El análisis
+resultante es:
+
+/ Capacidad Interrogativa Fragmentada: Un grupo $G$ sabe cómo $X$ si y solo si
+  #set enum(numbering: "a)")
+  + Algunos miembros de $G$ son capaces de genera respuestas a subpreguntas de
+    '¿cómo $X$?' ('¿de qué manera puede $G$ hacer $X$?'), según sea necesario;
+  + Entre ellos, los miembros de $G$ son capaces de genera respuestas que
+    reunidas constituyen una respuesta completa a la pregunta '¿cómo X?' ('¿de qué
+    manera puede $G$ hacer $X$?')
+  + Las capacidades Interrogativas de los miembros del grupo pueden ejercitarse
+    conjuntamente para dar respuestas completas a la pregunta '¿cómo podemos
+    hacer $X$?', en el transcurso de hacer $X$.
+
+
+La postura de @HabgoodCoote2022 responde a todos los _desiderata_ que definimos
+antes. El caso de Conexión y Divergencia es claro. Respecto a Generalidad, la
+postura es aplicable a más casos que las de @Birch2018 o @Palermos2018. Respecto
+a la cuestión de Implementación Semántica, la postura explícitamente esboza una
+propuesta semántica que emplea las estrategias estándar para el tratamiento de
+preguntas incrustadas y predicación plural (en efecto, emplea algunos de los
+mismos recursos lingüísticos que @Stanley2001 empleaban para defender el
+intelectualismo). Finalmente, respecto a la cuestión de Practicalidad, la
+postura vincula el saber-cómo colectivo con su habilidad de responder preguntas
+de manera efectiva, mediante acciones.
+
+Hasta el momento, la postura de @HabgoodCoote2022 es la propuesta más
+sofisticada para resolver el problema del saber cómo. Es una pregunta abierta si
+se puede elaborar una teoría anti-intelectualista que sea al menos igualmente
+satisfactoria.#footnote[Pero véase @MoralesCarbonell2025a.]
 
 #figure(caption: [_Evaluaciones de distintas teorías del saber-cómo descriptivo según los desiderata de @HabgoodCoote2022. _])[
     #set table.cell(align: horizon)
@@ -444,14 +546,15 @@ pueda darse en los términos que sugieren @Palermos2018.
     )
 ]
 
-== El saber cómo en la ciencia <sci-know-how>
-
 == Saber-cómo social <social-know-how>
 
 Las personas no solo son parte de grupos con objetivos específicos dedicados a
 la realización de esos objetivos, sino que también son parte de _comunidades_ que
 se caracterizan por toda clase de rasgos, como parentezcos familiares,
 asociaciones ideológicas e identitarias, etc.
+
+== El saber cómo en la ciencia <sci-know-how>
+
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
