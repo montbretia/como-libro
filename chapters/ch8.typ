@@ -288,28 +288,32 @@ caso colectivo, lo que tiene algunas consecuencias importantes para la manera de
 construir una teoría del saber-cómo colectivo, pero aquí omito esta
 complicación.]
 
-/ Implementabilidad semántica: La teoría debe proveer una semántica adecuada
-  para las atribuciones de saber-cómo a entidades colectivas. Si bien no es
-  necesario que se de prioridad a la evidencia lingüística acerca de las
-  atribuciones de saber-cómo colectivo, es importante que una teoría del
+/ Implementación semántica (IS): La teoría debe proveer una semántica adecuada
+  para las atribuciones de saber-cómo a entidades
+  colectivas.#footnote[@HabgoodCoote2022 habla de 'implementabilidad', pero el
+  criterio es demasiado laxo: si bien en su evaluación ni @Birch2018 ni
+  @Palermos2018 proveen una implementación semántica de su modelo del saber-cómo
+  colectivo, no es implausible pensar que podría construirse algún modelo.] Si
+  bien no es necesario que se de prioridad a la evidencia lingüística acerca de
+  las atribuciones de saber-cómo colectivo, es importante que una teoría del
   saber-cómo colectivo provea un modelo semántico que sea adecuado en vista a
   los compromisos metafísicos de la teoría (si la teoría habla de habilidades,
   la semántica tiene que dar cuenta de expresiones de habilidad también, por
   ejemplo).
-/ Practicalidad: La teoría debe explicar el vínculo del saber-cómo y la acción
-  colectiva. Ya que la motivación para considerar la posibilidad del saber-cómo
-  colectivo es la utilidad que la hipótesis puede tener para explicar la
-  conducta colectiva, esto tiene que derivarse de la teoría. Esto puede suceder
-  de varias maneras: la teoría puede implicar que las acciones colectivas
-  manifiestan saber-cómo, o que requieren de ciertas habilidades congiables y
-  flexibles, o que el saber-cómo colectivo es necesario para tener intenciones
-  adecuadas acerca de cómo hacer algo, etc.
-/ Generalidad: La teoría debe ser aplicable a un rango amplio de casos. No basta
-  con que la teoría explique casos aislados, o solo a cierta escala (por
+/ Practicalidad (P): La teoría debe explicar el vínculo del saber-cómo y la
+  acción colectiva. Ya que la motivación para considerar la posibilidad del
+  saber-cómo colectivo es la utilidad que la hipótesis puede tener para explicar
+  la conducta colectiva, esto tiene que derivarse de la teoría. Esto puede
+  suceder de varias maneras: la teoría puede implicar que las acciones
+  colectivas manifiestan saber-cómo, o que requieren de ciertas habilidades
+  congiables y flexibles, o que el saber-cómo colectivo es necesario para tener
+  intenciones adecuadas acerca de cómo hacer algo, etc.
+/ Generalidad (G): La teoría debe ser aplicable a un rango amplio de casos. No
+  basta con que la teoría explique casos aislados, o solo a cierta escala (por
   ejemplo, que solamente explique el saber-cómo de grupos pequeños), idealmente
   debe cubrir todos los casos donde parezca plausible aplicar el concepto de
   saber-cómo a fenómenos que involucran entidades colectivas.
-/ Conexión: La teoría debe dar cuenta de la importancia del saber cómo
+/ Conexión (C): La teoría debe dar cuenta de la importancia del saber cómo
   individual para el saber-cómo colectivo. En algunos casos, podemos apreciar
   que el saber-cómo colectivo depende del saber-cómo individual porque si se
   remueven a individuos con cierto saber-cómo específico, las entidades
@@ -317,7 +321,7 @@ complicación.]
   hacer X es necesario saber cómo hacer Y, es plausible que si una persona cuyo
   rol en el grupo es sostener el saber-cómo acerca de Y deja de participar en el
   grupo, el grupo ya no podrá saber cómo hacer X.
-/ Divergencia: La teoría debe explicar cómo es posible que un grupo pueda
+/ Divergencia (D): La teoría debe explicar cómo es posible que un grupo pueda
   tener saber-cómo que ninguno de sus miembros posea. Esto queda ilustrado en
   los casos que examinábamos antes.
 
@@ -332,7 +336,113 @@ conjunto de parte de grupos de individuos, como cuando un duo de cantante y
 guitarrista ejecuta una balada, o un equipo de tenis juega una partida contra
 otro equipo.#footnote[Este último caso puede describirse como una acción
 'conjunta-conjunta', porque los jugadores de un equipo conjuntamente compiten
-con otro equipo, con el que también coordinan sus acciones.]
+con otro equipo, con el que también coordinan sus acciones.] En estos casos, es
+importante considerar el hecho de que los miembros del grupo no solo realizan
+acciones por su cuenta que contribuyen a acciones del grupo, sino que además
+realizan acciones que se coordinan entre sí. Birch incorpora esta idea en su
+análisis del saber-cómo de la siguiente manera. En los grupos que Birch
+considera, cada miembro tiene un rol. No es necesario que cada miembro sepa cómo
+realizar cada rol (es decir, el suyo y el de los demás), pero si nadie sabe
+ocupar un rol, el grupo simplemente no puede saber cómo actuar conjuntamente.
+Que cada miembro sepa cómo realizar su rol en condiciones compatibles no es
+suficiente para que el grupo sepa cómo actuar conjuntamente, porque además es
+necesario que al realizar las acciones relevantes, los miembros del grupo
+coordinen sus acciones, lo que a su vez explica que sean exitosos
+confiablemente. Adicionalmente, las acciones que toman deben incluir un
+componente que facilite la coordinación. Así, Birch llega al siguiente análisis
+en el caso del saber cómo conjunto para pares de sujetos:
+
+/ Facilitación Activa Mutua (_Active Mutual Enablement_ AME): $S_1$ y $S_2$ saben
+  cómo $J$ conjuntamente si y solo si:
+  #set enum(numbering: "a)")
+  + $S_1$ sabe cómo realizar (en la condición $c_1$) su rol $j_1$ de una manera
+    que activamente facilita la coordinación para $S_2$.
+  + $S_1$ sabe cómo predecir, monitorear y hacer ajustes para evitar problemas
+    en respuesta a las acciones de $S_2$ de $j_2$, provisto que $S_2$ realice
+    $j_2$ de una manera que facilite la coordinación con $S_1$.
+  + $S_2$ sabe cómo realizar (en la condición $c_2$) su rol $j_2$ de una manera
+    que activamente facilita la coordinación para $S_1$.
+  + $S_2$ sabe cómo predecir, monitorear y hacer ajustes para evitar problemas
+    en respuesta a las acciones de $S_1$ de $j_1$, provisto que $S_1$ realice
+    $j_1$ de una manera que facilite la coordinación con $S_2$.
+  + $c_1$ y $c_2$ son mutuamente compatibles.
+
+En este modelo, el saber-cómo conjunto consiste en cierta configuración del
+saber-cómo de distintos individuos, y no es necesario apelar a la existencia de
+entidades colectivas.#footnote[Adicionalmente, Birch adhiere a un modelo
+intelectualista del saber-cómo.] Esto refleja una limitación del modelo, porque no parece
+capaz de capturar casos de agentes grupales como los que examinábamos antes,
+como el del caso del Proyecto Manhattan. Esto hace que la postura sea
+insuficiente en cuanto al desideratum de Generalidad.
+
+@Palermos2018 tratan de proveer un modelo de saber-cómo colectivo que sí sea
+capaz de lidiar con ese tipo de caso de entidad colectiva. Ellos también
+enfatizan la importancia de la coordinación de la acción de los miembros de un
+grupo. Esta asunción es crucial para un argumento que ofrecen para rechazar
+ciertas forma de intelectualismo acerca del saber-cómo colectivo. Si este
+consistiera en la aceptación (o creencia, o estado de conocimiento) conjunta de
+que una manera es la manera de hacer algo, siempre debería ser posible
+determinar cuál es _la_ manera que los miembros del grupo conjuntamente aceptan;
+sin embargo, en muchos casos no es posible determinar que haya tal cosa. A lo
+más, habría que decir que cada miembro conoce una manera de actuar que
+contribuye al éxito del grupo y que es facilitadora de la coordinación (como en
+el caso de @Birch2018). Pero al nivel del grupo, sugieren, lo que da pie a eso
+son ciertas dinámicas que tienen más que ver con las habilidades y disposiciones
+del grupo, en particular aquellas habilidades del grupo que le permiten actuar
+de manera tal que es el grupo el que puede tomar responsabilidad por la acción.
+Un grupo tiene saber cómo en cuanto como tal regula su conducta, no porque
+ciertos individuos que poseen saber cómo regulan su conducta.#footnote[Apelan a
+la siguiente idea de @Ryle1949[p. 30]: #quote[Ser inteligente no es meramente
+satisfacer ciertos criterios, sino aplicarlos; es regular las acciones propias y
+no meramente ser regulado. La acción de una persona puede describirse como
+cuidadosa o hábil si al operar está dispuesto a detectar y corregir sus errores,
+y a repetir y mejorar sus éxitos.]]
+
+Más concretamente, Palermos y Tollefsen sugieren que los grupos adquieren la
+capacidad de auto-regularse como resultado emergente de la interacción de sus
+miembros, que según ellos debería entenderse como un sistema dinámico cuyas
+partes están relacionadas de manera no-linear unas con otras sobre la base de
+interacciones recíprocas continuas. Estas interacciones producen un sistema que
+no puede descomponerse en partes que involucra a todos los miembros del grupo en
+cuestión, que realizan distintas acciones en tándem.#footnote[Cf. @Palermos2014,
+@Palermos2016 y @Tollefsen2012.]
+
+@HabgoodCoote2022 resume la propuesta de @Palermos2018 de la siguiente manera:
+
+/ Responsabilidad Grupal: Un grupo $G$ sabe cómo $X$ si y solo si
+  #set enum(numbering: "a)")
+  + $G$ es capaz de $X$ responsablemente, aplicando los estándares constitutivos
+    de X. <rg-1>
+  + $G$ es capaz de satisfacer (a) porque sus miembros forman un
+    sistema cognitivo distribuido.
+
+Esta propuesta claramente ofrece una respuesta a los _desiderata_ de
+Practicalidad (el saber-cómo colectivo explica el éxito de las acciones del
+grupo, así como el hecho de que el grupo sea responsable por el resultado de
+estas acciones), Conexión (las capacidades del grupo dependen de la manera en
+que sus miembros interactuan) y Divergencia (no es necesario que las capacidades
+del grupo coincidan con las de sus miembros). Sin embargo, @HabgoodCoote2022
+critica el enfoque porque no provee de una implementación semántica bien
+desarrollada, ni es suficientemente general. Ahora bien, sin una semántica
+adecuada, es difícil evaluar si el modelo no es lo suficientemente general:
+podría ser que para cada caso de saber-cómo grupal del que queramos dar cuenta
+pueda darse en los términos que sugieren @Palermos2018.
+
+
+
+#figure(caption: [_Evaluaciones de distintas teorías del saber-cómo descriptivo según los desiderata de @HabgoodCoote2022. _])[
+    #set table.cell(align: horizon)
+    #show table.cell: set text(size: 9pt, hyphenate: false)
+    #table(
+        columns: (1fr, 1fr, 1fr, 1fr, 1fr, 1fr),
+        stroke: 0.1pt + black.lighten(50%),
+        [], [IS], [P], [G], [C], [D],
+        [@Birch2018], [#sym.crossmark], [?], [#sym.crossmark], [#sym.checkmark], [#sym.checkmark],
+        [@Palermos2018], [#sym.crossmark], [#sym.checkmark], [?], [#sym.checkmark], [#sym.checkmark],
+        [@HabgoodCoote2022], [#sym.checkmark], [#sym.checkmark], [#sym.checkmark], [#sym.checkmark], [#sym.checkmark]
+
+    )
+]
 
 == El saber cómo en la ciencia <sci-know-how>
 
