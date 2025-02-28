@@ -657,16 +657,21 @@ de los pueblos nativos norteamericanos, por ejemplo, el ensayo de Brian Yazzie
 Burkhart (cherokee), 'What Coyote and Thales can teach us'
 (#cite(<Burkhart2004>, form: "year")), en el libro
 _American Indian Thought_. Otra obra interesante es el libro _How It Is: The
-Native American Philosophy of V.F. Cordova_ (2007), especialmente por su
+Native American Philosophy of V.F. Cordova_ (#cite(<Cordova2007>, form: "year")), especialmente por su
 concepción de cómo hay que abordar el trabajo filosófico de recuperar la
 perspectiva nativa.
 
 Dada la conexión entre la epistemología del saber cómo y la filosofía de la
 acción, vale la pena analizar además las distintas maneras en que se concibe la
-acción en otras filosofías. Por ejemplo, en el taoísmo la acción intencional es
-mirada con esceptismo. En el capítulo 7 del libro de Chuang Tzu
-encontramos,#footnote[Traduzco de la versión inglesa de Martin Palmer (Penguin,
-2006).] por ejemplo:
+acción en otras filosofías. @Hetherington2012 examinan la noción de saber-cómo
+desde la perspectiva del Confucionismo, y argumenta que ofrece una perspectiva
+que explica el conocimiento proposicional en términos del saber-cómo (como
+@Hetherington2011, Confucio adoptaría una forma de _practicalismo_): el
+comportamiento recto requiere tener conocimiento, que consiste en ser capaz de
+hacer una serie de cosas. En contraste, en el taoísmo el rol del conocimiento en
+la acción intencional es mirado con esceptismo. En el capítulo 7 del libro de
+Chuang Tzu encontramos,#footnote[Traduzco de la versión inglesa de Martin Palmer
+(Penguin, #cite(<ChuangTzu2007>, form:"year")).] por ejemplo:
 
 #quote(block: true)[
   #set par(first-line-indent: 0em, spacing: 1em)
