@@ -1453,7 +1453,7 @@ intelectualista? ¿No podría reformularse en términos de, por ejemplo, que los
 sujetos tengan ciertas capacidades que pueden especificarse en términos de las
 concepciones que tengan de las maneras de actuar?]
 
-=== Interrogativismo
+=== Interrogativismo <s-interrogativismo>
 
 Más recientemente, Joshua Habgood-Coote (#cite(<HabgoodCoote2019>, form: "year")) ha desarrollado una nueva teoría del
 saber-cómo que puede clasificarse como intelectualista, pero que difiere de
