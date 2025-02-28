@@ -217,9 +217,11 @@ hipervínculos en el documento, para tener fácil acceso a las respuestas).
 #questionx(answer: [Este es el formato de las respuestas.])[Las preguntas van a
 aparecer en este formato.]
 
-Como es usual, el libro termina con una lista de referencias. Cuando cito textos en
-inglés, he ofrecido mis propias traducciones, pero en la lista de referencias
-he añadido información sobre traducciones al español cuando hay disponibles. 
+Como es usual, el libro termina con una lista de referencias. Además de las
+referencias en el texto, he añadido referencias a otros trabajos relevantes.
+Cuando cito textos en inglés, he ofrecido mis propias traducciones, pero en la
+lista de referencias he añadido información sobre traducciones al español cuando
+hay disponibles. 
 
 Aunque asumo que el lector tiene alguna familiaridad con la lógica formal,
 incluyo como apéndice un resumen de lo mínimo de lógica que empleamos.
