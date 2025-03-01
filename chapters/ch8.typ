@@ -568,6 +568,13 @@ El libro _Groups as Agents_ (#cite(<Tollefsen2015>, form: "year")), de Deborah
 Tollefsen, presenta de una manera clara los debates principales acerca de la
 ontología, la agencia y la cognición de los grupos.
 
+Sobre la filosofía de la acción colectiva, recomiendo el libro _Doing Things
+Together_ (#cite(<Martens2022>, form: "year") de Judith Martens. Un estudio
+influyente sobre la cognición colectiva es _Cognition in the Wild_
+(#cite(<Hutchins1995>, form: "year")), de Edwin Hutchins; en ese libro se
+describe en detalle cómo la tripulación de un navío mercante funciona como un
+sistema cognitivo distribuido dedicado a la navegación.
+
 La epistemología social es un rico de investigación actualmente. El artículo de
 la SEP, _Social Epistemology_, por Caoiln O'Connor, Sanford Goldberg y Alvin
 Goldman, es un buen punto de entrada a la literatura:
