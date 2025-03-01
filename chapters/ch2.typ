@@ -259,13 +259,16 @@ _separadamente necesarias pero en conjunto suficientes_ para la satisfacción de
 la condición que estamos analizando.
 
 El método de casos opera mediante el testeo de posibles contraejemplos. Un análisis
-de la forma $X -> A, B, C$ es falso en dos condiciones:
+de la forma $X <-> A, B, C$ es falso en dos condiciones:
 
-- $X$ es verdadero, pero $A, B, C...$ no son verdaderos,
+- $X$ es verdadero, pero $A, B, C...$ en conjunto no son verdaderos,
 - $X$ es falso, pero $A, B, C...$ son verdaderos
 
 En el primer caso decimos que $A, B, C...$ no son necesarios para la satisfacción de $X$,
-y en el segundo caso, que $A, B, C...$ no son suficientes.
+y en el segundo caso, que $A, B, C...$ no son suficientes. Si cualquiera de
+estas condiciones falla, el análisis es inadecuado. Para corregir la
+insuficiencia hay que introducir condiciones adicionales. Para corregir la falta
+de necesidad a menudo hay que restringir las condiciones.
 
 A menudo, además, se asume que la verdad de un análisis es necesaria. En esos
 casos, para dar un contraejemplo no es necesario que demos un contraejemplo
