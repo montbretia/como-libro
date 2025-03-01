@@ -439,7 +439,7 @@ sugiere que casos en que se genera conocimiento también activan conocimiento en
 este sentido (por ejemplo, saber cómo caminar en terreno difícil requiere la
 habilidad de descubrir como realizar la tarea de manera específica mientras
 tratas de hacerla). Para extender este modelo al caso colectivo adopta la
-siguiente estrategia. Uno puede entender al conocimiento colectivo como la
+siguiente estrategia.#footnote[Cf. @HabgoodCoote2019a.] Uno puede entender al conocimiento colectivo como la
 capacidad de un grupo de ser capaz de activar una respuesta a una pregunta: NASA
 sabe que un viaje a Marte duraría cierta cantidad de días, en tanto que NASA
 puede generar una respuesta a la pregunta de cuántos días duraría un viaje a
@@ -470,7 +470,12 @@ como
   condición que expresa el predicado (por ejemplo, en 'mis familiares me
   trajeron diez regalos', si recibí diez regalos y tengo menos de diez familiares,
   tendría que entender que algunos de mis familiares me dieron más de un
-  regalo). Cf. @Champollion2020.]]
+  regalo). Cf. @Champollion2020. Una consecuencia de esto es que la postura es
+  compatible con alguna forma de individualismo o reduccionismo acerca de la
+  naturaleza de los grupos. Si bien Habgood-Coote enfatiza que el sujeto de
+  atribución del saber-cómo colectivo es plural, el análisis no requiere la
+  postulación de entidades colectivas irreducibles (a diferencia de lo que
+  sucede en la propuesta de @Palermos2018).]]
 
 La pregunta incrustada puede variar, y de este modo llegamos al esquema:
 
