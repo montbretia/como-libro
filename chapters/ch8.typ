@@ -554,12 +554,96 @@ satisfactoria.#footnote[Pero véase @MoralesCarbonell2025a.]
 == Saber-cómo social <social-know-how>
 
 Las personas no solo son parte de grupos con objetivos específicos dedicados a
-la realización de esos objetivos, sino que también son parte de _comunidades_ que
-se caracterizan por toda clase de rasgos, como parentezcos familiares,
-asociaciones ideológicas e identitarias, etc.
+la realización de esos objetivos, sino que también son parte de _comunidades_
+que se caracterizan por toda clase de rasgos, como parentezcos familiares,
+asociaciones ideológicas e identitarias, etc. Estas comunidades no se dedican a
+ninguna tarea en específico, sino que desarrollan amplias redes de prácticas con
+muy diversos propósitos. Un equipo de remos se define en las tareas del remo;
+una sociedad, por otro lado, quizás no se define en absoluto o necesariamente de
+una manera mucho más compleja. De cualquier manera, estas comunidades sirven de
+trasfondo para todas las prácticas específicas que realizan quienes pertenecen a
+ellas.
+
+De esta forma, por sobre las prácticas específicas se impone un marco más
+general que da les da sentido y forma.#footnote[Una manera de entender esto es
+que las prácticas tienen causas estructurantes, en el sentido de @Dretske1988.
+Una causa gatillante causa un evento; una causa estructurante hace que un evento
+tenga un efecto de cierto tipo. Que alguien haya trazado una línea en el suelo
+es una causa gatillante de que otra persona se enojara; esta persona se enojó
+porque trazar una línea del suelo era una manera de ofenderla en esa situación;
+que así haya sido es una causa estructurante de su enojo. @Haslanger2015
+desarrolla la idea para explicar la noción de estructura social.] Parte del
+sentido de las prácticas sociales consiste en que resultan de la necesidad de
+resolver ciertos problemas de coordinación. La división del trabajo es, por
+ejemplo, una estrategia para distribuir los recursos disponibles de manera más
+eficiente, y vemos que alguna variación de la idea opera en gran número de
+contextos. Si todos los aspectos de la cultura fueran soluciones a problemas de
+coordinación, las diferencias entre las culturas solamente podrían explicarse en
+términos de que dadas las circunstancias en las que se desarrolló tal o cual
+cultura, fue necesario adoptar distintas soluciones a los mismos problemas. Una
+breve observación nos muestra que esto no puede explicar toda la diversidad
+cultural. En primer lugar, muchas manifestaciones culturales no tienen como
+función la solución de problemas, sino la satisfacción de otros intereses.
+Consideren por ejemplo el caso de las artes decorativas. Por supuesto, la
+capacidad de decorar un artefacto puede indicar el estatus de quienes lo poseen,
+pero en muchos casos no podemos decir que quienes poseen o producen tales
+artefactos decorativos tengan un estatus particularmente destacable; los poseen
+o los producen porque los aprecian de alguna manera. Ahora bien, esas maneras de
+apreciar estos objetos tienen sentido en el contexto de la cultura en la que
+aparecen. En algunos casos, las prácticas sociales además tienen como propósito
+la creación de fricción en vez de eficiencia, hasta cierto punto: ni un juego
+demasiado fácil ni uno demasiado complejo es divertido.#footnote[Cf.
+@Suits1978.]
+
+Ahora bien, es plausible que el contenido de la cultura, al menos en el sentido
+de aquello que da sentido a las prácticas sociales, sea una forma de saber-cómo,
+a saber, saber cómo actuar en el contexto social en que opera la cultura.
+Adquirimos este saber-cómo mediante el proceso de socialización, ya sea mediante
+la instrucción explícita o mediante nuestra propia capacidad de emular a
+aquellos que nos rodean.
+
+#aside[Para describir este tipo de fenómenos, el sociólogo Pierre Bordieu
+desarrolla una teoría de lo que llamaa _habitus_. Bordieu describe el _habitus_
+como 'sistemas de disposiciones duraderas y transportables, estructuras
+estructuradas predispuestas a funcionar como estructuras estructurantes, es
+decir, como principios que generan y organizan a prácticas y representaciones
+que se pueden adaptar a sus resultados sin presuponer una persecución conciente
+de fines o una maestría explícita de las operaciones necesarias para obtenerlos.
+'Reguladas' y 'regulares' objetivamente sin ser el producto de una forma de
+obediencia a reglas, pueden orquestrarse colectivamente sin ser el producto de
+la acción organizadora de un conductor' (@Bourdieu1990[p. 53]). Bourdieu aplica
+el concepto a entidades individuales y colectivas.]
+
+¿Si esto es, en efecto, una forma de saber-cómo, de qué tipo es? Hay varias
+maneras de ver la cuestión. Por una parte, podemos describirlo como el saber-cómo que
+esperamos que alguien que pertenece a una cultura tenga por el hecho de
+pertenecer a esa cultura. En este sentido, estaríamos frente a una forma de
+saber-cómo individual del que esperamos que tenga cierta distribución en una
+población dada. Así, cuando ascribimos una cierta 'manera de actuar' a los
+chilenos (en lo que respecta a las maneras en que manifiestan las peculiaridades
+de su cultura), lo que estaríamos diciendo es algo así como que cada chileno
+tiene una manera de actuar que sabe cómo realizar, y que esta manera de actuar
+es la que esperaríamos de alguien que pertenece a ese grupo (por supuesto, para
+tener esa expectativa necesitamos tener cierto conocimiento de la manera en que
+los miembros de este grupo actúan).
+
+Otra manera de ver el asunto es entenderlo como la posesión colectiva de una
+manera de actuar en conjunto. Podemos describir esto en términos similares a los
+que @Palermos2018 empleaban en el caso del saber-cómo grupal. La interacción de
+los distintos componentes de una sociedad, que en su totalidad constituyen la
+cultura de esa sociedad, resultan en que la sociedad tenga ciertas capacidades y
+disposiciones que emergen de esas interacciones. Parte de esto va a consistir en
+que la sociedad tenga una estructura específica que permite y restringe a sus
+miembros a comportarse de distintas maneras (mediante la asignación y ocupación
+de roles), así como mecanismos distribuidos que mantienen esas estructuras.
+
+#questionx[¿Es posible que ambas perspectivas sean complementarias?]
 
 == El saber cómo en la ciencia <sci-know-how>
 
+La ciencia nos ofrece un caso de estudio importante para aplicar las ideas que
+hemos ido desarrollando en este capítulo. Hay muchas maneras de hacer esto, así
+que me limitaré a hacer algunas observaciones generales.
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
@@ -584,3 +668,7 @@ referencia útiles. Uno es el _Routledge Handbook of Social Epistemology_
 David Henderson y Nikolaj Pedersen. Otro es el _Oxford Handbook of Social
 Epistemology_ (#cite(<Lackey2025>, form: "year")), editado por Jennifer Lackey y
 Aidan McGlynn.
+
+El libro _Theory and Reality_ (#cite(<GodfreySmith2008>)), de Peter Godfry
+Smith, es una excelente introducción a la filosofía de la ciencia. El capítulo
+11 trata de la estructura social de la ciencia.
