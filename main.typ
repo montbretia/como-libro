@@ -5,7 +5,7 @@
 )
 
 #set page(paper: "a5")
-#set text(font:"Minion Pro", size: 10.5pt, lang: "es")
+#set text(font:"Minion Pro", size: 10.5pt, lang: "es", number-type: "old-style")
 #show math.equation: set text(font: "Libertinus Math")
 
 #include "jacket.typ"
@@ -61,7 +61,7 @@
 
 
 #show outline.entry.where(level: 1): it => {
-  v(0.7em)  
+  v(0.5em)  
   strong(it)
 }
  
