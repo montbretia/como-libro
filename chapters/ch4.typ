@@ -180,35 +180,31 @@ considerablemente distintos. Su teoría era una hipótesis para-mecánica.
 #h(1fr) (CM, 8-9)
 ]
 
-Esto es un problema porque aplica un modelo de explicación, el modelo
-mecánico, a algo de lo cual no es seguro que ese modelo realmente
-aplique. La hipótesis para-mecánica fue un intento de resolver una
-dificultad científica genuina, pero trajo consigo una serie de
-problemas, como ya vimos. Esto se debe, según Ryle, a que la distinción
-de la doctrina oficial entre mente y cuerpo no es una categorización
-adecuada, sino lo que podemos llamar un #emph[error] #emph[de]
-#emph[categoría];.#footnote[
-Ryle introdujo el nombre de ‘error de categoría’ en CM, aunque ya
-discute la idea en su ensayo ‘Categories’ de 1938. Para un examen
-exhaustivo de distintas maneras de entender el concepto de error de
-categoría, véase Magidor (2013).
-] Un error de este tipo consiste en emplear un concepto o un conjunto
-de conceptos a un tipo de cosa a la que no aplica. Por ejemplo, decir
-‘los domingos bailan’ es gramaticalmente aceptable, pero emplea el
-concepto de #emph[bailar] a algo a lo que no aplica, un día de la
-semana. Según Ryle, es característico de la filosofía que debe examinar
-y corregir el uso de categorías conceptuales de modo que no se caiga en
-este tipo de errores. En efecto, el ataque de Ryle a la doctrina oficial
-en CM es un intento de mostrar el poder de estas ideas sobre la
-naturaleza del trabajo filosófico. Es por eso que en la introducción
-Ryle enfatiza que ‘la filosofía es el reemplazo de hábitos categoriales
-por disciplinas categoriales’ (lxi), es decir, el reemplazo de maneras
-enraizadas pero irreflexivas de usar los conceptos, por otras que sean
+Esto es un problema porque aplica un modelo de explicación, el modelo mecánico,
+a algo de lo cual no es seguro que ese modelo realmente aplique. La hipótesis
+para-mecánica fue un intento de resolver una dificultad científica genuina, pero
+trajo consigo una serie de problemas, como ya vimos. Esto se debe, según Ryle, a
+que la distinción de la doctrina oficial entre mente y cuerpo no es una
+categorización adecuada, sino lo que podemos llamar un #emph[error] #emph[de]
+#emph[categoría];.#footnote[ Ryle introdujo el nombre de ‘error de categoría’ en
+CM, aunque ya discute la idea en su ensayo ‘Categories’ de 1938. Para un examen
+exhaustivo de distintas maneras de entender el concepto de error de categoría,
+véase @Magidor2013.] Un error de este tipo consiste en emplear un concepto o un
+conjunto de conceptos a un tipo de cosa a la que no aplica. Por ejemplo, decir
+‘los domingos bailan’ es gramaticalmente aceptable, pero emplea el concepto de
+#emph[bailar] a algo a lo que no aplica, un día de la semana. Según Ryle, es
+característico de la filosofía que debe examinar y corregir el uso de categorías
+conceptuales de modo que no se caiga en este tipo de errores. En efecto, el
+ataque de Ryle a la doctrina oficial en CM es un intento de mostrar el poder de
+estas ideas sobre la naturaleza del trabajo filosófico. Es por eso que en la
+introducción Ryle enfatiza que ‘la filosofía es el reemplazo de hábitos
+categoriales por disciplinas categoriales’ (lxi), es decir, el reemplazo de
+maneras enraizadas pero irreflexivas de usar los conceptos, por otras que sean
 reflexivas y responsables.
 
 #questionx(answer: [Ambas posturas pueden defenderse (así como la teoría de que
 los errores de categoría no son ni absurdos ni necesariamente falsos, véase
-Magidor (2013) para más detalles). Cabe hacer la siguiente observación lógica
+@Magidor2013 para más detalles). Cabe hacer la siguiente observación lógica
 para apreciar el efecto de tomar una u otra posición. Si un error de categoría
 es absurdo, también lo es su negación. Pero si un error de categoría es falso,
 su negación es verdadera. Supón que la doctrina oficial que Ryle ataca es, como
