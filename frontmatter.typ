@@ -6,6 +6,10 @@ Santiago, Chile
 
 #v(1em)
 
+Versión: 1.0 (#datetime.today().display("[day]-[month]-[year]"))
+
+#v(1em)
+
 Producido usando #link("https://typst.app")[typst].
 
 ]
