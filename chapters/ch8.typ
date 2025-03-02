@@ -803,7 +803,31 @@ más sofisticadas de actividades sociales:
 ]
 
 Los sistemas de prácticas de los que habla Chang pueden analogarse a lo que
-@Kuhn2012 llama 'paradigmas'.
+@Kuhn2012 llama 'paradigmas', al menos en uno de los muchos sentidos en que
+podría tomarse la palabra.#footnote[@Masterman1970 distingue 22 sentidos
+distintos del término en _La Estructura de las Revoluciones Científicas_ de
+Kuhn. Adicionalmente, el concepto fue revisado por Kuhn en su obra posterior.]
+Los paradigmas son aquello que comparte una comunidad científica, que le da
+forma a las actividades regulares que esa comunidad realiza y que explica la
+relativa unanimidad de formas de comunicación y juicios. Kuhn enfatiza que esto
+no es una teoría compartida por los miembros de una comunidad científica, sino
+lo que llama una 'matriz disciplinar', que incluye generalizaciones, modelos
+aceptados y heurísticos, valores y lo que llama 'ejemplares', que son soluciones
+a problemas concretos a los que los miembros de la comunidad son expuestos
+durante su entrenamiento como miembros de la comunidad (cosas como los problemas
+del plano inclinado, el cálculo de trajectorias Keplerianas, el funcionamiento
+de un calorímetro, etc.). Estos ejemplares tienen la función de proveer, en un
+contexto de aprendizaje, de cierto saber-cómo a los aprendices, pues les dan la
+oportunidad de aplicar las reglas, conceptos, instrumentos, etc. que son
+característicos de la actividad de la comunidad. Esto es crucial para entender
+las diferencias entre lo que Kuhn llama ciencia normal (la actividad de una
+comunidad que ha aceptado un paradigma) y ciencia pre-paradigmática (la
+situación que existe en una disciplina antes de que se haya establecido un
+paradigma como dominante). En la ciencia pre-paradigmática, la mayoría de los
+debates consiste en la propuesta de nuevas maneras de hacer ciencia, mientras
+que en la ciencia paradigmática, la mayoría de la actividad científica consiste
+en la resolución de cierta clase de puzzle que tiene sentido dadas las
+herramientas que proveen los paradigmas.
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
