@@ -645,6 +645,53 @@ La ciencia nos ofrece un caso de estudio importante para aplicar las ideas que
 hemos ido desarrollando en este capítulo. Hay muchas maneras de hacer esto, así
 que me limitaré a hacer algunas observaciones generales.
 
+La dimensión social de la ciencia no puede ser pasada por alto. En
+particular, la ciencia contemporánea es altamente interactiva (para emplear un
+término que cubra casos de colaboración y competencia), y a menudo
+requiere de la participación de grandes grupos de personas (en efecto, la
+estructura de la ciencia contemporánea a menudo requiere la interacción de distintos
+grupos que trabajan paralelamente). Cuando pensamos en la ciencia, no debemos
+hacerlo en términos de un depósito (o incluso de una serie de depósitos) de
+conocimiento, sino en términos de distintos prácticas, procedimientos, e
+instituciones.
+
+El filósofo John Haugeland enfatiza el rol del saber cómo para la práctica de la
+ciencia. En general, propone, podríamos pensar a la ciencia como una serie de
+mecanismos para descubrir cosas acerca del mundo. En un sentido directo, esto
+procede usualmente mediante la observación, la toma de medidas y la
+experimentación. Sin embargo, las maneras en que la ciencia descubre cosas
+acerca del mundo no se limita a esto:
+
+#quote(block: true)[ Los científicos deben además, por ejemplo, aprender o
+descubrir _cómo_ realizar observaciones, tomar medidas y experimentos que
+entreguen evidencia sobre los hechos. Si es así, a riesgo de caer en un círculo
+vicioso, aprender cómo no puede consistir él mismo en que recolectemos más
+evidencia.#footnote[Nótese cómo Haugeland emplea el mismo tipo de argumento que
+@Ryle1947.] [...] 
+
+El resultado de aprender o descubrir cómo hacer algo--por ejemplo, cómo
+recolectar evidencia--es (o al menos incluye) lo que Ryle llamó saber-cómo, en
+oposición al saber-que. Ambos son similares, por supuesto, en que son especies
+de conocimiento--es decir, maneras de estar relacionados con el mundo, y de ser
+vulnerables al error. [...] 
+
+El saber cómo de la ciencia empírica es un logro histórico-cultural: es el
+producto de un gran esfuerzo llevado a cabo durante muchos años por muchos
+individuos. Esta historia implica no tan solo que es difícil que se desarrolle
+el saber-cómo, sino también que no todo vale. Los procedimientos de laboratorio
+confiables tienen muchas restricciones, y lo que debe ser aprendido o
+descubierto por la comunidad relevante al aprender o descubrir cómo diseñarlas o
+realizaras es precisamente cómo deben restringirse. Se puede hacer el mismo
+punto de manera comparativa, en términos de aprender o descubrir qué funcionará
+mejor, en vez de quizás no tan bien. Lo que funcione en la práctica
+efectivamente, o que funcione mejore que otra cosa, lo hace en función del
+mundo. Por lo tanto, al aprender qué funcionará o no, o lo que funcionará
+mejor--es decir, al adquirir el saber-cómo relevante--los científicos aprenden
+algo sobre el mundo. #h(1fr) (pp. 296--297)
+]
+
+Hay varias cosas que destacar aquí. Lo primero es 
+
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
 
@@ -671,4 +718,8 @@ Aidan McGlynn.
 
 El libro _Theory and Reality_ (#cite(<GodfreySmith2008>)), de Peter Godfry
 Smith, es una excelente introducción a la filosofía de la ciencia. El capítulo
-11 trata de la estructura social de la ciencia.
+11 trata de la estructura social de la ciencia. Dos libros interesantes
+recientes que tratan sobre ciertos aspectos sociales del conocimiento científico
+son _The Social Dimensions of Scientific Knowledge_ (#cite(<Miller2024>, form:
+"year")), de Boaz Miller, y _Modelling Scientific Comunities_
+(#cite(<OConnor2023>, form: "year")), de Cailin O'Connor.
