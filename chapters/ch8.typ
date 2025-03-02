@@ -662,12 +662,11 @@ procede usualmente mediante la observación, la toma de medidas y la
 experimentación. Sin embargo, las maneras en que la ciencia descubre cosas
 acerca del mundo no se limita a esto:
 
-#quote(block: true)[ Los científicos deben además, por ejemplo, aprender o
+#quote(block: true)[Los científicos deben además, por ejemplo, aprender o
 descubrir _cómo_ realizar observaciones, tomar medidas y experimentos que
 entreguen evidencia sobre los hechos. Si es así, a riesgo de caer en un círculo
-vicioso, aprender cómo no puede consistir él mismo en que recolectemos más
-evidencia.#footnote[Nótese cómo Haugeland emplea el mismo tipo de argumento que
-@Ryle1947.] [...] 
+vicioso, aprender cómo [hacer estas cosas] no puede consistir en que
+recolectemos más evidencia. [...] 
 
 El resultado de aprender o descubrir cómo hacer algo--por ejemplo, cómo
 recolectar evidencia--es (o al menos incluye) lo que Ryle llamó saber-cómo, en
@@ -680,8 +679,8 @@ producto de un gran esfuerzo llevado a cabo durante muchos años por muchos
 individuos. Esta historia implica no tan solo que es difícil que se desarrolle
 el saber-cómo, sino también que no todo vale. Los procedimientos de laboratorio
 confiables tienen muchas restricciones, y lo que debe ser aprendido o
-descubierto por la comunidad relevante al aprender o descubrir cómo diseñarlas o
-realizaras es precisamente cómo deben restringirse. Se puede hacer el mismo
+descubierto por la comunidad relevante, al aprender o descubrir cómo diseñarlas o
+realizaras, es precisamente cómo deben restringirse. Se puede hacer el mismo
 punto de manera comparativa, en términos de aprender o descubrir qué funcionará
 mejor, en vez de quizás no tan bien. Lo que funcione en la práctica
 efectivamente, o que funcione mejore que otra cosa, lo hace en función del
@@ -690,7 +689,34 @@ mejor--es decir, al adquirir el saber-cómo relevante--los científicos aprenden
 algo sobre el mundo. #h(1fr) (pp. 296--297)
 ]
 
-Hay varias cosas que destacar aquí. Lo primero es 
+#questionx[Haugeland distingue entre aprender cómo hacer algo y la recolección
+de evidencia usando un argumento similar a los de Ryle: a fin de evitar un
+círculo vicioso, tenemos que tratar al primero como algo distinto a lo segundo.
+Como ya vimos, hay ciertos reparos con los argumentos de Ryle. ¿Afectan al
+argumento de Haugeland también?]
+
+Hay varias cosas que destacar aquí. Lo primero es que si bien Haugeland
+distingue entre el saber-cómo y el conocimiento proposicional, busca mostrar que
+ambos son formas de tener una relación de cierto tipo con el mundo, responsiva a
+este.#footnote[Para Haugeland, el saber-cómo no es una forma de conocer ciertos
+hechos, sino un tipo _sui generis_ de conocimiento. El saber-cómo científico no
+se transmite mediante acciones meramente verbales, e incluso en ese caso, hay
+que decir que lo que está al fondo de la conducta verbal es una forma de
+saber-cómo. Esto es muy similar a ciertas observaciones de @Ryle1949 acerca de
+la necesidad del saber-cómo para la posesión del conocimiento proposicional.]
+Esta relación es lo que explica el éxito del saber-cómo científico. Segundo, los
+mecanismos que funcionan y que la comunidad científica sabe emplear son ellos
+mismos producto de la interacción histórica de la comunidad científica; no se
+puede explicar su éxito sin hacer referencia a la manera en que la comunidad
+llegó a ellos. Tercero, la formulación de Haugeland sugiere que es la comunidad
+científica la que es atribuible con este saber-cómo, y no solamente sus
+miembros.#footnote[@Bird2022 desarrolla ideas similares respecto a la
+importancia de la dimensión social del conocimiento científico, incluidas
+ciertas formas de saber-cómo científico (lo que ilustra con el ejemplo del
+Proyecto Manhattan que vimos antes).]
+
+Nancy Cartwright (#cite(<Cartwright2019>, form: "year")) también vincula el
+éxito de las prácticas científicas con el saber-cómo. 
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
