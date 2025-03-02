@@ -649,7 +649,10 @@ la práctica pedagógica intercultural.
 == Lecturas recomendadas
 
 Para una visión más comprensiva de la etnoepistemología, véáse el artículo de
-James Maffie en la _Internet Encyclopedia of Philosophy_ (https://iep.utm.edu/ethno-ep/).
+James Maffie en la _Internet Encyclopedia of Philosophy_
+(https://iep.utm.edu/ethno-ep/). James C. Scott ofrece un poderoso argumento a
+favor de la importancia del conocimiento tradicional en _Seeing Like a State_
+(#cite(<Scott2020>, form: "year")), argumentando que mucho de este conocimiento es una forma de saber-cómo.
 
 Hay muchos trabajos etnoepistemologicos de gran interés para el estudio del
 saber-cómo. Sin salir del contexto americano, vale la pena examinar la filosofía
