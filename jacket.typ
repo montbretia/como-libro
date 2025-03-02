@@ -18,11 +18,7 @@
 
       #align(center+bottom)[
 
-        #block(fill: red, inset: 5pt)[
-          #text(fill: white)[BORRADOR]
 
-          #datetime.today().display()
-        ]
         #v(2em)
 
         #text(size: 13pt)[Felipe Morales Carbonell]
