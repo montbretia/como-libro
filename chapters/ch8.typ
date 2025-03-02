@@ -804,7 +804,7 @@ más sofisticadas de actividades sociales:
 
 Los sistemas de prácticas de los que habla Chang pueden analogarse a lo que
 @Kuhn2012 llama 'paradigmas', al menos en uno de los muchos sentidos en que
-podría tomarse la palabra.#footnote[@Masterman1970 distingue 22 sentidos
+podría tomarse la palabra.#footnote[@Masterman1970 distingue 21 sentidos
 distintos del término en _La Estructura de las Revoluciones Científicas_ de
 Kuhn. Adicionalmente, el concepto fue revisado por Kuhn en su obra posterior.]
 Los paradigmas son aquello que comparte una comunidad científica, que le da
@@ -827,7 +827,18 @@ paradigma como dominante). En la ciencia pre-paradigmática, la mayoría de los
 debates consiste en la propuesta de nuevas maneras de hacer ciencia, mientras
 que en la ciencia paradigmática, la mayoría de la actividad científica consiste
 en la resolución de cierta clase de puzzle que tiene sentido dadas las
-herramientas que proveen los paradigmas.
+herramientas que proveen los paradigmas. Los paradigmas son los medios de
+transmisión del saber-cómo científico, porque proveen de la oportunidad de
+adquirir la habilidad de reconocer un problema como similar a otro, de manera
+que quien adquiere esta habilidad se ve capacitado para resolver el problema:
+
+#quote(block: true)[[...] Al ver las similitudes, uno simplemente usa los vínculos que ya
+han resultado ser efectivos. La habilidad para reconocer similitudes validadas
+por el grupo (_group-licensed_) es, creo, la cosa principal que adquieren los
+estudiantes al resolver problemas, ya sea con lápiz y papel o en un laboratorio.
+Durante su entrenamiento se les presenta un vasto número de estos ejercicios, y
+los estudiantes que entran a una misma especialidad a menudo resuelven
+prácticamente los mismos [...] #h(1fr) (@Kuhn1977a[p. 306])]
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
