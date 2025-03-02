@@ -679,8 +679,8 @@ Chuang Tzu encontramos,#footnote[Traduzco de la versión inglesa de Martin Palme
   Nos hagas planes.\
   No trates de hacer nada.\
   No intentes ser un maestro del conocimiento.\
-  Toma de lo que existe, pero no lo tomes como signo de otra cosa.\
-  Trabaja lo que viene del Cielo, pero no busques apresarlo.\
+  Toma de lo que existe, pero no lo tomes como signo de nada.\
+  Obra con lo que viene del Cielo, pero no busques apresarlo.\
   Se vacío.
 
   El corazón (_xin_) del hombre perfecto es como un espejo.\
