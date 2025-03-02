@@ -21,11 +21,11 @@ full: true,
 #pagebreak(to: "even")
 
 #place(center+horizon)[
-  _Santiago_
-
-  _Chile_
-
   #v(2em)
 
-  2025
+  Santiago, Chile
+
+  #v(1em)
+
+  #datetime.today().display("[day]-[month]-[year]")
 ]
