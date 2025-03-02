@@ -653,7 +653,8 @@ estructura de la ciencia contemporánea a menudo requiere la interacción de dis
 grupos que trabajan paralelamente). Cuando pensamos en la ciencia, no debemos
 hacerlo en términos de un depósito (o incluso de una serie de depósitos) de
 conocimiento, sino en términos de distintos prácticas, procedimientos, e
-instituciones.
+instituciones. @Strevens2020 sugiere que la unidad de la ciencia es una unidad
+de métodos, no de opiniones.
 
 El filósofo John Haugeland enfatiza el rol del saber cómo para la práctica de la
 ciencia. En general, propone, podríamos pensar a la ciencia como una serie de
@@ -713,10 +714,96 @@ científica la que es atribuible con este saber-cómo, y no solamente sus
 miembros.#footnote[@Bird2022 desarrolla ideas similares respecto a la
 importancia de la dimensión social del conocimiento científico, incluidas
 ciertas formas de saber-cómo científico (lo que ilustra con el ejemplo del
-Proyecto Manhattan que vimos antes).]
+Proyecto Manhattan que vimos antes).] A diferencia de Strevens, Haugeland no
+sugiere que el saber-cómo (o el método) de la ciencia es unitario; en este
+modelo, lo que le da unidad es la función que tienen sus métodos. 
 
 Nancy Cartwright (#cite(<Cartwright2019>, form: "year")) también vincula el
-éxito de las prácticas científicas con el saber-cómo. 
+éxito de las prácticas científicas con el saber-cómo. Como Haugeland,
+Cartwright argumenta que el saber-cómo responde a la naturaleza, pero añade que
+no solo aprende de ella, sino que la _imita_. El saber-cómo científico, según
+Cartwright, representa al mundo porque el mundo mismo está estructurado como un
+sistema complejo y dinámico de poderes y disposiciones. Cartwright rechaza la
+idea de que el mundo esté organizado de acuerdo a un número de principios
+fundamentales. La naturaleza ni sigue reglas, ni es una criatura del hábito
+(aplicando las mismas soluciones que ha empleado antes), ni es caprichosa. La
+ciencia es similar:
+
+#quote(block: true)[
+    Nuestras ciencias modernas no se aplican al mundo 'según el libro'. No
+    predecimos o manejamos el mundo trazando las consecuencias de leyes
+    científicas, sino mediante modelos de situaciones específicas; y no hay
+    reglas fijas sobre cómo construir esos modelos ni para cómo evaluar su
+    confiabilidad. Nuestro entendimiento científico del mundo no es conocimiento
+    proposicional, sino saber-cómo. #h(1fr) (p. 5)
+]
+
+En el modelo de Cartwright no hay necesidad de que el saber-cómo científico deba
+ser individual. En efecto, cada vez que se refiere a él, se refiere a 'nuestro'
+saber-cómo, el de la entidad plural de la comunidad científica: 
+
+#quote(block: true)[
+    Nuestras prácticas son exitosas porque hacemos la cosas del mismo modo que
+    la Naturaleza; usamos los recursos de la Naturaleza para recuperar lo que le
+    sucede a la Naturaleza. #h(1fr) (p. 23)
+]
+
+Otro autor que sigue una línea similar respecto a la importancia del saber cómo
+para la ciencia, y que enfatiza la importancia de la dimensión social de este
+vínculo, es Hasok Chang (#cite(<Chang2008>, form: "year"), #cite(<Chang2014>,
+form: "year"), #cite(<Chang2022>, form: "year")). Según Chang, para
+comprender el funcionamiento de la ciencia es importante enfocarse en lo que él
+llama conocimiento-como-habilidad, que consiste en el conocimiento que implica
+ciertas habilidades de parte de quien tiene ese conocimiento. El caso que le
+interesa a Chang es el de ciertas habilidades que incluyen cierta comprensión
+(_understanding_) acerca de cómo puede alinear sus acciones a ciertos fines (a
+esto le llama 'coherencia operacional'). En el caso científico, el saber-cómo
+relevante consiste en entender que ciertas maneras de actuar pueden llevar a
+ciertos fines o, más en general, que ciertos sistemas de prácticas son
+coherentes con tales fines.
+
+En el modelo de Chang, el saber-cómo colectivo que es relevante para la
+actividad científica emerge de las interacciones entre individuos. En efecto,
+para Chang los individuos mismos son posteriores a lo colectivo, porque se
+definen contra este como trasfondo. El siguiente paso de socialización es la
+interacción en segunda persona con pares:
+
+#quote(block: true)[
+    Muchas actividades epistémicas clave [...] son inherentemente en segunda
+    persona. Describir o explicar inherentemente carece de sentido a menos que
+    haya al menos un 'tú' imaginado a quien se dirijan. En la filosofía de la
+    ciencia a menudo hablamos de preguntas y respuestas sin pensar sobre la
+    interacción en segunda persona de preguntar-y-responder. Aún más
+    problemáticos son el divorcio de los 'argumentos' del _argumentar_, que es
+    algo en lo que tu y yo nos encontramos, y el alejamiento de la
+    'justificación' de mi persuasión hacia ti. #h(1fr) (p. 32)
+]
+
+En efecto este resulta ser el motor de las interacciones que dan pie a formas
+más sofisticadas de actividades sociales:
+
+#quote(block: true)[
+    Un grupo social desarrolla una maraña de interacciones en segunda persona
+    [...] En esta maraña de interacciones, la gente establece costumbres,
+    rutinas e instituciones. Ahora tenemos un alto nivel sociabilidad, compuesto
+    de individuos que se conectan conscientemente unos con otros para vivir
+    mejor juntos. La sociedad que se forma de esta manera le da forma a su vez a
+    los individuos, en un proceso similar al previo en que los individuos se
+    formaron mediante cierta socialización inarticulada. Cuando los patrones de
+    interacciones sociales se fijan, las normas sociales, rutinas y expectativas
+    se internalizan de tal manera que no requieren de refuerzo adicional. Si es
+    así, el individuo se sumerge nuevamente en la sociedad--como un maestro
+    complaciente y cómodo de reglas tácitas, o como un tímido conformista, o como un
+    inadaptado que no logra entenderse. Lo que alguna vez fue negociado
+    conscientemente se _sedimenta_ [...] es decir, se lo añade al almacén de
+    cultura inarticulada compartida. Un proceso como ese ocurre en la ciencia
+    también: consideren a quienes usan termómetros, relojes o medidores de pH
+    que no tienen idea de cómo se establecen o mantienen los estándares.
+
+]
+
+Los sistemas de prácticas de los que habla Chang pueden analogarse a lo que
+@Kuhn2012 llama 'paradigmas'.
 
 #set heading(numbering: none, outlined: false)
 == Lecturas recomendadas
