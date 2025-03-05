@@ -36,7 +36,7 @@ capítulo fueron esgrimidos por primera vez por el filósofo inglés
 Gilbert Ryle (1900–1976) en un ensayo llamado ‘Knowing How and Knowing
 That’ (KH, #cite(<Ryle1947>, form: "year")) y en su libro #emph[The Concept of
 Mind] (CM, #cite(<Ryle1949>, form: "year")).
-En efecto, en esto trabajos Ryle impuso el marco conceptual dentro del
+En efecto, en estos trabajos Ryle impuso el marco conceptual dentro del
 cual se han llevado a cabo todas las discusiones posteriores acerca del
 saber cómo. Fue él quien planteó el problema como un dilema entre una
 postura intelectualista y otra
@@ -80,8 +80,7 @@ la mente y el cuerpo (si la mente y el cuerpo obedecen distintos tipos
 de leyes, ¿cómo es que parecen tener influencia entre sí, y cómo
 interactúan?), y el problema de las otras mentes (si las mentes son
 privadas, ¿cómo podemos saber algo acerca de la mente de otras
-personas?). Aquí nos preocuparemos sólo del primer problema. Saber cómo
-cocinar, o trabajar con vidrio, o ajustar ciertas
+personas?). Aquí nos preocuparemos solo del primer problema. 
 
 La formulación de estos problemas recuerda las preocupaciones
 filosóficas, tanto metafísicas como epistemológicas, de Descartes, y en
@@ -102,7 +101,7 @@ espacio. Puedo concebir cuerpos sin mentes, y también mentes sin cuerpos
 (veo clara y distintamente, dice Descartes, que a la naturaleza de la
 mente corresponde solo el pensar, y no el ocupar un espacio, y que a la
 naturaleza de los cuerpos corresponde solo el ocupar un espacio, y no el
-pensar). Sin embargo la mente y el cuerpo están conectados en la persona
+pensar). Sin embargo, la mente y el cuerpo están conectados en la persona
 humana, en ambas direcciones: mi cuerpo parece responder a mi voluntad,
 pero también mis sentimientos parecen responder al estado de mi cuerpo;
 ‘no estoy solamente alojado en mi cuerpo como un piloto en su navío,
@@ -124,7 +123,7 @@ deberían describise y explicarse en términos de la ocurrencia de
 mentales, y la interacción entre estos. Por ejemplo, cuando resolvemos
 un puzzle, podríamos describir lo que hacemos en términos de nuestro
 movimiento de las piezas, de nuestros pensamientos acerca de cómo
-podríamos moverlas, y del modo en guiamos nuestros movimientos en base a
+podríamos moverlas, y del modo en que guiamos nuestros movimientos en base a
 lo que pensamos. En cierto sentido, movemos las piezas de tal o cual
 forma #emph[porque] pensamos que hacer esos movimientos es la manera
 apropiada de actuar. Es precisamente en estos términos que Ryle, en su
@@ -238,7 +237,7 @@ asociados con la manera en que evaluamos el hacer y el pensar:
 ‘inteligente’, ‘astuto’, ‘metódico’, ‘estúpido’, etc. Desde la
 perspectiva de la doctrina oficial, es plausible que digamos lo
 siguiente: actuar y pensar inteligentemente, de manera astuta,
-estúpidamente, etc, dependen de que antes de actuar, pensemos que esas
+estúpidamente, etc., dependen de que antes de actuar, pensemos que esas
 cosas se tienen que hacer de algún modo. Si estos pensamientos son
 adecuados y nos guiamos por ellos, decimos que hemos actuado
 inteligentemente, sagazmente, etc. Si nuestros pensamientos son
@@ -253,7 +252,7 @@ La doctrina dominante \[…\] mantiene: (1) que la Inteligencia es una
 facultad especial, cuyos ejercicio consiste en aquellos actos internos
 específicos que son llamados actos del pensar, a saber, las operaciones
 de considerar proposiciones, y (2) que la actividad práctica merecen el
-título de ‘inteligente’, ‘ingenioso’, etc, sólo porque va acompañada de
+título de ‘inteligente’, ‘ingenioso’, etc., solo porque va acompañada de
 tales actos internos de considerar proposiciones (proposiciones
 ‘regulativas’, en particular). Es decir, hacer algo nunca es en sí mismo
 un ejercicio de la inteligencia, sino a lo más un proceso iniciado y de
@@ -267,7 +266,7 @@ términos de conceptos cognitivos. \[…\] \[Ciertos teóricos (Ryle
 probablemente está pensando en Platón y Aristóteles, nota F.M.C.)\]
 dejaron como herencia la idea de que la capacidad de obtener
 conocimiento de la verdad era la propiedad definitoria de la mente. Los
-otros poderes humanos sólo podían ser clasificados como mentales si
+otros poderes humanos solo podían ser clasificados como mentales si
 pudiera mostrarse que de algún modo están piloteados por la aprehensión
 intelectual de proposiciones verdaderas. Ser racional era ser capaz de
 reconocer verdades y las conexiones que hay entre ellas. Por lo tanto,
@@ -291,9 +290,9 @@ es un tipo de ejercicio del intelecto, y por lo tanto consiste en la
 aprehensión de ciertas proposiciones (presumiblemente, proposiciones
 verdaderas acerca de cómo se hace algo):
 
-/ Intelectualismo~sobre~el~saber-cómo: Para todo sujeto s y acción a, s sabe
-  cómo hacer a si y solo si aprehende ciertas proposiciones verdaderas acerca de
-  cómo hacer a
+/ Intelectualismo~sobre~el~saber-cómo: Para todo sujeto $s$ y acción $a$, $s$ sabe
+  cómo hacer $a$ si y solo si aprehende ciertas proposiciones verdaderas acerca de
+  cómo hacer $a$
 
 Este análisis queda coordinado con la idea intelectualista acerca del
 hacer: actuar inteligentemente depende de saber cómo actuar.
@@ -327,7 +326,7 @@ la siguiente manera:
 ¿Qué hechos o tipos de hechos son conocidos por el sensato que no son
 conocidos por el insensato? Por ejemplo, ¿qué verdades conoce el
 ajedrecista astuto que serían una revelación para su oponente estúpido?
-Obviamente no hay verdad o conjunto de verdades de las cuales podríamos
+Obviamente, no hay verdad o conjunto de verdades de las cuales podríamos
 decir ‘si tan solo el jugador estúpido hubiese sido informado de esto,
 habría sido un jugador astuto’, o ‘en cuanto sepa esas verdades, jugará
 bien’. Podemos imaginar a un jugador astuto impartiendo generosamente a
@@ -353,7 +352,7 @@ intelectualismo. En este caso, se plantea una posibilidad: que es
 posible tener mucho conocimiento acerca de como hacer algo y aun así no
 saber cómo hacerlo. ¿Qué muestra esto acerca del intelectualismo? Lo
 siguiente: si el intelectualismo fuera verdadero, eso no debería ser
-posible. Pero lo es. Por lo tanto el intelectualismo no puede ser
+posible. Pero lo es. Por lo tanto, el intelectualismo no puede ser
 verdadero. Una vez que enmarcamos la observación de Ryle acerca de la
 posibilidad de la insuficiencia, tenemos un argumento contra el
 intelectualismo #emph[por medio] #emph[de] la tesis de suficiencia.
@@ -396,7 +395,7 @@ general que parece ser apropiado para el intelectualismo, que es que si
 dos individuos tienen el mismo conocimiento proposicional, ejemplifican
 las mismas características intelectuales (si uno es astuto, el otro es
 astuto, si una es inteligente, la otra es inteligente, si uno sabe
-cómo…, la otra también, etc). Es decir:
+cómo…, la otra también, etc.). Es decir:
 
 #[#set enum(numbering: "1)")
 + Si el intelectualismo es verdadero, entonces necesariamente para
@@ -580,13 +579,13 @@ las premisas. Su profesor piensa que él es bastante tonto, pero trata de
 ayudarlo. Así que le dice que hay una proposición adicional que no ha
 considerado, a saber, que #emph[si estas premisas son verdaderas, la
 conclusión es verdadera. ];El pupilo entiende, y cuidadosamente recita
-esto junto con las otras premisas, pero aún así no logra ver cómo se
+esto junto con las otras premisas, pero aun así no logra ver cómo se
 sigue la conclusión de esas premisas incluso cuando se las acompaña por
 la afirmación de que esas premisas implican esa conclusión. De modo que
 se añade una segunda proposición hipotética a su repertorio; a saber,
 que #emph[la conclusión es verdadera si las premisas y la primera
 proposición hipotética, de que si las premisas son verdaderas entonces
-la conclusión es verdadera, son verdaderas];. Aún así el pupilo no logra
+la conclusión es verdadera, son verdaderas];. Aun así el pupilo no logra
 ver el punto. Y así siguen, sin fin. El pupilo acepta reglas en la
 teoría, pero esto no lo fuerza a aplicarlas en la práctica. #h(1fr) (226-227)
 ]
@@ -595,7 +594,7 @@ Si Ryle creyera que es suficiente mostrar que es posible que alguien
 sepa lo mismo que otra persona y sin embargo tener distintos perfiles
 intelectuales, quizás bastaría ver la diferencia entre el perfil
 intelectual del pupilo y su profesor al principio del argumento. El
-pupilo no saber cómo conectar las premisas y la conclusión, aunque sabe
+pupilo no sabe cómo conectar las premisas y la conclusión, aunque sabe
 tanto las premisas como la conclusión. ¿Qué falta? Bueno, quizás falta
 que el pupilo sepa que existe esa conexión entre las premisas y la
 conclusión; esto es algo que parece que el profesor sabe, y el pupilo
@@ -646,7 +645,7 @@ permite decir que si bien conocer en cierto sentido (lo que podemos
 llamar #emph[conocimiento] #emph[débil];, y que podemos asimilar a la
 idea de aceptar una proposición justificadamente) es insuficiente para
 saber cómo, conocer en otro sentido (lo que podemos llamar
-#emph[conocimiento] #emph[fuerte];) sí podría serlo. Sólo si hay una
+#emph[conocimiento] #emph[fuerte];) sí podría serlo. Solo si hay una
 única manera de entender el concepto de conocimiento hay un problema.
 Pero eso no parece plausible. Supongamos que un compañero más listo le
 pregunta al pupilo del argumento de Ryle si la conclusión del argumento
@@ -708,7 +707,7 @@ algo se puede hacer no significa que no se tenga conocimiento acerca de
 cómo se puede hacer. Esto hace posible que desde el intelectualismo se
 objete estos supuestos contraejemplos como irrelevantes acerca de la
 viabilidad del intelectualismo en general (por ejemplo, un
-intelectualista podría decir que ellos sólo serían efectivos contra
+intelectualista podría decir que ellos solo serían efectivos contra
 ciertas formas implausibles o irrelevantes de intelectualismo). Desde la
 perspectiva de Ryle, sin embargo, la viabilidad de formas más
 sofisticadas de intelectualismo era incierta, y criticarlo desde ese
@@ -760,7 +759,7 @@ sugiere aquí es que la condición de considerar proposiciones no puede
 ser necesaria para el saber cómo, porque es imposible satisfacer lo que
 esto implica. En cierto sentido, esto es lo inverso del argumento de
 regreso infinito contra la suficiencia: mientras que en ese caso el
-argumento muestra que una condición siempre se va satisfacer (la
+argumento muestra que una condición siempre se va a satisfacer (la
 posesión de cierto conocimiento proposicional siempre será insuficiente
 para el saber cómo), en este caso el argumento va a mostrar que una
 condición es imposible (nunca puede completarse la serie de las
@@ -779,17 +778,17 @@ tesis de necesidad de manera más explícita de la siguiente manera:
   previa consideración inteligente de proposiciones relevantes. (Esta es
   la tesis de necesidad aplicada al saber cómo)
 + Si el intelectualismo es verdadero, la consideración de proposiciones
-  sólo puede hacerse inteligentemente si previamente se consideran
+  solo puede hacerse inteligentemente si previamente se consideran
   proposiciones relevantes. (Esta es la tesis de necesidad aplicada a la
   consideración de proposiciones)
 + Supongamos que el intelectualismo es verdadero. Entonces:
   #set enum(numbering: "a)", start: 1)
   + El saber cómo requiere de la consideración previa de proposiciones
     relevantes. (3, 5, MP)
-  + La consideración de las proposiciones requeridas en (5a) sólo puede
+  + La consideración de las proposiciones requeridas en (5a) solo puede
     hacerse inteligentemente si previamente se consideran proposiciones
     relevantes, (5a, 4)
-  + La consideración de las proposiciones requeridas en (5b) sólo puede
+  + La consideración de las proposiciones requeridas en (5b) solo puede
     hacerse inteligentemente si previamente se consideran proposiciones
     relevantes, (5b, 4)
   + La consideración de las proposiciones requeridas a cada nivel
@@ -934,7 +933,7 @@ pensar. Un loro puede decir ‘Sócrates es mortal’ inmediatamente después
 de que alguien haya enunciado las premisas de las que se sigue esto como
 conclusión. Un niño puede, mientras piensa en el cricket, dar
 mecánicamente la respuesta correcta a un problema de multiplicación que
-otro niño le presenta y que sí está pensando lo que hace. Aún así, no
+otro niño le presenta y que sí está pensando lo que hace. Aun así, no
 decimos que el loro es ‘lógico’, ni describimos al niño como si
 resolviera el problema’.
 ] Ryle acepta la posibilidad de que ciertos estados mentales (como la
@@ -976,7 +975,7 @@ modelo pueda distinguirse del modelo intelectualista, porque es
 plausible que la posesión de conocimiento proposicional de pie a varios
 tipos de habilidades. Por ejemplo, tener el conocimiento proposicional
 de que llueve permite que uno pueda afirmar que llueva. Y uno puede
-tener habilidades relacionadas al conocimiento proposicional que uno
+tener habilidades relacionadas con el conocimiento proposicional que uno
 tiene acerca de cómo se hace algo: por ejemplo, alguien que sabe el
 contenido de una receta puede (es decir, tiene la habilidad de) recitar
 sus pasos, y alguien que sabe que para desarmar la mesa es necesaria una
@@ -1058,7 +1057,7 @@ excusas, el consejo que pueda haber dado a sus pares, y un montón de
 otras pistas de varios tipos. No hay un signo único de que una persona
 sepa cómo disparar, pero generalmente un modesto conjunto de actos
 heterogéneos es suficiente para establecer si sabe cómo disparar o no
-más allá de la duda razonable. Sólo entonces, quizás, pueda decidirse si
+más allá de la duda razonable. Solo entonces, quizás, pueda decidirse si
 acertó medio a medio del blanco por haber tenido suerte, o porque era un
 tirador suficientemente bueno como para tener éxito cuando lo intentase.
 
@@ -1186,7 +1185,7 @@ que no sale de su casa y los experimenta por primera vez. La razón que
 propone Lewis es que ninguna cantidad de información es suficiente para
 adquirir esas habilidades. Precisamente por eso es que no podemos
 comunicar a otros cómo se siente tener esas habilidades. El lector
-atento notara que este argumento de Lewis comparte varias similaridades
+atento notará que este argumento de Lewis comparte varias similitudes
 con el argumento contra la tesis de la suficiencia de Ryle. Según la
 hipótesis de la habilidad de Lewis, entonces, saber como se siente una
 experiencia es tener una habilidad, no tener conocimiento de cierta
