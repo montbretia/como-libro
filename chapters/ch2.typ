@@ -223,14 +223,14 @@ vindicar nuestros juicios acerca de esos casos. Proveer de las condiciones en
 que esos juicios son verdaderos es proveer un análisis de estos conceptos.
 
 La justificación de esta metodología es lógica.#footnote[Para un repaso de
-lógica elemental, véase el Apéndice A.] Esquemáticamente, ‘si X, entonces Y’ se
+lógica elemental, véase el Apéndice A.] Esquemáticamente, ‘si $X$, entonces $Y$’ se
 formaliza como $X → Y$. 
 
-Si $X -> Y$ es verdadero, decimos que X es una condición _suficiente_ para Y
-(la intuición es que es suficiente que X se dé para que Y se dé), y Y es una
-condición _necesaria_ para X (la intuición es que dado que es suficiente que X
-se dé para que Y se dé, si Y no se diera, entonces X no se daría – por tanto, Y
-es necesario para X). 
+Si $X -> Y$ es verdadero, decimos que $X$ es una condición
+_suficiente_ para $Y$ (la intuición es que es suficiente que X se dé para que Y
+se dé), y $Y$ es una condición _necesaria_ para $X$ (la intuición es que dado
+que es suficiente que $X$ se dé para que $Y$ se dé, si $Y$ no se diera, entonces
+$X$ no se daría – por tanto, $Y$ es necesario para $X$). 
 
 Si además Y → X (es decir, si además Y es una condición suficiente para X y X
 es una condición necesaria para Y), se satisface el bicondicional X ↔ Y, que
@@ -323,10 +323,10 @@ alguien sabe algo si y solo si lo cree, lo que cree es verdadero, y tiene
 justificación para creerlo:
 
 #set enum(numbering: "1)")
-/ JTB: un sujeto S sabe que p si y solo si:
-  + p es verdadero,
-  + S cree que p,
-  + S está justificado en creer que p
+/ JTB: un sujeto $S$ sabe que $p$ si y solo si:
+  + $p$ es verdadero,
+  + $S$ cree que $p$,
+  + $S$ está justificado en creer que $p$
 
 En muchos casos, esto parece ser satisfactorio: miro por mi ventana y veo el
 atardecer rojo. Sé que lo que veo es rojo: creo que lo es, es verdadero que lo
@@ -346,7 +346,7 @@ imaginarios que nos fuerzan a considerar ciertas posibilidades. Imaginen el
 siguiente caso, que es uno de los ejemplos originales de Gettier:
 
 / Smith: Smith cree, basado en buen evidencia, que su
-  compañero de trabajo Jones recibirá una promoción, y que Jones tiene tiene diez
+  compañero de trabajo Jones recibirá una promoción, y que Jones tiene diez
   monedas en su bolsillo. Por tanto, razona (válidamente) que la persona que
   recibirá la promoción tiene diez monedas en su bolsillo. Ahora bien, resulta
   que no es Jones quien recibirá la promoción, sino Smith mismo. Y resulta que
@@ -382,7 +382,7 @@ al día siguiente, si sabiamos que íbamos a estar en el hospital, es probable q
 digamos que no, sino que meramente pensábamos o creíamos que ibamos a estar en 
 el hospital. 
 
-Si aceptamos los juicios de Gettier sobre casos como esos, tenemos que aceptar que
+Si aceptamos los juicios de Gettier sobre casos como esos, tenemos que aceptar 
 que alguien tenga una creencia verdadera justificada no es suficiente para que
 tenga conocimiento—o al menos, esa es la lección que la mayoría de los
 filósofos ha extraído del problema presentado por Gettier.
@@ -436,7 +436,7 @@ caen bajo el concepto ni que no caen bajo él). Por tanto, no es posible decidir
 en base al uso previo del concepto si sigue aplicando en usos nuevos, y en
 consecuencia, ningún análisis puede capturar todo lo que podríamos querer decir
 de un concepto. Un problema relacionado es el que presentan los conceptos _vagos_, 
-que no tienen límites precisos. ¿Cuando es _verdoso_ un tono? ¿Existe un límite
+que no tienen límites precisos. ¿Cuándo es _verdoso_ un tono? ¿Existe un límite
 preciso entre lo que es verdoso y lo que no es verdoso? En casos como estos no
 parece que podamos identificar un conjunto de condiciones necesarias y suficientes
 para que algo caiga bajo el concepto.
@@ -509,7 +509,7 @@ estime que el poder explicativo de las ideas preconcebidas puede ser débil, o
 que las consecuencias de estas están en conflicto con otros compromisos que
 creamos más importantes aún. Como ejemplo de lo primero: la idea de que la
 mente requiere de consciencia es algo que quizás podríamos llamar parte de una
-teoría ordinaria de la mente, y sin embargo, tomar a la consciencia como
+teoría ordinaria de la mente y, sin embargo, tomar a la consciencia como
 requisito de lo mental impide que se pueda explicar satisfactoriamente toda una
 clase de fenómenos. La hipótesis de que hay estados mentales inconscientes
 tiene un poder explicativo mayor que la hipótesis de que no los hay. Por lo
@@ -571,7 +571,7 @@ humanos tienen alas. Esta proposición es falsa en el mundo actual, porque los
 seres humanos de hecho no tienen alas. Sin embargo, quizás es posible que los
 seres humanos tengan alas, si es que hay una manera en que pudieran tenerlas
 (por así decirlo, si hay un mundo posible en que hay seres humanos con alas).
-$diamond.medium p$ es verdadero porque es posible que p sea verdadero en un
+$diamond.medium p$ es verdadero porque es posible que $p$ sea verdadero en un
 mundo que no es el actual. Conversamente, que algo sea necesario ($square$)
 también es una condición intensional. Algo puede ser verdadero en el mundo
 actual sin ser necesario. Yo tengo solo un tío, pero podría no haberlo tenido,
@@ -616,7 +616,7 @@ modelos o teorías sobre el conocimiento.
   Es obvio que esto no es una teoría completa sobre el conocimiento; la idea es simplemente
   examinar como esas asunciones interactuan entre sí.
 
-  Además necesitamos un par de principios lógicos usualmente aceptados:
+  Además, necesitamos un par de principios lógicos usualmente aceptados:
 
   #fitch(num: "I)")[
   + $"Si" tack.r p, "entonces" tack.r square p$
