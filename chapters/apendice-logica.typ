@@ -801,7 +801,10 @@ mi gusto es _Formal Logic: Its Scope and Limits_ (#cite(<Jeffrey2006>, form:
 "year")), de Richard Jeffrey (una diferencia con las otras, es que este libro
 usa el método de los árboles analíticos como sistema de prueba). En español, el
 libro _Lógica para Principiantes_ (#cite(<Manzano2004>, form: "year")) de María
-Manzano y Antonia Huertas es bueno.
+Manzano y Antonia Huertas es bueno. Recientemente, AChEFA ha liberado una
+traducción del libro de texto abierto _for all x_ (#cite(<Magnus2025>, form:
+"year")), está disponible en
+https://sites.google.com/view/achefa/entradas-y-material/traducciones
 
 El uso filosófico de la lógica no se limita a lenguajes de primer order como los
 que describimos aquí. Una clase de lógicas importante filosóficamente es la
