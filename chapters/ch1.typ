@@ -39,7 +39,7 @@ estas preguntas’—podríamos pensar que bastaría con que hiciéramos explíc
 que ya sabemos implícitamente.
 
 ¿Y si no tuviéramos de antemano la respuesta a estas preguntas, si simplemente
-no hubiera nada que pudiéramos explicitar? Fácilmente podría ser que no
+no hubiera nada que pudiéramos explicitar? Fácilmente, podría ser que no
 supiéramos qué son ‘saber qué hacer’ y ‘saber cómo actuar’, o por qué importan.
 ¿Cómo es que entendemos las preguntas? Quizás: estas preguntas simplemente
 apuntan a algo que podríamos querer saber, pero que ignoramos. ¿Cómo proceder
@@ -197,7 +197,7 @@ en sociedad? (capítulo 8).
 Finalmente, examinaremos dos temas de interés más específico. Primero, _¿qué
 clase de impedimentos puede tener nuestro saber cómo?_ ¿Podemos vernos coartados
 injustamente en nuestro saber cómo? Así como saber cómo hacer algo puede ser
-valioso, ¿puede haber vicios relacionados al saber cómo? (capítulo 9).
+valioso, ¿puede haber vicios relacionados con el saber cómo? (capítulo 9).
 Finalmente, _¿cómo podemos evaluar el rol del saber cómo en una tradición
 filosófica distinta?_ Las discusiones tradicionales acerca del saber cómo asumen
 que la naturaleza del saber cómo es indiferente a la cultura en la que lo
