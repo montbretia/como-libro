@@ -62,9 +62,9 @@ Lo primero que hacen @Stanley2001 y @Stanley2011 es criticar los argumentos de
 Ryle. En primer lugar, atacan la suposición que hace del argumento contra la
 necesidad, de que el intelectualista debería comprometerse con la idea de que
 todo ejercicio de una acción intencional debe verse precedido por la
-contemplación de alguna proposición acerca de cómo realizarla. Según Stanley
-(2001, 14), esta suposición hace un mono de paja del intelectualismo;
-simplemente es un dato fenomenoógico que podemos actuar inteligentemente sin
+contemplación de alguna proposición acerca de cómo realizarla. Según
+@Stanley2001[p. 14] esta suposición hace un mono de paja del intelectualismo;
+simplemente es un dato fenomenológico que podemos actuar inteligentemente sin
 tener que contemplar proposiciones. Según @Stanley2001, el problema fundamental
 con este aspecto del argumento de Ryle es que asume que el conocimiento
 proposicional #emph[solo] puede manifestarse mediante la contemplación de
@@ -174,12 +174,12 @@ dudosas que generan sinsentidos? Russell (1905) propone que no: lo que
 sucede es que la forma superficial de la expresión genera una confusión.
 Russell ofrece un análisis alternativo de la forma profunda de oraciones
 de este tipo (Russell las llama #emph[descripciones definidas];), que en
-el caso de (a) se leería:
+el caso de (c) se leería:
 
 #set enum(numbering: "(a)", start: 4)
-+ Hay un #emph[x] tal que (a) #emph[x] es la reina de la Araucanía, y
-  (b) para todo #emph[y];, si #emph[y] es la reina de la Araucanía,
-  #emph[y] es idéntico a #emph[x];, y (c) #emph[x] es gallarda.
++ Hay un #emph[x] tal que (i) #emph[x] es la reina de la Araucanía, y
+  (ii) para todo #emph[y];, si #emph[y] es la reina de la Araucanía,
+  #emph[y] es idéntico a #emph[x];, y (iii) #emph[x] es gallarda.
 
 La idea es que la oración dice que hay un alguien que es la única reina de la
 Araucanía, y que tal persona es gallarda. Como en efecto no hay tal persona, la
@@ -221,7 +221,7 @@ puede reemplazar a ‘…’ no es la descripción de una acción. Por ejemplo:
 
 En este caso la pregunta es ‘¿cómo funciona el aparato de Golgi?’. Es
 claro, creo, que en este caso lo que adscribimos a Helen no es saber
-cómo en el sentido que nosinteresa aquí, sino conocimiento acerca de
+cómo en el sentido que nos interesa aquí, sino conocimiento acerca de
 las maneras en las que puede suceder algo.
 
 Supongamos, entonces, que el saber cómo es una instancia de un fenómeno
@@ -573,11 +573,11 @@ condición de #emph[seguridad] para el conocimiento.
 
 #set enum(numbering: "1)", start: 1)
 +  El saber cómo es incompatible con la suerte epistémica, o
-+  El saber como es compatible con la suerte epistémica.
++  El saber cómo es compatible con la suerte epistémica.
 
 Si es incompatible, esto parece ser un punto a favor del intelectualismo
 tradicional, que mantiene la paridad de las propiedades del saber cómo y
-el conocimiento proposicional. Sin embargo, si es incompatible, esto es
+el conocimiento proposicional. Sin embargo, si es compatible, esto es
 un punto en contra del intelectualismo, porque rompe la paridad de
 propiedades entre el saber cómo y el conocimiento proposicional. Varios
 autores han argumentado, en efecto, que el saber cómo es compatible con
