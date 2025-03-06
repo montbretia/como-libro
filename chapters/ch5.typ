@@ -99,7 +99,7 @@ simplemente conceder a Ryle el argumento de la insuficiencia?]
 
 Finalmente, contra la propuesta Ryleana de que el saber cómo es un tipo
 de habilidad, Stanley y Williamson proponen una serie de contraejemplos,
-en los que sujetos parecen tener saber cómo pero no tienen la habilidad:
+en los que sujetos parecen tener saber cómo, pero no tienen la habilidad:
 
 / Instructor de ski: Una instructora de ski puede saber
   cómo realizar un truco con los esquíes, y, por tanto, enseñarle a sus
@@ -122,7 +122,7 @@ que estos autores toman de la literatura en lingüística formal. Parte de
 las razones que se aducen habitualmente para sugerir que el saber cómo
 es distinto del saber qué o conocimiento proposicional es que la
 #emph[forma] de las expresiones que empleamos para adscribir lo uno u lo
-otro a un sujeto parece diferente. Así, por un lado tenemos expresiones
+otro a un sujeto parece diferente. Así, por un lado, tenemos expresiones
 como
 
 #set enum(numbering: "(a)", start: 1)
@@ -169,7 +169,7 @@ tal caso, funcionaría como un nombre, y tendríamos que la forma de la
 expresión. Sin embargo, suponemos, no existe nadie que sea la reina de
 la Araucanía. ¿A qué nos referimos entonces? ¿Tenemos que suponer que
 existen objetos que no existen, pero a los que podemos de todas formas
-referirnos, y por tanto ‘ensuciar’ nuestra metafísica con entidades
+referirnos y, por tanto, ‘ensuciar’ nuestra metafísica con entidades
 dudosas que generan sinsentidos? Russell (1905) propone que no: lo que
 sucede es que la forma superficial de la expresión genera una confusión.
 Russell ofrece un análisis alternativo de la forma profunda de oraciones
@@ -209,7 +209,7 @@ llamar una #emph[pregunta incrustada ];(#emph[embedded question];). En
 el caso de (e), la pregunta es ‘¿quien tiene la revista?’, en (f) es
 ‘¿por qué falló el experimento?’, en (g) es ‘¿dónde están los fósiles?’,
 en (h) es ‘¿cuándo es hora de despertar a Patricia?’. Las atribuciones
-de saber cómo tambien incrustan una pregunta, a saber, una pregunta de
+de saber cómo también incrustan una pregunta, a saber, una pregunta de
 la forma ‘¿cómo …?’, donde podemos reemplazar ‘…’ por la descripción de
 una acción que puede realizarse intencionalmente. En el caso de (a), la
 pregunta es ‘¿cómo destapar cañerías?’. Es importante distinguir estos
@@ -277,7 +277,7 @@ La estructura argumental puede hacerse más clara con la siguiente glosa
 ]
 
 A y B se basan en los patrones que hemos observado acerca de las
-atribuciones de saber-\?. C, por el contrario, depende de que se de una
+atribuciones de saber-\?. C, por el contrario, depende de que se dé una
 explicación de las condiciones de verdad de enunciados en los que un
 sujeto sabe la respuesta a una pregunta. Para este propósito, @Stanley2001 hacen uso del marco teórico de la semántica de
 @Karttunen1977 para las preguntas incrustadas. @Stanley2011 examina
@@ -325,7 +325,7 @@ hacer un curry). Así, podríamos proponer lo siguiente:
   un sujeto y un enunciado, y el saber cómo como una relación
   #emph[ternaria] entre un sujeto, una pregunta, y un enunciado. Con
   esto sugiere la posibilidad de una postura intelectualista en el
-  sentido de Ryle que sin embargo distinga entre el conocimiento
+  sentido de Ryle que, sin embargo, distinga entre el conocimiento
   proposicional y el saber cómo.
   ]
 
@@ -1099,7 +1099,7 @@ un tipo de conocimiento proposicional. Según este esquema, habría posturas
 #color-key(orange.lighten(85%).mix(purple.lighten(80%)), lighten: 0%) (porque
 rechazan la idea de que el saber-cómo es un tipo de actitud proposicional, que
 es el intelectualismo clásico #color-key(orange, lighten: 70%)) que según el
-esquema Ryleano serían intelectualistas (porque aún así aceptan que el saber
+esquema Ryleano serían intelectualistas (porque aun así aceptan que el saber
 cómo es algún tipo de estado mental con cierto contenido) (véase Tabla 1).
 
 #figure(placement: top, caption: [_Clasificación de posturas según criterios Ryleanos_])[
@@ -1378,7 +1378,7 @@ hacer algo. Las concepciones son la forma en que pensamos las maneras. A
 diferencia de las maneras mismas, las concepciones no tienen que satisfacer las
 condiciones de Factividad o Exhaustividad: una concepción puede estar errada, o
 puede ser incompleta. Tampoco satisfacen Grano-grueso: concepciones
-necesariamente equivalente pueden no ser idénticas (alguien podría concebir que
+necesariamente equivalentes pueden no ser idénticas (alguien podría concebir que
 distintas acciones se hacen de la misma manera, y en ese caso sus concepciones
 son distintas aunque tienen son necesariamente equivalentes.)
 
@@ -1482,7 +1482,7 @@ acerca de cómo hacer algo en un sentido bien amplio.
 Primero, según Habgood-Coote, tener la capacidad de responder una pregunta no
 requiere que uno sea capaz de comunicar la respuesta a la pregunta. A menudo nos
 encontramos con expertos en cómo hacer algo que no son capaces de expresar cómo
-lo hacen, o que sólo pueden hacerlo de maneras limitadas (por ejemplo, diciendo
+lo hacen, o que solo pueden hacerlo de maneras limitadas (por ejemplo, diciendo
 que 'así es cómo se hace' y apuntando a cierta acción que realizan). Sin
 embargo, estos sujetos tienen la capacidad de _activar_ cierto conocimiento
 sobre cómo hacer esas cosas--esto es lo que importa en este modelo.
@@ -1536,9 +1536,9 @@ después, en la sección 5.5.)
 
 Me gustaría proponer una manera distinta de clasificar las posturas posibles
 sobre el saber-cómo. Primero, al esquema de Glick me gustaría añadir una
-distinción entre relata atitudinales y relata no-atitudinales. En el esquema de
+distinción entre _relata_ atitudinales y _relata_ no-atitudinales. En el esquema de
 Glick no podemos distinguir entre teorías de acuerdo a las cuales los relata del
-saber cómo son no-proposiciones pero atitudinales y teorías de acuerdo a las
+saber cómo son no-proposicionales, pero atitudinales, y teorías de acuerdo a las
 cuales los relata del saber-cómo son no-atitudinales. Desde la perspectiva del
 esquema clásico, esto es crucial porque solo las últimas cuentan como
 propiamente anti-intelectualistas. Si incorporamos estas distinciones, obtenemos
@@ -1744,7 +1744,7 @@ testimonio:
 [...] podemos observar que no hay tipo de razonamiento más común, más útil, e
 incluso necesario para la vida humana, que el que deriva del testimonio de las
 personas, y de los reportes de testigos y espectadores. [...] nuestra seguridad
-en un argumento de este tipo no se deriva de otro principio sino el de nuestra
+en un argumento de este tipo no se deriva de otro principio salvo el de nuestra
 observación de la veracidad del testimonio humano, y de la conformidad usual de
 los hechos con los reportes de los testigos. [...] Si la memoria no tuviese
 cierto grado de tenacidad; si las personas no tuvieran una inclinación a la
@@ -1825,8 +1825,8 @@ distingue entre la confiabilidad de quien provee el testimonio y la
 confiabilidad de quien recibe el testimonio. Para que un intercambio testimonial
 sea exitoso pareciera que se requiere que ambos sean confiables. @Lackey2008
 propone que en vez de adoptar una postura reduccionista (que concede más
-importancia al hablante) o anti-reduccionista (que concede más importante al
-escucha), es mejor adoptar una postura híbrida (lo ilustra con el símil de que
+importancia al hablante) o anti-reduccionista (que concede más importante a
+quien escucha), es mejor adoptar una postura híbrida (lo ilustra con el símil de que
 "hacen falta dos para bailar el tango").
 
 #question[Consideren el caso de la dependencia de los niños en el testimonio de
@@ -1858,7 +1858,7 @@ Esta manera de entender lo que sucede durante el proceso testimonial sugiere que
 el testimonio difiere de una manera importante de otras fuentes de
 conocimiento y justificación como la percepción y la inferencia, a saber, que
 mientras esas fuentes pueden generar nuevo conocimiento, el testimonio no es
-capaz de genera nuevo conocimiento, solo transmitirlo de un sujeto a otro (en
+capaz de generar nuevo conocimiento, solo transmitirlo de un sujeto a otro (en
 este sentido, el testimonio sería similar a la memoria, que parece no ser capaz
 de generar conocimiento tampoco: para que uno pueda decir que sabe algo porque
 lo recuerda, debe haberlo llegado a saber de otra manera antes).
@@ -1934,8 +1934,8 @@ Sin embargo, parece que el siguiente razonamiento (que asume (2)) es problemáti
 ]
 
 En ambos casos suponemos que José es confiable, que puede expresar de manera
-correcta una respuesta a la pregunta relevante (¿cómo opera la maquina? o ¿cómo
-operar la máquina?) y asumimos que Pedro tiene la capacidad de entender el
+correcta una respuesta a la pregunta relevante ('¿cómo opera la maquina?' o '¿cómo
+operar la máquina?') y asumimos que Pedro tiene la capacidad de entender el
 testimonio de José. En el primer caso, no hay nada extraño en que alguien pueda
 llegar a saber cómo opera una máquina en base al testimonio que recibe, del
 mismo modo en que no es problemático que pueda llegar a saber cómo sucedió algo
@@ -2041,7 +2041,7 @@ testimonial funcione en este caso?
 Poston sugiere que en los casos en que la transmisión testimonial da pie a que
 aprendamos cómo hacer algo, lo que sucede es que obtenemos información acerca de
 cómo aplicar una habilidad general que ya tenemos a un caso específico. Por
-ejemplo, en el caso del _biryani_, es plausible que sólo pude seguir las
+ejemplo, en el caso del _biryani_, es plausible que solo pude seguir las
 instrucciones porque ya tengo cierto conocimiento acerca de cómo cocinar o la
 habilidad de cocinar, o incluso, porque ya tengo conocimiento acerca de cómo
 cocinar o la habilidad de cocinar platos similares (por ejemplo, un _pulau_,
@@ -2056,9 +2056,9 @@ la posesión previa de saber-cómo más general.
 @Grimm2019 rechaza esta sugerencia por dos razones:
 
 + Si el éxito de la transmisión testimonial requiriera de la posesión previa de
- cierto saber-cómo mas general, no podríamos explicar la posibilidad de adquirir
+ cierto saber-cómo más general, no podríamos explicar la posibilidad de adquirir
  saber-cómo nuevo a partir del testimonio de otros. Si yo fuera un cocinero
- novato, quizás no pueda decir que sé cocinar (en un sentido genérico), y aún
+ novato, quizás no pueda decir que sé cocinar (en un sentido genérico), y aun
  así podría haber aprendido cómo cocinar el _biryani_. Poston dice que no es
  posible obtener una habilidad nueva directamente a través del testimonio de
  alguien.
@@ -2374,7 +2374,7 @@ borscht). Hay que tener cuidado con casos como estos: en C#sub[1];,
 podría ser correcto para otro sujeto S#sub[2] decir que S#sub[1] sabe
 cómo cocinar borscht (no es extraño que alguien sobrestime el riesgo).
 En este caso nos movemos a un modelo contextualista (donde las
-posibilidad e intereses que importan son los de quien adscribe) o bien a
+posibilidades e intereses que importan son los de quien adscribe) o bien a
 uno relativista (donde el contexto que importa es el de evaluación).]
 
 En el modelo de Wallbridge, en cambio, P está definida
@@ -2466,7 +2466,7 @@ yo sepa cómo navegar el espacio que ocupo de esa manera.
 Menos general, pero más viable para nuestros propósitos, tenemos el
 esquema
 
-/ Anti-Intelectualismo sensible a sujetos (AISS): S sabe cómo x si y sólo
+/ Anti-Intelectualismo sensible a sujetos (AISS): S sabe cómo x si y solo
   si S es un miembro de una clase de personas P que es capaz de hacer x.
 
 Para acomodar los efectos de sensibilidad al contexto, podemos hacer que
@@ -2491,7 +2491,7 @@ habilidad. Aquí voy a asumir una visión estándar, de acuerdo con la cual
 tener una habilidad implica cierto tipo de posibilidad metafísica.]
 @Lewis1976 ofrece esto como una manera de resolver la famosa paradoja
 del abuelo, donde parece ser cierto que al mismo tiempo tenemos lo que
-hace falta para matar a nuestro abuelo y aún así no podemos matarlo. La
+hace falta para matar a nuestro abuelo y aun así no podemos matarlo. La
 siguiente cita clarifica el punto:
 
 #quote(block: true)[
@@ -2552,7 +2552,7 @@ tienen las capacidades relevantes variar con el contexto también. Así,
 tendríamos algo así como
 
 / Anti-intelectualismo contextualista relativo a sujetos y hechos (AICSH): 
-  s sabe cómo x en un contexto c si y sólo si P#sub[C];(s) es capaz#sub[H]
+  s sabe cómo x en un contexto c si y solo si P#sub[C];(s) es capaz#sub[H]
   de hacer x
 
 donde P#sub[C];(s) define una clase de sujetos determinada por el
@@ -2563,12 +2563,12 @@ atribución de saber cómo a la pianista tiene la condición de que cierta
 clase de individuos relativa a la pianista (la clase de personas que han
 recibido instrucción y que han demostrado su competencia en tocar el
 piano) tiene la capacidad en cierto sentido de tocar el piano. La
-diferencia es sólo notacional.
+diferencia es solo notacional.
 
 Una ventaja teórica de estos modelos es que la idea de hacer el concepto
 de habilidad relevante al análisis de saber cómo sensible al contexto
 tiene apoyo independiente. En contraste, la propuesta intelectualista de
-Wallbridge introduce un elemento de sensibilidad al contexto sólo como
+Wallbridge introduce un elemento de sensibilidad al contexto solo como
 respuesta al problema de las atribuciones divergentes de saber cómo. Por
 supuesto, esto no significa que la estrategia contextualista de
 Wallbridge no esté bien motivada; en efecto, es plausible que cualquier
@@ -2584,7 +2584,7 @@ importante tener en cuenta.
 El caso del instructor de ski funciona de manera similar al de la
 pianista. En el contexto original, se destaca que a pesar de no estar en
 las condiciones que permitirían que él mismo realizara los trucos, tiene
-la habilidad de imaginar cómo alguien debería hacerlo y por tanto la
+la habilidad de imaginar cómo alguien debería hacerlo y, por tanto, la
 capacidad de enseñar a otros cómo debería hacerse. Aunque está a cierta
 distancia de poder realizar el truco, está más cerca que sus
 estudiantes, por una razón que importa en el contexto en que estamos
@@ -2647,8 +2647,8 @@ resultados de las encuestas, según las cuales el 87% de las respuestas
 dicen que Irina no sabe cómo realizar el #emph[Salchow];. La respuesta
 anti-intelectualista del caso es similar a la anterior: Irina no
 manifiesta el tipo de habilidad que es relevante al contexto (que
-plausiblemente requiere algo más que la mera confiabilidad), y por lo
-tanto no satisface las condiciones anti-intelectualistas de atribución
+plausiblemente requiere algo más que la mera confiabilidad), y, por lo
+tanto, no satisface las condiciones anti-intelectualistas de atribución
 de saber cómo que son apropiadas a este contexto.#footnote[Si no
 supiéramos que Irina tiene creencias erróneas y es anormal
 neurológicamente—es decir, en un caso en que sólo detectáramos el éxito
@@ -2667,7 +2667,7 @@ realizarlo que implica que conozcan tal manera de realizarlo. Según el
 análisis anti-intelectualista, estos mismos casos corresponden a casos
 en que los sujetos han adquirido la habilidad relevante, algunos de los
 cuales implican tener cierto conocimiento proposicional. En el caso
-adicional, que Wallbridge discute sólo en una nota (1633, n. 30), parece
+adicional, que Wallbridge discute solo en una nota (1633, n. 30), parece
 requerirse del sujeto a quien se le atribuye saber cómo que tenga tanto
 habilidad como conocimiento proposicional. Pero eso no es extraño en el
 modelo anti-intelectualista, porque es claro que puede pasar que un
@@ -2842,13 +2842,13 @@ Si no se las ataba al suelo, estas estatuas escapaban:
 
 Algo que debería llamarnos la atención de la manera en que Sócrates y Menón
 evalúan el valor del conocimiento y la creencia verdadera es la importancia que
-asignan a las consecuencias prácticas de tener uno o otro de estos estados
+asignan a las consecuencias prácticas de tener uno u otro de estos estados
 epistémicos. Quien sabe cómo llegar a Larissa puede guiar allí a otros. Nos
 veríamos tentados a decir que parte del valor de su conocimiento es que le
 permite saber cómo hacer ciertas cosas (llegar a Larissa, guiar a otros, etc.).
 Y si el saber-cómo es una forma de conocimiento, entonces estas intuiciones
 socráticas sugieren que es distinto a la creencia verdadera. Ya vimos, en la
-#ref(<intelectualismo-rev>), como @Cath2011 propone que esta diferencia es ilusoria,
+#ref(<intelectualismo-rev>), cómo @Cath2011 propone que esta diferencia es ilusoria,
 precisamente porque tener una creencia verdadera es suficiente para poder guiar
 nuestra conducta de manera intencional.
 
@@ -2907,8 +2907,8 @@ cómo es _menos_ valioso que tener conocimiento proposicional acerca de saber c�
 hacer algo?]
 
 Una manera de abordar ese problema es apelar a la cuestión de si el conocimiento
-proposicional o el saber-cómo son logros o no. Lograr un éxito es valioso, y por
-tanto es valioso llegar a tener la capacidad de lograrlo. El valor del
+proposicional o el saber-cómo son logros o no. Lograr un éxito es valioso y, por
+tanto, es valioso llegar a tener la capacidad de lograrlo. El valor del
 saber-cómo y el conocimiento proposicional podrían derivar de los logros que
 fueran relevantes. ¿Pero en qué consiste, en general, el logro de llegar a tener
 una capacidad?
@@ -2948,7 +2948,7 @@ relevantes para la formación de mi creencia? ¿Cómo establecer un criterio par
 definir eso?]
 
 Esta última observación es importante para el caso del saber-cómo, porque hay
-que distinguir entre el logro de llegar a tener saber-cómo (y por tanto el
+que distinguir entre el logro de llegar a tener saber-cómo (y, por tanto, el
 saber-cómo mismo como un logro), y los logros que podemos tener gracias a tener
 saber-cómo. Esto es importante para entender la pregunta que debemos hacernos
 cuando examinamos si el saber-cómo es o no un logro, como el conocimiento
@@ -3088,7 +3088,7 @@ razonamiento, etc.#footnote[Omitiendo el problema de si el testimonio es
 reducible a estas otras fuentes de conocimiento o no.] En ese sentido, el que su
 creencia sea verdadera no se explica porque haya ejercitado sus habilidades.
 Plausiblemente, la verdad de su creencia se explica en términos de lo que hace
-que la persona que le ofrece el testimonio tenga conocimiento. Pero por otro
+que la persona que le ofrece el testimonio tenga conocimiento. Pero, por otro
 lado, Isabel sí ejercita ciertas habilidades que tienen importancia epistémica.
 Por ejemplo, busca una manera de responder la pregunta que la motiva (a saber,
 ¿dónde parará el tren que tiene que abordar?) de una manera que es
@@ -3214,7 +3214,7 @@ situación de Sally\* no es apta para que digamos que ella _sabe_ que podría
 realizar esa acción de esa manera (su situación es epistémicamente
 desafortunada, y asumimos que eso previene que alguien tenga conocimiento). Sin
 embargo, no parece que esto socave la posibilidad de que digamos que sepa cómo
-realizar la acción. Alguien podría saber cómo hacer algo, pero aún así fallar
+realizar la acción. Alguien podría saber cómo hacer algo, pero aun así fallar
 ocasionalmente, sin que esto nos obligue a decir que en realidad no sabe cómo
 realizar esa acción.#footnote[Por supuesto, el fallo _repetido_ si sugeriría que
 no sabe cómo realizar esa acción.] Noten que Sally sí es apta, desde un punto de
@@ -3259,7 +3259,7 @@ dice que tiene que ser así?
 
 Podría ser que, en vez de la tesis del Compatibilismo, fuera verdadero que
 
-/ Incompatibilismo: El acierto de un acción en una situación de suerte epistémica
+/ Incompatibilismo: El acierto de una acción en una situación de suerte epistémica
  ambiental no es atribuible a las habilidades del sujeto que las realiza.
 
 En este caso, que Sally\* tenga cierto tipo de acierto podría no significar que
@@ -3369,11 +3369,11 @@ estado mental es un duplicado interno y funcional del estado mental de alguien
 que sí sabe cómo aplicar la defensa Siciliana (del mismo modo que Irina en el
 escenario de intervención divina cuenta como un duplicado de alguien que sabe
 cómo realizar el Salchow). En este caso, Mr. Magnucomp sí tiene alguna idea
-acerca de por qué hace los movimientos que hace. Aún así, no es claro que la
+acerca de por qué hace los movimientos que hace. Aun así, no es claro que la
 capacidad de aplicar la defensa Siciliana constituya un logro. Sin embargo, en
 este caso Mr. Magnucomp sí parece ser autónomo respecto a la manera en que
 gobierna la manera en que juega ajedrez; al menos, sí parece serlo en el sentido
-de Markie. Y aún así, no parece adecuado decir que Mr. Magnucomp sabe cómo
+de Markie. Y aun así, no parece adecuado decir que Mr. Magnucomp sabe cómo
 aplicar la defensa Siciliana.
 
 Lo que esto parece sugerir es que, si queremos aplicar el concepto de autonomía
@@ -3423,8 +3423,8 @@ modelo del saber-cómo como logro epistémico.] En resumen, consiste en la
 siguiente tesis:
 
 / Condición de Control Manifiesto (CCM): que $s$ haga $phi$ manifiesta el
- saber-cómo de $s$ solo si las acciones de $phi$ de $s$ exhiben control de guía,
- y por tanto, solo si las acciones de $phi$ de $s$ son causadas por un mecanismo
+ saber-cómo de $s$ solo si las acciones de $phi$ de $s$ exhiben control de guía
+ y, por tanto, solo si las acciones de $phi$ de $s$ son causadas por un mecanismo
  (i) que responda a razones y (ii) que $s$ posea.
 
 La condición de que las acciones de $s$ exhiban control de guía es una glosa de
