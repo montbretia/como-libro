@@ -964,7 +964,7 @@ directamente. Cath propone el siguiente caso:
   dar instrucciones erróneas sobre todas las tareas cotidianas que
   describe en el libro, quizás como una broma. Sin embargo, debido a un
   defecto de las impresoras, el texto de las páginas de la copia del libro
-  que Charlie consultó fueron reemplazadas por texto el azar, que por pura
+  que Charlie consultó fueron reemplazadas por texto generado al azar, que por pura
   coincidencia resultó ser indistinguible del texto de una descripción
   correcta de cómo cambiar una ampolleta.
 
@@ -1183,7 +1183,7 @@ Ya vimos uno de los argumentos que Cath usa para criticar el intelectualismo
 tradicional: en casos como _ampolleta afortunada_ tenemos sujetos que al menos
 parecen saber cómo hacer algo (en el ejemplo, cómo cambiar una ampolleta), pero
 que no tienen conocimiento proposicional de que tal o cual manera de hacerlo es
-una manera de hacerlo. El análisis de Parecer acomoda esos casos: los sujetos
+una manera de hacerlo. El análisis de Cath acomoda esos casos: los sujetos
 son atribuibles con saber cómo porque, aunque no tienen el conocimiento
 proposicional relevante, les parece que hay una manera de hacer algo que es en
 efecto una manera de hacerlo. A Charlie le parece que cierta manera de actuar
@@ -1276,7 +1276,7 @@ parece que estaríamos dispuestos a decir que un sujeto tiene saber cómo acerca
 cómo hacer algo sin que sea contrafácticamente posible que tengan éxito en hacerlo.
 Bengson & Moffett ilustran el problema con el siguiente caso:
 
-/ Pi: Luis, un matemático competente, sabe cómo calcular el enésimmo numeral en la
+/ Pi: Luis, un matemático competente, sabe cómo calcular el enésimo numeral en la
   expansión decimal de $pi$. Sabe el algoritmo y sabe cómo aplicarlo. Sin embargo, 
   dadas limitaciones computacionales, Luis (al igual que todos los seres humanos)
   es incapaz de calcular el numeral $10^46$-ésimo en la expansión decimal de $pi$.
@@ -1330,12 +1330,12 @@ paso de la secuencia). Para apreciar la diferencia, consideren el ejemplo de
 Ryle de la diferencia que hay entre el tropiezo de una persona torpe y el
 tropiezo de un payaso: la secuencia de acciones es en cierto sentido la misma,
 pero tienen distintas propiedades (por ejemplo, solo la acción del payaso puede
-evaluarse como bien hecha).] Si bien el siguiente principio parece plausible
+evaluarse como bien hecha).] El siguiente principio parece plausible
 
 / Maneras a proposiciones: Para toda manera $M$ de hacer una acción posible $A$,
  hay una proposición $p$ verdadera de la forma '$A$ puede hacerse de manera $M$',
 
-las maneras no son ellas mismas proposiciones (o proposiciones verdaderas).
+Sin embargo, las maneras no son ellas mismas proposiciones (o proposiciones verdaderas).
 
 Hay varias ideas plausibles sobre las maneras de actuar:
 
@@ -1380,7 +1380,7 @@ condiciones de Factividad o Exhaustividad: una concepción puede estar errada, o
 puede ser incompleta. Tampoco satisfacen Grano-grueso: concepciones
 necesariamente equivalentes pueden no ser idénticas (alguien podría concebir que
 distintas acciones se hacen de la misma manera, y en ese caso sus concepciones
-son distintas aunque tienen son necesariamente equivalentes.)
+son distintas aunque son necesariamente equivalentes.)
 
 Para ilustrar la diferencia, consideren el siguiente caso:
 
@@ -1390,21 +1390,22 @@ Para ilustrar la diferencia, consideren el siguiente caso:
  tener una concepción de esa manera de actuar como una manera de escapar de
  una avalancha, aunque son necesariamente equivalentes.
 
-La idea de Bengson & Moffett es que saber-cómo hacer algo es tener un relación
-cognitiva con alguna manera de hacerlo que consista en tener conocimiento
-objetual de esa manera y en tener una concepción correcta de cómo hacerlo. La
-Nadadora no sabe necesariamente cómo escapar de la avalancha porque no tiene una
-concepción correcta de cómo actuar para escapar de la avalancha, aunque
-plausiblemente tiene una concepción correcta de cómo nadar que es necesariamente
-equivalente. En otras palabras, la Nadadora no _entiende_ cómo escapar la
-avalancha. En el caso de Pi, el matemático sí tiene una concepción correcta y
-completa de una manera de calcular el enésimo dígito de $pi$, aunque carece de
-las capacidades para hacerlo. Lo que es clave en los casos en que sujetos tienen
-saber-cómo es que la concepción de estos sujetos de las maneras relevantes de
-actuar guía su acción, porque si intentaran realizar estas acciones, tratarían
-de hacer que su comportamiento se ajustara a su concepción de cómo realizar esas
-acciones. Su concepción sería correcta y completa si fuera posible para estos
-sujetos que realizaran estas acciones guiándose por esa concepción.
+La idea de Bengson & Moffett es que saber-cómo hacer algo consiste en tener un
+relación cognitiva con alguna manera de hacerlo que consista en tener
+conocimiento objetual de esa manera y en tener una concepción correcta de cómo
+hacerlo. La Nadadora no sabe necesariamente cómo escapar de la avalancha porque
+no tiene una concepción correcta de cómo actuar para escapar de la avalancha,
+aunque plausiblemente tiene una concepción correcta de cómo nadar que es
+necesariamente equivalente. En otras palabras, la Nadadora no _entiende_ cómo
+escapar la avalancha. En el caso de Pi, el matemático sí tiene una concepción
+correcta y completa de una manera de calcular el enésimo dígito de $pi$, aunque
+carece de las capacidades para hacerlo. Lo que es clave en los casos en que
+sujetos tienen saber-cómo es que la concepción de estos sujetos de las maneras
+relevantes de actuar guía su acción, porque si intentaran realizar estas
+acciones, tratarían de hacer que su comportamiento se ajustara a su concepción
+de cómo realizar esas acciones. Su concepción sería correcta y completa si fuera
+posible para estos sujetos que realizaran estas acciones guiándose por esa
+concepción.
 
 #aside[El entendimiento ha sido de especial interés en la epistemología
 contemporánea más reciente (al menos desde @Zagzebski2001). Así como en el caso
