@@ -351,7 +351,7 @@ se quiere vivir, entonces se debe hacer inarrumen. Observar, y observar muy
 lentamente, observar para descubrir qué pasa, qué hay detrás de algo, pues
 siempre hay algo más de lo que nuestros ojos ven, o creen ver. Si no observa, si
 no toma la precaución de ver bien, de fijarse en los detalles de la naturaleza,
-de darse cuenta que él está metido en un mundo complejo, donde hay fuerzas que
+de darse cuenta de que él está metido en un mundo complejo, donde hay fuerzas que
 la acechan, que puede ser para bien o para mal, podría tener graves
 consecuencias. Por eso que el concepto inarrumen es una epistemología del darse
 cuenta del mundo, del universo total. El inarrumen viene a ser una metodología
@@ -409,7 +409,7 @@ conocimiento mapuche podían ver muchas otras cosas, que el mapuche común no
 podía ver, y menos por cierto el extranjero, o katxipache, como se le dice al
 que viene de otros territorios.\  #h(1fr) (@Nanculef2016[p. 22])]
 
-En efecto, @Mora2016[p. 46] dice que los mapuche lafkenche hablan de _inarümen_
+En efecto, @Mora2016[p. 46] dice que los mapuches lafkenche hablan de _inarümen_
 como 'la sabiduría intrínseca de una familia'; aquí _inarümen_ queda como una
 instancia específica del conocimiento en el sentido de _kimün_.
 
@@ -633,7 +633,7 @@ examinen en detalle las oportunidades que ofrece el esquema para abordar más
 problemas epistemológicos, en conversación con las discusiones contemporáneas.
 
 Desde el punto de vista más específico del problema del saber-cómo, la
-perspectiva mapuche ofrece una visión integradora que re-sitúa a este como una
+perspectiva mapuche ofrece una visión integradora que resitúa a este como una
 parte integral del conocimiento entendido en un sentido amplio. Ya que el
 _kimün_ requiere de cierto perfil disposicional, pero también de la posesión de
 información verdadera acerca, el concepto de saber-cómo puede caracterizarse en
