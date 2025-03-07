@@ -269,7 +269,7 @@ en efecto, es implausible que sea así en general. @Bird2010 cita el ejemplo del
 proyecto Manhattan:
 
 #quote(block: true)[
-    Consideren el Proyecto Manhattan para construir la primer bomba atómica.
+    Consideren el Proyecto Manhattan para construir la primera bomba atómica.
     Como muchos otros proyectos científico-tecnológicos, requirió de la división
     de labor cognitiva. Aunque miembros del equipo sabían cómo operaban sus
     partes del proyecto individualmtne, no sabíán los detalles de las otras
@@ -379,7 +379,7 @@ insuficiente en cuanto al desideratum de Generalidad.
 capaz de lidiar con ese tipo de caso de entidad colectiva. Ellos también
 enfatizan la importancia de la coordinación de la acción de los miembros de un
 grupo. Esta asunción es crucial para un argumento que ofrecen para rechazar
-ciertas forma de intelectualismo acerca del saber-cómo colectivo. Si este
+ciertas formas de intelectualismo acerca del saber-cómo colectivo. Si este
 consistiera en la aceptación (o creencia, o estado de conocimiento) conjunta de
 que una manera es la manera de hacer algo, siempre debería ser posible
 determinar cuál es _la_ manera que los miembros del grupo conjuntamente aceptan;
@@ -399,7 +399,7 @@ cuidadosa o hábil si al operar está dispuesto a detectar y corregir sus errore
 y a repetir y mejorar sus éxitos.]]
 
 Más concretamente, Palermos y Tollefsen sugieren que los grupos adquieren la
-capacidad de auto-regularse como resultado emergente de la interacción de sus
+capacidad de autoregularse como resultado emergente de la interacción de sus
 miembros, que según ellos debería entenderse como un sistema dinámico cuyas
 partes están relacionadas de manera no-linear unas con otras sobre la base de
 interacciones recíprocas continuas. Estas interacciones producen un sistema que
@@ -511,7 +511,7 @@ resultante es:
 
 / Capacidad Interrogativa Fragmentada: Un grupo $G$ sabe cómo $X$ si y solo si
   #set enum(numbering: "a)")
-  + Algunos miembros de $G$ son capaces de genera respuestas a subpreguntas de
+  + Algunos miembros de $G$ son capaces de generar respuestas a subpreguntas de
     '¿cómo $X$?' ('¿de qué manera puede $G$ hacer $X$?'), según sea necesario;
   + Entre ellos, los miembros de $G$ son capaces de genera respuestas que
     reunidas constituyen una respuesta completa a la pregunta '¿cómo X?' ('¿de qué
@@ -775,7 +775,7 @@ interacción en segunda persona con pares:
     ciencia a menudo hablamos de preguntas y respuestas sin pensar sobre la
     interacción en segunda persona de preguntar-y-responder. Aún más
     problemáticos son el divorcio de los 'argumentos' del _argumentar_, que es
-    algo en lo que tu y yo nos encontramos, y el alejamiento de la
+    algo en lo que tú y yo nos encontramos, y el alejamiento de la
     'justificación' de mi persuasión hacia ti. #h(1fr) (p. 32)
 ]
 
