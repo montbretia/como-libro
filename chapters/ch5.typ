@@ -1252,7 +1252,7 @@ semántica de las atribuciones de saber-\?. Bengson & Moffett argumentan que par
 lograr eso no es necesario asumir que el objeto del saber-\? es proposicional--es
 posible hacerlo adoptando lo que llaman _objetualismo_:
 
-/ Objetualismo: La relación entre el sujeto que saber cómo y el objeto de su
+/ Objetualismo: La relación entre el sujeto que sabe cómo y el objeto de su
   saber-cómo es una relación de actitud objetual no-proposicional, no-conductual-disposicional,
   y el objeto de esta relación es un item no-proposicional.
 
@@ -1317,9 +1317,9 @@ referimos cuando decimos que algo es una _manera de actuar_. Bengson & Moffett
 proponen que al menos algunas maneras de actuar (lo que ellos llama _métodos_) son
 secuencias de tipos de acciones cuya realización es un
 acto.#footnote[@Stanley2001 dicen que las maneras son tipos de acciones; más
-precisamente, dicen que son propiedades que instancias de eventos pueden tener
-(la idea es que una acción es un evento, y que el que se haga de una u otra
-manera es una propiedad de ese evento). La diferencia es sutil, pero
+precisamente, dicen que son propiedades que instancias de eventos-tipo pueden tener
+(la idea es que una acción es un evento-tipo, y que el que se haga de una u otra
+manera es una propiedad de ese evento-tipo). La diferencia es sutil, pero
 importante: contar un chiste _lentamente_ es hacer una cosa de una manera (a
 saber, con gracia), y puede consistir en hacer una acción siguiendo una
 secuencia de acciones. Pero la propiedad de que la acción se haga lentamente
@@ -1360,7 +1360,7 @@ Es plausible que hay distintas rutas que podríamos tomar para llegar; tomar
 alguna de ellas es actuar de distintas maneras que son todas maneras de llegar
 a nuestro trabajo. Alguien más podría seguir las mismas rutas que seguimos
 nosotros--en este sentido las maneras no son cuestiones privadas (puede ser que
-a nadie más se le ocurra actuar como nosotros, pero esto no hacer que sea
+a nadie más se le ocurra actuar como nosotros, pero esto no hace que sea
 imposible en principio que otra persona actúe de esta manera). Si quiero darle
 un mensaje urgente a alguien, podría tratar de hacerle llegar este mensaje de
 distintas maneras, a modo de minimizar el riesgo de que alguno de esos medios
@@ -1384,7 +1384,7 @@ son distintas aunque tienen son necesariamente equivalentes.)
 
 Para ilustrar la diferencia, consideren el siguiente caso:
 
-/ Nadadora: Mover los brazos como si uno nadara es una manera de escapar una
+/ Nadadora: Mover los brazos como si uno nadara es una manera de escapar de una
  avalancha. Una nadadora que sabe que esa es una manera de nadar tendría una
  concepción de esa manera de actuar como una manera de nadar, pero podría no
  tener una concepción de esa manera de actuar como una manera de escapar de
