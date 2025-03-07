@@ -828,7 +828,7 @@ Si bien parte de la crítica de Dreyfus al modelo clásico de la inteligencia
 artificial ha sido vindicado con el tiempo, el desarrollo reciente de estas
 tecnologías hace dudar del alcance del argumento. En trabajos posteriores,
 Dreyfus sugiere que la manera de avanzar con el problema de la inteligencia
-artificial, y por tanto del problema del saber-cómo artificial, es abandonar el
+artificial y, por tanto del problema del saber-cómo artificial, es abandonar el
 cognitivismo y adoptar modelos inspirados en la fenomenología, en particular en
 el trabajo de Maurice Merleau-Ponty y Martin Heidegger.#footnote[Cf.
 @Dreyfus2004 y @Dreyfus2007.]
