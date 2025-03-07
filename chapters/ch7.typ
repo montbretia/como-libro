@@ -44,7 +44,7 @@ caso:
   llevar una vida paralela a la que el señor Anderson cree llevar.
 
 El señor Anderson tiene experiencias, opiniones y cree tener justificación para
-creer lo que cree. De hecho, puede auto-adscribirse conocimiento, y no tiene
+creer lo que cree. De hecho, puede autoadscribirse conocimiento, y no tiene
 nunca la oportunidad de cuestionarlo. Plausiblemente, también cree saber cómo
 hacer varias cosas. ¿Deberíamos decir que tiene justificación, conocimiento y
 saber-cómo? La respuesta a esta pregunta no parece ser uniforme; si bien es
@@ -234,10 +234,13 @@ en la Tierra Gemela y yo radica en la referencia de nuestros pensamientos, no en
 nuestra conducta--por definición. Sin embargo, la manera en que nuestros cuerpos
 están acoplados con el ambiente no se limita a esto. El entorno a menudo nos
 _permite_ o _habilita_ a actuar de ciertas maneras, y en otros casos podemos
-decir que interactuamos con el . Esto no queda bien representado por el
-internalismo del contenido. Según Clark y Chalmers, es necesario ir más allá. Ya
-que en su modelo el entorno juega un rol activo en los procesos mentales de los
-sujetos, Clark y Chalmers llaman a su propuesta _externalismo activo_.
+decir que interactuamos con él de modo que _hacemos_ posible actuar de otras
+maneras (es decir, no solamente respondemos a las oportunidades que nos ofrece
+el entorno, sino que lo utilizamos para crear nuevas oportunidades). Esto no
+queda bien representado por el internalismo del contenido. Según Clark y
+Chalmers, es necesario ir más allá. Ya que en su modelo el entorno juega un rol
+activo en los procesos mentales de los sujetos, Clark y Chalmers llaman a su
+propuesta _externalismo activo_.
 
 Para entender la hipótesis es necesario clarificar un poco qué quieren decir sus
 defensores por 'constitución', distinguiéndo esto de otros conceptos con los que
@@ -286,7 +289,7 @@ estas tesis. Volveremos a este punto en breve.
 
 En realidad, los defensores de las hipótesis de la mente extendida a menudo
 defienden algo más fuerte, a saber, que el hecho de que los estados y
-procesos mentales/cognitivos estén constituido por estados y/o procesos
+procesos mentales/cognitivos estén constituidos por estados y/o procesos
 ambientales es particularmente importante o incluso crucial para la operación de
 la mente. Por ejemplo, @Dennett1998 dice:
 
