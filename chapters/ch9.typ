@@ -236,7 +236,7 @@ información que provee, porque lo hace activamente. Una fuente de información
 provee de información sin necesariamente tener un rol activo o incluso
 consciente en este proceso. Imaginen que hay tres personas en una habitación, A,
 B, y C. A quiere transmitirle un secreto a B, sin que C se entere. Para ello, A
-emplea un código que había convenido de antemano con B, y por lo tanto es un
+emplea un código que había convenido de antemano con B y, por lo tanto, es un
 informante para B. Sin que A o B se enteren, C se da cuenta de que están usando
 un código, y lo descifra, de modo que adquiere la información secreta. A es una
 fuente de información para C, pero no un informante. Esto es relevante para
@@ -280,7 +280,7 @@ saber-cómo?]
     anti-intelectualismo.
 ]
 
-== Vicios del saber cómo
+== Vicios del saber-cómo
 
 Saber cómo hacer algo es valioso por razones epistémicas y prácticas, y
 podríamos fácilmente pensar que es en sí mismo una virtud epistémica, en el
@@ -322,7 +322,7 @@ obcecación [en el sentido de no ver la relevancia de ciertos detalles al moment
 de sopesar cierta evidencia o la confiabilidad de una autoridad], y la falta de
 exhaustividad. También hay probablemente un vicio contrario a la perseverancia
 intelectual, que consiste en ceder muy pronto, y que puede ser una forma de
-flojera o tendencia a descorazonarse. Algunas formas de auto-engaño pueden ser
+flojera o tendencia a descorazonarse. Algunas formas de autoengaño pueden ser
 un vicio, pero otras pueden ser más bien una forma de _akrasia_
 intelectual.#h(1fr) (p. 152)
 ]
@@ -391,7 +391,7 @@ de prejuicio que pueden sufrir quienes tienen saber-cómo son vicios de aquellos
 con quienes interactúan (los aprendices y clientes), quienes no son
 necesariamente ellos mismos poseedores de saber-cómo. Lo que nos interesa ahora
 es examinar si es posible que haya vicios característicos de quienes ocupen
-roles relacionados al saber-cómo, ya sea como proveedores o como maestros, no
+roles relacionados con el saber-cómo, ya sea como proveedores o como maestros, no
 sus aprendices o clientes.
 
 Para organizar nuestra discusión, distingamos entre lo que puede afectar:
@@ -523,7 +523,7 @@ injusticia epistémica respecto al saber-cómo, véase @Cath2025.
 vicios. El libro _The Mismeausre of the Self_ (#cite(<Tanesini2021>,
 form:"year")), de Alessandra Tanesini es un estudio detallado de ciertos vicios
 epistemicos que tienen que ver con la manera en que las personas juzgan su
-propio carácter epistémico (por ejemplo, el narcisismo y la auto-satisfacción).
+propio carácter epistémico (por ejemplo, el narcisismo y la autosatisfacción).
 
 En el mundo moderno, gran parte de la información cotidiana acerca de cómo hacer
 ciertas cosas proviene del uso de medios digitales. ¿Cómo identificar expertos
