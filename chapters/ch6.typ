@@ -1,4 +1,4 @@
-// vim: spell spelllang=es
+/(tiene que pasar a revisión)/ vim: spell spelllang=es
 #import "../utils.typ": question, aside
 #import "../logic.typ": fitch
 #set enum(numbering: "1)")
@@ -616,7 +616,7 @@ Un argumento clásico en contra de la idea de que los agentes artificiales puede
 tener inteligencia puede aplicarse directamente al caso del saber-cómo.
 Recordemos que Ryle distingue entre tener saber-cómo y meramente tener un hábito
 de actuar de cierta manera. Lo que distingue al saber-cómo es que es
-genuinamente sensible al contexto, no consiste en un mero reproducir un guión de
+genuinamente sensible al contexto, no consiste en un mero reproducir un guion de
 manera ciega. Algunos defienden la siguiente tesis:
 
 / Inflexibilidad: Los agentes artificiales solo pueden tener un comportamiento inflexible.
@@ -835,7 +835,7 @@ el trabajo de Maurice Merleau-Ponty y Martin Heidegger.#footnote[Cf.
 
 @Noe2023 presenta un argumento interesante.#footnote[Véase también @Noe2024.]
 Según Noë, la respuesta a la pregunta de si las máquinas pueden pensar es
-negativa, porque las máquinas simplemente no _hacen_ nada. Presumiblemente el
+negativa, porque las máquinas simplemente no _hacen_ nada. Presumiblemente, el
 argumento aplica también a la posibilidad del saber-cómo artificial. El criterio
 de Nöe es distinto al de los otros autores que hemos visto. Según Noë, lo que es
 característico de la agencia es su reflexividad, en un sentido específico. Los
