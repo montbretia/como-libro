@@ -1781,7 +1781,7 @@ y sugieren que el hecho de que recibamos el testimonio de alguien constituye por
 sí solo soporte para que creamos lo que se nos dice. En general, las posturas
 anti-reduccionistas sobre el testimonio requieren, para que el testimonio pueda
 ser una fuente de conocimiento para un oyente, que además no haya lo que se
-llaman _derrotadores_ (_defeaters_) para quien recibe el testimonio. Lo quieren
+llaman _derrotadores_ (_defeaters_) para quien recibe el testimonio. Lo que quieren
 decir con esto es que no haya razones que impidan que el testimonio provea de
 justificación o conocimiento. Por ejemplo, si quien recibe el testimonio tiene
 creencias que implican la falsedad de lo que se le comunica, podría no aceptar
@@ -1815,8 +1815,8 @@ caracterización neutral del conocimiento testimonial, que es la de @Goldberg200
  + Hay un hablante $T$, a quien $S$ ha observado dar testimonio en una ocasión
    $O$ tal que $S$ entendió que $T$ presentó a $p$ como verdadera en su
    testimonio en esa ocasión.
- + El status del conocimiento de $S$ de que $p$ depende de (i) la confiabilidad
-   del testimonio de $T$ en $O$, y (ii) el derecho de $A$ para confiar en ese
+ + El estatus del conocimiento de $S$ de que $p$ depende de (i) la confiabilidad
+   del testimonio de $T$ en $O$, y (ii) el derecho de $S$ para confiar en ese
    testimonio.
 
 Esta definición es neutral porque caracteriza al conocimiento testimonial en
@@ -1929,7 +1929,7 @@ el caso no-infinitivo parece que podemos razonar, asumiendo (1), de la siguiente
 Sin embargo, parece que el siguiente razonamiento (que asume (2)) es problemático:
 
 #[
-#set enum(start: 6)
+#set enum(start: 5)
 + José le dice a Pedro cómo operar la máquina
 + Pedro llega a saber, mediante el testimonio de Pedro, cómo operar la máquina.
 ]
