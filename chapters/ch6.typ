@@ -1,4 +1,4 @@
-/(tiene que pasar a revisión)/ vim: spell spelllang=es
+// vim: spell spelllang=es
 #import "../utils.typ": question, aside
 #import "../logic.typ": fitch
 #set enum(numbering: "1)")
