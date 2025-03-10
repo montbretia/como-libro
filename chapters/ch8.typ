@@ -1,3 +1,4 @@
+// vim: spell spelllang=es
 #import "../utils.typ": aside, questionx
 
 = Haciendo cosas en conjunto

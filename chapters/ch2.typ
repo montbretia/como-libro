@@ -1,3 +1,4 @@
+// vim: spell spelllang=es
 #import "../utils.typ": question, questionx, aside
 #import "../logic.typ": fitch
 #set text(lang: "es")

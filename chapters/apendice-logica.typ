@@ -1,3 +1,4 @@
+// vim: spell spelllang=es
 #import "../utils.typ": question
 #import "../logic.typ": fitch, fitch-r
 
@@ -276,10 +277,10 @@ tenemos $p and q$, podemos derivar $p$ y podemos derivar $q$:
     + $q$ (1 conj. elim der)
   ]
 
-Para la disjunción tenemos que si $p$ es verdadero, podemos construir una
-disjunción con otra variable arbitraria:
+Para la disyunción tenemos que si $p$ es verdadero, podemos construir una
+disyunción con otra variable arbitraria:
 
-/ Disjunción (introducción):
+/ Disyunción (introducción):
   #fitch[
   + $p$
   + $p or q$ (1 disj. intro der)
@@ -290,7 +291,7 @@ Para eliminar una disjunción, el razonamiento es más complicado. Si tenemos un
 disjunción, y tenemos de que cada uno de los disjuntos se sigue lo mismo,
 podemos derivar lo que se sigue de los disjuntos:
 
-/ Disjunción (eliminación):
+/ Disyunción (eliminación):
   #fitch[
     + $p or q$
     + $\ [p]\ dots.v \ r$
@@ -582,7 +583,7 @@ predicados clásica, hay dos cuantificadores básicos, uno para "todos", el
 _cuantificador universal_, que se escribe $forall$ y otro para "algún", el
 _cuantificador existencial_, que se escribe $exists$.
 
-Desde el punto de vista sintáctico, los quantificadores nos permiten construir
+Desde el punto de vista sintáctico, los cuantificadores nos permiten construir
 proposiciones a partir de lo que se llaman _proposiciones abiertas_. En una
 proposición abierta como $F x$ un predicado aplica a una variable cuyo valor no
 ha sido determinado. Un cuantificador liga la variable y produce una proposición
@@ -627,10 +628,10 @@ $phi [c \/ x]$ representa que en $phi$ se reemplazan las ocurrencias de una
 constante $c$ por una variable $x$.
 
 Igualmente simple es la regla de eliminación del cuantificador universal: si
-tenemos una fórmula universalmente quantificada, podemos eliminar el
+tenemos una fórmula universalmente cuantificada, podemos eliminar el
 cuantificador simplemente si reemplazamos la variable por una constante
 cualquiera. Si todos los objetos de un dominio satisfacen una fórmula, la
-instance de esa fórmula que habla de cualquier objeto es verdadera.
+instancia de esa fórmula que habla de cualquier objeto es verdadera.
 
 / Cuantificador universal (eliminación): 
   #fitch[

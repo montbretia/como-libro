@@ -1,3 +1,5 @@
+// vim: spell spelllang=es
+
 #import "../utils.typ": aside, question, questionx
 
 = El problema
