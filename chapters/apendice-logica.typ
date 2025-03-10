@@ -803,8 +803,8 @@ mi gusto es _Formal Logic: Its Scope and Limits_ (#cite(<Jeffrey2006>, form:
 usa el método de los árboles analíticos como sistema de prueba). En español, el
 libro _Lógica para Principiantes_ (#cite(<Manzano2004>, form: "year")) de María
 Manzano y Antonia Huertas es bueno. Recientemente, AChEFA ha liberado una
-traducción del libro de texto abierto _for all x_ (#cite(<Magnus2025>, form:
-"year")), está disponible en
+traducción del libro de texto abierto _for all x_ como _Para todo X: Santiago_
+(#cite(<Magnus2025>, form: "year")), y está disponible en
 https://sites.google.com/view/achefa/entradas-y-material/traducciones
 
 El uso filosófico de la lógica no se limita a lenguajes de primer order como los
