@@ -2128,7 +2128,7 @@ _ellos_ podrían hacer algo.
 #question[¿Es esa la manera en que alguien realmente le dice a otra persona cómo
 hacer algo?]
 
-De esta manera de pensar el contenido del saber-cómo se sigue que el testimonio
+De esta manera de pensar el contenido del saber-cómo se sigue que éste
 nunca puede transmitirse mediante el testimonio.#footnote[@Poston2015 plantea que hay
 tres problemas con la propuesta de Stanley. Este es el segundo de estos
 problemas. El primer problema es que no todo conocimiento _de se_ posee un
