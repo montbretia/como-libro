@@ -1,3 +1,4 @@
+// vim: spell spelllang=es
 = Otras epistemologías
 
 == Etnoepistemología

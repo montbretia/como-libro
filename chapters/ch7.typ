@@ -1,3 +1,4 @@
+// vim: spell spelllang=es
 #import "../utils.typ": question, aside
 
 = Usando el mundo
