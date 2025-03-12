@@ -2953,7 +2953,7 @@ que distinguir entre el logro de llegar a tener saber-cómo (y, por tanto, el
 saber-cómo mismo como un logro), y los logros que podemos tener gracias a tener
 saber-cómo. Esto es importante para entender la pregunta que debemos hacernos
 cuando examinamos si el saber-cómo es o no un logro, como el conocimiento
-proposicional parecer ser.
+proposicional parece ser.
 
 === El saber-que vs el saber-qué como logros epistémicos
 
@@ -3022,7 +3022,7 @@ reducible a una forma de conocimiento proposicional o no, o si es un tipo de
 saber-cómo.] La idea de que uno u otro de estos estados epistémicos
 sea un tipo de logro epistémico es más plausible que ninguno lo sea. Otra
 posibilidad dudosa es el caso en que el conocimiento proposicional es un logro
-epistémico, pero el saber-cómo sí lo es. Lo que hace dudosa esta posibilidad es
+epistémico, pero el saber-cómo no lo es. Lo que hace dudosa esta posibilidad es
 que los argumentos que pueden aducirse a favor de que el conocimiento
 proposicional es un tipo de logro epistémico también parecen sugerir que un
 estado epistémico como el saber-cómo podría ser un tipo de logro epistémico.
@@ -3113,13 +3113,14 @@ Gettier parecen mostrar como incompatible con el conocimiento. Así que aceptar
 eso lleva a tener que aceptar como conocimiento demasiadas cosas que
 intuitivamente no deberíamos aceptar como tal.#footnote[Por supuesto, estas
 intuiciones no son la última palabra sobre el punto. Habría que medir la
-importancia de esto contra otros factores.] En vez de conducirnos a una forma
-de escepticismo sobre el testimonio, como rechazar que Isabel adquiere
+importancia de esto contra otros factores.] En vez de conducirnos a una forma de
+escepticismo sobre el testimonio, como rechazar que Isabel adquiere
 conocimiento, parece que aceptar que tener un logro epistémico de este tipo
 conduce a tener conocimiento lleva a lo que podría llamarse una explosión de
 conocimiento. El problema es que pareciera que la clase de logros atribuibles a
-Isabel no pasan la De modo que quienes defiendan la necesidad del logro para el
-conocimiento encaran un dilema.
+Isabel no pasan el umbral de significatividad necesario para que sean
+considerados como logros del tipo correcto. De modo que quienes defiendan la
+necesidad del logro para el conocimiento encaran un dilema.
 
 En la dirección contraria, autores como Kallestrup & Pritchard
 (#cite(<Kallestrup2012>, form: "year"), #cite(<Kallestrup2013>, form: "year"),
@@ -3156,7 +3157,7 @@ propiedades semánticas como la referencia no estaban fijadas por las propiedade
 internas de los sujetos, sino por la manera en que es el mundo; a esta idea se
 le llama _externalismo_. Véase la #ref(<internalismo-externalismo>).]
 
-Parece, entonces, que este caso atribuir conocimiento a Kira entra en conflicto
+Parece, entonces, que en este caso atribuir conocimiento a Kira entra en conflicto
 con las intuiciones estándar sobre la interacción entre el conocimiento
 proposicional y la suerte epistémica. ¿Sería más plausible rechazar que tiene un
 logro epistémico? Tampoco. Por una parte, ya que asumimos que su contraparte, a
@@ -3365,7 +3366,7 @@ aplicar la defensa Siciliana. Por una parte, no es un logro epistémico; su
 capacidad depende de que tenga implantado el chip. Además, Mr. Magnucomp no
 parece tener autonomía: no está, en ningún sentido intuitivo, en control de lo
 que hace. Sin embargo, supongamos que se ajusta el dispositivo de manera que Mr.
-Magnucomp no solamente ejecuta la defensa Siciliana, sino que además es su
+Magnucomp no solamente ejecuta la defensa Siciliana, sino que además su
 estado mental es un duplicado interno y funcional del estado mental de alguien
 que sí sabe cómo aplicar la defensa Siciliana (del mismo modo que Irina en el
 escenario de intervención divina cuenta como un duplicado de alguien que sabe
