@@ -1,6 +1,6 @@
 // vim: spell spelllang=es
 
-#import "../utils.typ": aside, question, questionx
+#import "../utils.typ": aside, question
 
 = El problema
 
@@ -216,7 +216,7 @@ preguntas (cuando doy respuestas a esas preguntas, lo indico con el símbolo
 #text(fill: red)[#sym.arrow.cw.half]\; en la versión en PDF estos son
 hipervínculos en el documento, para tener fácil acceso a las respuestas). 
 
-#questionx(answer: [Este es el formato de las respuestas.])[Las preguntas van a
+#question(answer: [Este es el formato de las respuestas.])[Las preguntas van a
 aparecer en este formato.]
 
 Como es usual, el libro termina con una lista de referencias. Además de las

@@ -1,39 +1,4 @@
-#let question(label: none, breakable: false, body) = {
-
-block(inset: 1em, 
-      fill: rgb("#f4c0c3"),
-      stroke: 0.1pt + rgb("#f4c9c3").darken(10%),
-      spacing: 0.64em,
-      radius: 3pt,
-      above: 1.2em,
-      below: 1em,
-      width: 100%,
-      )[
-  #context[
-    #if calc.even(here().page()) [
-      #place(top+left, dy: -1.3em, dx: -2.8em)[
-        #block(inset: 0.7em, fill: red.lighten(15%), radius: 3pt)[
-          #text(fill: white, size: 1.2em)[*¿?*]
-        ]
-      ]
-    ] else [
-      #place(top+right, dy: -1.3em, dx: 2.8em)[
-        #block(inset: 0.7em, fill: red.lighten(15%), radius: 3pt)[
-          #text(fill: white, size: 1.2em)[*¿?*]
-        ]
-      ]
-    ]
-  ]
-  #block(breakable: breakable)[
-  #body
-  #if label != none [
-        #h(1fr) #link(label)[#text(size: 12pt, fill: red)[#sym.arrow.cw.half]]
-  ]
-]
-]
-}
-
-#let questionx(body, breakable: false, answer: none) = {
+#let question(body, breakable: false, answer: none) = {
   block(inset: 1em, 
   fill: rgb("#f4c0c3"),
   stroke: 0.1pt + rgb("#f4c9c3").darken(10%),

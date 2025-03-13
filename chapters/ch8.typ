@@ -1,5 +1,5 @@
 // vim: spell spelllang=es
-#import "../utils.typ": aside, questionx
+#import "../utils.typ": aside, question
 
 = Haciendo cosas en conjunto
 
@@ -126,7 +126,7 @@ anti-reduccionista, aunque es compatible con la tesis de que las propiedades del
 grupo supervienen en las propiedades de los individuos: el grupo no tendría las
 propiedades que tiene si los miembros no tuvieran las propiedades que tienen).
 
-#questionx(answer: [Una posible objeción es que el argumento de @List2011 asume
+#question(answer: [Una posible objeción es que el argumento de @List2011 asume
 que las creencias e intenciones de los miembros del grupo permanecen estáticas.
 Al aplicar el mecanismo correctivo, podríamos decir que los miembros del grupo
 cambian sus creencias e intenciones, de modo que el grupo simplemente refleja
@@ -166,7 +166,7 @@ por una mayoría contundente, en muchos casos será plausible decir que los
 votantes creen que X es el mejor candidato.#footnote[Esto depende, como vimos
 con el caso de @List2011, de la manera en que se configure la votación.]
 
-#questionx[Consideren el siguiente caso: A, B y C son una banda musical. Cada
+#question[Consideren el siguiente caso: A, B y C son una banda musical. Cada
 uno de ellos cree que su canción X es la mejor que tienen, pero guardan su
 opinión en secreto a los otros (B, quien compuso la canción, no quiere sonar
 petulante, y A y C no quieren que a B se le suban los humos a la cabeza.) ¿Tiene
@@ -203,7 +203,7 @@ compromisos se efectúan mediante ciertas acciones que los miembros del grupo
 toman para hacer conocimiento común del hecho de que están comprometiéndose con
 que el grupo tome cierta posición sobre un asunto.
 
-#questionx[En el caso del comité, es claro que es posible pensar en un acuerdo
+#question[En el caso del comité, es claro que es posible pensar en un acuerdo
 explícito conjunto a comprometerse con una postura. Sin embargo, hay entidades
 colectivas respecto a las cuales es dudoso que pueda decirse que hay tales
 compromisos. ¿Cómo podríamos atribuir creencias a compañias, naciones,
@@ -280,7 +280,7 @@ proyecto Manhattan:
     ningún miembro del proyecto tenía este conocimiento.#h(1fr) (pp. 33--34)
 ]
 
-#questionx[Trate de construir un caso en que el modelo sumativo si funcione.]
+#question[Trate de construir un caso en que el modelo sumativo si funcione.]
 
 @HabgoodCoote2022 enumera cinco _desiderata_ para una teoría del saber-cómo
 colectivo:#footnote[En @MoralesCarbonell2024 argumento que adicionalmente debe
@@ -502,7 +502,7 @@ análisis: los miembros poseen parte de la respuesta a cómo tocar la pieza, y l
 partes que tienen, reunidas, constituyen una respuesta a la pregunta de cómo
 tocar la pieza.
 
-#questionx[Antes de avanzar, ¿cómo resolverían el problema ustedes?]
+#question[Antes de avanzar, ¿cómo resolverían el problema ustedes?]
 
 La solución de Habgood-Coote es requerir que los miembros del grupo sean capaces
 de realizar sus capacidades juntos en el curso de la acción colectiva: no basta
@@ -638,7 +638,7 @@ que la sociedad tenga una estructura específica que permite y restringe a sus
 miembros a comportarse de distintas maneras (mediante la asignación y ocupación
 de roles), así como mecanismos distribuidos que mantienen esas estructuras.
 
-#questionx[¿Es posible que ambas perspectivas sean complementarias?]
+#question[¿Es posible que ambas perspectivas sean complementarias?]
 
 == El saber cómo en la ciencia <sci-know-how>
 
@@ -691,7 +691,7 @@ mejor--es decir, al adquirir el saber-cómo relevante--los científicos aprenden
 algo sobre el mundo. #h(1fr) (pp. 296--297)
 ]
 
-#questionx[Haugeland distingue entre aprender cómo hacer algo y la recolección
+#question[Haugeland distingue entre aprender cómo hacer algo y la recolección
 de evidencia usando un argumento similar a los de Ryle: a fin de evitar un
 círculo vicioso, tenemos que tratar al primero como algo distinto a lo segundo.
 Como ya vimos, hay ciertos reparos con los argumentos de Ryle. ¿Afectan al
