@@ -1,5 +1,5 @@
 // vim: spell spelllang=es
-#import "../utils.typ": question, questionx, aside
+#import "../utils.typ": question, aside
 #import "../logic.typ": would
 
 = Contra el fantasma en la máquina
@@ -202,7 +202,7 @@ categoriales por disciplinas categoriales’ (lxi), es decir, el reemplazo de
 maneras enraizadas pero irreflexivas de usar los conceptos, por otras que sean
 reflexivas y responsables.
 
-#questionx(answer: [Ambas posturas pueden defenderse (así como la teoría de que
+#question(answer: [Ambas posturas pueden defenderse (así como la teoría de que
 los errores de categoría no son ni absurdos ni necesariamente falsos, véase
 @Magidor2013 para más detalles). Cabe hacer la siguiente observación lógica
 para apreciar el efecto de tomar una u otra posición. Si un error de categoría

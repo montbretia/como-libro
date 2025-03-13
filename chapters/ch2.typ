@@ -1,5 +1,5 @@
 // vim: spell spelllang=es
-#import "../utils.typ": question, questionx, aside
+#import "../utils.typ": question, aside
 #import "../logic.typ": fitch
 #set text(lang: "es")
 
@@ -93,7 +93,7 @@ manejar. Puede ser que además de tener cierto tipo de control, algo más sea
 necesario. Quizás estas ideas todavía pertenezcan a la imagen ordinaria que
 tenemos acerca de saber cómo actuar y de control. 
 
-#questionx(answer: [Un argumento en contra: la imagen manifiesta del saber cómo puede no
+#question(answer: [Un argumento en contra: la imagen manifiesta del saber cómo puede no
   estar cerrada bajo la implicación lógica (es decir, puede que no
   acepte todas las consecuencias lógicas de sus postulados, lo que es
   usualmente un requerimiento formal de las teorías científicas). Otro
@@ -297,7 +297,7 @@ tenemos que la teoría es falsa:
 Del mismo modo, si una teoría implica que algo es imposible, mostrar que es
 posible derrota la teoría.
 
-#questionx(answer: [Estas propuestas platónicas no parecen ser buenas
+#question(answer: [Estas propuestas platónicas no parecen ser buenas
 definiciones. El problema principal es que no parecen tener un peso explicativo:
 que algo sea un bípedo implume con uñas anchas no parece explicar que sea un ser
 humano; al contrario, el que sea humano parece explicar que sea un bípedo
@@ -361,7 +361,7 @@ recibirá la promoción tiene diez monedas en su bolsillo. Smith satisface las
 condiciones del anális JTB (tiene una creencia verdadera y justificada), pero
 esto no basta para que tenga conocimiento.
 
-#questionx(answer: [No creo que los contraejemplos de Gettier sean decisivos
+#question(answer: [No creo que los contraejemplos de Gettier sean decisivos
 contra el concepto clásico de conocimiento, pero sí sugieren que es posible
 concebir el conocimiento de manera que este se vea socavado por ciertos tipos de
 suerte epistémica. El problema está en que a menudo empleamos un concepto de
@@ -460,7 +460,7 @@ construcción de un modelo de este tipo puede entregarnos una estimación
 arbitrariamente precisa de las condiciones en las que el concepto queda
 satisfecho.
 
-#questionx(answer: [A menudo podemos emplear un modelo que sabemos que es falso
+#question(answer: [A menudo podemos emplear un modelo que sabemos que es falso
 para examinar el comportamiento de un sistema o concepto. Del mismo modo,
 podemos usar un análisis falso para examinar cómo serían las cosas si fuera
 verdadero; al ver que un análisis falso entra en problemas, podemos avanzar
@@ -499,7 +499,7 @@ y determinar cuál es el fenómeno. Si abandonamos todas las ideas preconcebidas
 acerca del saber como, por ejemplo, ¿cómo podríamos apresar el fenómeno? En
 efecto, podríamos tener que recomponer esas mismas ideas preconcebidas.
 
-#questionx(answer: [Una observación en contra: no hay razón para pensar que las
+#question(answer: [Una observación en contra: no hay razón para pensar que las
 ideas preconcebidas son adecuadas. ])[¿Deberíamos realmente tomar la postura
 conservadora acerca de las ideas preconcebidas como la postura por defecto?]
 
@@ -648,7 +648,7 @@ modelos o teorías sobre el conocimiento.
 
   Lo que es equivalente a que todas las proposiciones verdaderas sean conocidas: $ forall p (p -> K p) $
 
-  #block(inset: 3pt)[#questionx(answer: [El problema de la paradoja de Fitch ha
+  #block(inset: 3pt)[#question(answer: [El problema de la paradoja de Fitch ha
   generado una industria de propuestas para evitar la paradoja sin tener que
   rechazar las asunciones. En principio uno podría evitar la paradoja
   simplemente rechazando una de ellas; por ejemplo, yo creo que la tesis de que
@@ -773,7 +773,7 @@ sido examinado también desde la perspectiva de la filosofía experimental. Para
 evaluar estas contribuciones debemos primero entrar en la tarea concreta de
 examinar cómo se construye una teoría sobre el saber cómo.
 
-#questionx(answer:[Si bien tengo afinidades con el pluralismo metodológico, creo que la
+#question(answer:[Si bien tengo afinidades con el pluralismo metodológico, creo que la
   postura tiene varias debilidades. Primero, es necesario racionalizar
   las maneras en que se coordinen las distintas metodologías
   filosóficas, así como las maneras en que evaluamos qué metodología
