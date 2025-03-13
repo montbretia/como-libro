@@ -1,4 +1,6 @@
 // vim: spell spelllang=es
+#import "../utils.typ": questionx
+
 = Otras epistemologías
 
 == Etnoepistemología
@@ -54,6 +56,9 @@ en sí mismo un acto moral, cuyo valor no se explica en términos 'naturales') y
 de reconocimiento. Esto es especialmente importante dado que en muchos casos las
 perspectivas que investiga la etnoepistemología han sido históricamente pasadas
 por alto o derechamente suprimidas.
+
+#questionx[¿Puede haber estudios etnoepistemologicos sobre la epistemología
+tradicional, occidental?]
 
 En este capítulo, quiero esbozar un análisis de ciertos aspectos de lo que
 podríamos llamar el esquema epistemológico _mapuche_, la porción de la
@@ -263,6 +268,9 @@ experiencia.
         ¡sólo esforzándote vencerás tu ignorancia!]
         )
     ]
+
+#questionx[¿Qué podría pasar si no se adoptara esta política de adopción responsable del
+testimonio?]
 
 @Mora2016 hace la importante observación de que la posesión del estado
 epistémico de ser _kimche_ no es una cuestión meramente interna al sujeto, sino
