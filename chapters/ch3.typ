@@ -175,9 +175,9 @@ considerarse como los más cercanos depende del contexto.
 
 #figure[
   #v(1em)
-  #circle(radius: 50pt, stroke: red.transparentize(50%))
-  #place(center + horizon, circle(radius: 40pt, stroke: red.transparentize(25%)))
-  #place(center + horizon, circle(radius: 25pt, stroke: red))
+  #circle(radius: 50pt, stroke: red.transparentize(100%))
+  // #place(center + horizon, circle(radius: 40pt, stroke: red.transparentize(25%)))
+  #place(center + horizon, circle(radius: 35pt, stroke: red))
   #place(center, line(start: (0pt, -50pt), length: 110pt, stroke: (paint: black.transparentize(60%), dash: "dashed")))
   #place(center, line(start: (0pt, -110pt), end: (0pt, 10pt), stroke: (paint: black.transparentize(60%), dash: "dashed")))
   #place(center + horizon, line(start: (70pt, -8pt), end: (120pt, -30pt), stroke: (0.5pt)))
