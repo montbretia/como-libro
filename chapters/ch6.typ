@@ -164,7 +164,7 @@ $sigma'$. En el estado $sigma'$, escribimos "0", nos movemos a la derecha, y
 pasamos al estado $sigma$ nuevamente.
 
 #figure(caption: [_Algunas iteraciones del programa. La posición del cabezal está
-marcada en rojo._])[
+marcada en azul._])[
     #table(
         rows: 1.5em, 
         columns: (1.5em,) * 12, 
@@ -601,7 +601,7 @@ humanos manifiesten inteligencia. Quienes están interesados meramente en lo
 segundo, no es necesario emplear la inteligencia humana como modelo. Lo
 importante en este caso es poder construir agentes que tengan ciertas
 capacidades y que posean cierto grado de autonomía (claro está, para la
-definición de que capacidades y grado de autonomía son relevantes, el mejor
+definición de qué capacidades y grado de autonomía son relevantes, el mejor
 modelo es el de la inteligencia humana; sin embargo, hay que distinguir entre el
 modelo humano como definitorio de los estándares de inteligencia, y el modelo
 humano como definitorio de qué mecanismos han de implementarse en agentes
@@ -633,7 +633,7 @@ con la idea de que, precisamente, el saber-cómo requiere este tipo de
 flexibilidad, la conclusión obvia es que los agentes artificiales no pueden
 tener saber-cómo.#footnote[
     Formalmente, leyendo $C s$ como 's posee saber cómo', $R s$ como 'la
-    conducta de s es sensible al contextot', y $A s$ como 's es un agente
+    conducta de s es sensible al contexto', y $A s$ como 's es un agente
     artificial':
     #fitch(ratio: (1fr, 2fr))[
         + $forall s (C s -> R s)$ (asunción)
@@ -706,7 +706,7 @@ El experimento mental de Searle consiste en lo siguiente:
   junto a un libro de instrucciones para manipular los símbolos (el programa).
   Imaginen que hay gente que está fuera de la pieza que meten cadenas de
   símbolos chinos (la entrada) a la pieza, que en efecto son preguntas en chino,
-  sin que la persona en a pieza sepa que son preguntas. Imaginen que, siguiendo
+  sin que la persona en la pieza sepa que son preguntas. Imaginen que, siguiendo
   las instrucciones dadas en el programa, esta persona es capaz de emitir
   cadenas de símbolos chinos (la salida) al exterior de la pieza, que en efecto
   son respuestas correctas a las preguntas. El programa le permite a la persona
@@ -780,7 +780,7 @@ puede aplicarse al caso del saber-cómo es el así llamado argumento de la
 _informalidad de la inteligencia_. Este argumento está asociado al trabajo del
 filósofo Hubert Dreyfus (especialmente su libro _What Computers Can't Do_,
 #cite(<Dreyfus1972>, form: "year")), pero fue esbozado primero por @Turing1950.#footnote[@Dreyfus2014 reúne la
-mayoría de los trabajos de Deryfus sobre la naturaleza de las competencias
+mayoría de los trabajos de Dreyfus sobre la naturaleza de las competencias
 inteligentes.] La idea central del argumento es
 que la posibilidad de la inteligencia artificial requiere que exista cierta
 unidad formal de la estructura de normas a las que hay que ser sensible para
@@ -843,7 +843,7 @@ seres humanos actúan porque se ven enfrentados a cosas que requieren oposición
 resistencia. Sin embargo, las máquinas no tienen interés en resolver problemas o
 enfrentarse a la realidad de ninguna manera. Parafraseando a John Haugeland
 (#cite(<Haugeland1979>, form: "year")) usando un chilenismo, el problema con la inteligencia
-artificial es los computadores que no están ni ahí.#footnote[Haugeland dijo:
+artificial es que los computadores no están ni ahí.#footnote[Haugeland dijo:
 'the trouble with artificial intelligence is that computers don\'t give a damn.']
 Noë sugiere que computadores que pudiesen hacer esto, sí podrían hacer cosas;
 pero al hacerlo, dejarían de ser computadores: serían nuestros
@@ -966,7 +966,7 @@ investigar aún.
 
 En este capítulo no toco el punto, pero las discusiones en ciencia cognitiva
 ofrecen una línea de ataque distinta en los debates sobre la naturaleza del
-saber-cómo. Por ejemplo, casos de sujetos con amnesia que mantienenen ciertas
+saber-cómo. Por ejemplo, casos de sujetos con amnesia que mantienen ciertas
 competencias motrices parecen sugerir alguna forma de anti-intelectualismo. Sin
 embargo, @Stanley2013 presentan un argumento a favor del intelectualismo
 basado en esa misma evidencia. Véase @Schwartz2019 para más discusión.
