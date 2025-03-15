@@ -351,10 +351,10 @@ similar:
 
 #quote(block: true)[Para cualquier programa y para cualquier objeto
 suficientemente completo, hay una descripción del objeto según la cual este
-implementa el programa. Así, por ejemplo, la muralla que tengo detrás mío en
+implementa el programa. Así, por ejemplo, la muralla que tengo tras de m→ en
 este momento implementa el programa Wordstar, porque hay un patrón de
-mmovimientos que es isomórfico con la estructura formal de Wordstar. Pero si el
-muro implementa Wordstar y si es lo suficientemewnte grande, implementa
+movimientos que es isomórfico con la estructura formal de Wordstar. Pero si el
+muro implementa Wordstar y si es lo suficientemente grande, implementa
 cualquier programa, incluyendo cualquier programa que implementa el cerebro.
 (209)]
 
