@@ -8,7 +8,7 @@ saber-cómo es un individuo. Sin embargo, es importante examinar si es posible
 que grupos de sujetos posean saber-cómo, y en qué sentido. ¿Sabe NASA cómo
 preparar una misión para enviar gente a Marte? Debería, ya que parece estar
 dentro de sus planes a largo plazo. ¿Saben los filósofos de la ciencia, como
-grupo, saben cómo evaluar teorías científicas? Sí, aunque no hay concenso acerca
+grupo, cómo evaluar teorías científicas? Sí, aunque no hay consenso acerca
 de cómo hacerlo. ¿Sabe el equipo de remo Argentino cómo mejorar su récord? Al
 menos, parecen intentarlo. Si estos tipos de juicios tienen sentido, es
 necesario proveer una teoría del saber-cómo colectivo, institucional o grupal.
@@ -23,7 +23,7 @@ casos de estudio interesantes: el del saber-cómo científico
 == Saber-cómo colectivo <groups>
 
 Casos como los que acabo de describir en la introducción sugieren que al menos
-en algunos casos atribuímos saber-cómo a entidades colectivas como grupos,
+en algunos casos atribuimos saber-cómo a entidades colectivas como grupos,
 instituciones y comunidades. ¿Cómo entender esto? No hay una sola posibilidad.
 Por ejemplo, alguien podría rechazar la idea de que entidades como estas puedan
 tener saber-cómo o estados mentales en general, y explicar estas formas de
@@ -34,12 +34,12 @@ porción (ya sea la totalidad, la mayoría, o quizás una porción contextualmen
 significativa) de los miembros de masa individualmente sepan cómo hacerlo. En
 ese caso, la introducción de formas de hablar acerca del 'saber-cómo colectivo'
 sería simplemente una manera más expediente para describir ciertos fenómenos.
-Del mismo modo, quizás podríamos tratat la idea del 'saber-cómo colectivo' como
+Del mismo modo, quizás podríamos tratar la idea del 'saber-cómo colectivo' como
 una 'ficción útil' (en este caso, ni siquiera tenemos que comprometernos con que
 los juicios acerca del saber-cómo colectivo se reduzcan a juicios acerca del
-saber-cómo de individuos). Si bien podríámos adoptar alguna de estas estrategias
+saber-cómo de individuos). Si bien podríamos adoptar alguna de estas estrategias
 deflacionistas o anti-realistas, no es claro que debamos hacerlo. Como veremos
-enseguida, iertos fenómenos sugieren que el modelo reduccionista no es viable, y
+enseguida, ciertos fenómenos sugieren que el modelo reduccionista no es viable, y
 la estrategia ficcionalista también es problemática. Para apreciar el problema y
 barajar las opciones, en la @k-colectivo examinaremos el problema general de
 atribuir agencia y estados epistémicos a entidades colectivas. Luego, en la
@@ -62,13 +62,13 @@ decir que constituimos una entidad colectiva. Sin embargo, podríamos decir que
 somos parte de una entidad colectiva que es responsable por el incremento de $C
 O_2$ en la atmósfera (¿o por qué no decir que formamos parte de dos o más
 entidades colectivas, que dividen la población terrestre de distintas maneras?).
-Este ejemplo ilustra que la manera en que determinamos qué cuenta como una
-entidad colectiva o no es en general bastante complejo y que toma como
+Este ejemplo ilustra que la manera en que determinamos qué cuenta o no como una
+entidad colectiva es en general bastante complejo y que toma como
 antecedentes muchos aspectos.] Dicho de otra manera, las entidades colectivas en
 el sentido que nos interesa aquí son entidades capaces de realizar acciones
 colectivas.#footnote[Cf. @Tuomela1989.] Las entidades colectivas en este sentido
 incluyen lo que podríamos llamar 'grupos sociales', que son colecciones de
-personas que interactuan entre sí y que además comparten ciertas actitudes (cf.
+personas que interactúan entre sí y que además comparten ciertas actitudes (cf.
 @Tollefsen2014[p.88]).
 
 Como sugería en la introducción a esta sección, uno podría adoptar una postura
@@ -228,7 +228,7 @@ intencional basadas en creencias colectivas, no es implausible pensar que
 realizan esas acciones manifestando cierta forma de saber-cómo. En efecto,
 ciertos estudios experimentales sugieren que las personas sí tienden atribuir
 saber-cómo a entidades colectivas (véase @Jenkins2014[pp. 3--4]). Otro argumento
-que podríá darse a favor de la posibilidad del saber-cómo colectivo se inspira
+que podría darse a favor de la posibilidad del saber-cómo colectivo se inspira
 en los argumentos dados a favor de la posibilidad del saber-cómo extendido: así
 como hay que reconocer como estados de saber-cómo a estados que se extienden más
 allá del cuerpo de ciertos sujetos, en vistas a sus perfiles funcionales, puede
@@ -566,7 +566,7 @@ trasfondo para todas las prácticas específicas que realizan quienes pertenecen
 ellas.
 
 De esta forma, por sobre las prácticas específicas se impone un marco más
-general que da les da sentido y forma.#footnote[Una manera de entender esto es
+general que les da sentido y forma.#footnote[Una manera de entender esto es
 que las prácticas tienen causas estructurantes, en el sentido de @Dretske1988.
 Una causa gatillante causa un evento; una causa estructurante hace que un evento
 tenga un efecto de cierto tipo. Que alguien haya trazado una línea en el suelo

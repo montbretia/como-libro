@@ -501,7 +501,7 @@ híbridas, y que son compatibles con o implican que el sujeto sepa cómo hacer l
 mismo. Por ejemplo, podemos considerar a un sujeto que tiene una habilidad para
 producir imágenes rotadas de objetos tridimensionales sobre una base categórica
 puramente biológica (el sujeto tiene la capacidad de imaginar estas figuras y
-rotarlas en su imagiinación, por ejemplo) que satisface las condiciones para
+rotarlas en su imaginación, por ejemplo) que satisface las condiciones para
 que digamos que sabe cómo producir tales imágenes, y a otro sujeto que tiene la
 misma habilidad, solo que en su caso la habilidad tiene una base categórica
 híbrida (en vez de imaginar objetos rotados, el sujeto hace uso de modelos
