@@ -138,7 +138,7 @@ sean distintas en varios aspectos. Ñanculef y Loncón ponen especial énfasis e
 la manera en que la epistemología mapuche está situada en el contexto más
 general de la cosmovisión mapuche, pero por lo mismo no abordan cuestiones de
 detalle. Mora, por su parte, sí se preocupa por las cuestiones de detalle, y
-ofrece hace un rico y sugerente análisis del uso de los conceptos relevantes
+hace un rico y sugerente análisis del uso de los conceptos relevantes
 dentro del esquema mapuche. Sin embargo, su interpretación está filtrada por un
 enfoque hermenéutico que a veces parece distraer de las cuestiones
 epistemológicas más importantes.#footnote[La adopción de este enfoque tiene
