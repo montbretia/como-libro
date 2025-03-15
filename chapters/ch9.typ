@@ -57,11 +57,12 @@ _injusticia epistémica_, en un sentido general.
 podríamos describir lo mismo en términos de habilitaciones y restricciones.
 Ocupar un rol habilita ciertas acciones, pero al mismo tiempo restringe qué
 acciones se puede tomar. Es importante notar que la noción de un rol es
-estructural, ya que un rol estar ocupado (por un sujeto que juega ese rol) o no,
-y esto no significa que el rol deje de existir, o al menos tener sentido, en un
-contexto determinado.#footnote[Vease @Haslanger2018 para una caracterización
-útil de las prácticas sociales que explica la ocupación de roles (la creación y
-mantención de roles es una práctica social en el sentido de Haslanger).]]
+estructural, ya que un rol puede estar ocupado (por un sujeto que juega ese rol)
+o desocupado, y esto último no significa que el rol deje de existir, o al menos
+tener sentido, en un contexto determinado.#footnote[Vease @Haslanger2018 para
+una caracterización útil de las prácticas sociales que explica la ocupación de
+roles (la creación y mantención de roles es una práctica social en el sentido de
+Haslanger).]]
 
 Algunos filósofos han tratado de desarrollar esta idea, u otras similares, de
 maneras más concretas. Por ejemplo, Miranda Fricker (#cite(<Fricker2007>, form:
@@ -142,9 +143,7 @@ Al principio, Lisa tiene una laguna interpretativa; no _ve_ que lo que le sucede
 es que es víctima de acoso. Su situación no es única, la situación en la que
 está parece estar estructurada de manera que nadie pueda reconocer lo que está
 sucediendo, al punto de que lo único que cambia la situación de Lisa es un
-encuentro casual con la idea de acoso laboral. En este caso, la injEn
-la #ref(<testimonio>) vimos algunos de los problemas que hay acerca de la
-transmisión testimonial del saber-cómo. Como vimos, en general no es suficienteusticia
+encuentro casual con la idea de acoso laboral. En este caso, la injusticia
 proviene de la manera en que sujetos como Lisa están marginalizados
 hermenéuticamente en ese contexto. Esta marginalización puede ser sistemática o
 incidental.
@@ -190,9 +189,12 @@ pueden tomar respecto a, principalmente, el conocimiento proposicional. El caso
 central de injusticia epistémica que Fricker examina, la injusticia testimonial,
 precisamente consiste es una injusticia que alguien comete respecto a alguien
 que toma el rol de informante en el sentido de hacer afirmaciones
-presumiblemente fundadas en su conocimiento u otras actitudes siEn
+presumiblemente fundadas en su conocimiento u otras actitudes similares. En
 la #ref(<testimonio>) vimos algunos de los problemas que hay acerca de la
-transmisión testimonial del saber-cómo. Como vimos, en general no es suficientemilares.
+transmisión testimonial del saber-cómo. Como vimos, en general no es suficiente
+que se ofrezcan afirmaciones; el sujeto que recibe el testimonio debe estar
+dispuesto adecuadamente también. En los casos de injusticia epistémica, quien
+recibe el testimonio presenta resistencia.
 
 Ciertamente, al menos parte del rol de quienes tienen saber-cómo consiste en ser
 fuentes de saber-cómo para otros (saber-cómo hacer algo te da el derecho de
@@ -344,7 +346,7 @@ otros? ¿Puede haber casos en que el contexto hace, de virtudes, vicios?]
 estilos de pensamiento o investigación, formas de buscar y evaluar evidencia,
 que impiden el desarrollo efectivo y responsable de ciertas tareas epistémicas
 (cf. p. 164). Cassam argumenta que no es necesario pensar que los vicios
-epistémicos son siembre rasgos de carácter, como en el modelo aristotélico de la
+epistémicos son siempre rasgos de carácter, como en el modelo aristotélico de la
 virtud y el vicio; otras cosas como el ignorar cierta evidencia es un vicio
 porque impide que se investigue efectiva y responsablemente. Lo que hace que
 algo sea un vicio es su 'influencia maligna' en las prácticas investigativas en
@@ -456,7 +458,7 @@ nuestras competencias.
 
 Una vez que aprende a hacer algo, un agente epistémico virtuoso busca hacer su
 saber-cómo más estable y mejor en todo sentido, hasta donde es razonable. Por
-ejemplo, busca saber cómo otros sujetos hace lo mismo, con el fin de investigar
+ejemplo, busca saber cómo otros sujetos hacen lo mismo, con el fin de investigar
 mejores maneras de hacerlo. La posibilidad de una falta de compromiso con estas
 cosas, o de un impulso exagerado a hacerlas debido a una falta de confianza en
 las capacidades de uno mismo pueden llegar a ser vicios, del mismo modo que pasa
