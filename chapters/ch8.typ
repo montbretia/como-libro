@@ -604,11 +604,11 @@ la instrucción explícita o mediante nuestra propia capacidad de emular a
 aquellos que nos rodean.
 
 #aside[Para describir este tipo de fenómenos, el sociólogo Pierre Bordieu
-desarrolla una teoría de lo que llamaa _habitus_. Bordieu describe el _habitus_
+desarrolla una teoría de lo que llama _habitus_. Bordieu describe el _habitus_
 como 'sistemas de disposiciones duraderas y transportables, estructuras
 estructuradas predispuestas a funcionar como estructuras estructurantes, es
 decir, como principios que generan y organizan a prácticas y representaciones
-que se pueden adaptar a sus resultados sin presuponer una persecución conciente
+que se pueden adaptar a sus resultados sin presuponer una persecución consciente
 de fines o una maestría explícita de las operaciones necesarias para obtenerlos.
 'Reguladas' y 'regulares' objetivamente sin ser el producto de una forma de
 obediencia a reglas, pueden orquestrarse colectivamente sin ser el producto de
@@ -620,7 +620,7 @@ maneras de ver la cuestión. Por una parte, podemos describirlo como el saber-c�
 esperamos que alguien que pertenece a una cultura tenga por el hecho de
 pertenecer a esa cultura. En este sentido, estaríamos frente a una forma de
 saber-cómo individual del que esperamos que tenga cierta distribución en una
-población dada. Así, cuando ascribimos una cierta 'manera de actuar' a los
+población dada. Así, cuando adscribimos una cierta 'manera de actuar' a los
 chilenos (en lo que respecta a las maneras en que manifiestan las peculiaridades
 de su cultura), lo que estaríamos diciendo es algo así como que cada chileno
 tiene una manera de actuar que sabe cómo realizar, y que esta manera de actuar
@@ -816,7 +816,7 @@ lo que llama una 'matriz disciplinar', que incluye generalizaciones, modelos
 aceptados y heurísticos, valores y lo que llama 'ejemplares', que son soluciones
 a problemas concretos a los que los miembros de la comunidad son expuestos
 durante su entrenamiento como miembros de la comunidad (cosas como los problemas
-del plano inclinado, el cálculo de trajectorias Keplerianas, el funcionamiento
+del plano inclinado, el cálculo de trayectorias Keplerianas, el funcionamiento
 de un calorímetro, etc.). Estos ejemplares tienen la función de proveer, en un
 contexto de aprendizaje, de cierto saber-cómo a los aprendices, pues les dan la
 oportunidad de aplicar las reglas, conceptos, instrumentos, etc. que son
