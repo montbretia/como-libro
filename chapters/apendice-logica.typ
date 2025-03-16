@@ -392,9 +392,6 @@ Como regla derivada de estas, tenemos:
   + $p$ (5, neg elim)
   ]
 
-Vamos a permitir que si algo puede tomarse como verdadero, lo podemos _reiterar_
-en cualquier paso de la prueba posterior.
-
 Con estas reglas podemos construir cualquier prueba para la lógica
 proposicional. Por ejemplo, podemos probar que $(p and q) and r$ se sigue de $p
 and (q and r)$:
@@ -409,6 +406,12 @@ and (q and r)$:
 + $(p and q) and r$ (6,5 conj. intro)
 ]
 
+En adición a las reglas anteriores, vamos a permitir que si algo puede tomarse
+como verdadero, lo podemos _reiterar_ en cualquier paso de la prueba posterior
+(técnicamente, esto es una aplicación de las reglas de introducción y
+eliminación de conjunciones: de $p$ podemos pasar a $p and p$, y de
+$p and p$ a $p$).
+
 Como un ejemplo de una prueba en que usamos la regla de reiteración, considérese
 esta manera de probar que $q -> p$ a partir de la premisa $p$:
 
@@ -416,8 +419,13 @@ esta manera de probar que $q -> p$ a partir de la premisa $p$:
   + $p$ (prem)
   + $[q]$ 
   + $p$ (reit.)
-  + $(q -> p)$ (2, 3 cond. intro)
+  + $q -> p$ (2, 3 cond. intro)
 ]
+
+
+
+
+
 
 Podemos ver que ciertas proposiciones pueden probarse sin premisas. Por ejemplo:
 $p -> (q -> p)$:
