@@ -652,7 +652,9 @@ modelos o teorías sobre el conocimiento.
   generado una industria de propuestas para evitar la paradoja sin tener que
   rechazar las asunciones. En principio uno podría evitar la paradoja
   simplemente rechazando una de ellas; por ejemplo, yo creo que la tesis de que
-  toda proposición verdadera es cognoscible es insostenible. Otra forma de
+  toda proposición verdadera es cognoscible es insostenible (es decir, defiendo
+  una forma de _realismo_, porque creo que hay cosas que son verdaderas
+  independientemente de que tengamos cierta relación con ellas). Otra forma de
   evitar la paradoja es reformular la tesis de cognoscibilidad, ya sea
   restringiéndola a una clase de verdades, o manteniendo su generalidad pero
   formulandola en otros términos. Otras posibilidades son revisar la lógica de

@@ -510,9 +510,16 @@ que debe haber una clase de conceptos a los que aplica un principio como
 haya es una consecuencia de la tesis de suficiencia. De modo que estas
 preocupaciones sobre (1) no son graves.
 
-#question[Como discutimos antes, uno podría reemplazar la premisa (1) del
-  argumento contra la tesis de suficiencia por un principio acerca de un
-  concepto intelectual específico. Por ejemplo, un podría adoptar:
+#question(answer: [Si alguien fuera astuto y sagaz, y si su sagacidad y su
+astucia consistieran en la posesión de ciertas proposiciones, tendríamos que
+decir que si su sagacidad y su astucia fueran distintas propiedades, tendrían
+que consistir en la posesión de distintos conjuntos de proposiciones. Si fuera
+posible que alguien fuera astuto y no sagaz aunque supiera las mismas
+proposiciones, entonces o bien la astucia o la sagacidad tendrían que consistir
+en algo distinto a la posesión de ciertas proposiciones.])[Como
+discutimos antes, uno podría reemplazar la premisa (1) del argumento contra la
+tesis de suficiencia por un principio acerca de un concepto intelectual
+específico. Por ejemplo, un podría adoptar:
 
   #[
     #set enum(numbering: "1'')")
@@ -719,9 +726,12 @@ acerca de cómo se haga algo no significa necesariamente que no tenga ese
 conocimiento. Sin embargo, aquí nuevamente entramos en la discusión de
 qué cuenta como conocimiento o no.
 
-#question[¿Qué razones podemos tener para decir que alguien tiene conocimiento
-  si no puede expresarlo?
-]
+#question(answer: [Podríamos tener razones para pensar que si alguien tiene
+cierto conocimiento tiene que comportarse de varias maneras, y estas maneras de
+actuar podrían no ser solamente formas de expresar ese conocimiento. Por
+ejemplo, que alguien se abrigue antes de salir de su casa sugiere que la persona
+sabe que podría hacer frío.])[¿Qué razones podemos tener para decir que alguien tiene conocimiento
+  si no puede expresarlo?]
 
 En CM, Ryle ofrece un argumento distinto contra la tesis de necesidad,
 que parece evitar estas dificultades, al menos en parte. Resumiendo su
@@ -1082,7 +1092,12 @@ capítulo veremos una serie de argumentos que presentan dificultades para
 esta propuesta, que buscarán mostrar que la posesión de habilidades no
 es ni necesaria ni suficiente para la posesión de saber cómo.
 
-#question[¿Hay otras maneras de saber si alguien tiene una habilidad?
+#question(answer: [Podría pensarse que atribuir habilidades depende en algunos
+casos de que podamos reconocer que el sujeto al que atribuimos habilidades es
+similar a otros sujetos de los que juzgamos que poseen esas habilidades. Puedo
+suponer que ustedes pueden hacer el mismo tipo de cosas que yo porque son
+similares a mi, incluso si no tengo experiencia acerca de su historial de éxitos
+y fracasos.])[¿Hay otras maneras de saber si alguien tiene una habilidad?
 ]
 
 Antes dije que la postura de Ryle era radical. Ciertamente, su oposición
