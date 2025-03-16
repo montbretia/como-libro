@@ -1150,13 +1150,13 @@ escrúpulos metafísicos de Ryle.
 
 == Una aplicación: saber cómo se siente
 
-La distinción entre saber proposicional y saber cómo introducida por
-Ryle ha sido extremadamente influyente, y ha sido usada para una
-diversidad de propósitos. Un ejemplo interesante es el de Lewis
-(#cite(<Lewis1983>, form: "year"), #cite(<Lewis1988>, form: "year")), en defensa del materialismo sobre lo mental frente a una objeción
-popularizada por Frank Jackson (#cite(<Jackson1982>, form: "year")), el así llamado #emph[argumento
-del conocimiento];. Jackson ilustra el problema con un experimento
-mental:
+La distinción entre saber proposicional y saber cómo introducida por Ryle ha
+sido extremadamente influyente, y ha sido usada para una diversidad de
+propósitos. Un ejemplo interesante es el de Lewis (#cite(<Lewis1983>, form:
+"year"), #cite(<Lewis1988>, form: "year")), en defensa del materialismo sobre lo
+mental frente a una objeción popularizada por Frank Jackson
+(#cite(<Jackson1982>, form: "year")), el así llamado #emph[argumento del
+conocimiento];. Jackson ilustra el problema con un experimento mental:
 
 / Mary, la neurocientífica: En el futuro, se
   ha obtenido una teoría completa de la ciencia de la percepción de
