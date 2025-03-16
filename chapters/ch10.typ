@@ -115,17 +115,10 @@ materia, y menos en ramos a estudiar o aprender como lo hacen desde occidente.'
 (p. 21)] Mi interés es presentar las porciones de este esquema que inciden en la
 cuestión de lo que podríamos llamar el saber-cómo, el conocimiento práctico que
 guía la acción, y en particular el saber-cómo _cotidiano_, fuera de contextos
-rituales (donde también aplica, pero que requerirían una discusión
-diferente).#footnote[La distinción entre saber-que y saber-cómo fue popularizada
-por @Ryle1949, con el propósito de mostrar que no es necesario explicar la
-acción inteligente en términos de la posesión de conocimiento 'teórico' que
-luego se aplica en la acción (una suposición que Ryle llamó intelectualismo). El
-debate acerca del saber-cómo ha sido dominado por la discusión de si ha de
-entenderse el saber-cómo como algo distinto al conocimiento proposicional o no.
-Introduciré los problemas relevantes cuando sea oportuno más abajo.] Segundo, la
-perspectiva desde la que hago mi análisis es distinta a la de ellos. Digamos que
-una perspectiva etnoepistemológica es _interna_ si el investigador pertenece a
-la cultura cuya epistemología está examinando, y _externa_ si no es
+rituales (donde también aplica, pero que requerirían una discusión diferente).
+Segundo, la perspectiva desde la que hago mi análisis es distinta a la de ellos.
+Digamos que una perspectiva etnoepistemológica es _interna_ si el investigador
+pertenece a la cultura cuya epistemología está examinando, y _externa_ si no es
 así.#footnote[La distinción es porosa, precisamente como efecto de la
 interculturalidad: desde una perspectiva externa es posible aproximar una
 perspectiva interna, y asimismo, una perspectiva interna en este sentido puede
@@ -138,21 +131,21 @@ sean distintas en varios aspectos. Ñanculef y Loncón ponen especial énfasis e
 la manera en que la epistemología mapuche está situada en el contexto más
 general de la cosmovisión mapuche, pero por lo mismo no abordan cuestiones de
 detalle. Mora, por su parte, sí se preocupa por las cuestiones de detalle, y
-hace un rico y sugerente análisis del uso de los conceptos relevantes
-dentro del esquema mapuche. Sin embargo, su interpretación está filtrada por un
-enfoque hermenéutico que a veces parece distraer de las cuestiones
-epistemológicas más importantes.#footnote[La adopción de este enfoque tiene
-cierta justificación dada la importancia del lenguaje en el esquema
-epistemológico mapuche, como veremos. Mi punto es solamente que esta afinidad no
-_requiere_ el uso de la metodología hermenéutica que Mora adopta.] En cambio,
-para bien o para mal, mi perspectiva es la de la epistemología contemporánea
-analítica, y trato de emplear las herramientas que este enfoque provee para el
-análisis filosófico. Estas tradicionalmente consisten en métodos de análisis
-conceptual, construcción de modelos, etc.#footnote[@Bengson2022 ofrecen una
-excelente visión general de las metodologías analíticas contemporáneas.] Para
-los propósitos de la etnoepistemología, el enfoque analítico provee de un modelo
-de reconstrucción lógica o conceptual de los objetos filosóficos de interés (en
-nuestro caso, de los conceptos y las prácticas epistemológicas relevantes).
+hace un rico y sugerente análisis del uso de los conceptos relevantes dentro del
+esquema mapuche. Sin embargo, su interpretación está filtrada por un enfoque
+hermenéutico que a veces parece distraer de las cuestiones epistemológicas más
+importantes.#footnote[La adopción de este enfoque tiene cierta justificación
+dada la importancia del lenguaje en el esquema epistemológico mapuche, como
+veremos. Mi punto es solamente que esta afinidad no _requiere_ el uso de la
+metodología hermenéutica que Mora adopta.] En cambio, para bien o para mal, mi
+perspectiva es la de la epistemología contemporánea analítica, y trato de
+emplear las herramientas que este enfoque provee para el análisis filosófico.
+Estas tradicionalmente consisten en métodos de análisis conceptual, construcción
+de modelos, etc.#footnote[@Bengson2022 ofrecen una excelente visión general de
+las metodologías analíticas contemporáneas.] Para los propósitos de la
+etnoepistemología, el enfoque analítico provee de un modelo de reconstrucción
+lógica o conceptual de los objetos filosóficos de interés (en nuestro caso, de
+los conceptos y las prácticas epistemológicas relevantes).
 
 Finalmente, si bien parte de mi afán aquí es reconocer el interés de suyo de la
 epistemología mapuche, en este capítulo no busco defenderla frente a otros tipos
@@ -464,48 +457,6 @@ En la sección anterior hemos examinado las líneas generales de la epistemolog�
 mapuche. En esta sección quiero examinar cómo este esquema puede aplicarse a la
 cuestión del saber-cómo o conocimiento práctico.
 
-Antes de proceder, cabe hacer algunas observaciones acerca de a qué me refiero
-por 'saber-cómo', y los debates contemporáneos sobre este concepto. El término
-es un préstamo del inglés, como traducción de 'know-how', aunque en español
-existe la expresión 'saber hacer', que tiene un significado similar; apunta en
-cualquier caso a la forma de conocimiento que se manifiesta en la capacidad de
-realizar acciones o actuar de ciertas maneras (como ejemplos típicos están el
-saber andar en bicicleta, cocinar, realizar manualidades, ejercer un oficio,
-etc.) A menudo se opone el saber-cómo a formas teóricas del conocimiento, que se
-disocian de la práctica y que se caracterizan en términos de la posesión o
-transmisión de información (en este sentido, se 'sabe' a modo del conocimiento
-teórico que la capital de Francia es París, que en un triángulo con un ángulo
-recto, el cuadrado de la longitud de la hipotenusa es igual a la suma del
-cuadrado de ambos lados adyacentes a la hipotenusa, etc.). Un lugar común acerca
-de la posesión de información en este sentido es que constituye un estado
-epistémico distinto al de poseer la capacidad de aplicar ese conocimiento; un
-argumento clásico sobre el punto es que alguien puede estar muy bien informado,
-y aun así carecer de las competencias relevantes para realizar ciertas tareas
-con esa información.#footnote[Cf. @Locke1891[p. 19]: 'Nobody is made anything by
-hearing of rules or laying them up in his memory, practice must settle the habit
-of doing without reflecting on the rule, and you may as well hope to make a good
-painter or musician extempore by a lecture and instruction in the arts of music
-and painting, as a coherent thinker, or a strict reasoner by a set of rules
-showing him wherein right reasoning consists.'] @Ryle1949 puso la distinción en
-la palestra para criticar una cierta concepción de la acción inteligente, según la
-cual esta consistiría en la posesión de información acerca de qué hacer; Ryle
-argumentó que esta opinión (a la que denominó _intelectualismo_) era un error, y
-que la inteligencia y el saber-cómo debían entenderse como ciertas disposiciones
-para actuar apropiadamente, que son producto de un proceso de enseñanza y que
-requieren que el sujeto esté en control de la manera en que actúa (lo que las
-distingue de meros 'hábitos'). Debates posteriores han vuelto a examinar la
-pregunta acerca de la naturaleza del saber-cómo, y con la aparición de versiones
-más sofisticadas del intelectualismo (como la influyente versión de
-@Stanley2001), el debate se ha vuelto más sofisticado.#footnote[Cf.
-@Pavese2022.] La estrategia general ha sido la de examinar distintas dimensiones
-en las cuales el saber-cómo y el conocimiento teórico difieren o son similares;
-en relación con esto, se han examinado los problemas: 1) si el saber-cómo se ve
-afectado por la suerte epistémica, 2) si puede ser transmitido por el testimonio,
-3) si es un logro epistémico, etc. Más recientemente se ha abierto el debate acerca
-de si aparte del saber-cómo individual, existe un tipo de saber-cómo colectivo o
-grupal. La epistemología del saber-cómo es un campo fértil de investigación
-filosófica contemporánea.
-
 La pregunta acerca de la relación entre el saber-cómo y el conocimiento teórico
 podría parecer calzar mal en el esquema epistemológico mapuche, dado el carácter
 holístico de la noción de _kimün_ o conocimiento, que reúne en sí aspectos del
@@ -525,20 +476,20 @@ del saber-cómo, radica en la posesión de un perfil disposicional dirigido a
 cierta conducta que iría, entonces, guiada por el saber-cómo que involucra el
 _kimün_. La distinción no responde a una separación entre distintos asuntos o
 áreas del conocimiento, sino a la diferencia entre distintas maneras de poseer
-una relación con uno u otro asunto.#footnote[@Stanley2001 desarrollan una teoría
-del saber-cómo intelectualista que es capaz de capturar diferencias de este
-tipo, de modo que este aspecto del esquema mapuche no está decisivamente a favor
-del modelo anti-intelectualista. Según Stanley y Williamson, el saber cómo es
-una forma de conocimiento acerca de una manera $w$, que es una manera en que el
-sujeto del saber-cómo podría hacer algo, donde la proposición de que $w$ es una
-manera en que el sujeto podría hacerlo es dada bajo un modo práctico de
-presentación. Alguien podría saber a modo meramente teórico que una manera de
-actuar es la manera en que ellos podrían hacer algo, sin tener el perfil
-disposicional adecuado. Es decir, en respuesta al problema de Ryle de la
-insuficiencia de la posesión de conocimiento proposicional para la posesión de
-saber-cómo, proponen que podemos entender al conocimiento de una manera más
-robusta, que sí incluya el perfil disposicional adecuado respecto a la
-conducta.] 
+una relación con uno u otro asunto.#footnote[Como vimos en el capítulo 5, @Stanley2001
+desarrollan una teoría del saber-cómo intelectualista que es capaz de capturar
+diferencias de este tipo, de modo que este aspecto del esquema mapuche no está
+decisivamente a favor del modelo anti-intelectualista. Según Stanley y
+Williamson, el saber cómo es una forma de conocimiento acerca de una manera
+$w$, que es una manera en que el sujeto del saber-cómo podría hacer algo,
+donde la proposición de que $w$ es una manera en que el sujeto podría
+hacerlo es dada bajo un modo práctico de presentación. Alguien podría saber a
+modo meramente teórico que una manera de actuar es la manera en que ellos
+podrían hacer algo, sin tener el perfil disposicional adecuado. Es decir, en
+respuesta al problema de Ryle de la insuficiencia de la posesión de conocimiento
+proposicional para la posesión de saber-cómo, proponen que podemos entender al
+conocimiento de una manera más robusta, que sí incluya el perfil disposicional
+adecuado respecto a la conducta.] 
 
 Cabe mencionarse que en la lengua _mapuzungun_ la formulación de expresiones del
 saber-cómo ('saber X', donde X va por alguna acción) no sugiere que se las
