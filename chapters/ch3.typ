@@ -437,7 +437,7 @@ constreñida por conocimiento que presumiblemente proviene de
   obtener saber cómo mediante la lectura (dicho sea de paso, un libro de
   texto como este no sería viable si esto no fuera posible).])[René van Woudenberg (#cite(<Woudenberg2021>, form: "year")) argumenta que la lectura es una fuente
 distintiva de conocimiento. ¿Puede ser una fuente básica de conocimiento?
-¿Podemos llegar a saber cómo hacer algo mediante la lectura?]
+Considere: ¿podemos llegar a saber cómo hacer algo mediante la lectura?]
 
 === En resumen 
 
@@ -521,14 +521,18 @@ siguen abordarán el debate que surge a partir de esta posibilidad), pero
 por ahora nos interesa más entender cómo formular la hipótesis
 intelectualista y el alcance que tiene.
 
-#question[Stephen Hetherington (#cite(<Hetherington2011>, form: "year"))
-argumenta que saber que X es saber cómo es que X, es decir, de qué manera es que
-X. Hay que prestar atención a que en este caso se habla de maneras de ser, y no
-de hacer. Pero Hetherington avanza una segunda hipótesis, que es que saber que X
-es saber cómo registrar acertadamente que X, donde ‘registrar’ quiere decir
-‘responder, replicar, representar o razonar’. ¿Qué consecuencias podría tener
-esto para la distinción entre el saber cómo y otras formas de conocimiento
-proposicional?]
+#question(answer: [La segunda tesis de Hetherington sugiere que el conocimiento
+proposicional puede reducirse a un tipo de saber-cómo, invirtiendo la dirección
+de explicación propuesta por el intelectualismo. @Ryle1947 sugería una idea
+similar (dice que para adquirir conocimiento proposicional es necesario tener
+cierto saber-cómo), aunque no la desarrolla en @Ryle1949.])[Stephen Hetherington
+(#cite(<Hetherington2011>, form: "year")) argumenta que saber que X es saber
+cómo es que X, es decir, de qué manera es que X. Hay que prestar atención a que
+en este caso se habla de maneras de ser, y no de hacer. Pero Hetherington avanza
+una segunda hipótesis, que es que saber que X es saber cómo registrar
+acertadamente que X, donde ‘registrar’ quiere decir ‘responder, replicar,
+representar o razonar’. ¿Qué consecuencias podría tener esto para la distinción
+entre el saber cómo y otras formas de conocimiento proposicional?]
 
 === Lo que distingue al saber cómo
 
@@ -584,7 +588,17 @@ sean las que tienes que conocer para saber como se hace X? ¿Y #emph[qué]
 #emph[tan] #emph[frecuentemente] tiene que hacerse X de esa manera o
 maneras?
 
-#question[¿Por qué no es suficiente saber que hacer algo es posible de alguna
+#question(answer: [Hay que distinguir entre el caso en que se sabe que hay
+alguna manera en que se puede hacer algo, pero no se conoce esa manera, y el
+caso en que se sabe que hay una manera en que se puede hacer algo, y se conoce
+esa manera. El primero es conocimiento _de dicto_ de una posibilidad, y el
+segundo es conocimiento _de re_. El caso _de dicto_ claramente es insuficiente
+para tener saber-cómo: podría saber que algo puede hacerse y sin embargo ignorar
+cómo se hace. En general, podemos asumir que determinar en qué condiciones
+alguien sabe cómo hacer algo es equivalente al problema de determinar en qué
+condiciones tener conocimiento _de re_ acerca de una manera de actuar es
+suficiente para tener cierto control sobre la posibilidad de las acciones
+relevantes.])[¿Por qué podría no ser suficiente saber que hacer algo es posible de alguna
 manera para saber cómo se hace?]
 
 Supón que digamos que basta con que sepas que X se puede hacer a tu
@@ -722,7 +736,14 @@ explicación de cómo obtenemos el conocimiento modal en el que
 consistiría el saber cómo), y en todo caso, es posible que no exista una
 única fuente de conocimiento modal.
 
-#question[Quizás nuestras formas de saber qué es posible son dudosas, y en
+#question(answer: [El escepticismo sobre el conocimiento modal socavaría
+cualquier versión del intelectualismo que defienda que el saber cómo debe ser un
+tipo de conocimiento modal. Para evitar el problema el intelectualista debería
+proponer un análisis no-modal del saber-cómo. Una respuesta diferente al
+problema es que el escepticismo modal no es plausible porque es altamente
+plausible que tenemos saber-cómo, y si el saber-cómo sólo es posible si ciertas
+formas de conocimiento modal son posibles, entonces esas formas de conocimiento
+modal deben ser posibles.])[Quizás nuestras formas de saber qué es posible son dudosas, y en
 realidad no tenemos conocimiento acerca de cómo podemos hacer lo que podemos
 hacer. ¿Qué consecuencias traería eso para el modelo intelectualista del saber
 cómo? ¿Podría decirse que podemos tener saber cómo incluso si no tenemos
@@ -902,9 +923,9 @@ que sea correcto decir que alguien tiene saber cómo.
 ] Pero este requerimiento parece ir más allá del concepto básico de
 saber cómo, que parece quedar captado por el análisis modal.
 
-#question[Arriba vimos que hay distintas posibles soluciones para el problema
-de cómo podemos saber que algo puede hacerse de cierta manera. ¿Cómo podemos
-saber que algo debe hacerse de cierta manera?]
+#question[Arriba vimos que hay distintas posibles soluciones para el problema de
+cómo podemos saber que algo _puede_ hacerse de cierta manera. ¿Cómo podemos
+saber que algo _debe_ hacerse de cierta manera?]
 
 == Resumen
 
