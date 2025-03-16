@@ -519,7 +519,7 @@ situarse como una diferencia entre distintos niveles de 'darse cuenta' durante
 el proceso de _inarrumen_. Se puede aprender cómo hacer algo mediante la
 observación cuidadosa ('aprender observando'), y además, la experimentación
 (_malünün_) práctica, o el trajinar (_witrarupayawün_), formas de 'aprender
-haceindo'. Estos pueden entenderse como mecanismos individuales de adquisición
+haciendo'. Estos pueden entenderse como mecanismos individuales de adquisición
 de saber-cómo, que se ejercitan a menudo en respuesta a la necesidad de resolver
 un problema.
 
