@@ -72,7 +72,7 @@ proposiciones. Recordemos el caso que vimos en el capítulo anterior del
 conocimiento proposicional que ejercitamos cuando abrimos una puerta. 
 
 Por supuesto, podríamos tomar la expresión ‘contemplar una proposición’ en un
-sentido en que incluso en casos como el de Ginet si podríamos decir que
+sentido en que incluso en casos como el de Ginet si podríamos decir qute
 contemplamos proposiciones. Stanley considera la opción de decir que en vez de
 contemplar proposiciones, ciertas proposiciones se “gatillen” o activen. El
 problema en este caso es que una proposición parece no poder activarse
@@ -89,13 +89,25 @@ conocimiento proposicional no es inerte, y en efecto tiene efectos en la
 acción. De modo que el problema es que Ryle tiene una noción empobrecida
 del conocimiento proposicional.
 
-#question[Stanley dice que Ryle tiene una noción empobrecida del conocimiento
-proposicional. Sin embargo, si el conocimiento proposicional tiene un
-perfil disposicional que posibilita ciertos comportamientos, ¿no es esto
-una concesión al argumento de Ryle, precisamente admitiendo que si el
-conocimiento proposicional no tuviera un perfil disposicional
-determinado, no podría ser relevante para el saber cómo? ¿No es esto
-simplemente conceder a Ryle el argumento de la insuficiencia?]
+#question(answer: [Hay que aclarar la dialéctica aquí. Ryle asume que el
+intelectualismo no implica que la posesión de conocimiento proposicional sea
+suficiente para que el sujeto que lo posea tenga ciertas habilidades. Stanley
+acepta que si el intelectualismo no implica eso, es presa de algunas de las
+críticas de Ryle. Sin embargo, Stanley argumenta que si bien no lo implica, el
+intelectualismo es compatible con que la posesión de conocimiento proposicional
+conlleve ciertas habilidades. De modo que la insuficiencia de la _mera_ posesión
+de información no es un argumento contra el intelectualismo en general, sino
+contra una versión implausible de este. El Ryleano podría responder que si el
+intelectualismo adopta una noción de conocimiento proposicional que incluye un
+componente disposicional, el modelo que propone no es suficientemente distinto
+al anti-intelectualista, y por lo tanto, que cuestiones de simplicidad favorecen
+la adopción del modelo anti-intelectualista.])[Stanley dice que Ryle
+tiene una noción empobrecida del conocimiento proposicional. Sin embargo, si el
+conocimiento proposicional tiene un perfil disposicional que posibilita ciertos
+comportamientos, ¿no es esto una concesión al argumento de Ryle, precisamente
+admitiendo que si el conocimiento proposicional no tuviera un perfil
+disposicional determinado, no podría ser relevante para el saber cómo? ¿No es
+esto simplemente conceder a Ryle el argumento de la insuficiencia?]
 
 Finalmente, contra la propuesta Ryleana de que el saber cómo es un tipo
 de habilidad, Stanley y Williamson proponen una serie de contraejemplos,
@@ -543,9 +555,8 @@ del saber-cómo en términos de saber-que simplemente debe redundar en una
 explicación del saber-que en términos de saber-cómo.#footnote[Ya vimos que
 @Ryle1947 sugiere esto mismo, pero no insiste en la idea.]
 
-#question[¿Cómo se vería rechazar el argumento rechazando la premisa de que
-para comprender una proposición es necesario entender los conceptos que la
-proposición emplea?]
+#question[¿Qué estrategias podría emplear el intelectualista para responder al
+argumento de Noë?]
 
 == El saber cómo y la suerte epistémica
 
@@ -622,8 +633,20 @@ conocimiento; por lo contrario, en estos casos lo afortunado es que las
 circunstancias nos permiten tener más conocimiento que de otro modo
 #emph[no] tendríamos.
 
-#question[¿Podemos tener #emph[mala] suerte que sea compatible con el
-conocimiento?]
+#question(answer: [Depende de qué tipo de suerte estemos considerando. Podría
+ser mala suerte que nos accidentemos y que por ello lleguemos a tener
+conocimiento acerca de cómo se siente tener el brazo roto en varias partes. Esta
+no es mala suerte en un sentido epistémico. Para examinar la posibilidad de mala
+suerte epistémica que sea compatible con el conocimiento, tendríamos que
+considerar casos en que desafortunadamente no logramos a satisfacer cierta
+condición epistémica, y sin embargo sí satisfacemos la condición de tener
+conocimiento. Una posibilidad es que no logremos tener certeza, aunque
+fácilmente podríamos haberla tenido, y sin embargo nuestro estado epistémico
+cuente como conocimiento. Aquí es crucial que la condición de certeza sea más
+difícil de satisfacer en general que la de tener conocimiento; respecto a otras
+condiciones, como tener justificación, no podemos tener mala suerte sin que eso
+socave la posibilidad del conocimiento.])[¿Podría haber #emph[mala] suerte que
+fuera compatible con tener conocimiento?]
 
 Hay varias maneras de explorar el problema de en qué condiciones la
 suerte es incompatible con el conocimiento. En efecto, hay varias
@@ -1003,8 +1026,8 @@ prestamos atención al método que empleamos para justificar nuestras
 creencias.
 
 #question[Antes de avanzar: ¿Qué tipo de suerte epistémica está en juego en el
-caso de la #emph[ampolleta afortunada];? ¿Es importante qué tipo de suerte
-epistémica esté en juego para la importancia del caso? ]
+caso de la _ampolleta afortunada_? ¿Qué importancia tiene el tipo de suerte
+epistémica en juego para el caso?]
 
 Hay otra clase de ejemplos que defienden la compatibilidad del saber
 cómo y la suerte epistémica. Consideren la siguiente variación del caso
@@ -1191,10 +1214,18 @@ es la manera en que él podría cambiar la ampolleta, esta manera es de hecho un
 manera de cambiar la ampolleta, y esto es suficiente. En casos como el del Salchow,
 aunque al sujeto le parece que cierta manera de actuar es la manera de realizar un
 objetivo específico, esa manera no es realmente una manera de realizar ese objetivo,
-de modo que el análisis impide que ascribamos saber-cómo al sujeto.
+de modo que el análisis impide que adscribamos saber-cómo al sujeto.
 
-#question[¿Pueden imaginar un contraejemplo al análisis de Cath? Pista: en casos como este
-hay dos estrategias para generar contraejemplos.]
+#question(answer: [Quizás pueda haber casos en que al sujeto no le parezca que
+una manera de actuar es adecuada, y sin embargo, por su estado disposicional,
+sepa cómo actuar de acuerdo a esa manera. En ese caso el sujeto tendría
+saber-cómo pero no satisfaría las condiciones del análisis de Cath. En
+respuesta, Cath podría decir que si al sujeto no le parece que una manera de
+actuar es adecuada, su saber-cómo no podría consistir en su relación con esa
+manera, porque si tratara de realizar la tarea correspondiente, actuaría de otra
+manera, o al menos _no_ actuaría de esta manera. Esto asume que el sujeto está
+en control acerca de cómo actuar, cuando sabe cómo actuar.])[¿Pueden imaginar un
+contraejemplo al análisis de Cath?]
 
 En resumen: la estrategia de análisis que sugiere el paper de 2011 de Cath es
 que, para evitar algunos problemas con análisis intelectualistas tradicionales,
@@ -1228,16 +1259,24 @@ acuerdo a una concepción tradicional, debe concebirse como una forma de
 creencia verdadera que no habría sido fácilmente falsa (es decir, una creencia
 verdadera _segura_).
 
-#question[El análisis revisionario propuesto por Cath requiere que el sujeto
-tenga creencias sobre maneras de hacer algo. El anti-intelectualista podría
-responder que esto es de por sí inaceptable. Algunos epistemólogos han
-propuesto que se puede tener conocimiento proposicional sin tener creencias
+#question(answer: [El análisis de @Radford1966 parece sugerir que el
+conocimiento consiste en la posesión de ciertas habilidades, como también
+sugieren quienes defienden la reducción del conocimiento proposicional a alguna
+forma de saber-cómo (entendido este como un conjunto de habilidades). El
+problema con esta posición es que queda abierta la pregunta de si no podría
+decirse que la posesión de esas habilidades es suficiente para la posesión de
+creencias en un sentido que sea teóricamente admisible.])[El
+análisis revisionario propuesto por Cath requiere que el sujeto tenga creencias
+sobre maneras de hacer algo. El anti-intelectualista podría responder que esto
+es de por sí inaceptable, ya que sugiere que la acción debe explicarse en
+términos de la ejecución de operaciones mentales previas. Algunos epistemólogos
+han propuesto que se puede tener conocimiento proposicional sin tener creencias
 (por ejemplo, @Radford1966 presenta un caso en que alguien que cree no haber
 estudiado nunca la historia de Inglaterra, pero que en realidad simplemente ha
 olvidado que la ha estudiado, sin embargo es capaz de responder preguntas
-específicas sobre ella correctamente; Redford sugiere que en este caso el
-sujeto sabe las respuestas a las preguntas sin creerlas). ¿Cree que apelar a
-una postura como esta ayudaría a resolver la tensión?]
+específicas sobre ella correctamente; Redford sugiere que en este caso el sujeto
+sabe las respuestas a las preguntas sin creerlas). ¿Cree que apelar a una
+postura como esta ayudaría a resolver la tensión?]
 
 === Intelectualismo no-proposicional
 
@@ -1281,10 +1320,14 @@ Bengson & Moffett ilustran el problema con el siguiente caso:
   dadas limitaciones computacionales, Luis (al igual que todos los seres humanos)
   es incapaz de calcular el numeral $10^46$-ésimo en la expansión decimal de $pi$.
 
-#question[¿Se les ocurre alguna solución a este problema? ¿Podría ser una
-cuestión contextual--por ejemplo, que el contexto defina qué rango de mundos
-sean relevantes para la ascripción de las habilidades? (Volveremos a esto en
-la sección 5.6.)]
+#question(answer: [Desde el punto de vista contextualista, podría ser que las
+capacidades relevantes sean las que Luis posee en un rango más amplio de mundos,
+donde las restricciones computacionales no sean tan estrictas. Esto podría
+justificarse justamente porque el método que emplearía Luis para calcular el
+enésimo numeral es invariante en todos los mundos posibles.])[¿Se les ocurre
+alguna solución a este problema? ¿Podría ser una cuestión contextual--por
+ejemplo, que el contexto defina qué rango de mundos sean relevantes para la
+ascripción de las habilidades? (Volveremos a esto en la sección 5.6.)]
 
 El problema es más grave que la dificultad de acomodar estos casos. El verdadero
 problema es que la dificultad interactua con el problema adicional que presentan
@@ -1449,10 +1492,15 @@ con contenido intelectual (el de tener una concepción) que antecede al ejercici
 del saber-cómo. Sin embargo, en esta teoría el conocimiento proposicional no es
 ni necesario ni suficiente para el saber-cómo.
 
-#question[Si es así, ¿realmente vale la pena clasificar la postura como
-intelectualista? ¿No podría reformularse en términos de, por ejemplo, que los
-sujetos tengan ciertas capacidades que pueden especificarse en términos de las
-concepciones que tengan de las maneras de actuar?]
+#question(answer: [La teoría de @Bengson2011 es intelectualista, pero otras
+teorías objectualistas no tienen que serlo. Por ejemplo, el saber-cómo podría
+consistir en la posesión de ciertas habilidades relativas a ciertas maneras de
+actuar, sin que las habilidades que requieren la realización de actos
+intelectuales sean especialmente importantes.])[Si es así, ¿realmente vale la pena
+clasificar la postura como intelectualista? ¿No podría reformularse en términos
+de, por ejemplo, que los sujetos tengan ciertas capacidades que pueden
+especificarse en términos de las concepciones que tengan de las maneras de
+actuar?]
 
 === Interrogativismo <s-interrogativismo>
 
@@ -1488,18 +1536,25 @@ que 'así es cómo se hace' y apuntando a cierta acción que realizan). Sin
 embargo, estos sujetos tienen la capacidad de _activar_ cierto conocimiento
 sobre cómo hacer esas cosas--esto es lo que importa en este modelo.
 
-#question[Habgood-Coote dice que la habilidad de responder a una pregunta es una
-habilidad de activar cierto conocimiento, en el sentido de que es o bien una
-habilidad de aprender una proposición, o de ejercitar cierto conocimiento que se
-tiene. Por ejemplo, uno tiene la habilidad de responder la pregunta '¿cuál es la
-raiz cúbica de 16?', tanto si tiene la capacidad de calcularla, como si uno sabe
-la respuesta y es capaz de darla en condiciones apropiadas. ¿Creen que es
-correcto decir que uno puede tener la habilidad de responder a una pregunta si
-meramente tenemos la habilidad de llegar a saber su respuesta? Por ejemplo, si
-preguntáramos de alguien que nunca ha sido bueno realizando cálculos pero que en
-principio tiene la _capacidad_ de realizarlos si tiene la capacidad de responder
-preguntas acerca del resultado de una serie de operaciones matemáticas,
-¿diríamos que tiene la habilidad de responder a esas preguntas? ¿En qué sentido?]
+#question(answer: [Para distinguir entre las capacidades y las habilidades,
+podríamos decir que para que se tenga la capacidad de realizar una acción es
+suficiente que el sujeto sea similar a un contraparte que puede hacer la acción
+en algún mundo posible, mientras que para que tenga la habilidad debe ser
+posible para él en el mundo actual. Una manera de afinar esta idea es apelando a
+una teoría contextualista de la modalidad, que defina las condiciones de
+similaridad relevante.])[Habgood-Coote dice que la habilidad de
+responder a una pregunta es una habilidad de activar cierto conocimiento, en el
+sentido de que es o bien una habilidad de aprender una proposición, o de
+ejercitar cierto conocimiento que se tiene. Por ejemplo, uno tiene la habilidad
+de responder la pregunta '¿cuál es la raiz cúbica de 16?', tanto si tiene la
+capacidad de calcularla, como si uno sabe la respuesta y es capaz de darla en
+condiciones apropiadas. ¿Creen que es correcto decir que uno puede tener la
+habilidad de responder a una pregunta si meramente tenemos la habilidad de
+llegar a saber su respuesta? Por ejemplo, si preguntáramos de alguien que nunca
+ha sido bueno realizando cálculos pero que en principio tiene la _capacidad_ de
+realizarlos si tiene la capacidad de responder preguntas acerca del resultado de
+una serie de operaciones matemáticas, ¿diríamos que tiene la habilidad de
+responder a esas preguntas? ¿En qué sentido?]
 
 Segundo, Habgood-Coote propone que es posible responder una pregunta acerca de
 cómo hacer algo en el proceso de hacerlo (es decir, al intentar hacerlo). Una
@@ -1709,8 +1764,15 @@ es que esto cuenta como una forma de testimonio), a menudo me informo de cosas
 que no puedo llegar a conocer de otras formas. ¿Puedo adquirir saber cómo de
 esta manera?
 
-#question[Recuerden el anti-intelectualismo de Ryle. ¿Diría Ryle que el
-saber-cómo puede adquirirse mediante el testimonio?]
+#question(answer: [Para Ryle, el testimonio puede servir para informar a alguien
+acerca de cómo hacer algo, pero no es suficiente para que quien recibe el
+testimonio adquiera el saber-cómo suficiente. No atribuimos saber-cómo a alguien
+solamente porque haya recibido testimonio acerca de cómo hacer algo; requerimos,
+además, que haya sido capaz de integrar ese testimonio en su maneras de actuar,
+y para evaluar eso es necesario considerar el historial de intentos del sujeto
+además de los hechos acerca de a qué información ha sido expuesto.])[Recuerden
+el anti-intelectualismo de Ryle. ¿Diría Ryle que el saber-cómo puede adquirirse
+mediante el testimonio?]
 
 === La epistemología del testimonio
 
@@ -1830,7 +1892,13 @@ importancia al hablante) o anti-reduccionista (que concede más importante a
 quien escucha), es mejor adoptar una postura híbrida (lo ilustra con el símil de que
 "hacen falta dos para bailar el tango").
 
-#question[Consideren el caso de la dependencia de los niños en el testimonio de
+#question(answer: [Quizás sea necesario considerar si distintos tipos de
+receptores de testimonio deben quedar sujetos a distintos estándares según sus
+características y las características de los temas sobre los cuales reciben
+testimonio. Un niño quizás no pueda ser un receptor adecuado del testimonio de
+alguien acerca de un tema complicado cuya comprensión requiere de ciertas
+experiencias, aunque pueda ser un receptor adecuado del testimonio acerca de
+cuestiones cotidianas.])[Consideren el caso de la dependencia de los niños en el testimonio de
 sus padres y otras personas. Si bien podemos pensar que quienes les proveen de
 testimonios son confiables, ¿en qué sentido son los niños epistémicamente
 confiables como receptores del testimonio, si (como parece ser cierto a menudo)
@@ -1889,9 +1957,10 @@ de que el proceso de testimonio transmite propiedades epistémicas? Por ejemplo,
 evolucionistas, las entiende, y por lo tanto puede transmitir su entendimiento a
 sus alumnos?]
 
-#question[¿Puede un LLM (_Large Language Model_, 'Modelo Grande de Lenguaje')
-como ChatGPT ofrecer testimonio? _(Volveremos a esta pregunta en el capítulo
-6)_]
+#question(answer: [Que pueda o no podría depender de si aceptamos que las LLMs
+hacen afirmaciones genuinas o no.])[¿Puede un LLM (_Large Language Model_,
+'Modelo Grande de Lenguaje') como ChatGPT ofrecer testimonio? _(Volveremos a
+esta pregunta en el capítulo 6)_]
 
 === ¿Puede el testimonio ser una fuente de saber cómo?
 
@@ -2125,8 +2194,15 @@ con Lucía. Del mismo modo, si expreso que hay una manera en que yo podría hace
 algo, no espero que quienes me escuchan aprendan que hay una manera en que
 _ellos_ podrían hacer algo.
 
-#question[¿Es esa la manera en que alguien realmente le dice a otra persona cómo
-hacer algo?]
+#question(answer: [No veo problema con que las personas que dicen cómo creen
+poder hacer algo presupongan que las personas a quienes les dicen esto sean
+capaces de aprender cómo hacer esas mismas cosas. Es importante evaluar la
+función de las afirmaciones en cuestión, y la manera en que su contenido se
+adecua a esas funciones. Puedo tener el objetivo de hacerte creer que puedo
+hacer algo, y para cumplir ese objetivo no es necesario que describa cómo lo
+haría. Sin embargo, si quisiera enseñarte a hacer algo, además te daría detalles
+acerca de cómo hacerlo.])[¿Es esa la manera en que alguien realmente le dice a
+otra persona cómo hacer algo?]
 
 De esta manera de pensar el contenido del saber-cómo se sigue que éste
 nunca puede transmitirse mediante el testimonio.#footnote[@Poston2015 plantea que hay
@@ -2243,7 +2319,12 @@ Lewis, el conjunto de posibilidades relevantes se expande o contrae cuando
 cambia el contexto--y lo mismo hace, al parecer, el alcance de lo que cuente como
 conocimiento o no.
 
-#question[Una misma oración que atribuye conocimiento a un sujeto puede
+#question(answer: [Puede hacer la diferencia cuando hay aspectos del contexto
+del sujeto y de quien atribuye que difieran. Por ejemplo, si el conocimiento
+fuera sensible a la importancia práctica de que alguien sepa, va a haber una
+diferencia si la persona para quien el conocimiento sea importante es el sujeto
+o quien atribuye; podría haber casos en que al sujeto le importa y a quien atribuye
+no, o viceversa.])[Una misma oración que atribuye conocimiento a un sujeto puede
 evaluarse desde distintas perspectivas; por ejemplo, desde la perspectiva del
 contexto de a quien se atribuye conocimiento, o desde la perspectiva de quien
 atribuye conocimiento. ¿Cree que esto hace alguna diferencia?]
@@ -2903,9 +2984,13 @@ que sí, porque cree que el saber cómo puede disociarse de ese conocimiento
 proposicional. Por lo mismo, apelar a estas intuiciones no basta; es necesario
 tener un criterio que justifique tomar una posición u otra.
 
-#question[¿Es posible tener una postura anti-intelectualista en la que el saber
-cómo es _menos_ valioso que tener conocimiento proposicional acerca de saber cómo
-hacer algo?]
+#question(answer: [Lógicamente, sí, pero esto requiere de una teoría que asigne
+más valor a tener información que a ser capaz de hacer algo. La mayoría de las
+teorías sustantivas acerca del valor no vindican esta idea explícitamente.
+Implícitamente, hay teorías que asignan más valor al conocimiento teórico que al
+práctico, pero usualmente estas teorías son intelectualistas.])[¿Es posible tener
+una postura anti-intelectualista en la que el saber cómo es _menos_ valioso que
+tener conocimiento proposicional acerca de saber cómo hacer algo?]
 
 Una manera de abordar ese problema es apelar a la cuestión de si el conocimiento
 proposicional o el saber-cómo son logros o no. Lograr un éxito es valioso y, por
@@ -3482,8 +3567,36 @@ Attributions_ (#cite(<BlomeTillmann2022>, form: "year")) de Michael Blome-Tillma
 
 == Una pregunta final...
 
-#question[¿Cómo poner todas las consideraciones que hemos visto en este capítulo
-acerca del saber-cómo en orden? Es decir: ¿cómo creen que se ve la mejor manera
-de entender el saber-cómo?]
+#question(answer: [ 
+
+    Mi postura propia es una forma de anti-intelectualismo (véase
+    @MoralesCarbonell2025a). En el modelo que prefiero, la posesión de
+    información debe explicarse finalmente en términos de ciertas habilidades.
+    Algunas de estas habilidades dan pie a que el sujeto tenga un perfil
+    representacional (es decir, que su estado de saber-cómo posee contenido en
+    virtud de esas habilidades). En general, el saber-cómo consiste en una
+    relación con un conjunto de maneras de actuar contextualmente determinadas,
+    que puede caracterizarse en términos de un conjunto de representaciones de
+    esas maneras, y de un perfil disposicional que incluye habilidades para
+    manipular esas representaciones, ejercitar las maneras de actuar, y también
+    manipularlas. Los estándares sustantivos para la atribución de saber-cómo
+    pueden cambiar con el contexto, también respecto a qué tipos de condiciones
+    deben evaluarse. Esto acomoda un modelo _histórico_ de atribución, como el
+    de Ryle, según el cual la evidencia que usamos para decir si alguien tiene
+    saber-cómo o no es heterogénea y puede incluir información acerca del
+    historial de éxitos y fracasos del sujeto de atribución. El problema de la
+    suerte epistémica se resuelve en que en general la suerte ambiental no
+    afecta el tipo de habilidades que se requieren para la atribución correcta,
+    aunque esto puede cambiar en algunos casos (por ejemplo, donde el riesgo es
+    significativo). Del mismo modo, el saber-cómo no siempre es un logro
+    cognitivo. El saber-cómo resulta de un proceso de elaboración y
+    manipulación de información, y esto impide que el testimonio sea una fuente
+    directa de saber-cómo.
+
+])[ 
+
+    ¿Cómo poner todas las consideraciones que hemos visto en este capítulo
+    acerca del saber-cómo en orden? Es decir: ¿cómo creen que se ve la mejor
+    manera de entender el saber-cómo?]
 
 ]
