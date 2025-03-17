@@ -51,6 +51,7 @@
       let offset = source_page - 9
       let l = "<q" + str(val.value.pos.first()) + "." + str(val.value.pos.last()) + ">"
       a.push([
+        #set text(size: 9.5pt)
         #link((page: source_page, x: 0pt, y: 0pt))[
                 #val.value.pos.last())
                 #text(fill: black.lighten(30%))[
@@ -64,7 +65,7 @@
 
     #grid(
       columns: (3fr, 12fr),
-      column-gutter: 0.2em,
+      column-gutter: 0.5em,
       row-gutter: 0.5em,
       [#text(fill: red)[#sym.arrow.ccw.half]], [],
       ..a
