@@ -152,7 +152,7 @@ siguiente configuración (la posición del cabezal está en celeste):
 #figure(kind: "misc", supplement: none)[#table(rows: 1.5em, columns: (1.5em,) * 10, stroke: 0.1pt,
 table.cell(fill: blue.lighten(50%))[1])]
 
-#question[¿Qué pasaría si reemplazamos esa regla por la regla que dice que, dado
+#question(answer: [Esta máquina escribe una cadena interminable de 1s.])[¿Qué pasaría si reemplazamos esa regla por la regla que dice que, dado
 el estado inicial $sigma$ y cualquier símbolo, el cabezal debe escribir el
 símbolo "1", moverse a la derecha, y pasar al estado $sigma$ nuevamente?]
 
@@ -219,7 +219,7 @@ sujeto recibe información de su entorno, y lo procesa para formar una
 representación de ciertos aspectos del entorno (por ejemplo, el contenido de una
 creencia de que "hay un trozo de chocolate en el escritorio").
 
-#aside(float: false)[El neurocientífico David Marr (1982) propuso un modelo informacional de
+El neurocientífico David Marr (1982) propuso un modelo informacional de
 la visión que incluye un componente computacional. En el modelo de Marr, un
 organismo procesa la información visual que adquiere en su retina con el fin de
 obtener una descripción tridimensional del mundo. En el modelo de Marr, este
@@ -227,10 +227,12 @@ proceso ocurre en etapas: primero, a partir de la imagen retinal, se producen
 esbozos de las figuras en una escena, luego se reintroduce la textura y se
 compone una imagen con información de profundidad centrada en la perspectiva del
 observador, y finalmente se recompone la información de profundidad en las
-relaciones entre objetos, formando una representación de objetos tridimensional
+relaciones entre objetos, formando una representación tridimensional de estos objetos 
 independiente de la perspectiva del sujeto.
 
+#figure[
 #image("../images/marr.png")
+]
 
 Una idea importante de Marr es que podemos analizar procesos como estos a tres
 niveles distintos:
@@ -248,7 +250,6 @@ Una misma tarea puede implementarse mediante la aplicación de distintos
 algoritmos, y estos algoritmos pueden realizarse en distintas bases físicas (por
 ejemplo, podría implementarse el modelo de Marr en un sistema de visión
 computacional).
-]
 
 Lo que nos interesa aquí es cómo el modelo representacionalista puede aplicarse
 al caso de la acción inteligente, así que vale la pena detenerse un poco en la
@@ -418,8 +419,9 @@ representaciones explícitas. Quienes defienden la idea de las representaciones
 tácitas a menudo sugieren que el que estos sistemas no exhiban representaciones
 explícitas no significa que no sean representacionales. El debate continúa.
 
-#question[¿Creen que la noción de representación tácita evita el problema del
-circulo vicioso?]
+#question(answer: [No. Que una representación sea tácita no significa que no
+tenga que explicarse ella misma en términos de otras representaciones.])[¿Creen
+que la noción de representación tácita evita el problema del circulo vicioso?]
 
 == El formato representacional del saber-cómo
 
