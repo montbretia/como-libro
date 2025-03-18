@@ -822,7 +822,7 @@ debe satisfacer una teoría filosófica:
 #quote(block: true)[Cuando se construye una teoría sobre un dominio dado, los
 teóricos deben articular un conjunto de tesis sobre el dominio que (i) acomoden
 y expliquen los datos,  (ii) estén ellas mismas substanciadas e integradas, y
-(iii) posean virtudes teóricas específicas. (108)]
+(iii) posean virtudes teóricas específicas.\ #h(1fr) (108)]
 
 Para una introducción al uso de modelos en general, un excelente punto de
 partida es el libro de Axel Gelfert (#cite(<Gelfert2016>, form: "year")), _How to Do Science with Models: A
