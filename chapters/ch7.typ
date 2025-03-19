@@ -40,9 +40,9 @@ caso:
   en el trabajo), etc. Su experiencia es coherente y rica. Sin embargo, el señor
   Anderson es en realidad un cerebro en una batea, conectado a un sistema que
   artificialmente estimula su sistema nervioso de modo que tenga la experiencia
-  que cree tener; en efecto, el contenido de sus pensamientos es idéntico al de
-  una persona (el señor Smith) que no es un cerebro en una batea tendría de
-  llevar una vida paralela a la que el señor Anderson cree llevar.
+  que cree tener; en efecto, el contenido de sus pensamientos es idéntico al que
+  tendría una persona (el señor Smith) que no es un cerebro en una batea que
+  llevase una vida paralela a la que el señor Anderson cree llevar.
 
 El señor Anderson tiene experiencias, opiniones y cree tener justificación para
 creer lo que cree. De hecho, puede autoadscribirse conocimiento, y no tiene
@@ -321,7 +321,7 @@ entorno. Así, ellos reconocen la necesidad de mostrar que la hipótesis de la
 mente extendida ofrece mejores explicaciones de casos reales (y no meramente
 posibles). Como ejemplos de procesos que parecen requerir de la interacción con
 partes del entorno que cumplen un rol constitutivo en esos procesos, Clark y
-Chalmers enumeran el uso de lápiz y paper para realizar multiplicaciones, el uso
+Chalmers enumeran el uso de lápiz y papel para realizar multiplicaciones, el uso
 de piezas con letras en el juego del Scrabble para recordar palabras, el uso de
 instrumentos náuticos, y 'en general, la parafernalia del lenguaje, los libros,
 los diagramas y la cultura'. ¡No es poco!
@@ -560,7 +560,7 @@ esas competencias, podría volverse un problema distinguir entre la situación y
 el asiento de la competencia. Esto, a su vez, lleva a un problema respecto a la
 manera en que el saber-cómo extendido podría verse afectado por cuestiones de
 suerte epistémica ambiental. Si la confiabilidad de las partes del entorno que
-quedan integradas al asiento de las competencias se ve afectada por cuestions de
+quedan integradas al asiento de las competencias se ve afectada por cuestiones de
 suerte ambiental, el argumento anti-intelectualista de que, a
 diferencia del conocimiento proposicional, el saber-cómo no se ve afectado de la
 misma manera por la suerte epistémica se ve debilitado. En efecto, este tipo de
