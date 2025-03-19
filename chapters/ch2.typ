@@ -747,8 +747,8 @@ preconcebidas y los métodos que tenemos para formar nuestras opiniones al
 respecto carezcan de justificación suficiente. La respuesta habitual a esta
 preocupación es que los filósofos son más confiables que el individuo promedio
 en formar sus opiniones, por hacer mayor uso de métodos reflexivos y
-racionales. Según esta forma de ver las cosas, los filósofos serían en cierto
-sentido expertos en cuestiones conceptuales. Nótese que esto va más allá de la
+racionales. Según esta forma de ver las cosas, los filósofos serían, en cierto
+sentido, expertos en cuestiones conceptuales. Nótese que esto va más allá de la
 respuesta al problema de la representatividad. Uno puede ser representante del
 ideal del sujeto promedio sin ser un experto—excepto en ser un sujeto
 promedio.#footnote[Esto asume, por supuesto, la mediocridad del individuo
@@ -821,7 +821,7 @@ debe satisfacer una teoría filosófica:
 
 #quote(block: true)[Cuando se construye una teoría sobre un dominio dado, los
 teóricos deben articular un conjunto de tesis sobre el dominio que (i) acomoden
-y expliquen los datos,  (ii) estén ellas mismas substanciadas e integradas, y
+y expliquen los datos, (ii) estén ellas mismas substanciadas e integradas, y
 (iii) posean virtudes teóricas específicas.\ #h(1fr) (108)]
 
 Para una introducción al uso de modelos en general, un excelente punto de
