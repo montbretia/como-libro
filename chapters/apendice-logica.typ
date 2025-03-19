@@ -820,9 +820,9 @@ que describimos aquí. Una clase de lógicas importante filosóficamente es la
 lógica modal, que trata de operadores como "es posible que" y "es necesario
 que". Estos operadores producen proposiciones a partir de proposiciones, pero no
 pueden definirse en términos veritativo-funcionales: algo puede ser falso, y sin
-embargo ser posible. Una idea común para dar sentido a esto es que si bien ago
+embargo ser posible. Una idea común para dar sentido a esto es que si bien algo
 puede ser falso en el mundo actual, podría ser verdadero en un mundo posible que
-represnta una manera en que el mundo actual podría haber sido. El libro _Modal
+representa una manera en que el mundo actual podría haber sido. El libro _Modal
 Logics and Philosophy_ (#cite(<Girle2014>, form:"year")) de Rod Girle es una
 introducción amigable.
 
