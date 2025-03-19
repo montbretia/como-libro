@@ -34,8 +34,8 @@ _operadores lógicos_. Por ejemplo:
 pueden combinarse de distintas maneras:
 
 #set enum(start: 4)
-+ Sofía ama a Manuel _y_ Gloria ama a Sofía.
-+ _Si_ Manuel ama a Gloria, _o_ Gloria ama a Sofía
++ Sofía ama a Manuel _y_ Gloria ama a Sofía,
++ Manuel ama a Gloria, _o_ Gloria ama a Sofía,
 + Manuel ama a Gloria _o no es el caso_ que Manuel ama a Gloria
 
 #question[Intuitivamente, ¿en qué casos son verdaderas (4), (5), y (6)?]
@@ -93,7 +93,7 @@ tabla (las primeras 2 columnas representan las valuaciones posibles de $p$ y $q$
 
 Por ejemplo, si asignamos verdad a (1), y falsedad a (2), intuitivamente (4) no
 podría ser verdadera; tendría que ser falsa. Sabemos que en este caso, (4) es la
-conjunción de (1) y (2), esto es, que tiene la forma $p and q$. La tabla nos
+conjunción de (1) y (3), esto es, que tiene la forma $p and q$. La tabla nos
 confirma la intuición: cuando $p$ es verdadera y $p$ es falsa, la conjunción $p
 and q$ es falsa.
 
