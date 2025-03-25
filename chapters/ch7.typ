@@ -201,10 +201,10 @@ hacer esto de manera regular. No es una habilidad (_skill_), sino tan solo un
 don.
 
 Una persona con un don de este tipo no sabe lo que hace para llegar a un fin. El
-golfista novato no sabe cómo  sus acciones contribuyen a que alcance sus
+golfista novato no sabe cómo sus acciones contribuyen a que alcance sus
 objetivos. Los dones son distintos de la suerte porque un talento es confiable
 mientras que la suerte no lo es. Una persona que saca una bola de una trampa de
-arena no podrá repetir la proeza exitosamente. #h(1fr) (p. 196) ]
+arena no podrá repetir la proeza exitosamente. #h(1fr) (p. 196)]
 
 La pregunta que queda abierta es si no puede haber una manera en que el
 externalista pueda distinguir entre saber cómo hacer algo y otros tipos de
