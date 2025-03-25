@@ -420,7 +420,9 @@ tácitas a menudo sugieren que el que estos sistemas no exhiban representaciones
 explícitas no significa que no sean representacionales. El debate continúa.
 
 #question(answer: [No. Que una representación sea tácita no significa que no
-tenga que explicarse ella misma en términos de otras representaciones.])[¿Creen
+tenga que explicarse ella misma en términos de otras representaciones.
+Precisamente por esto es que la idea de representaciones tácita es compatible
+con algunas versiones del intelectualismo.])[¿Creen
 que la noción de representación tácita evita el problema del circulo vicioso?]
 
 == El formato representacional del saber-cómo
@@ -496,10 +498,16 @@ agente puede tomar distintas decisiones o realizar ciertas acciones es llamada
 'marco', y la representación de qué hacer en un marco dadas ciertas condiciones
 es llamada 'guión'. Cf. Minsky (1974) y Schank & Abelson (1977).]
 
-#question[¿De qué maneras es distinto seguir un estilo y seguir una receta?
-Considere el siguiente tipo de caso: un mismo plato puede cocinarse de distintas
-maneras en distintas cocinas locales, y dentro de cada cocina local, cada
-cocinero puede tener una forma propia de cocinar.]
+#question(answer: [Una receta es una manera de hacer algo, y un estilo es una
+manera de realizar maneras de hacer algo. Una receta determina los pasos a
+seguir para llegar a un objetivo, pero no determina un estilo. El estilo
+determina la manera específica en que se va a seguir la receta, incluso fijando
+maneras en que la receta puede variarse (por ejemplo, sustituyendo ingredientes
+o medidas, o el orden de ejecución de los pasos que determina la receta).])[¿De
+qué maneras es distinto seguir un estilo y seguir una receta? Considere el
+siguiente tipo de caso: un mismo plato puede cocinarse de distintas maneras en
+distintas cocinas locales, y dentro de cada cocina local, cada cocinero puede
+tener una forma propia de cocinar.]
 
 En su forma más simple, una receta es un esquema que puede emplearse para
 conseguir un objetivo; en esto una receta es similar a un _algoritmo_, que
@@ -662,8 +670,8 @@ agentes artificiales sería una forma de chauvinismo. De modo que hay razones
 para pensar que la premisa sobre la que está fundado el argumento, de que el
 saber cómo requiere más que el éxito regular, es problemática.
 
-#question[Esta sugerencia no es suficiente para mostrar que el argumento es
-defectuoso. ¿Qué creen ustedes?]
+#question[¿Es realmente suficiente esta sugerencia para mostrar que el argumento es
+defectuoso?]
 
 Otra manera de atacar el argumento es rechazar la tesis de la Inflexibilidad.
 Algunas maneras 'naive' de defender la tesis ciertamente son dudosas. En
@@ -956,7 +964,14 @@ dinámica de información? Y si poseen un rango más amplio de capacidades, ¿qu
 nos fuerza a decir que saben cómo hacer algo en vez de decir que tienen ciertas
 capacidades relativas al asunto?
 
-#question[¿No les parece arbitrario dejar la cuestión en estos términos?]
+#question(answer: [El problema es que esta estrategia deja abierta la manera en
+que deben distinguirse los casos. En principio podríamos introducir una
+distinción para cada caso sutilmente diferente. Sin embargo, eso por una parte
+no parece útil teóricamente, porque querríamos tener conceptos más generales, y
+por otra parte parece meramente esquivar el problema principal, que precisamente
+consiste en determinar las condiciones para que un sujeto potencialmente sepa o
+no cómo hacer algo.])[¿No les parece arbitrario dejar la cuestión en estos
+términos?]
 
 Hemos visto argumentos en contra y a favor de la posibilidad del saber-cómo
 artificial. El debate está enteramente abierto. Mucho depende de cómo concibamos
