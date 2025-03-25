@@ -491,7 +491,7 @@ embargo, es menos plausible cuando consideramos la posibilidad de que obtengamos
 saber cómo mediante las fuentes básicas del conocimiento proposicional; tanto la
 percepción como el razonamiento parecen ser fuentes viables del saber
 cómo.])[¿Por qué no podría diferenciarse al saber cómo de otras formas de
-pconocimiento proposicional por las fuentes mediante las cuales lo obtenemos?]
+conocimiento proposicional por las fuentes mediante las cuales lo obtenemos?]
 
 #question[¿Puedes imaginar un caso del tipo de Gettier para el saber cómo?
 _(Discutiremos casos como estos en el capítulo 5)_]
