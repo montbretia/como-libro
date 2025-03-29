@@ -40,4 +40,5 @@ Partes del texto han sido publicado antes:
 
 - Partes de la sección 5.5 están basadas en #cite(<MoralesCarbonell2023>, form:
   "full"). 
+- Parte del capítulo 9 está basado en #cite(<MoralesCarbonell2025b>, form: "full")
 - El capítulo 10 está basado en #cite(<MoralesCarbonell2025>, form: "full")
