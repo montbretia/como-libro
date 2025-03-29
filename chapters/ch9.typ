@@ -158,7 +158,7 @@ posibilidades, etc. Dada la centralidad de estas actividades para la obtención
 de fines y bienes epistémicos, es necesario pensar que ciertas acciones en
 relación con esto puede redituar en una forma de injusticia epistémica. Hookway
 llama a esta forma de injusticia epistémica _injusticia participativa_. Así como
-en el caso de la injusticia testimonial (que por otro lado, resulta ser un tipo
+en el caso de la injusticia testimonial (que, por otro lado, resulta ser un tipo
 de injusticia participativa) es posible que haya injusticia al dar muy poca o
 mucha credibilidad al testimonio de alguien, en el caso de la injusticia
 participativa es posible cometer injusticia epistémica al dar muy poco o
