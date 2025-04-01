@@ -578,7 +578,7 @@ escribir tu nombre, pero tu conocimiento de esas maneras es distinto al
 que tienes de tu manera de escribir tu propio nombre. ¿Basta con saber
 tu manera para que digas que sabes la manera en que ‘se hace’, o tienes
 que saber todas las maneras de todos quienes puedan escribir tu nombre?
-Lo primero parece ser un poco limitado (por ejemplo, seguramente saber
+Lo primero parece ser un poco limitado (por ejemplo, seguramente sabes
 cómo escribir tu nombre de una manera que no es la usual para tí), y lo
 segundo parece demasiado exigente (podría haber una infinidad de maneras
 de escribir tu nombre). Es claro que para precisar lo que queremos decir
