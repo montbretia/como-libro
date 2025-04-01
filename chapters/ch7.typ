@@ -127,7 +127,17 @@ teoría externalista del conocimiento que acabamos de esbozar debería decir que
 sí. Sin embargo, @Bonjour1980 supone que nuestra intuición es que Norman no
 tiene conocimiento, porque no tiene razones para creer lo que cree.
 
-#question[¿Cómo creen que podría responder el externalista al desafío de casos
+#question(answer: [El externalista podría ofrecer una _teoría del error_ sobre
+estos casos. Una teoría del error muestra por qué tenemos intuiciones que
+sugieren que algo es verdadero cuando no lo es. En el caso de Norman, la teoría
+diría que, a pesar de que tenemos la intuición de que Norman no tiene
+conocimiento, sí lo tiene. Puede ser que cuando evaluamos casos como este,
+sistemáticamente impongamos restricciones adicionales a las que requiere el
+conocimiento estrictamente. En el caso de Norman, la capacidad de hacer juicios
+precisos como los que hace requiere a menudo que tengamos confianza en sus
+habilidades, y la manera normal de obtenerla es apelando a la manera en que el
+sujeto adquiera razones para sus creencias. Esto es opaco en el caso de
+Norman.])[¿Cómo creen que podría responder el externalista al desafío de casos
 como este?]
 
 Un problema con este tipo de respuesta a casos como el de Norman es que la
@@ -210,7 +220,12 @@ La pregunta que queda abierta es si no puede haber una manera en que el
 externalista pueda distinguir entre saber cómo hacer algo y otros tipos de
 capacidades confiables.
 
-#question[¿Qué diría Ryle del caso del golfista novato? ¿De qué manera cree que
+#question(answer: [Para Ryle, podría llegar a decirse que el golfista novato
+sabe cómo sacar la bola de las trampas de arena en tanto veamos que es
+regularmente confiable a la larga. Recuerden que para Ryle nuestras atribuciones
+de saber-cómo dependen de que evaluemos la historia de logros de la persona. Que
+alguien encuentre fácil lograr algo no es un punto en contra de que sepa
+hacerlo.])[¿Qué diría Ryle del caso del golfista novato? ¿De qué manera cree que
 podría un externalista hacer la distinción esbozada entre tener un don y saber
 cómo hacer algo?]
 
