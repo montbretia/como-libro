@@ -595,11 +595,11 @@ que #emph[la conclusión es verdadera si las premisas y la primera
 proposición hipotética, de que si las premisas son verdaderas entonces
 la conclusión es verdadera, son verdaderas];. Aun así el pupilo no logra
 ver el punto. Y así siguen, sin fin. El pupilo acepta reglas en la
-teoría, pero esto no lo fuerza a aplicarlas en la práctica. #h(1fr) (226-227)
+teoría, pero esto no lo fuerza a aplicarlas en la práctica. #h(1fr)~ (226-227)
 ]
 
 Si Ryle creyera que es suficiente mostrar que es posible que alguien
-sepa lo mismo que otra persona y sin embargo tener distintos perfiles
+sepa lo mismo que otra persona y, sin embargo, tener distintos perfiles
 intelectuales, quizás bastaría ver la diferencia entre el perfil
 intelectual del pupilo y su profesor al principio del argumento. El
 pupilo no sabe cómo conectar las premisas y la conclusión, aunque sabe
@@ -630,8 +630,7 @@ posible. En Ryle, eso proviene del argumento previo acerca de (2).
   puede consistir en conocer #emph[cierto] tipo de proposiciones, a
   saber, proposiciones acerca de la conexión entre premisas y
   conclusiones. ¿Podría consistir en conocer otro(s) tipo de
-  proposiciones?
-]
+  proposiciones?]
 
 === Contra la necesidad
 
@@ -650,10 +649,10 @@ con esto, tenemos que considerar dos ideas:
 Ahora bien, tanto el intelectualista como el anti-intelectualista pueden
 aceptar ambas tesis. Hay cierta ambigüedad en el concepto de conocer que
 permite decir que si bien conocer en cierto sentido (lo que podemos
-llamar #emph[conocimiento] #emph[débil];, y que podemos asimilar a la
+llamar _conocimiento débil_, y que podemos asimilar a la
 idea de aceptar una proposición justificadamente) es insuficiente para
 saber cómo, conocer en otro sentido (lo que podemos llamar
-#emph[conocimiento] #emph[fuerte];) sí podría serlo. Solo si hay una
+_conocimiento fuerte_) sí podría serlo. Solo si hay una
 única manera de entender el concepto de conocimiento hay un problema.
 Pero eso no parece plausible. Supongamos que un compañero más listo le
 pregunta al pupilo del argumento de Ryle si la conclusión del argumento
@@ -747,7 +746,7 @@ sería una imposibilidad lógica que alguien pudiera romper el círculo.
 ]
 
 Ryle parte de la observación de que en el modelo intelectualista, la
-acción inteligente tiene que estar de algún modo precedida por una
+acción inteligente tiene que estar, de algún modo, precedida por una
 operación mental, que consistiría en la consideración de alguna
 proposición regulativa, una regla que indica qué hay que hacer dadas
 ciertas circunstancias. Es decir, el intelectualista debería estar
