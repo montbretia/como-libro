@@ -12,7 +12,7 @@ proposicional. Luego, mostraremos cómo puede construirse una teoría del
 saber cómo sobre esa base. En este modelo, el saber cómo es simplemente
 un tipo de conocimiento proposicional, conocimiento de que ciertas
 acciones se hacen de ciertas maneras. Este tipo de teoría se suele
-llamar #emph[intelectualista];. En el siguiente capítulo veremos que
+llamar _intelectualista_. En el siguiente capítulo veremos que
 este tipo de modelo presenta varias dificultades, y veremos un modelo
 alternativo #emph[anti-intelectualista];, el del saber cómo como
 habilidad.
@@ -22,38 +22,38 @@ habilidad.
 Se ha derramado mucha tinta acerca del conocimiento, su naturaleza, sus
 límites, y su valor. En la mayoría de los casos, sin embargo, los
 filósofos se han referido a lo que podríamos llamar conocimiento
-#emph[proposicional];. La razón es que el conocimiento proposicional
+_proposicional_. La razón es que el conocimiento proposicional
 tiene una relación importante con el tema de la verdad. Una
 #emph[proposición];, en el sentido más tradicional (que no vamos a
 cuestionar aquí), es precisamente algo que puede ser tomado como
 verdadero o falso. Es lo que expresa una afirmación, y el contenido de
 los pensamientos que pueden ser verdaderos o falsos. El presupuesto
-metafísico es que, por un lado, tenemos al #emph[mundo];, que es de una
+metafísico es que, por un lado, tenemos al _mundo_, que es de una
 manera u otra (contiene montañas y ríos, partículas fundamentales que se
 comportan de ciertas formas, hechos, instituciones, etc.), y, por otro
-lado, a los #emph[sujetos];, que tienen distintas relaciones con el
-mundo. Una de estas relaciones es la de #emph[creer] que el mundo es de
+lado, a los _sujetos_, que tienen distintas relaciones con el
+mundo. Una de estas relaciones es la de _creer_ que el mundo es de
 cierta manera. Supón que el mundo contiene una rosa roja en tu jardín.
 Podrías creer que no hay una rosa roja en tu jardín—en este caso, tu
 creencia es falsa. Podrías creer que sí hay una rosa roja en el
 jardín—en este caso, tu creencia es verdadera. #emph[Lo que crees] en un
-caso u otro es el #emph[contenido] de tu creencia. Esto es la
+caso u otro es el _contenido_ de tu creencia. Esto es la
 proposición.#footnote[
 Existe toda una discusión acerca de la naturaleza metafísica de las
 proposiciones, que nos saltamos aquí.
 ] En el primer caso, la proposición es ‘no hay una rosa roja en el
 jardín’, y en el segundo ‘hay una rosa roja en el jardín’. Aparte de
 poder creer estas proposiciones, uno podría tomar distintas
-#emph[actitudes] hacia ellas—estas son distintas maneras en que el mismo
+_actitudes_ hacia ellas—estas son distintas maneras en que el mismo
 contenido proposicional puede ser tomado (hablaremos en este caso de
 #emph[actitudes proposicionales];). Por ejemplo, podríamos simplemente
-#emph[aceptar] que hay una rosa roja en el jardín, sin creerlo, o
-podríamos #emph[suponer] que hay una rosa roja en el jardín, o
-#emph[estimar] que la hay, o podríamos tener la #emph[convicción] de que
+_aceptar_ que hay una rosa roja en el jardín, sin creerlo, o
+podríamos _suponer_ que hay una rosa roja en el jardín, o
+_estimar_ que la hay, o podríamos tener la #emph[convicción] de que
 la hay.
 
-También podríamos #emph[querer] que haya una rosa en el jardín, o tener
-la #emph[esperanza] de que la haya, o tener la #emph[intención] de que
+También podríamos _querer_ que haya una rosa en el jardín, o tener
+la _esperanza_ de que la haya, o tener la #emph[intención] de que
 haya una. Pero estos casos son distintos a los anteriores de una manera
 que vale la pena enfatizar. Es posible creer en algo que no es verdad, y
 también es posible desear que algo sea de una manera que de hecho no es.
@@ -62,10 +62,10 @@ rosas. Mi deseo se vería satisfecho si tuviera hortensias en mi jardín,
 si el mundo se ajustara a mi deseo. Pero mi creencia de que hay rosas en
 el jardín es verdadera o falsa sólo si mi creencia se ajusta al mundo.
 Si bien podemos decir que el contenido de un deseo podría ser una
-proposición, la #emph[dirección] #emph[de] #emph[ajuste] es distinta a
+proposición, la #emph[dirección] _de_ _ajuste_ es distinta a
 la de la creencia. Aquí nos vamos a preocupar solamente de actitudes
 cuya dirección de ajuste es de la mente al mundo, si en cierto sentido
-al tenerlas nuestra mente #emph[tiene] que ajustarse al mundo.
+al tenerlas nuestra mente _tiene_ que ajustarse al mundo.
 
 ¿Qué nos sugiere esto acerca del conocimiento? Como la creencia, tener
 conocimiento es una manera en que la mente se ajusta al mundo. Se ajusta
@@ -120,7 +120,7 @@ conocimiento. Consideren este escenario:
 
 La intuición es que en este caso no sabemos que hay un granero, a pesar
 de que nuestra creencia es verdadera y tiene una justificación. El
-diagnóstico clásico es que es simplemente #emph[afortunado] en estos
+diagnóstico clásico es que es simplemente _afortunado_ en estos
 casos que nuestra creencia tenga estas propiedades. El mecanismo
 mediante el cual llegamos a esta creencia no es lo suficientemente
 confiable, ya que fácilmente habríamos llegado a una creencia falsa si
@@ -142,7 +142,7 @@ Primero, uno podría requerir que las creencias satisfagan lo que a
 menudo se llama una condición #emph[modal ];(una condición definida en
 términos de ciertas posibilidades). Algunos
 epistemólogos#footnote[Cf. @Nozick1981.] han propuesto que se requiera que las creencias sean ‘sensitiva’
-(#emph[sensitive];):
+(_sensitive_):
 
 / Sensitividad: Una creencia c de un sujeto s es sensitiva si y solo si s no creería
   que c si c fuera falsa.#footnote[
@@ -160,7 +160,7 @@ incluso en este caso. Por lo tanto, la creencia no es sensitiva—el
 mecanismo mediante el cual uno forma la creencia no es capaz de
 discriminar los casos que son falsos.
 
-#aside[ La condición de Sensitividad está formulada como un condicional
+#aside[ La condición de Sensibilidad está formulada como un condicional
 contrafáctico: 'si p no fuera verdadero, s no creería que p'. Esquemáticamente:
 $ not p would not C(s, p) $ La manera tradicional (aunque no la única) de entender
 estos condicionales es en términos de la semántica de mundos posibles. Un mundo
@@ -192,12 +192,12 @@ considerarse como los más cercanos depende del contexto.
 ]
 
 
-Entonces, lo que Sensitividad dice es que en todos los mundos
+Entonces, lo que Sensibilidad dice es que en todos los mundos
 más cercanos al actual en que $p$ no es verdadero, tampoco es el caso que $s$ cree que $p$.]
 
 Un problema con esto es que parece estar en conflicto con un principio
 que muchos epistemólogos desean mantener sobre el conocimiento, el de
-#emph[cierre];:
+_cierre_:
 
 / Cierre : Si s (1) sabe que p, (2) sabe que si p, entonces q, (3) y cree que q
   porque s es suficientemente competente para inferir de acuerdo a la
@@ -229,7 +229,7 @@ que es un granero, ¡aunque sabes que es un granero rojo! Esta
 consecuencia es un poco sorprendente, así que muchos han preferido
 rechazar Sensitividad en vez de Cierre.
 
-Otros han propuesto que las creencias deben ser ‘seguras’ (#emph[safe];):
+Otros han propuesto que las creencias deben ser ‘seguras’ (_safe_):
 
 / Seguridad : Una creencia c de un sujeto es segura si y solo si la creencia en c de s
   no podría ser fácilmente falsa.#footnote[
@@ -272,9 +272,9 @@ Consideren el caso siguiente:
 
 En este caso, las creencias de Luis son seguras—gracias a los esfuerzos
 de sus padres, no serían fácilmente falsas (no es necesario que
-#emph[siempre] tenga la razón, así que sus padres pueden fallar a veces,
+_siempre_ tenga la razón, así que sus padres pueden fallar a veces,
 pero suponemos que logran anticipar sus creencias la mayoría de las
-veces). Ahora bien, Luis es #emph[demasiado] afortunado: es fácil tener
+veces). Ahora bien, Luis es _demasiado_ afortunado: es fácil tener
 la impresión de que no podemos decir que tenga conocimiento. Un
 diagnóstico que podemos dar es que no tiene conocimiento porque la
 seguridad de su éxito no se debe a sus esfuerzos cognitivos, sino
@@ -286,19 +286,19 @@ la condición de seguridad no es suficiente para completar el análisis
 del concepto de conocimiento.
 
 Una alternativa es decir que el conocimiento debe ser el producto de las
-#emph[competencias] o #emph[habilidades] del sujeto (esta es la idea
-central de lo que se ha llamado #emph[epistemología de las virtudes];).
+_competencias_ o _habilidades_ del sujeto (esta es la idea
+central de lo que se ha llamado _epistemología de las virtudes_).
 Ernest Sosa, por ejemplo, propone que el conocimiento puede evaluarse en
 los mimos términos que evaluamos el actuar de alguien. En general, si
-haces algo, lo que haces puede ser (1) acertado (#emph[accurate];), (2)
-manifestar alguna habilidad (diestro o hábil, #emph[adroit];), y además
-(3) ser acertado #emph[porque] manifiesta esa habilidad (apto,
-#emph[apt)—];Sosa llama a esto la estructura AAA de los logros (por
-#emph[Accurate];, #emph[Adroid] y #emph[Apt];)#emph[.] Imagina a alguien
+haces algo, lo que haces puede ser (1) acertado (_accurate_), (2)
+manifestar alguna habilidad (diestro o hábil, _adroit_), y además
+(3) ser acertado _porque_ manifiesta esa habilidad (apto,
+_apt_)--Sosa llama a esto la estructura AAA de los logros (por
+_Accurate_, _Adroit_ y _Apt_). Imagina a alguien
 que trata de dibujar una mariposa. Su intento puede ser acertado, en el
 sentido de crear una representación claramente correcta de una mariposa;
 pero también puede fallar en el sentido de producir algo que claramente
-#emph[no] se ve como una mariposa. Independientemente, su intento puede
+_no_ se ve como una mariposa. Independientemente, su intento puede
 manifestar una habilidad—incluso si no logra ser acertado. Y además,
 puede ser acertado porque manifiesta una habilidad especial para
 dibujar. Lo mismo sucede en el caso del conocimiento: alguien puede
@@ -328,8 +328,8 @@ este.
 Hay varias maneras de responder a este desafío. La respuesta de Sosa es
 ampliar el modelo de la epistemología de las virtudes. Según él, hemos
 de distinguir entre conocimiento que satisface las condiciones AAA, lo
-que llama #emph[conocimiento] #emph[animal];, y un nivel cognitivo más
-alto que llama #emph[conocimiento] #emph[reflexivo];, que requiere ser
+que llama _conocimiento_ _animal_, y un nivel cognitivo más
+alto que llama _conocimiento_ _reflexivo_, que requiere ser
 sensible a las posibilidades de caer en el
 error.#footnote[
 @Sosa2010a introduce el concepto de conocer plenamente bien
@@ -345,14 +345,22 @@ cognitivos confiables que constituyen nuestro carácter cognitivo, de tal
 modo que nuestro éxito epistémico es atribuible a nuestro carácter
 cognitivo’ (54). #footnote[
 Otro enfoque es el de @Beddor2018. Ellos introducen una
-noción de habilidad (#emph[skillfulness];) como un tipo de
-#emph[robustez] #emph[modal];: en una proporción suficientemente alta de
+noción de habilidad (_skillfulness_) como un tipo de
+_robustez_ _modal_: en una proporción suficientemente alta de
 posibilidades cercanas relevantes donde uno realiza un acto similar, uno
 es exitoso. Entonces, el conocimiento podría caracterizarse como una
-creencia máximamente hábil (#emph[skillfull];). En los capítulos 4 y 5
+creencia máximamente hábil (_skillfull_). En los capítulos 4 y 5
 volveremos a la noción de habilidad.
 ]
-
+{
+  'uloco/bluloco.nvim',
+  lazy = false,
+  priority = 1000,
+  dependencies = { 'rktjmp/lush.nvim' },
+  config = function()
+    -- your optional config goes here, see below.
+  end,
+},
 === Las fuentes del conocimiento proposicional
 
 Sea cual sea la naturaleza del conocimiento, es importante observar que
@@ -369,7 +377,7 @@ porque imagino una secuencia de movimientos que podría llevar a cabo
 para ello, etc.
 
 Las maneras en que obtenemos conocimiento en cada caso son lo que
-podemos llamar las #emph[fuentes] de ese conocimiento. Algunas de estas
+podemos llamar las _fuentes_ de ese conocimiento. Algunas de estas
 son:
 
 + #emph[La percepción.] El funcionamiento de nuestro aparato sensorial
@@ -377,7 +385,7 @@ son:
   conocimiento, aunque ciertamente falible (como lo demuestra la
   posibilidad de las ilusiones perceptuales). Una característica
   importante de la percepción es que parece ser una fuente
-  #emph[inmediata] de conocimiento: no requiere de que ya tengamos
+  _inmediata_ de conocimiento: no requiere de que ya tengamos
   conocimiento.
 
 +   #emph[El razonamiento];. Nuestra capacidad de razonar lógicamente
@@ -429,7 +437,7 @@ testimonio nos provee de conocimiento, depende de que podamos percibir
 lo que otros sujetos nos digan o comuniquen. Del mismo modo, parece que
 la imaginación sólo puede ser una fuente de conocimiento si es
 constreñida por conocimiento que presumiblemente proviene de
-#emph[otras] fuentes.
+_otras_ fuentes.
 
 #question(answer: [La lectura no puede ser una fuente básica de conocimiento, porque
   depende de la percepción. A menudo aprendemos a hacer cosas leyendo
@@ -512,7 +520,7 @@ científicos que pone en cuestión que los valores científicos
 tradicionales sean satisfactorios.
 ]
 
-Es importante notar desde ya que precisamente este poder predictivo de
+Es importante notar desde ya, que precisamente este poder predictivo de
 la hipótesis dará pie luego a la manera más usual de atacarla: si se
 muestra que estas predicciones fallan, es decir, si hay casos de saber
 cómo que no tienen estas propiedades genéricas, entonces la hipótesis
@@ -549,8 +557,8 @@ direcciones, incluso dentro de los confines de las teorías
 intelectualistas del saber cómo. Pero una respuesta prometedora es que
 el saber cómo es conocimiento proposicional de un cierto tipo de cosa
 específico. Saber cómo fabricar queso es saber algo acerca de#emph[ cómo
-se hace] algo, a saber, saber #emph[que] #emph[el queso se fabrica de
-cierta manera. ];En general, saber cómo hacer algo sería saber que se
+se hace] algo, a saber, saber _que el queso se fabrica de
+cierta manera_. En general, saber cómo hacer algo sería saber que se
 hace de cierta manera o maneras—puesto de otro modo: sería saber, de una
 manera, que es una forma de hacerlo. Formulemos esto como una primera
 versión del intelectualismo:
@@ -559,8 +567,8 @@ versión del intelectualismo:
   de una cierta manera o maneras M
 
 Saber que el agua hierve alrededor de los 100 grados Celsius en
-condiciones normales a nivel del mar #emph[no] #emph[es] saber que algo
-se #emph[hace] de una cierta manera u otra. Lo mismo vale acerca de
+condiciones normales a nivel del mar _no_ _es_ saber que algo
+se _hace_ de una cierta manera u otra. Lo mismo vale acerca de
 saber que mi peperomia está sana, que 10+17 son 27, cuál es el cambio de
 dólar a pesos, etc. De este modo, esta propuesta logra resolver el
 problema de distinguir al saber cómo de otras formas de conocimiento
@@ -572,20 +580,20 @@ ejemplo, que X ‘se hace’ de una cierta manera o maneras? Para entender
 esta pregunta, piensa en las condiciones en las que dirías que algo ‘se
 hace’ de cierta manera. Por ejemplo, sabes escribir tu nombre, y lo has
 hecho una multitud de veces durante tu vida. Hay una manera de hacerlo
-que es #emph[tu] manera de hacerlo, la manera en que lo haces
+que es _tu_ manera de hacerlo, la manera en que lo haces
 usualmente. Sabes también que tus amigos tienen sus propias maneras de
 escribir tu nombre, pero tu conocimiento de esas maneras es distinto al
 que tienes de tu manera de escribir tu propio nombre. ¿Basta con saber
 tu manera para que digas que sabes la manera en que ‘se hace’, o tienes
 que saber todas las maneras de todos quienes puedan escribir tu nombre?
 Lo primero parece ser un poco limitado (por ejemplo, seguramente sabes
-cómo escribir tu nombre de una manera que no es la usual para tí), y lo
+cómo escribir tu nombre de una manera que no es la usual para ti), y lo
 segundo parece demasiado exigente (podría haber una infinidad de maneras
 de escribir tu nombre). Es claro que para precisar lo que queremos decir
 tenemos que responder al menos estas dos preguntas: ¿#emph[quiénes]
 tienen que hacer X de tal o cual manera para que esa manera o maneras
 sean las que tienes que conocer para saber como se hace X? ¿Y #emph[qué]
-#emph[tan] #emph[frecuentemente] tiene que hacerse X de esa manera o
+_tan_ _frecuentemente_ tiene que hacerse X de esa manera o
 maneras?
 
 #question(answer: [Hay que distinguir entre el caso en que se sabe que hay
@@ -655,16 +663,16 @@ considerar.
 
 De todas maneras, hay un problema más serio aún que también afecta a
 este análisis del saber cómo. Piensa en casos en que querrías decir que
-saber cómo hacer algo que #emph[no] has intentado hacer antes. Sabes que
+saber cómo hacer algo que _no_ has intentado hacer antes. Sabes que
 tus amigos lo han hecho, pero tú aún no. Sabes, entonces, que hay
 maneras de hacerlo que #emph[podrían] ser maneras en que tú podrías
 hacerlo, o en que alguien más podría hacerlo. ¿Es necesario que se haga
-X #emph[de] #emph[hecho] de cierta manera para que esa manera sea la que
+X _de_ _hecho_ de cierta manera para que esa manera sea la que
 tienes que conocer para saber cómo se hace X, o es suficiente que sepas
-que X se #emph[puede] hacer de cierta manera? Lo segundo parece más
+que X se _puede_ hacer de cierta manera? Lo segundo parece más
 plausible; por ejemplo, parece razonable pensar que alguien puede saber
 cómo hacer algo que nadie, ni siquiera ellos mismos, haya hecho antes
-(por ejemplo, podrían haber ‘descubierto’ cómo hacerlo). Podemos revisar
+(por ejemplo, podría haber ‘descubierto’ cómo hacerlo). Podemos revisar
 el análisis introduciendo esta idea de posibilidad de la siguiente
 manera:
 
@@ -681,8 +689,8 @@ en términos de que para alguien que pertenece al mundo actual (una
 persona real) sea posible hacer X de cierta manera. Por otro, puede
 entenderse en términos de que exista la posibilidad de que alguien haga
 X de cierta manera, en cuyo caso quien puede hacer X no tiene que ser
-parte del mundo actual—en este caso diríamos que hay un #emph[mundo]
-#emph[posible] distinto al actual donde alguien hace X de cierta
+parte del mundo actual—en este caso diríamos que hay un _mundo_
+_posible_ distinto al actual donde alguien hace X de cierta
 manera.#footnote[
 Estrictamente, la diferencia es entre si los sujetos relevantes
 pertenecen o no al mundo al que S pertenece. Imagine a Pedro Urdemales,
@@ -690,8 +698,8 @@ una persona que actualmente no existe, pero que #emph[podría] existir.
 Podemos decir que Pedro sabe cómo engañar al diablo porque sabe que hay
 una manera en la que alguien podría engañarlo en su mundo o en otro
 mundo que es posible desde la perspectiva de su mundo. Así como Pedro no
-tiene porqué existir en nuestro mundo, la persona que puede engañar al
-diablo no tiene porqué existir en el mundo actual (el nuestro).
+tiene por qué existir en nuestro mundo, la persona que puede engañar al
+diablo no tiene por qué existir en el mundo actual (el nuestro).
 ] La primera interpretación es más fuerte que la segunda, en el sentido
 de que la implica (si hay alguien en el mundo real que puede hacer algo,
 hay una posibilidad en la que alguien lo hace, pero lo inverso no es
@@ -708,13 +716,13 @@ cómo sabemos que algo es posible si no ha sido realizado
 ya?#footnote[
 Véase @Inwagen1998.
 ] No existe una respuesta unívoca a esta pregunta; la disciplina que la
-estudia es la #emph[epistemología] #emph[modal] o de la modalidad. En el
+estudia es la #emph[epistemología] _modal_ o de la modalidad. En el
 caso de este tipo de conocimiento acerca de cómo alguien puede hacer
 algo, hay varias alternativas plausibles. Por ejemplo, puede ser que
 tengamos la capacidad de percibir la posibilidad de hacer algo en un
 entorno dado, lo que a veces se llama una
-#emph[affordance];.#footnote[
-La noción de #emph[affordance] viene de @Gibson1966. @Strohminger2015
+_affordance_.#footnote[
+La noción de _affordance_ viene de @Gibson1966. @Strohminger2015
 sugiere que es posible percibir posibilidades no-actualizadas.
 @Vetter2021 también elabora esta idea.
 ] O puede ser que tengamos la capacidad de imaginar situaciones que nos
@@ -770,22 +778,22 @@ cuestión de hecho.
 ¿Qué versión del análisis intelectualista es preferible? ¿Es importante
 que quien sabe cómo hacer algo pueda él mismo hacerlo de cierta manera,
 o no? Y si fuera importante, ¿no sería mejor decir que lo crucial es que
-el sujeto pueda hacerlo, no necesariamente que #emph[sepa] que pueda?
+el sujeto pueda hacerlo, no necesariamente que _sepa_ que pueda?
 Esta va a ser precisamente la propuesta de algunos
 anti-intelectualistas.
 
 === Otra interpretación de ‘se hace’
 
 Como ya he indicado, el análisis intelectualista que esbozamos en la
-sección anterior puede describirse como un análisis #emph[modal] del
+sección anterior puede describirse como un análisis _modal_ del
 saber cómo, en tanto que fija las condiciones para saber cómo en
-términos de que ciertas acciones sean #emph[posibles];. Según este
+términos de que ciertas acciones sean _posibles_. Según este
 análisis, para saber cómo es suficiente que se sepa que hay una manera
 posible de hacerlo. Sin embargo, hay otra manera de entender, de una
 manera de hacer algo, que sea como eso ‘se haga’. La idea es la
 siguiente: como se hace algo es como #emph[debería] hacerse. Podríamos
 pensar que cuando alguien le demuestra a otro cómo hacer algo (por
-ejemplo, cómo cocinar #emph[pad] #emph[thai];), lo que hace es demostrar
+ejemplo, cómo cocinar _pad_ _thai_), lo que hace es demostrar
 cómo debería hacerlo, no solamente que puede hacerse de cierta manera.
 Así, uno podría formular una versión del intelectualismo como sigue:
 
@@ -793,7 +801,7 @@ Así, uno podría formular una versión del intelectualismo como sigue:
   hacerse de cierta manera M
 
 Este análisis puede describirse como #emph[deóntico];, porque habla
-acerca de ciertos #emph[deberes];. Una ventaja de este análisis sobre el
+acerca de ciertos _deberes_. Una ventaja de este análisis sobre el
 modal es que permite esbozar una explicación del hecho de que valoremos
 el saber cómo: saber nuestros deberes es valioso, porque valoramos
 actuar bien (de acuerdo a nuestros deberes), y saber cuáles son nuestros
@@ -808,31 +816,31 @@ depende de cómo definamos lo que tiene que hacerse y cómo debería
 hacerse. Es bien conocida la historia de Alejandro Magno y el nudo
 Gordiano. La profecía era que quien desatara el nudo tendría el control
 de Asia. Alejandro cortó el nudo. ¿Es esto una manera de desatarlo? ¿Y
-si lo es, es #emph[la] manera en que debería haberlo hecho? ¿Diríamos
+si lo es, es _la_ manera en que debería haberlo hecho? ¿Diríamos
 que Alejandro supo cómo hacerlo?
 
-Un manera de presentar este problema con el análisis deóntico es que no
-parece acomodar casos en que hay más de una manera #emph[permisible] de
+Una manera de presentar este problema con el análisis deóntico es que no
+parece acomodar casos en que hay más de una manera _permisible_ de
 realizar una acción. Una forma de responder al problema es apelar a que
 podemos describir una manera de hacer algo a distintos niveles de
 detalle, y que no todos los detalles acerca de cómo podemos describir
 una manera de hacer algo son importantes—no todos esos detalles son
-parte de lo que #emph[debemos] hacer. Por ejemplo, cuando cocinamos a
+parte de lo que _debemos_ hacer. Por ejemplo, cuando cocinamos a
 menudo hay pasos que son esenciales, y otros que son opcionales (mi
-salsa #emph[arrabiata] técnicamente no necesita #emph[gochugaru];, pero
+salsa _arrabiata_ técnicamente no necesita _gochugaru_, pero
 de todas maneras me gusta añadir un poco). Cuando hay más de una manera
 permisible de realizar una acción, uno podría suponer que las
 diferencias entre las distintas maneras permisibles radican precisamente
 en aquellos aspectos que no son importantes, y que todas las distintas
 maneras permisibles de hacer algo realizan los aspectos que sí son
-importantes (mi salsa #emph[arrabiata] es distinta a la de mi madre,
+importantes (mi salsa _arrabiata_ es distinta a la de mi madre,
 pero ambas cumplen con todos los aspectos esenciales de cómo deben
 prepararse).
 
 Esta respuesta puede generalizarse apelando a ciertos vínculos
 conceptuales sistemáticos que hay entre que algo sea un deber y que algo
-sea permisible. Si debemos hacer algo de #emph[una] manera, no parece
-coherente decir que además debemos hacerlo de #emph[otra] manera;
+sea permisible. Si debemos hacer algo de _una_ manera, no parece
+coherente decir que además debemos hacerlo de _otra_ manera;
 entonces, si algo debe hacerse de una manera, no está permitido que se
 haga de ninguna otra manera. Pero en muchos casos es permisible hacer
 algo de distintas maneras. Una forma de acomodar estas ideas es suponer
@@ -851,7 +859,7 @@ de hacer X. Esto sugiere que saber cómo hacer algo podría consistir en
 saber que si ha de hacerse, debería hacerse de una u otra manera. Como
 en el caso del análisis modal, quizás no sea necesario que se sepan
 todas las maneras en que es permisible hacer X—basta conocer
-#emph[alguna] manera que sea permisible. Haciendo el ajuste necesario al
+_alguna_ manera que sea permisible. Haciendo el ajuste necesario al
 análisis deóntico obtenemos:
 
 / Intelectualismo~7: S sabe cómo hacer X si y solo si S sabe que si X ha de
@@ -890,7 +898,7 @@ deberes de actuar según esos medios para obtener esos fines.
 ] Estas son muy buenas noticias, porque entre otras cosas querríamos
 decir que el saber cómo tiene un rol que jugar en la manera en que
 guiamos nuestras acciones (recuerden las perogrulladas acerca del saber
-cómo que vimos en enumeramos en el capítulo anterior), y el modelo
+cómo que enumeramos en el capítulo anterior), y el modelo
 deóntico parece capturar esta conexión de una manera muy clara.
 
 El modelo modal no parece capturar esta idea de una manera tan directa.
@@ -899,8 +907,8 @@ que permita, por ejemplo, intentar hacer algo de alguna manera, si
 sabemos que esa manera es posible o si sabemos que si la ejecutáramos,
 lograríamos satisfacer nuestros objetivos. Estos principios son
 plausibles. Uno podría razonar que dado que sabemos cierta manera de
-hacer X es posible, es razonable intentar hacerlo de esa manera, y por
-lo tanto decidir intentarlo. Así que el modelo puramente modal también
+hacer X es posible, es razonable intentar hacerlo de esa manera y, por
+lo tanto, decidir intentarlo. Así que el modelo puramente modal también
 puede dar cuenta de la conexión entre el saber cómo y la acción.
 
 Por otro lado, el análisis deóntico que acabamos de esbozar aquí
@@ -911,10 +919,9 @@ Uno podría sugerir que el consecuente del análisis deóntico implica al
 consecuente del análisis modal, mediante la aplicación de un principio
 del tipo de si se debe hacer X, se puede hacer X. En realidad, para
 derivar el análisis modal del deóntico es necesario poder pasar de que
-se #emph[sepa] que se debe hacer X a que se #emph[sepa] que se puede
+se _sepa_ que se debe hacer X a que se _sepa_ que se puede
 hacer X. ¿Pero realmente no es posible saber que uno debe hacer algo que
-no se puede hacer?
-] Pero en ese caso el análisis depende de que aceptemos algo así como
+no se puede hacer?] Pero en ese caso el análisis depende de que aceptemos algo así como
 el análisis modal. Quizás en ciertas circunstancias para adscribir saber
 cómo a alguien no solo requiramos que sepan cómo alguien podría hacer
 algo, sino cómo deberían hacerlo.#footnote[
@@ -929,12 +936,12 @@ saber que algo _debe_ hacerse de cierta manera?]
 
 == Resumen
 
-En este capitulo, hemos dado los primeros pasos para construir una
+En este capítulo, hemos dado los primeros pasos para construir una
 teoría del saber cómo. Primero, examinamos las características del
 conocimiento proposicional (qué condiciones son necesarias para que se
-de, y qué fuentes puede tener), y esbozamos la hipótesis de que el saber
+dé, y qué fuentes puede tener), y esbozamos la hipótesis de que el saber
 cómo es un tipo de conocimiento proposicional—esta hipótesis es conocida
-como #emph[Intelectualismo];. Siguiendo esta hipótesis es posible
+como _Intelectualismo_. Siguiendo esta hipótesis es posible
 construir una teoría del saber cómo con cierto poder explicativo acerca
 de sus características generales. Al tratar de explicar qué es lo
 distintivo del saber cómo como conocimiento proposicional, empezamos a
@@ -963,7 +970,7 @@ _Teoría del Conocimiento_ (#cite(<Blasco2004>, form: "year")), de Josep Blasco 
 Tobies Grimaltos.
 
 Sobre la epistemología modal, una buena introducción es el artículo de
-la #emph[Stanford Encyclopedia of Philosophy];, ‘The Epistemology of
+la _Stanford Encyclopedia of Philosophy_, ‘The Epistemology of
 Modality’, de Antonella Mallozi, Anand Vaidya & Michael Wallner,
 #link("https://plato.stanford.edu/entries/modality-epistemology/");.
 ]

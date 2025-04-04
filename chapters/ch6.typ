@@ -86,8 +86,8 @@ de proveer de información que puede ser empleada luego para guiar la acción.
 Vemos que un auto viene por la calle; las representaciones que formamos del auto
 nos sirven para _estimar_ la velocidad del vehículo, y la distancia a la que está
 de nosotros. En consecuencia, _juzgamos_ que podemos o no tratar de cruzar la
-calle. Este ejemplo ilustra además que las acciones que podemos tomar en base a
-las representaciones que formamos pueden consistir también en formar otras
+calle. Este ejemplo ilustra además que las acciones que podemos tomar haciendo
+uso de las representaciones que formamos pueden consistir también en formar otras
 representaciones.
 
 Esto da pie a la siguiente imagen sobre la arquitectura de la mente (la manera
