@@ -34,11 +34,19 @@ Gracias a los asistentes al grupo de lectura 'Introducción a la epistemología
 del saber cómo' (2o semestre 2024), quienes me dieron ideas útiles mientras
 terminaba el borrador inicial. Especiales gracias a Francisco Barría y Héctor
 Mira, quienes además de participar en este grupo, colaboraron en la preparación
-de la versión final de este documento.
+de la versión final de este documento. Le agradezco además a los alumnos del
+seminario 'Introducción a la epistemología del saber cómo' (1o semestre 2025)
+por su interés y comentarios.
 
-Partes del texto han sido publicado antes:
+Le agradezco también a Rodrigo González, Giulia Lorenzi, Jan Heylen, Kristine
+Grigoryan y Sheena Ramkumar por conversar conmigo sobre los temas del libro.
+Muchas otras personas han influido indirectamente en este trabajo.
+
+Partes del texto han sido publicado antes o han aparecido en otras formas:
 
 - Partes de la sección 5.5 están basadas en #cite(<MoralesCarbonell2023>, form:
   "full"). 
 - Parte del capítulo 9 está basado en #cite(<MoralesCarbonell2025b>, form: "full")
 - El capítulo 10 está basado en #cite(<MoralesCarbonell2025>, form: "full")
+
+

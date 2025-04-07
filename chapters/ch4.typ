@@ -1216,25 +1216,25 @@ que ya tiene?]
 == Lecturas recomendadas
 
 Sobre el problema mente-cuerpo, y la filosofía de la mente en general,
-recomiendo el breve #emph[Philosophy of Mind: The Basics ];(2020), de
+recomiendo el breve _Philosophy of Mind: The Basics_ (2020), de
 Amy Kind.
 
 Para una visión más general de la filosofía de Ryle, el artículo de la
 SEP de Julia Tanney es excelente:
-#link("https://plato.stanford.edu/entries/ryle/");. La versión de 2009
+#link("https://plato.stanford.edu/entries/ryle/"). La versión de 2009
 de los #emph[Collected Papers] de Ryle, en dos volúmenes, y la edición
 de ese mismo año de #emph[The Concept of Mind] también incluyen sendas
 introducciones escritas por Tanney, que coinciden con el artículo del
 SEP.
 
-El librito #emph[Infinite Regress Arguments] (2014) de Jan Willem Wieland es un
+El librito _Infinite Regress Arguments_ (2014) de Jan Willem Wieland es un
 conciso e iluminador estudio de cómo funcionan los argumentos de regreso
 infinitos.
 
 La noción crucial en la propuesta anti-intelectualista de Ryle es la de
-#emph[habilidad];. ¿Qué es, sin embargo, una habilidad? El libro
-#emph[Agentive Abilities ];(2021) de Romy Jaster ofrece una propuesta.
-Sobre todo, el primer capítulo#emph[ ];es útil para apreciar algunas de
+_habilidad_. ¿Qué es, sin embargo, una habilidad? El libro
+_Agentive Abilities_ (2021) de Romy Jaster ofrece una propuesta.
+Sobre todo, el primer capítulo es útil para apreciar algunas de
 las dificultades que tiene que sortear una teoría filosófica del
 concepto de habilidad.
 
