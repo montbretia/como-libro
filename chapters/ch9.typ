@@ -446,15 +446,20 @@ informados estemos.#footnote[Otro argumento en contra de tratar de adquirir la
 mayor cantidad de saber-cómo posible es que hacer esto abarrota nuestra mentes.
 Es necesario adoptar una norma de investigación que diga que solo debemos
 investigar aquello que promueva los intereses relevantes (en principio, los
-nuestros). Véase @Harman1986 y @Friedman2017.] Sin embargo, uno podría tener la
-disposición a juzgar ciegamente que lo que uno ha aprendido a hacer no es
-suficiente. Esto es particularmente plausible en casos en que uno no tiene una
-idea precisa de en qué consistiría saber hacer algo excepto en términos de tener
-la experiencia de haberlo hecho. Cuando queremos algo que no hemos hecho antes,
-es fácil caer en la ansiedad de no saber si nos hemos preparado lo suficiente.
-Esta ansiedad es sana en tanto nos obliga a reevaluar nuestras competencias,
-pero puede volverse viciosa si se vuelve insensible a la evidencia acerca de
-nuestras competencias.
+nuestros). Véase @Harman1986 y @Friedman2017.] Precisamente, uno podría esbozar
+un argumento anti-intelectualista en términos de que el intelectualismo promueve
+vicios epistémicos que obstruyen la adquisición de saber-cómo.#footnote[Ryle
+mismo podría haber aceptado algo como esto. @Dougherty2020 explora la conexión
+entre la perspectiva de Ryle acerca del saber-cómo y el concepto de virtud.]
+
+En efecto, uno podría tener la disposición a juzgar ciegamente que lo que uno ha
+aprendido a hacer no es suficiente. Esto es particularmente plausible en casos
+en que uno no tiene una idea precisa de en qué consistiría saber hacer algo
+excepto en términos de tener la experiencia de haberlo hecho. Cuando queremos
+algo que no hemos hecho antes, es fácil caer en la ansiedad de no saber si nos
+hemos preparado lo suficiente. Esta ansiedad es sana en tanto nos obliga a
+reevaluar nuestras competencias, pero puede volverse viciosa si se vuelve
+insensible a la evidencia acerca de nuestras competencias.
 
 Una vez que aprende a hacer algo, un agente epistémico virtuoso busca hacer su
 saber-cómo más estable y mejor en todo sentido, hasta donde es razonable. Por
@@ -473,6 +478,39 @@ estar motivado por cierta timidez o aversión al riesgo, aunque de hecho actuar
 de otras maneras podría ser menos riesgoso en ciertas circunstancias.
 
 #question[¿Sería lo opuesto a esta forma de dogmatismo un vicio también?]
+
+Quizás desde el punto de vista epistémico el tipo de saber-cómo dogmático más
+interesante es aquel en que el sujeto acepta una manera da hacer algo y se queda
+contento en esa manera de hacer las cosas, sin buscar mejorar su saber-cómo. En
+efecto, dejar de investigar acerca de cómo hacer algo es eventualmente
+razonable, de modo que los casos que nos interesan son casos en que el sujeto se
+contenta prematuramente en su saber-cómo, y adicionalmente, casos en que el
+sujeto sistemáticamente se contenta en su saber-cómo de manera prematura (hay
+una diferencia entre alguien que a veces se contenta en su saber-cómo
+prematuramente, y alguien que siempre lo hace).
+
+Si el saber-cómo implica la posesión de ciertas habilidades (ya sea porque
+consiste en esas habilidades, como en el modelo anti-intelectualista, o porque
+meramente es una consecuencia de tener cierto conocimiento proposicional, como
+en el modelo intelectualista), las prácticas de mantención de esas habilidades
+van a ser importantes también. Una habilidad adquirida que no se practica lo
+suficiente corre el riesgo de atrofiarse. La maestría y experticia están
+positivamente correlacionados con la retención de habilidades (cf. @Arthur2018),
+de modo que el sobre-entrenamiento necesario para la maestría es importante para
+la mantención del saber-cómo, y la falta de cuidado acerca del nivel real de
+maestría que se posee podría ser un factor en contra de la retención de
+habilidades, ya que motivaría formas de retención menos efectivas o derechamente
+el abandono de estrategias de retención.#footnote[La literatura sobre pérdida de
+habilidades identifica como un factor de prevención de pérdida de habilidades a
+la manera en que se adquieren las habilidades en primer lugar. La manera en que
+adquirimos el saber-cómo puede ser importante para su robustez en el tiempo.]
+Hay que tener cuidado, porque se ha documentado que además la gente tiende a
+tener el sesgo de subestimar el nivel de pérdida de habilidades a futuro
+(@Connolly2024). Si estos sesgos cuentan como vicios epistémicos,#footnote[Esto
+se sigue del modelo obstruccionista de Cassam, pero hay razones para pensar que
+la idea es problemática. Véase @Holroyd2020 para una discusión del punto.] es
+necesario contarlos como un tipo de vicio distinto al de la falta de cuidado en
+mantener el sustento del saber-cómo.
 
 Finalmente, en su relación con aprendices o clientes, alguien que posee
 saber-cómo podría exhibir algunos de los vicios que reconocimos antes como
