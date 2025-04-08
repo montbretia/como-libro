@@ -57,8 +57,9 @@ de reconocimiento. Esto es especialmente importante dado que en muchos casos las
 perspectivas que investiga la etnoepistemología han sido históricamente pasadas
 por alto o derechamente suprimidas.
 
-#question[¿Puede haber estudios etnoepistemologicos sobre la epistemología
-tradicional, occidental?]
+#question(answer: [Sí, la epistemología tradicional occidental también puede ser
+objeto de estudio etnoepistemológico.])[¿Puede haber estudios
+etnoepistemologicos sobre la epistemología tradicional, occidental?]
 
 En este capítulo, quiero esbozar un análisis de ciertos aspectos de lo que
 podríamos llamar el esquema epistemológico _mapuche_, la porción de la
@@ -262,8 +263,13 @@ experiencia.
         )
     ]
 
-#question[¿Qué podría pasar si no se adoptara esta política de adopción responsable del
-testimonio?]
+#question(answer: [No adoptar este tipo de política de adopción responsable
+expondría sistemáticamente al modelo a ciertas formas colectivas e individuales
+de deferencia epistémica. Si bien, como vimos en el capítulo 9, hay razones para
+pensar que cierta deferencia puede facilitar la acumulación de conocimiento
+acumulativo, esto requiere que también haya mecanismos de salvaguarda para
+evitar que se repliquen malas ideas dentro de la comunidad.])[¿Qué podría pasar
+si no se adoptara esta política de adopción responsable del testimonio?]
 
 @Mora2016 hace la importante observación de que la posesión del estado
 epistémico de ser _kimche_ no es una cuestión meramente interna al sujeto, sino
