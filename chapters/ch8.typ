@@ -203,11 +203,15 @@ compromisos se efectúan mediante ciertas acciones que los miembros del grupo
 toman para hacer conocimiento común del hecho de que están comprometiéndose con
 que el grupo tome cierta posición sobre un asunto.
 
-#question[En el caso del comité, es claro que es posible pensar en un acuerdo
-explícito conjunto a comprometerse con una postura. Sin embargo, hay entidades
-colectivas respecto a las cuales es dudoso que pueda decirse que hay tales
-compromisos. ¿Cómo podríamos atribuir creencias a compañias, naciones,
-instituciones internacionales, etc?]
+#question(answer: [Podríamos decir que en el contexto de ciertas instituciones,
+las condiciones para que un individuo cuente como si aceptara una proposición
+podrían no exigir un compromiso explícito. Bastaría, por ejemplo, que todos
+sepan o crean que si permanecen callados, se les tomará como si aceptan la
+decisión de la mayoría explícita.])[En el caso del comité, es claro que es
+posible pensar en un acuerdo explícito conjunto a comprometerse con una postura.
+Sin embargo, hay entidades colectivas respecto a las cuales es dudoso que pueda
+decirse que hay tales compromisos. ¿Cómo podríamos atribuir creencias a
+compañías, naciones, instituciones internacionales, etc?]
 
 Antes de seguir, es importante hacer una observación adicional acerca de las
 entidades colectivas. A menudo, identificamos una entidad colectiva no en
@@ -273,14 +277,18 @@ proyecto Manhattan:
     Consideren el Proyecto Manhattan para construir la primera bomba atómica.
     Como muchos otros proyectos científico-tecnológicos, requirió de la división
     de labor cognitiva. Aunque miembros del equipo sabían cómo operaban sus
-    partes del proyecto individualmtne, no sabíán los detalles de las otras
+    partes del proyecto individualmente, no sabían los detalles de las otras
     partes. Los líderes del proyecto sabían cómo encajaban las distintas partes,
     pero no tenían un conocimiento detallado de cada una de esas partes. De modo
     que el equipo en su conjunto sabía cómo construir una bomba atómica, pero
     ningún miembro del proyecto tenía este conocimiento.#h(1fr) (pp. 33--34)
 ]
 
-#question[Trate de construir un caso en que el modelo sumativo si funcione.]
+#question(answer: [Podría decirse que el modelo sumativo del saber-cómo
+colectivo podría aplicar a casos en que las tareas en cuestión implican que cada
+miembro del grupo haga lo mismo o algo altamente similar. Esto podría dar cuenta
+de juicios de atribución genérica, como 'las trabajadoras de esa empresa saben
+cómo armar juguetes'.])[Trate de construir un caso en que el modelo sumativo si funcione.]
 
 @HabgoodCoote2022 enumera cinco _desiderata_ para una teoría del saber-cómo
 colectivo:#footnote[En @MoralesCarbonell2024 argumento que adicionalmente debe
