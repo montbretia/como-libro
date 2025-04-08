@@ -42,7 +42,7 @@ Le agradezco también a Rodrigo González, Giulia Lorenzi, Jan Heylen, Kristine
 Grigoryan y Sheena Ramkumar por conversar conmigo sobre los temas del libro.
 Muchas otras personas han influido indirectamente en este trabajo.
 
-Partes del texto han sido publicado antes o han aparecido en otras formas:
+Partes del texto han sido publicadas antes o han aparecido en otras formas:
 
 - Partes de la sección 5.5 están basadas en #cite(<MoralesCarbonell2023>, form:
   "full"). 
