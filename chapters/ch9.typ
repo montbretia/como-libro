@@ -117,12 +117,18 @@ etc.), pero el contexto (en particular, las creencias de trasfondo de los
 interlocutores) determina la prominencia y valencia de esas dimensiones
 al momento de formar juicios.
 
-#question[Considere el siguiente caso: antes de una reunión, un colega le dice a
-Stef que nadie le va a escuchar porque es un inmigrante, y en consecuencia, Stef
-no participa libremente en la reunión. ¿Es esto también un tipo de injusticia
-epistémica? Imaginen que Stef decide no partipar abiertamente en el intercambio
-de opiniones en la reunión porque cree que no lo van a tomar en serio. ¿Es este
-un caso de injusticia epistémica?]
+#question(answer: [Sí. Es una manera de evitar que Stef participe en las
+actividades del grupo en su calidad de sujeto epistémico. Creo que el segundo
+caso es una forma de injusticia epistémica también, auto-infligida. No es
+necesario que la injusticia epistémica la cometa alguien distinto a su víctima.
+En situaciones de opresión sistemática, los sujetos podrían regularse a si
+mismos de maneras que limiten su estatus epistémico.])[Considere el siguiente
+caso: antes de una reunión, un colega le dice a Stef que nadie le va a escuchar
+porque es un inmigrante, y en consecuencia, Stef no participa libremente en la
+reunión. ¿Es esto también un tipo de injusticia epistémica? Imaginen que Stef
+decide no participar abiertamente en el intercambio de opiniones en la reunión
+porque cree que no lo van a tomar en serio. ¿Es este un caso de injusticia
+epistémica?]
 
 El caso de la injusticia hermenéutica es un poco distinto. En este caso, el
 problema no es que un sujeto de conocimiento es incapacitado para que las
@@ -259,7 +265,10 @@ de que el saber-cómo es menos susceptible a ser falsificado que el conocimiento
 proposicional es dudosa.] De modo que en el caso del saber-cómo no habría
 demasiado espacio para injusticias epistémicas basadas en prejuicios de engaño.
 
-#question[¿Existe un análogo a la injusticia hermenéutica que afecte al
+#question(answer: [Si el saber-cómo requiere alguna forma de comprensión, como
+por ejemplo sugieren @Bengson2011, es
+posible que alguien sufra de injusticia hermenéutica porque su comprensión
+práctica se ve limitada.])[¿Existe un análogo a la injusticia hermenéutica que afecte al
 saber-cómo?]
 
 #aside[
