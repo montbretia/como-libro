@@ -381,13 +381,20 @@ porque creía que el museo estaba en la calle 53. Otto posee la información de
 modo tal que su creencia no-ocurrente de que el museo está en la calle 53 está
 constituida en parte por la información disponible en su cuadernillo.
 
-#question[¿Comparten el juicio de Clark y Chalmers? Traten de variar el
-experimento mental, y vean si cambian sus opiniones (cf. @Dennett2014 sobre los
-experimentos mentales como 'bombas de intuiciones'). ¿Qué pasaría si en vez de
-un cuadernillo, Otto hiciera búsquedas en Internet? ¿Qué pasa si en vez de un
-cuadernillo, Otto tuviera un asistente (avanzando un poco las discusiones que
-nos van a ocupar en el siguiente capítulo)? ¿Sería la memoria del asistente parte de
-la memoria de Otto?]
+#question(answer: [Mis intuiciones están de lado de las de Clark y Chalmers,
+pero no son perfectamente uniformes. En el caso del uso del Internet, creo que
+es plausible pensar que mi memoria se extendería a los sistemas cibernéticos que
+empleo para recuperar información. En el caso de un asistente, mis intuiciones
+son más débiles, dado que el asistente mismo tiene su propia memoria, a la que
+no tengo necesariamente acceso, ni sobre la cual tengo el mismo control que
+tengo en el caso del cuadernillo o incluso del uso de Internet.])[¿Comparten el
+juicio de Clark y Chalmers? Traten de variar el experimento mental, y vean si
+cambian sus opiniones (cf. @Dennett2014 sobre los experimentos mentales como
+'bombas de intuiciones'). ¿Qué pasaría si en vez de un cuadernillo, Otto hiciera
+búsquedas en Internet? ¿Qué pasa si en vez de un cuadernillo, Otto tuviera un
+asistente (avanzando un poco las discusiones que nos van a ocupar en el
+siguiente capítulo)? ¿Sería la memoria del asistente parte de la memoria de
+Otto?]
 
 Uno podría responder diciendo que Otto no tiene una creencia acerca de la
 ubicación del museo hasta que consulta el cuadernillo; pero, dicen Clark y
@@ -492,7 +499,15 @@ demasiado alto porque creen que lleva a problemas como los que apuntan
 @Adams2001 y @Rupert2004, en particular al problema de tener que adscribir más
 estados mentales al sujeto que los que son plausibles.
 
-#question[¿Comparten los escrúpulos de Carter y Czarnecki sobre la concepción
+#question(answer: [Hay dos argumentos mezclados aquí. Por un lado, está la
+sugerencia de que la concepción dinámica de la creencia es una suerte de error
+de categoría, ya que sugiere que algo que normalmente tratamos como un estado
+debería entenderse como un proceso. Este argumento me parece débil (podría
+replicarse que debemos adoptar una actitud más crítica respecto a las maneras
+ordinarias de concebir la creencia). Por otro
+lado, está el problema de establecer un criterio para lo que cuente como
+creencia que no sea demasiado liberal. Sin embargo, no hay razón para pensar que
+esta dificultad es en principio infranqueable.])[¿Comparten los escrúpulos de Carter y Czarnecki sobre la concepción
 dinámica de la creencia?]
 
 ¿Cuáles son las opciones desde la perspectiva anti-intelectualista? Un
