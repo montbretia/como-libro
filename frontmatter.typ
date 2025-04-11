@@ -14,6 +14,16 @@ Producido usando #link("https://typst.app")[Typst].
 
 ]
 
+#pagebreak(to: "odd")
+
+#align(center+horizon)[
+    Para los estudiantes,\
+    los que he tenido,\
+    y los que quiero tener
+]
+
+#pagebreak(to: "odd")
+
 #set page(numbering: "i")
 
 #counter(page).update(1)
@@ -25,6 +35,8 @@ Producido usando #link("https://typst.app")[Typst].
 ]
 
 #set pagebreak(to: "odd")
+
+
 = Prefacio
 
 Este trabajo es parte del proyecto ANID Fondecyt de Postdoctorado #3220017
@@ -42,7 +54,7 @@ Le agradezco también a Rodrigo González, Giulia Lorenzi, Jan Heylen, Kristine
 Grigoryan y Sheena Ramkumar por conversar conmigo sobre los temas del libro.
 Muchas otras personas han influido indirectamente en este trabajo.
 
-Partes del texto han sido publicadas antes o han aparecido en otras formas:
+Partes del texto han sido publicadas antes o han aparecido (o aparecerán) en otras formas:
 
 - Partes de la sección 5.5 están basadas en #cite(<MoralesCarbonell2023>, form:
   "full"). 

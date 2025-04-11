@@ -220,7 +220,9 @@ hipervínculos en el documento, para tener fácil acceso a las respuestas).
 aparecer en este formato.]
 
 Como es usual, el libro termina con una lista de referencias. Además de las
-referencias en el texto, he añadido referencias a otros trabajos relevantes.
+referencias en el texto, he añadido referencias a otros trabajos
+relevantes.#footnote[En la edición en PDF, las fuentes BibTeX de la
+bibliografía se han incluido como adjuntos.]
 Cuando cito textos en inglés, he ofrecido mis propias traducciones, pero en la
 lista de referencias he añadido información sobre traducciones al español cuando
 hay disponibles. 

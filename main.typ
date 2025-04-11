@@ -90,3 +90,8 @@
 #include "chapters/apendice-logica.typ"
 #include "chapters/respuestas.typ"
 #include "backmatter.typ"
+
+#pdf.embed("bib/general.bib", relationship: "data", description: "Bibliografía:
+general")
+#pdf.embed("bib/mapuche.bib", relationship: "data", description: "Bibliografía:
+Etnoepistemología y epistemología mapuche")
