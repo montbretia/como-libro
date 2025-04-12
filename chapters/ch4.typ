@@ -866,7 +866,7 @@ girando la perilla y empujándola (así como mi conocimiento de que hay
 una puerta ahí) al realizar esa operación automáticamente cuando salgo
 de la pieza; y esto lo puedo hacer, por supuesto, sin formular (ni en mi
 mente ni en voz alta) ni esa proposición ni ninguna otra que sea
-relevante. #h(1fr) (@Ginet1975[p. 7]).
+relevante. \ #h(1fr) (@Ginet1975[p. 7]).
 ]
 
 El argumento de Ryle parece afectar a una versión del intelectualismo
