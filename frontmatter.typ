@@ -12,6 +12,8 @@ Versión: 1.3 (#datetime.today().display("[day]-[month]-[year]"))
 
 Producido usando #link("https://typst.app")[Typst].
 
+ISBN: 978-956-420-770-4
+
 ]
 
 #pagebreak(to: "odd")
