@@ -12,6 +12,8 @@ Versión: 1.3 (#datetime.today().display("[day]-[month]-[year]"))
 
 Producido usando #link("https://typst.app")[Typst].
 
+#v(1em)
+
 ISBN: 978-956-420-770-4
 
 ]
@@ -42,7 +44,8 @@ ISBN: 978-956-420-770-4
 = Prefacio
 
 Este trabajo es parte del proyecto ANID Fondecyt de Postdoctorado #3220017
-"Saber Cómo: Preguntas, Maneras e Intentos" (2022-2025).
+"Saber Cómo: Preguntas, Maneras e Intentos" (2022-2025). Agradezco enormemente
+la oportunidad y apoyo.
 
 Gracias a los asistentes al grupo de lectura 'Introducción a la epistemología
 del saber cómo' (2o semestre 2024), quienes me dieron ideas útiles mientras
@@ -52,9 +55,12 @@ de la versión final de este documento. Le agradezco además a los alumnos del
 seminario 'Introducción a la epistemología del saber cómo' (1o semestre 2025)
 por su interés y comentarios.
 
-Le agradezco también a Rodrigo González, Giulia Lorenzi, Jan Heylen, Kristine
-Grigoryan y Sheena Ramkumar por conversar conmigo sobre los temas del libro.
-Muchas otras personas han influido indirectamente en este trabajo.
+Le agradezco también a Rodrigo González, Giulia Lorenzi, Sofia Mondaca, Sandra
+Visokolskis, Jan Heylen, Kristine Grigoryan y Sheena Ramkumar por conversar
+conmigo sobre los temas del libro. Muchas otras personas han influido
+indirectamente en este trabajo.
+
+Finalmente, le agradezco a mi familia, en especial a mi madre.
 
 Partes del texto han sido publicadas antes o han aparecido (o aparecerán) en otras formas:
 
