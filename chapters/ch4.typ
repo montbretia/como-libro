@@ -1059,7 +1059,7 @@ medio en un blanco:
 al menos aproximarse nuevamente, aunque el viento sea más fuerte, cambie
 el sitio, o se mueva el blanco. \[…\]
 
-Pare decidir si su tiro fue meramente afortunado o realmente bueno,
+Para decidir si su tiro fue meramente afortunado o realmente bueno,
 tenemos (y en efecto él mismo tendría) que tomar en consideración más
 que un único éxito. A saber, deberíamos tomar en consideración sus
 disparos subsecuentes, su historial pasado, sus explicaciones y sus
