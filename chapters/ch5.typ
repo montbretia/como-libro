@@ -242,7 +242,7 @@ relación con una pregunta; llamaremos a este fenómeno el
 #emph[saber-\?.#footnote[#emph[E];n inglés se habla de knowledge-wh, porque muchas de las
 palabras que indican preguntas incluyen estas letras: who, why, when,
 where, whether, etc. #emph[En español no se da un patrón similar.]
-] ];saber-\? Es, en general, algo así como saber la respuesta a una
+] ] Saber-\? es, en general, algo así como saber la respuesta a una
 pregunta: saber #emph[quién] hizo tal o cual cosa es saber la respuesta
 a la pregunta de quién lo hizo, saber dónde esta ubicada una ciudad es
 saber la respuesta a la pregunta de dónde esta ubicada, etc. Una idea
@@ -884,7 +884,7 @@ descubre que, por ejemplo, el individuo ganó esa habilidad
 maestro engañoso o de un programa mal diseñado, independientemente de la
 alta probabilidad de que falle dado el método con que efectivamente haya
 aprendido, el individuo aprendió algo, y es difícil ver qué sería esto
-sino cómo jugar ajedrez. (Poston, 2009, 745)
+sino cómo jugar ajedrez .#h(1fr) (Poston, 2009, 745)
 ]
 
 Como es de esperarse, Stanley (2011) difiere de Poston. Por un lado,

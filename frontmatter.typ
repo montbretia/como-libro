@@ -48,7 +48,7 @@ Este trabajo es parte del proyecto ANID Fondecyt de Postdoctorado #3220017
 la oportunidad y apoyo.
 
 Gracias a los asistentes al grupo de lectura 'Introducción a la epistemología
-del saber cómo' (2o semestre 2024), quienes me dieron ideas útiles mientras
+del saber cómo' (segundo semestre 2024), quienes me dieron ideas útiles mientras
 terminaba el borrador inicial. Especiales gracias a Francisco Barría y Héctor
 Mira, quienes además de participar en este grupo, colaboraron en la preparación
 de la versión final de este documento. Le agradezco además a los alumnos del
