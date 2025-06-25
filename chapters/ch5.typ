@@ -902,8 +902,8 @@ contraejemplo a la premisa, que toma de @BengsonMoffett2007[p. 46]:
   aterriza sobre el borde exterior trasero del patín opuesto tras rotar una o más
   veces en el aire. Sin embargo, Irina está seriamente equivocada acerca de cómo
   se realiza un #emph[Salchow];. Ella cree, incorrectamente, que la manera de
-  realizar un #emph[Salchow] es lanzandose desde el border exterior frontal de un
-  patín, saltar, girar y aterrizar sobre el border interno frontal del otro
+  realizar un #emph[Salchow] es lanzándose desde el borde exterior frontal de un
+  patín, saltar, girar y aterrizar sobre el borde interno frontal del otro
   patín. Sin embargo, Irina tiene una severa anormalidad neurológica que la hace
   actuar de maneras que difieren dramáticamente de las maneras en que ella misma
   cree que está actuando. Así, a pesar del hecho de que está seriamente
@@ -991,9 +991,9 @@ directamente. Cath propone el siguiente caso:
   coincidencia resultó ser indistinguible del texto de una descripción
   correcta de cómo cambiar una ampolleta.
 
-En este caso, debido a la situacion de suerte epistémica, debemos decir
+En este caso, debido a la situación de suerte epistémica, debemos decir
 que el conocimiento proposicional de Charlie, de que la manera de
-cambiar una ampolleta que ellibro describe es cómo Charlie podría
+cambiar una ampolleta que el libro describe es cómo Charlie podría
 cambiar una ampolleta, queda socavado. Sin embargo, es plausible decir
 que el saber cómo de Charlie no queda socavado: genuinamente aprendió a
 cambiar una ampolleta. El origen de la información que Charlie obtiene
@@ -1572,7 +1572,7 @@ En resumen:
  sabe cómo hacer $x$ si y solo si, dadas las situaciones prácticas $F_1...F_n$
  asociadas al contexto, $S$ tiene la capacidad de activar su conocimiento de una
  respuesta detallada a todas (o la mayoría) las preguntas de la forma '¿Cómo
- hacer $x$ en $F_i$', al intentar hacer $x$.
+ hacer $x$ en $F_i$?', al intentar hacer $x$.
 
 La referencia al contexto trata de capturar la siguiente idea: dado un contexto
 determinado, ciertas maneras de entender la tarea de hacer $x$ tienen sentido

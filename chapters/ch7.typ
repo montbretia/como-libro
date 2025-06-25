@@ -318,7 +318,7 @@ la mente. Por ejemplo, @Dennett1998 dice:
     descargar (_offloading_) tantas tareas cognitivas como sea posible en el ambiente
     mismo--extruyendo nuestras mentes (esto es, nuestros proyectos y actividades
     mentales) al mundo circundante, donde un número de dispositivos periféricos que
-    hemos construido pueden guardad, procesar y re-representar lo que significamos,
+    hemos construido pueden guardar, procesar y re-representar lo que significamos,
     afinando, mejorando y protegiendo los procesos de transformación en los que
     consiste nuestro pensamiento. Esta práctica de descargar nos libera de las
     limitaciones de nuestros cerebros animales.    #h(1fr) (pp. 134--135)
