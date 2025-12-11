@@ -1,3 +1,6 @@
+#import "@preview/ccicons:1.0.1": *
+#import "@preview/scienceicons:0.1.0": open-access-icon, github-icon
+
 #[
   #set text(size: 9.5pt)
   #set par(first-line-indent: 0em)
@@ -6,7 +9,13 @@ Santiago, Chile
 
 #v(1em)
 
-Versión: 1.6 (#datetime.today().display("[day]-[month]-[year]"))
+#open-access-icon() #cc-by Distribuido bajo una licencia
+#link("https://creativecommons.org/licenses/by/4.0/deed.es")[Creative Commons
+Atribución 4.0].
+
+#v(1em)
+
+Versión: 1.6.1 (#datetime.today().display("[day]-[month]-[year]"))
 
 #v(1em)
 
@@ -52,7 +61,7 @@ del saber cómo' (segundo semestre 2024), quienes me dieron ideas útiles mientr
 terminaba el borrador inicial. Especiales gracias a Francisco Barría y Héctor
 Mira, quienes además de participar en este grupo, colaboraron en la preparación
 de la versión final de este documento. Le agradezco además a los alumnos del
-seminario 'Introducción a la epistemología del saber cómo' (1o semestre 2025)
+seminario 'Introducción a la epistemología del saber cómo' (1er semestre 2025)
 por su interés y comentarios.
 
 Le agradezco también a Rodrigo González, Giulia Lorenzi, Sofia Mondaca, Sandra
@@ -69,4 +78,10 @@ Partes del texto han sido publicadas antes o han aparecido (o aparecerán) en ot
 - Parte del capítulo 9 está basado en #cite(<MoralesCarbonell2025b>, form: "full")
 - El capítulo 10 está basado en #cite(<MoralesCarbonell2025>, form: "full")
 
+
+
+Este libro fue preparado usando #link("https://github.com/typst/typst/")[typst].
+La versión más reciente del código fuente está disponible en
+#github-icon(height: 0.8em) https://github.com/montbretia/como-libro. ¡Son
+bienvenidas correcciones y sugerencias!
 
