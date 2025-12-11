@@ -813,7 +813,7 @@ libro _Lógica para Principiantes_ (#cite(<Manzano2004>, form: "year")) de Marí
 Manzano y Antonia Huertas es bueno. Recientemente, AChEFA ha liberado una
 traducción del libro de texto abierto _for all x_ como _Para todo X: Santiago_
 (#cite(<Magnus2025>, form: "year")), y está disponible en
-https://sites.google.com/view/achefa/entradas-y-material/traducciones
+https://achefa.cl/pages/Traducciones.html
 
 El uso filosófico de la lógica no se limita a lenguajes de primer order como los
 que describimos aquí. Una clase de lógicas importante filosóficamente es la
@@ -831,7 +831,7 @@ form: "year")) de John McFarlane es una buena presentación de varias lógicas d
 interés filosófico, así como de varios problemas filosóficos sobre la lógica.
 _An Introduction to Non-Classical Logic_ (#cite(<Priest2019>, form: "year")) de
 Graham Priest, es un recurso valiosísimo que cubre muchísimas de las lógicas de
-interés filosófico.
+uso filosófico.
 
 La construcción de buenos argumentos en un sentido amplio va más allá que el
 mero uso de métodos lógicos. Un buen libro introductoria a la teoría de la
