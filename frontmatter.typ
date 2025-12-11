@@ -6,7 +6,7 @@ Santiago, Chile
 
 #v(1em)
 
-Versión: 1.4 (#datetime.today().display("[day]-[month]-[year]"))
+Versión: 1.6 (#datetime.today().display("[day]-[month]-[year]"))
 
 #v(1em)
 
