@@ -449,6 +449,14 @@ de opinión cuando sea necesario.#footnote[@Loncon2023 hace explícito
 esto en relación con el _inarumen:_ dice que este ‘implica cambiar
 cuando es necesario'.]
 
+#question(answer: [No adoptar este tipo de política de adopción responsable
+expondría sistemáticamente al modelo a ciertas formas colectivas e individuales
+de deferencia epistémica. Si bien, como vimos en el capítulo 9, hay razones para
+pensar que cierta deferencia puede facilitar la acumulación de conocimiento
+acumulativo, esto requiere que también haya mecanismos de salvaguarda para
+evitar que se repliquen malas ideas dentro de la comunidad.])[¿Qué podría pasar
+si no se adoptara esta política de adopción responsable del testimonio?]
+
 El conocimiento ancestral es concebido como el resultado del
 _inarrumen_ y _rakizuamn_ de los ancestros:
 
@@ -667,7 +675,7 @@ relato idealmente está construido de manera tal que de pie a la
 reflexión y a una cierta reacción emocional.
 
 
-= ¿Una epistemología de las virtudes?
+== ¿Una epistemología de las virtudes?
 
 Ciertos aspectos del esquema epistemológico mapuche que he descrito aquí
 pueden recordar al lector de algunas formas de la así-llamada
