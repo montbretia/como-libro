@@ -45,8 +45,10 @@ anti-intelectualista.#footnote[
 Con esto no quiero decir que Ryle inventó la distinción. @Kremer2017
 muestra convincentemente que el uso de Ryle de los términos
 ‘intelectualista’ y ‘anti-intelectualista’ se sitúa en un contexto en
-que estos términos ya estaban en voga.
-]
+que estos términos ya estaban en voga. Recientemente, varios autores han
+reconocido que Ryle pudo haber tomado la distinción entre saber-que y saber-cómo
+de Margaret MacDonald (#cite(<MacDonald1937>, form: "year")). Cf. @Kremer2021,
+@Misak2024 y @Marouzi2024.]
 
 El objetivo de Ryle era más amplio que el de rechazar al intelectualismo
 acerca del saber cómo. Para él, la cuestión del saber cómo era un
