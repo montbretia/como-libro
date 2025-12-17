@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this book, please cite it as below."
+authors:
+- family-names: "Morales Carbonell"
+  given-names: "Felipe"
+  orcid: "https://orcid.org/0000-0001-5492-0759"
+title: "¿Cómo? Una Introducción a la Epistemología del Saber-Cómo"
+version: 1.6.0
+date-released: 2025-12-17
+url: "https://github.com/montbretia/como-libro"
+preferred-citation:
+  type: book
+  authors:
+  - family-names: "Morales Carbonell"
+    given-names: "Felipe"
+    orcid: "https://orcid.org/0000-0001-5492-0759"
+  title: "¿Cómo? Una Introducción a la Epistemología del Saber-Cómo"
+  year: 2025
+  publisher:
+    - city: Santiago
+    - name: Montbretia
