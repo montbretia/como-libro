@@ -15,7 +15,7 @@ Atribución 4.0].
 
 #v(1em)
 
-Versión: 1.6.1 (#datetime.today().display("[day]-[month]-[year]"))
+Versión: 1.6.2 (#datetime.today().display("[day]-[month]-[year]"))
 
 #v(1em)
 
